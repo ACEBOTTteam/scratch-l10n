@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "天気を取得",
 	"gui.extension.weather.description": "インターネット経由で天気情報を取得します。コンピュータはオンラインである必要があります",
 	"gui.extension.gestureRecognition": "ジェスチャー認識",
-	"gui.extension.gestureRecognition.description": "ウェブカメラを通じてジェスチャーを認識"
+	"gui.extension.gestureRecognition.description": "ウェブカメラを通じてジェスチャーを認識",
+	"gui.modify.runPythonCode": "プログラムを実行"
 }

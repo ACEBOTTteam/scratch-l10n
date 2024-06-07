@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "รับข้อมูลสภาพอากาศ",
 	"gui.extension.weather.description": "เรียกรายละเอียดสภาพอากาศผ่านอินเทอร์เน็ต คอมพิวเตอร์ต้องเชื่อมต่อออนไลน์",
 	"gui.extension.gestureRecognition": "การระบุท่าทาง",
-	"gui.extension.gestureRecognition.description": "ระบุท່າทางผ่านเว็บแคม"
+	"gui.extension.gestureRecognition.description": "ระบุท່າทางผ่านเว็บแคม",
+	"gui.modify.runPythonCode": "รันโปรแกรม"
 }

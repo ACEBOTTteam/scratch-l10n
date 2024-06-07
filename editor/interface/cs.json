@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "Získat počasí",
 	"gui.extension.weather.description": "Získat informace o počasí přes internet, počítač musí být připojen k síti",
 	"gui.extension.gestureRecognition": "Rozpoznávání gest",
-	"gui.extension.gestureRecognition.description": "Rozpoznávání gest pomocí webkamery"
+	"gui.extension.gestureRecognition.description": "Rozpoznávání gest pomocí webkamery",
+	"gui.modify.runPythonCode": "Spustit program"
 }

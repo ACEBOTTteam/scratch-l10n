@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "Pobierz pogodę",
 	"gui.extension.weather.description": "Pobierz informacje o pogodzie przez internet, komputer musi być podłączony",
 	"gui.extension.gestureRecognition": "Rozpoznawanie gestów",
-	"gui.extension.gestureRecognition.description": "Rozpoznawanie gestów za pomocą kamery internetowej"
+	"gui.extension.gestureRecognition.description": "Rozpoznawanie gestów za pomocą kamery internetowej",
+	"gui.modify.runPythonCode": "Uruchom program"
 }

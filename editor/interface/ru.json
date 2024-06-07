@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "Получить погоду",
 	"gui.extension.weather.description": "Получение информации о погоде через Интернет, компьютер должен быть подключен к сети",
 	"gui.extension.gestureRecognition": "Распознавание жестов",
-	"gui.extension.gestureRecognition.description": "Распознавание жестов через веб-камеру"
+	"gui.extension.gestureRecognition.description": "Распознавание жестов через веб-камеру",
+	"gui.modify.runPythonCode": "Запустить программу"
 }

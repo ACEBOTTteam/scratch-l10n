@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "Obter Clima",
 	"gui.extension.weather.description": "Obter informações meteorológicas pela internet, o computador precisa estar online",
 	"gui.extension.gestureRecognition": "Reconhecimento de Gestos",
-	"gui.extension.gestureRecognition.description": "Reconhecer gestos através de uma webcam"
+	"gui.extension.gestureRecognition.description": "Reconhecer gestos através de uma webcam",
+	"gui.modify.runPythonCode": "Executar Programa"
 }

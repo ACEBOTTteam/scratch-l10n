@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "Hava Durumu Al",
 	"gui.extension.weather.description": "İnternet üzerinden hava durumu bilgisi alın, bilgisayarın çevrimiçi olması gerekir",
 	"gui.extension.gestureRecognition": "Jest Tanıma",
-	"gui.extension.gestureRecognition.description": "Web kamerası üzerinden jest tanıma"
+	"gui.extension.gestureRecognition.description": "Web kamerası üzerinden jest tanıma",
+	"gui.modify.runPythonCode": "Programı Çalıştır"
 }

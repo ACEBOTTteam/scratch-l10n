@@ -563,5 +563,6 @@
 	"gui.extension.weather.getWeather": "Get Weather",
 	"gui.extension.weather.description": "Retrieve weather information over the internet, computer needs to be online",
 	"gui.extension.gestureRecognition": "Gesture Recognition",
-	"gui.extension.gestureRecognition.description": "Recognize gestures through a webcam"
+	"gui.extension.gestureRecognition.description": "Recognize gestures through a webcam",
+	"gui.modify.runPythonCode": "Run Program"
 }

@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "날씨 가져 오기",
 	"gui.extension.weather.description": "인터넷을 통해 날씨 정보를 가져옵니다. 컴퓨터는 온라인이어야합니다",
 	"gui.extension.gestureRecognition": "제스처 인식",
-	"gui.extension.gestureRecognition.description": "웹캠을 통해 제스처를 인식"
+	"gui.extension.gestureRecognition.description": "웹캠을 통해 제스처를 인식",
+	"gui.modify.runPythonCode": "프로그램 실행"
 }

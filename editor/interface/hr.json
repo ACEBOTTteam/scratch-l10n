@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "Dohvati vremensku prognozu",
 	"gui.extension.weather.description": "Dohvat meteoroloških informacija preko interneta, računalo mora biti online",
 	"gui.extension.gestureRecognition": "Prepoznavanje pokreta",
-	"gui.extension.gestureRecognition.description": "Prepoznavanje pokreta putem web kamere"
+	"gui.extension.gestureRecognition.description": "Prepoznavanje pokreta putem web kamere",
+	"gui.modify.runPythonCode": "Pokreni program"
 }

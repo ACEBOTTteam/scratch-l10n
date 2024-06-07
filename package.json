@@ -34,7 +34,7 @@
         "validate:paint": "babel-node scripts/validate-translations ./editor/paint-editor/",
         "validate:editor": "npm run validate:blocks && npm run validate:extensions && npm run validate:interface && npm run validate:paint",
         "validate:www": "babel-node scripts/validate-www ./www",
-        "build:alterAndAdd":"babel-node modify/alterAndAdd",
+        "build:modify":"babel-node modify/alterAndAdd",
         "build:msg":"babel-node scripts/build-msg"
     },
     "repository": {

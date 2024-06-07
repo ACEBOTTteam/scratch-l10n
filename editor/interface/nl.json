@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "Weer ophalen",
 	"gui.extension.weather.description": "Haal weerinformatie op via internet, computer moet online zijn",
 	"gui.extension.gestureRecognition": "Gesteherkenning",
-	"gui.extension.gestureRecognition.description": "Gesten herkennen via een webcam"
+	"gui.extension.gestureRecognition.description": "Gesten herkennen via een webcam",
+	"gui.modify.runPythonCode": "Program uitvoeren"
 }

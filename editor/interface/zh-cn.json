@@ -72,7 +72,7 @@
 	"gui.customProcedures.numberTextType": "数字或文本",
 	"gui.customProcedures.addAnInputBoolean": "添加输入项",
 	"gui.customProcedures.booleanType": "布尔值",
-	"gui.customProcedures.addALabel": "添加文本标签：",
+	"gui.customProcedures.addALabel": "添加文本标签",
 	"gui.customProcedures.runWithoutScreenRefresh": "运行时不刷新屏幕",
 	"gui.customProcedures.cancel": "取消",
 	"gui.customProcedures.ok": "完成",
@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "获取天气",
 	"gui.extension.weather.description": "通过网络获取天气信息，电脑需要联网",
 	"gui.extension.gestureRecognition": "手势识别",
-	"gui.extension.gestureRecognition.description": "通过网络摄像头识别手势"
+	"gui.extension.gestureRecognition.description": "通过网络摄像头识别手势",
+	"gui.modify.runPythonCode": "运行程序"
 }

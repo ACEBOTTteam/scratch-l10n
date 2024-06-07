@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "獲取天氣",
 	"gui.extension.weather.description": "通過網絡獲取天氣信息，電腦需要連網",
 	"gui.extension.gestureRecognition": "手勢識別",
-	"gui.extension.gestureRecognition.description": "透過網路攝像頭識別手勢"
+	"gui.extension.gestureRecognition.description": "透過網路攝像頭識別手勢",
+	"gui.modify.runPythonCode": "運行程式"
 }

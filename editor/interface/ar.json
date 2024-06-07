@@ -564,5 +564,6 @@
 	"gui.extension.weather.getWeather": "الحصول على الطقس",
 	"gui.extension.weather.description": "استرداد معلومات الطقس عبر الإنترنت، يجب أن يكون الكمبيوتر متصلاً بالإنترنت",
 	"gui.extension.gestureRecognition": "تعرف على الإيماءات",
-	"gui.extension.gestureRecognition.description": "تعرف على الإيماءات باستخدام كاميرا الويب"
+	"gui.extension.gestureRecognition.description": "تعرف على الإيماءات باستخدام كاميرا الويب",
+	"gui.modify.runPythonCode": "تشغيل البرنامج"
 }

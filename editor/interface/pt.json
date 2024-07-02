@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "Remisturar",
 	"gui.menuBar.new": "Novo",
 	"gui.menuBar.file": "Arquivo",
-	"gui.menuBar.downloadToComputer": "Descarregar para o seu computador",
+	"gui.menuBar.downloadToComputer": "Salvar como no computador",
 	"gui.menuBar.edit": "Editar",
 	"gui.menuBar.turboModeOff": "Desligar o Modo Turbo",
 	"gui.menuBar.turboModeOn": "Ligar o Modo Turbo",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "Obter informações meteorológicas pela internet, o computador precisa estar online",
 	"gui.extension.gestureRecognition": "Reconhecimento de Gestos",
 	"gui.extension.gestureRecognition.description": "Reconhecer gestos através de uma webcam",
-	"gui.modify.runPythonCode": "Executar Programa"
+	"gui.modify.runPythonCode": "Executar Programa",
+	"gui.extension.carMotor": "Carro Inteligente",
+	"gui.extension.fourLeggedBionicSpider": "Aranha Biônica de Quatro Pernas"
 }

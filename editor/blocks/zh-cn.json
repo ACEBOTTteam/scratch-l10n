@@ -436,5 +436,14 @@
 	"CATEGORY_ROBOTS_WIFI": "WIFI模块",
 	"CATEGORY_ROBOTS_BLUETOOTH": "蓝牙模块",
 	"CATEGORY_ROBOTS_WRATHER": "天气模块",
-	"CATEGORY_ROBOTS_ITS": "智能交通"
+	"CATEGORY_ROBOTS_ITS": "智能交通",
+	"ROBOT_INIT_WEB_SERVER": "初始化web服务器端口%1",
+	"ROBOT_WEB_DISPOSE_DATA": "web服务器处理请求%1",
+	"ROBOT_SEND_DATA_TO_WEB": "web服务器向客户端发送%1数据%2",
+	"ROBOT_TEXT": "文本",
+	"ROBOT_WEBPAGE": "网页",
+	"ROBOT_GET_WEB_DATA": "接收客户端%1的值",
+	"ROBOT_STRING": "字符%1",
+	"ROBOT_BREAK": "跳出当前循环",
+	"ROBOT_ASYNC_DELAY": "异步延时%1"
 }

@@ -438,5 +438,14 @@
 	"CATEGORY_ROBOTS_WIFI": "WIFI โมดูล",
 	"CATEGORY_ROBOTS_BLUETOOTH": "Bluetooth โມดูล",
 	"CATEGORY_ROBOTS_WRATHER": "โมดูลสภาพอากาศ",
-	"CATEGORY_ROBOTS_ITS": "ระบบขนส่งอัจฉริยะ"
+	"CATEGORY_ROBOTS_ITS": "ระบบขนส่งอัจฉริยะ",
+	"ROBOT_INIT_WEB_SERVER": "เริ่มต้นพอร์ตเว็บเซิร์ฟเวอร์ %1",
+	"ROBOT_WEB_DISPOSE_DATA": "เว็บเซิร์ฟเวอร์ประมวลผลคำขอ %1",
+	"ROBOT_SEND_DATA_TO_WEB": "เว็บเซิร์ฟเวอร์ส่งข้อมูล %1 ไปยังไคลเอนต์ %2",
+	"ROBOT_TEXT": "ข้อความ",
+	"ROBOT_WEBPAGE": "เว็บเพจ",
+	"ROBOT_GET_WEB_DATA": "รับค่าจากไคลเอนต์ %1",
+	"ROBOT_STRING": "สตริง %1",
+	"ROBOT_BREAK": "ออกจากลูปปัจจุบัน",
+	"ROBOT_ASYNC_DELAY": "หน่วงเวลาแบบอะซิงโครนัส %1"
 }

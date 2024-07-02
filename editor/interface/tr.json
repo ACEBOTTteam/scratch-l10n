@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "Katkı Yap",
 	"gui.menuBar.new": "Yeni",
 	"gui.menuBar.file": "Dosya",
-	"gui.menuBar.downloadToComputer": "Bilgisayarına kaydet",
+	"gui.menuBar.downloadToComputer": "Bilgisayara farklı kaydet",
 	"gui.menuBar.edit": "Düzenle",
 	"gui.menuBar.turboModeOff": "Turbo Modu kapat",
 	"gui.menuBar.turboModeOn": "Turbo Modu aç",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "İnternet üzerinden hava durumu bilgisi alın, bilgisayarın çevrimiçi olması gerekir",
 	"gui.extension.gestureRecognition": "Jest Tanıma",
 	"gui.extension.gestureRecognition.description": "Web kamerası üzerinden jest tanıma",
-	"gui.modify.runPythonCode": "Programı Çalıştır"
+	"gui.modify.runPythonCode": "Programı Çalıştır",
+	"gui.extension.carMotor": "Akıllı Araba",
+	"gui.extension.fourLeggedBionicSpider": "Dört Ayaklı Biyonik Örümcek"
 }

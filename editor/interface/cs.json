@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "Vytvoř si kopii",
 	"gui.menuBar.new": "Nový",
 	"gui.menuBar.file": "Soubor",
-	"gui.menuBar.downloadToComputer": "Ulož do svého počítače",
+	"gui.menuBar.downloadToComputer": "Uložit jako do počítače",
 	"gui.menuBar.edit": "Upravit",
 	"gui.menuBar.turboModeOff": "Vypni turbo režim",
 	"gui.menuBar.turboModeOn": "Zapni turbo režim",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "Získat informace o počasí přes internet, počítač musí být připojen k síti",
 	"gui.extension.gestureRecognition": "Rozpoznávání gest",
 	"gui.extension.gestureRecognition.description": "Rozpoznávání gest pomocí webkamery",
-	"gui.modify.runPythonCode": "Spustit program"
+	"gui.modify.runPythonCode": "Spustit program",
+	"gui.extension.carMotor": "Chytré Auto",
+	"gui.extension.fourLeggedBionicSpider": "Čtyřnohý Bionický Pavouk"
 }

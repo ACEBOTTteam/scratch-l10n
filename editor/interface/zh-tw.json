@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "改編",
 	"gui.menuBar.new": "新建專案",
 	"gui.menuBar.file": "檔案",
-	"gui.menuBar.downloadToComputer": "下載到你的電腦",
+	"gui.menuBar.downloadToComputer": "另保存到電腦",
 	"gui.menuBar.edit": "編輯",
 	"gui.menuBar.turboModeOff": "關閉加速模式",
 	"gui.menuBar.turboModeOn": "開啟加速模式",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "通過網絡獲取天氣信息，電腦需要連網",
 	"gui.extension.gestureRecognition": "手勢識別",
 	"gui.extension.gestureRecognition.description": "透過網路攝像頭識別手勢",
-	"gui.modify.runPythonCode": "運行程式"
+	"gui.modify.runPythonCode": "運行程式",
+	"gui.extension.carMotor": "智能車",
+	"gui.extension.fourLeggedBionicSpider": "四足仿生蜘蛛"
 }

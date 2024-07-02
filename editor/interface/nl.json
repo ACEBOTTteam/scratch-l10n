@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "Remix",
 	"gui.menuBar.new": "Nieuw",
 	"gui.menuBar.file": "Bestand",
-	"gui.menuBar.downloadToComputer": "Opslaan op je computer",
+	"gui.menuBar.downloadToComputer": "Opslaan als op computer",
 	"gui.menuBar.edit": "Bewerk",
 	"gui.menuBar.turboModeOff": "Zet turbo modus uit",
 	"gui.menuBar.turboModeOn": "Zet turbo modus aan",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "Haal weerinformatie op via internet, computer moet online zijn",
 	"gui.extension.gestureRecognition": "Gesteherkenning",
 	"gui.extension.gestureRecognition.description": "Gesten herkennen via een webcam",
-	"gui.modify.runPythonCode": "Program uitvoeren"
+	"gui.modify.runPythonCode": "Program uitvoeren",
+	"gui.extension.carMotor": "Slimme Auto",
+	"gui.extension.fourLeggedBionicSpider": "Vierbenige Bionische Spin"
 }

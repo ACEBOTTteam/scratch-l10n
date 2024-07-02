@@ -438,5 +438,14 @@
 	"CATEGORY_ROBOTS_WIFI": "WIFI 모듈",
 	"CATEGORY_ROBOTS_BLUETOOTH": "블루투스 모듈",
 	"CATEGORY_ROBOTS_WRATHER": "날씨 모듈",
-	"CATEGORY_ROBOTS_ITS": "지능형 교통 시스템"
+	"CATEGORY_ROBOTS_ITS": "지능형 교통 시스템",
+	"ROBOT_INIT_WEB_SERVER": "웹 서버 포트 %1 초기화",
+	"ROBOT_WEB_DISPOSE_DATA": "웹 서버가 요청 %1을 처리합니다",
+	"ROBOT_SEND_DATA_TO_WEB": "웹 서버가 클라이언트에 %1 데이터를 보냅니다 %2",
+	"ROBOT_TEXT": "텍스트",
+	"ROBOT_WEBPAGE": "웹페이지",
+	"ROBOT_GET_WEB_DATA": "클라이언트 %1의 값을 받기",
+	"ROBOT_STRING": "문자열 %1",
+	"ROBOT_BREAK": "현재 루프 종료",
+	"ROBOT_ASYNC_DELAY": "비동기 지연 %1"
 }

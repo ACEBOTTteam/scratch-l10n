@@ -438,5 +438,14 @@
 	"CATEGORY_ROBOTS_WIFI": "WIFI-Modul",
 	"CATEGORY_ROBOTS_BLUETOOTH": "Bluetooth-Modul",
 	"CATEGORY_ROBOTS_WRATHER": "Wettermodul",
-	"CATEGORY_ROBOTS_ITS": "Intelligentes Verkehrssystem"
+	"CATEGORY_ROBOTS_ITS": "Intelligentes Verkehrssystem",
+	"ROBOT_INIT_WEB_SERVER": "Webserver-Port initialisieren %1",
+	"ROBOT_WEB_DISPOSE_DATA": "Webserver verarbeitet Anfrage %1",
+	"ROBOT_SEND_DATA_TO_WEB": "Webserver sendet %1 Daten an Client %2",
+	"ROBOT_TEXT": "Text",
+	"ROBOT_WEBPAGE": "Webseite",
+	"ROBOT_GET_WEB_DATA": "Wert vom Client %1 empfangen",
+	"ROBOT_STRING": "Zeichenfolge %1",
+	"ROBOT_BREAK": "Aktuelle Schleife abbrechen",
+	"ROBOT_ASYNC_DELAY": "asynchrone Verzögerung %1"
 }

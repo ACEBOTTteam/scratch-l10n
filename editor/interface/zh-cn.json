@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "改编",
 	"gui.menuBar.new": "新作品",
 	"gui.menuBar.file": "文件",
-	"gui.menuBar.downloadToComputer": "保存到电脑",
+	"gui.menuBar.downloadToComputer": "另保存到电脑",
 	"gui.menuBar.edit": "编辑",
 	"gui.menuBar.turboModeOff": "关闭加速模式",
 	"gui.menuBar.turboModeOn": "打开加速模式",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "通过网络获取天气信息，电脑需要联网",
 	"gui.extension.gestureRecognition": "手势识别",
 	"gui.extension.gestureRecognition.description": "通过网络摄像头识别手势",
-	"gui.modify.runPythonCode": "运行程序"
+	"gui.modify.runPythonCode": "运行程序",
+	"gui.extension.carMotor": "智能车",
+	"gui.extension.fourLeggedBionicSpider": "四足仿生蜘蛛"
 }

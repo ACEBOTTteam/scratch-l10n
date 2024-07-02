@@ -438,5 +438,14 @@
 	"CATEGORY_ROBOTS_WIFI": "WIFIモジュール",
 	"CATEGORY_ROBOTS_BLUETOOTH": "Bluetoothモジュール",
 	"CATEGORY_ROBOTS_WRATHER": "天気モジュール",
-	"CATEGORY_ROBOTS_ITS": "インテリジェントトランスポートシステム"
+	"CATEGORY_ROBOTS_ITS": "インテリジェントトランスポートシステム",
+	"ROBOT_INIT_WEB_SERVER": "ウェブサーバーポート%1を初期化",
+	"ROBOT_WEB_DISPOSE_DATA": "webサーバーがリクエスト%1を処理",
+	"ROBOT_SEND_DATA_TO_WEB": "webサーバーがクライアントに%1データを送信%2",
+	"ROBOT_TEXT": "テキスト",
+	"ROBOT_WEBPAGE": "ウェブページ",
+	"ROBOT_GET_WEB_DATA": "クライアント %1 から値を受け取る",
+	"ROBOT_STRING": "文字列%1",
+	"ROBOT_BREAK": "現在のループを終了",
+	"ROBOT_ASYNC_DELAY": "非同期遅延 %1"
 }

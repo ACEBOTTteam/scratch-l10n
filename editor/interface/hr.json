@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "Obrada",
 	"gui.menuBar.new": "Novo",
 	"gui.menuBar.file": "Datoteka",
-	"gui.menuBar.downloadToComputer": "Spremi na računalo",
+	"gui.menuBar.downloadToComputer": "Spremi kao na računalo",
 	"gui.menuBar.edit": "Uredi",
 	"gui.menuBar.turboModeOff": "Isključite turbo način rada",
 	"gui.menuBar.turboModeOn": "Uključite turbo način rada",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "Dohvat meteoroloških informacija preko interneta, računalo mora biti online",
 	"gui.extension.gestureRecognition": "Prepoznavanje pokreta",
 	"gui.extension.gestureRecognition.description": "Prepoznavanje pokreta putem web kamere",
-	"gui.modify.runPythonCode": "Pokreni program"
+	"gui.modify.runPythonCode": "Pokreni program",
+	"gui.extension.carMotor": "Pametni Auto",
+	"gui.extension.fourLeggedBionicSpider": "Četveronožni Bionički Pauk"
 }

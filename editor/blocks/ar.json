@@ -438,5 +438,14 @@
 	"CATEGORY_ROBOTS_WIFI": "وحدة WIFI",
 	"CATEGORY_ROBOTS_BLUETOOTH": "وحدة Bluetooth",
 	"CATEGORY_ROBOTS_WRATHER": "وحدة الطقس",
-	"CATEGORY_ROBOTS_ITS": "نظام النقل الذكي"
+	"CATEGORY_ROBOTS_ITS": "نظام النقل الذكي",
+	"ROBOT_INIT_WEB_SERVER": "تهيئة منفذ خادم الويب %1",
+	"ROBOT_WEB_DISPOSE_DATA": "يعالج خادم الويب الطلب %1",
+	"ROBOT_SEND_DATA_TO_WEB": "يُرسل خادم الويب البيانات %1 إلى العميل %2",
+	"ROBOT_TEXT": "نص",
+	"ROBOT_WEBPAGE": "صفحة ويب",
+	"ROBOT_GET_WEB_DATA": "استلام القيمة من العميل %1",
+	"ROBOT_STRING": "سلسلة %1",
+	"ROBOT_BREAK": "كسر الحلقة الحالية",
+	"ROBOT_ASYNC_DELAY": "تأخير غير متزامن %1"
 }

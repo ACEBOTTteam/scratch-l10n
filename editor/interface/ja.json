@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "リミックス",
 	"gui.menuBar.new": "新規",
 	"gui.menuBar.file": "ファイル",
-	"gui.menuBar.downloadToComputer": "コンピューターに保存する",
+	"gui.menuBar.downloadToComputer": "コンピューターに別名で保存",
 	"gui.menuBar.edit": "編集",
 	"gui.menuBar.turboModeOff": "ターボモードを解除する",
 	"gui.menuBar.turboModeOn": "ターボモードにする",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "インターネット経由で天気情報を取得します。コンピュータはオンラインである必要があります",
 	"gui.extension.gestureRecognition": "ジェスチャー認識",
 	"gui.extension.gestureRecognition.description": "ウェブカメラを通じてジェスチャーを認識",
-	"gui.modify.runPythonCode": "プログラムを実行"
+	"gui.modify.runPythonCode": "プログラムを実行",
+	"gui.extension.carMotor": "スマートカー",
+	"gui.extension.fourLeggedBionicSpider": "四脚バイオニクスパイダー"
 }

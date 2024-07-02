@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "Remixen",
 	"gui.menuBar.new": "Neu",
 	"gui.menuBar.file": "Datei",
-	"gui.menuBar.downloadToComputer": "Auf deinem Computer speichern",
+	"gui.menuBar.downloadToComputer": "Auf Computer speichern",
 	"gui.menuBar.edit": "Bearbeiten",
 	"gui.menuBar.turboModeOff": "Turbo-Modus ausschalten",
 	"gui.menuBar.turboModeOn": "Turbo-Modus einschalten",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "Wetterinformationen über das Internet abrufen, Computer muss online sein",
 	"gui.extension.gestureRecognition": "Gestenerkennung",
 	"gui.extension.gestureRecognition.description": "Erkenne Gesten über eine Webcam",
-	"gui.modify.runPythonCode": "Programm ausführen"
+	"gui.modify.runPythonCode": "Programm ausführen",
+	"gui.extension.carMotor": "Intelligentes Auto",
+	"gui.extension.fourLeggedBionicSpider": "Vierbeinige Bionische Spinne"
 }

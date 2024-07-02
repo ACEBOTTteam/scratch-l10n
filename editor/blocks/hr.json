@@ -438,5 +438,14 @@
 	"CATEGORY_ROBOTS_WIFI": "WIFI modul",
 	"CATEGORY_ROBOTS_BLUETOOTH": "Bluetooth modul",
 	"CATEGORY_ROBOTS_WRATHER": "Vremenski modul",
-	"CATEGORY_ROBOTS_ITS": "Inteligentni prometni sustav"
+	"CATEGORY_ROBOTS_ITS": "Inteligentni prometni sustav",
+	"ROBOT_INIT_WEB_SERVER": "Inicijaliziraj port web poslužitelja %1",
+	"ROBOT_WEB_DISPOSE_DATA": "web poslužitelj obrađuje zahtjev %1",
+	"ROBOT_SEND_DATA_TO_WEB": "web poslužitelj šalje %1 podatke klijentu %2",
+	"ROBOT_TEXT": "Tekst",
+	"ROBOT_WEBPAGE": "Web stranica",
+	"ROBOT_GET_WEB_DATA": "primanje vrijednosti od klijenta %1",
+	"ROBOT_STRING": "Niz %1",
+	"ROBOT_BREAK": "Prekini trenutnu petlju",
+	"ROBOT_ASYNC_DELAY": "asinkrona odgoda %1"
 }

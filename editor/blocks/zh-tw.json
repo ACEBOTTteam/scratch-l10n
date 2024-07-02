@@ -438,5 +438,14 @@
 	"CATEGORY_ROBOTS_WIFI": "WIFI模組",
 	"CATEGORY_ROBOTS_BLUETOOTH": "藍牙模組",
 	"CATEGORY_ROBOTS_WRATHER": "天氣模組",
-	"CATEGORY_ROBOTS_ITS": "智慧交通"
+	"CATEGORY_ROBOTS_ITS": "智慧交通",
+	"ROBOT_INIT_WEB_SERVER": "初始化web伺服器端口%1",
+	"ROBOT_WEB_DISPOSE_DATA": "web伺服器處理請求%1",
+	"ROBOT_SEND_DATA_TO_WEB": "web伺服器向客戶端發送%1數據%2",
+	"ROBOT_TEXT": "文本",
+	"ROBOT_WEBPAGE": "網頁",
+	"ROBOT_GET_WEB_DATA": "接收客戶端%1的值",
+	"ROBOT_STRING": "字符%1",
+	"ROBOT_BREAK": "跳出當前循環",
+	"ROBOT_ASYNC_DELAY": "異步延遲%1"
 }

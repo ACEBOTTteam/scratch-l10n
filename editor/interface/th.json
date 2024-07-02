@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "รีมิกซ์",
 	"gui.menuBar.new": "ใหม่",
 	"gui.menuBar.file": "แฟ้ม",
-	"gui.menuBar.downloadToComputer": "บันทึกลงในคอมพิวเตอร์ของคุณ",
+	"gui.menuBar.downloadToComputer": "บันทึกเป็นลงคอมพิวเตอร์",
 	"gui.menuBar.edit": "แก้ไข",
 	"gui.menuBar.turboModeOff": "ปิดโหมดเทอร์โบ",
 	"gui.menuBar.turboModeOn": "เปิดโหมดเทอร์โบ",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "เรียกรายละเอียดสภาพอากาศผ่านอินเทอร์เน็ต คอมพิวเตอร์ต้องเชื่อมต่อออนไลน์",
 	"gui.extension.gestureRecognition": "การระบุท่าทาง",
 	"gui.extension.gestureRecognition.description": "ระบุท່າทางผ่านเว็บแคม",
-	"gui.modify.runPythonCode": "รันโปรแกรม"
+	"gui.modify.runPythonCode": "รันโปรแกรม",
+	"gui.extension.carMotor": "รถอัจฉริยะ",
+	"gui.extension.fourLeggedBionicSpider": "แมงมุมไบโอนิกสี่ขา"
 }

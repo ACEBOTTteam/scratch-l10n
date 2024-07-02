@@ -438,5 +438,14 @@
 	"CATEGORY_ROBOTS_WIFI": "WIFI Modülü",
 	"CATEGORY_ROBOTS_BLUETOOTH": "Bluetooth Modülü",
 	"CATEGORY_ROBOTS_WRATHER": "Hava Modülü",
-	"CATEGORY_ROBOTS_ITS": "Akıllı Ulaşım Sistemi"
+	"CATEGORY_ROBOTS_ITS": "Akıllı Ulaşım Sistemi",
+	"ROBOT_INIT_WEB_SERVER": "Web sunucu portunu başlat %1",
+	"ROBOT_WEB_DISPOSE_DATA": "web sunucusu %1 isteğini işliyor",
+	"ROBOT_SEND_DATA_TO_WEB": "web sunucusu %1 verisini istemciye gönderiyor %2",
+	"ROBOT_TEXT": "Metin",
+	"ROBOT_WEBPAGE": "Web sayfası",
+	"ROBOT_GET_WEB_DATA": "istemciden %1 değeri al",
+	"ROBOT_STRING": "Dize %1",
+	"ROBOT_BREAK": "Geçerli döngüyü kır",
+	"ROBOT_ASYNC_DELAY": "asenkron gecikme %1"
 }

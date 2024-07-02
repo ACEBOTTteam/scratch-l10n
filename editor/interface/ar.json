@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "مزج",
 	"gui.menuBar.new": "جديد",
 	"gui.menuBar.file": "ملف",
-	"gui.menuBar.downloadToComputer": "الحفظ إلى حاسوبك",
+	"gui.menuBar.downloadToComputer": "حفظ باسم على الكمبيوتر",
 	"gui.menuBar.edit": "تحرير",
 	"gui.menuBar.turboModeOff": "إيقاف الوضعية السريعة",
 	"gui.menuBar.turboModeOn": "تشغيل الوضعية السريعة",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "استرداد معلومات الطقس عبر الإنترنت، يجب أن يكون الكمبيوتر متصلاً بالإنترنت",
 	"gui.extension.gestureRecognition": "تعرف على الإيماءات",
 	"gui.extension.gestureRecognition.description": "تعرف على الإيماءات باستخدام كاميرا الويب",
-	"gui.modify.runPythonCode": "تشغيل البرنامج"
+	"gui.modify.runPythonCode": "تشغيل البرنامج",
+	"gui.extension.carMotor": "سيارة ذكية",
+	"gui.extension.fourLeggedBionicSpider": "عنكبوت بايوني ذو أربعة أرجل"
 }

@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "Ремикс",
 	"gui.menuBar.new": "Новый",
 	"gui.menuBar.file": "Файл",
-	"gui.menuBar.downloadToComputer": "Сохранить на свой компьютер",
+	"gui.menuBar.downloadToComputer": "Сохранить как на компьютер",
 	"gui.menuBar.edit": "Редактировать",
 	"gui.menuBar.turboModeOff": "Выключить Турбо режим",
 	"gui.menuBar.turboModeOn": "Включить Турбо режим",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "Получение информации о погоде через Интернет, компьютер должен быть подключен к сети",
 	"gui.extension.gestureRecognition": "Распознавание жестов",
 	"gui.extension.gestureRecognition.description": "Распознавание жестов через веб-камеру",
-	"gui.modify.runPythonCode": "Запустить программу"
+	"gui.modify.runPythonCode": "Запустить программу",
+	"gui.extension.carMotor": "Умный автомобиль",
+	"gui.extension.fourLeggedBionicSpider": "Четырехногий бионический паук"
 }

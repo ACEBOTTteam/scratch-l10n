@@ -124,7 +124,7 @@
 	"gui.menuBar.remix": "리믹스",
 	"gui.menuBar.new": "새로 만들기",
 	"gui.menuBar.file": "파일",
-	"gui.menuBar.downloadToComputer": "컴퓨터에 저장하기 ",
+	"gui.menuBar.downloadToComputer": "컴퓨터에 다른 이름으로 저장",
 	"gui.menuBar.edit": "편집",
 	"gui.menuBar.turboModeOff": "터보 모드 끄기",
 	"gui.menuBar.turboModeOn": "터보 모드 켜기",
@@ -565,5 +565,7 @@
 	"gui.extension.weather.description": "인터넷을 통해 날씨 정보를 가져옵니다. 컴퓨터는 온라인이어야합니다",
 	"gui.extension.gestureRecognition": "제스처 인식",
 	"gui.extension.gestureRecognition.description": "웹캠을 통해 제스처를 인식",
-	"gui.modify.runPythonCode": "프로그램 실행"
+	"gui.modify.runPythonCode": "프로그램 실행",
+	"gui.extension.carMotor": "스마트카",
+	"gui.extension.fourLeggedBionicSpider": "사족 바이오닉 거미"
 }

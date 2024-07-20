@@ -313,7 +313,7 @@
 	"ROBOT_POTENTIOMETER": "Potansiyometre %1",
 	"ROBOT_TOUCH_SENSOR": "Dokunmatik sensör %1 dokunuldu",
 	"ROBOT_FLAME_SENSOR": "Alev Sensörü %1",
-	"ROBOT_RGB_MODULE": "RGB Lamba %1 Kırmızı %2 %3 Yeşil %4 %5 Mavi %6",
+	"ROBOT_RGB_MODULE": "RGB ışığı kırmızı %1%2 yeşil %3%4 mavi %5%6",
 	"ROBOT_SET_TAPE_LIGHTS": "Bant Işıkları %1 %2 %3",
 	"ROBOT_TAPE_LIGHTS": "Bant Işıkları %1 %2 Kırmızı %3 Yeşil %4 Mavi %5",
 	"ROBOT_HUMIDIFIER": "Nemlendirici %1 %2",

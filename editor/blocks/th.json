@@ -313,7 +313,7 @@
 	"ROBOT_POTENTIOMETER": "โพเท็นติอะเตอร์ %1",
 	"ROBOT_TOUCH_SENSOR": "เซนเซอร์สัมผัส %1 ຖືກสัมผัส",
 	"ROBOT_FLAME_SENSOR": "เซ็นเซอร์เปลวไฟ %1",
-	"ROBOT_RGB_MODULE": "ไฟ RGB %1 สีแดง %2 %3 สีเขียว %4 %5 สีฟ้า %6",
+	"ROBOT_RGB_MODULE": "ไฟ RGB สีแดง %1%2 สีเขียว %3%4 สีน้ำเงิน %5%6",
 	"ROBOT_SET_TAPE_LIGHTS": "ไฟแถบ %1 %2 %3",
 	"ROBOT_TAPE_LIGHTS": "ไฟแถบ %1 %2 สีแดง %3 สีเขียว %4 สีฟ้า %5",
 	"ROBOT_HUMIDIFIER": "เครื่องปรับความชื้น %1 %2",

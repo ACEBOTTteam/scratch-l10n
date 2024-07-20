@@ -313,7 +313,7 @@
 	"ROBOT_POTENTIOMETER": "Potencjometr %1",
 	"ROBOT_TOUCH_SENSOR": "Czujnik dotykowy %1 został dotknięty",
 	"ROBOT_FLAME_SENSOR": "Czujnik płomienia %1",
-	"ROBOT_RGB_MODULE": "Światło RGB %1 Czerwony %2 %3 Zielony %4 %5 Niebieski %6",
+	"ROBOT_RGB_MODULE": "Światło RGB czerwony %1%2 zielony %3%4 niebieski %5%6",
 	"ROBOT_SET_TAPE_LIGHTS": "Światła taśmy %1 %2 %3",
 	"ROBOT_TAPE_LIGHTS": "Światła taśmy %1 %2 Czerwony %3 Zielony %4 Niebieski %5",
 	"ROBOT_HUMIDIFIER": "Nawilżacz %1 %2",

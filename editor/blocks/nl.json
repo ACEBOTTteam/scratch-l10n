@@ -313,7 +313,7 @@
 	"ROBOT_POTENTIOMETER": "Potentiometer %1",
 	"ROBOT_TOUCH_SENSOR": "Aanraaksensor %1 is geraakt",
 	"ROBOT_FLAME_SENSOR": "Vlam sensor %1",
-	"ROBOT_RGB_MODULE": "RGB-lamp %1 rood %2 %3 groen %4 %5 blauw %6",
+	"ROBOT_RGB_MODULE": "RGB licht rood %1%2 groen %3%4 blauw %5%6",
 	"ROBOT_SET_TAPE_LIGHTS": "Tapeverlichting %1 %2 %3",
 	"ROBOT_TAPE_LIGHTS": "Tapeverlichting %1 %2 rood %3 groen %4 blauw %5",
 	"ROBOT_HUMIDIFIER": "Bevochtiger %1 %2",

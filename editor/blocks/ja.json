@@ -313,7 +313,7 @@
 	"ROBOT_POTENTIOMETER": "ポテンショメーター%1",
 	"ROBOT_TOUCH_SENSOR": "タッチセンサー%1が触れられました",
 	"ROBOT_FLAME_SENSOR": "火災センサー%1",
-	"ROBOT_RGB_MODULE": "RGBライト%1赤%2%3緑%4%5青%6",
+	"ROBOT_RGB_MODULE": "RGBライト 赤%1%2 緑%3%4 青%5%6",
 	"ROBOT_SET_TAPE_LIGHTS": "テープライト%1%2%3",
 	"ROBOT_TAPE_LIGHTS": "テープライト%1%2赤%3緑%4青%5",
 	"ROBOT_HUMIDIFIER": "加湿器%1%2",

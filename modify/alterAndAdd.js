@@ -1,189 +1,63 @@
 const fs = require('fs')
 
-const block = {}
-
-const extensions = {
+const block = {
     "zh-cn": {
-        "carMotor.carGetInstruct": "获取[ONE]信号",
-        "carMotor.forward":"前进",
-        "carMotor.backward":"后退",
-        "carMotor.leftMove":"左移",
-        "carMotor.rightMove":"右移",
-        "fourLeggedBionicSpider.spiderGetInstruct":"获取[ONE]信号",
-        "fourLeggedBionicSpider.leftMove":"左转",
-        "fourLeggedBionicSpider.rightMove":"右转",
+        "ROBOT_RGB_MODULE": "RGB灯红色%1%2绿色%3%4蓝色%5%6",
     },
     "zh-tw": {
-        "carMotor.carGetInstruct": "獲取[ONE]信號",
-        "carMotor.forward": "前進",
-        "carMotor.backward": "後退",
-        "carMotor.leftMove": "左移",
-        "carMotor.rightMove": "右移",
-        "fourLeggedBionicSpider.spiderGetInstruct": "獲取[ONE]信號",
-        "fourLeggedBionicSpider.leftMove": "左轉",
-        "fourLeggedBionicSpider.rightMove": "右轉"
+        "ROBOT_RGB_MODULE": "RGB燈紅色%1%2綠色%3%4藍色%5%6"
     },
     "en": {
-        "carMotor.carGetInstruct": "Get [ONE] signal",
-        "carMotor.forward": "Forward",
-        "carMotor.backward": "Backward",
-        "carMotor.leftMove": "Move left",
-        "carMotor.rightMove": "Move right",
-        "fourLeggedBionicSpider.spiderGetInstruct": "Get [ONE] signal",
-        "fourLeggedBionicSpider.leftMove": "Turn left",
-        "fourLeggedBionicSpider.rightMove": "Turn right"
+        "ROBOT_RGB_MODULE": "RGB light red %1%2 green %3%4 blue %5%6"
     },    
     "fr": {
-        "carMotor.carGetInstruct": "Obtenir le signal [ONE]",
-        "carMotor.forward": "Avancer",
-        "carMotor.backward": "Reculer",
-        "carMotor.leftMove": "Déplacer à gauche",
-        "carMotor.rightMove": "Déplacer à droite",
-        "fourLeggedBionicSpider.spiderGetInstruct": "Obtenir le signal [ONE]",
-        "fourLeggedBionicSpider.leftMove": "Tourner à gauche",
-        "fourLeggedBionicSpider.rightMove": "Tourner à droite"
+        "ROBOT_RGB_MODULE": "Lumière RGB rouge %1%2 vert %3%4 bleu %5%6"
     },
     "ja": {
-        "carMotor.carGetInstruct": "[ONE]信号を取得する",
-        "carMotor.forward": "前進",
-        "carMotor.backward": "後退",
-        "carMotor.leftMove": "左に移動",
-        "carMotor.rightMove": "右に移動",
-        "fourLeggedBionicSpider.spiderGetInstruct": "[ONE]信号を取得する",
-        "fourLeggedBionicSpider.leftMove": "左折",
-        "fourLeggedBionicSpider.rightMove": "右折"
+        "ROBOT_RGB_MODULE": "RGBライト 赤%1%2 緑%3%4 青%5%6"
     },
     "de": {
-        "carMotor.carGetInstruct": "[ONE]-Signal empfangen",
-        "carMotor.forward": "Vorwärts",
-        "carMotor.backward": "Rückwärts",
-        "carMotor.leftMove": "Nach links bewegen",
-        "carMotor.rightMove": "Nach rechts bewegen",
-        "fourLeggedBionicSpider.spiderGetInstruct": "[ONE]-Signal empfangen",
-        "fourLeggedBionicSpider.leftMove": "Nach links drehen",
-        "fourLeggedBionicSpider.rightMove": "Nach rechts drehen"
+        "ROBOT_RGB_MODULE": "RGB-Licht rot %1%2 grün %3%4 blau %5%6"
     },
     "es": {
-        "carMotor.carGetInstruct": "Obtener señal [ONE]",
-        "carMotor.forward": "Avanzar",
-        "carMotor.backward": "Retroceder",
-        "carMotor.leftMove": "Mover a la izquierda",
-        "carMotor.rightMove": "Mover a la derecha",
-        "fourLeggedBionicSpider.spiderGetInstruct": "Obtener señal [ONE]",
-        "fourLeggedBionicSpider.leftMove": "Girar a la izquierda",
-        "fourLeggedBionicSpider.rightMove": "Girar a la derecha"
+        "ROBOT_RGB_MODULE": "Luz RGB rojo %1%2 verde %3%4 azul %5%6"
     },
     "ru": {
-        "carMotor.carGetInstruct": "Получить сигнал [ONE]",
-        "carMotor.forward": "Вперёд",
-        "carMotor.backward": "Назад",
-        "carMotor.leftMove": "Двигаться влево",
-        "carMotor.rightMove": "Двигаться вправо",
-        "fourLeggedBionicSpider.spiderGetInstruct": "Получить сигнал [ONE]",
-        "fourLeggedBionicSpider.leftMove": "Повернуть налево",
-        "fourLeggedBionicSpider.rightMove": "Повернуть направо"
+        "ROBOT_RGB_MODULE": "RGB свет красный %1%2 зеленый %3%4 синий %5%6"
     },
     "cs": {
-        "carMotor.carGetInstruct": "Získat signál [ONE]",
-        "carMotor.forward": "Vpřed",
-        "carMotor.backward": "Vzad",
-        "carMotor.leftMove": "Pohyb vlevo",
-        "carMotor.rightMove": "Pohyb vpravo",
-        "fourLeggedBionicSpider.spiderGetInstruct": "Získat signál [ONE]",
-        "fourLeggedBionicSpider.leftMove": "Otočit doleva",
-        "fourLeggedBionicSpider.rightMove": "Otočit doprava"
+        "ROBOT_RGB_MODULE": "RGB světlo červená %1%2 zelená %3%4 modrá %5%6"
     },
     "it": {
-        "carMotor.carGetInstruct": "Ricevere segnale [ONE]",
-        "carMotor.forward": "Avanti",
-        "carMotor.backward": "Indietro",
-        "carMotor.leftMove": "Spostare a sinistra",
-        "carMotor.rightMove": "Spostare a destra",
-        "fourLeggedBionicSpider.spiderGetInstruct": "Ricevere segnale [ONE]",
-        "fourLeggedBionicSpider.leftMove": "Girare a sinistra",
-        "fourLeggedBionicSpider.rightMove": "Girare a destra"
+        "ROBOT_RGB_MODULE": "Luce RGB rosso %1%2 verde %3%4 blu %5%6"
     },
     "pl": {
-        "carMotor.carGetInstruct": "Odbierz sygnał [ONE]",
-        "carMotor.forward": "Do przodu",
-        "carMotor.backward": "Do tyłu",
-        "carMotor.leftMove": "Przesuń w lewo",
-        "carMotor.rightMove": "Przesuń w prawo",
-        "fourLeggedBionicSpider.spiderGetInstruct": "Odbierz sygnał [ONE]",
-        "fourLeggedBionicSpider.leftMove": "Skręć w lewo",
-        "fourLeggedBionicSpider.rightMove": "Skręć w prawo"
+        "ROBOT_RGB_MODULE": "Światło RGB czerwony %1%2 zielony %3%4 niebieski %5%6"
     },
     "tr": {
-        "carMotor.carGetInstruct": "[ONE] sinyalini al",
-        "carMotor.forward": "İleri",
-        "carMotor.backward": "Geri",
-        "carMotor.leftMove": "Sola hareket",
-        "carMotor.rightMove": "Sağa hareket",
-        "fourLeggedBionicSpider.spiderGetInstruct": "[ONE] sinyalini al",
-        "fourLeggedBionicSpider.leftMove": "Sola dön",
-        "fourLeggedBionicSpider.rightMove": "Sağa dön"
+        "ROBOT_RGB_MODULE": "RGB ışığı kırmızı %1%2 yeşil %3%4 mavi %5%6"
     },
     "pt": {
-        "carMotor.carGetInstruct": "Obter sinal [ONE]",
-        "carMotor.forward": "Para frente",
-        "carMotor.backward": "Para trás",
-        "carMotor.leftMove": "Mover para a esquerda",
-        "carMotor.rightMove": "Mover para a direita",
-        "fourLeggedBionicSpider.spiderGetInstruct": "Obter sinal [ONE]",
-        "fourLeggedBionicSpider.leftMove": "Virar à esquerda",
-        "fourLeggedBionicSpider.rightMove": "Virar à direita"
+        "ROBOT_RGB_MODULE": "Luz RGB vermelho %1%2 verde %3%4 azul %5%6"
     },
     "hr": {
-        "carMotor.carGetInstruct": "Dobiti signal [ONE]",
-        "carMotor.forward": "Naprijed",
-        "carMotor.backward": "Natrag",
-        "carMotor.leftMove": "Pomakni se lijevo",
-        "carMotor.rightMove": "Pomakni se desno",
-        "fourLeggedBionicSpider.spiderGetInstruct": "Dobiti signal [ONE]",
-        "fourLeggedBionicSpider.leftMove": "Skreni lijevo",
-        "fourLeggedBionicSpider.rightMove": "Skreni desno"
+        "ROBOT_RGB_MODULE": "RGB svjetlo crveno %1%2 zeleno %3%4 plavo %5%6"
     },
     "ko": {
-        "carMotor.carGetInstruct": "[ONE] 신호 받기",
-        "carMotor.forward": "앞으로",
-        "carMotor.backward": "뒤로",
-        "carMotor.leftMove": "왼쪽으로 이동",
-        "carMotor.rightMove": "오른쪽으로 이동",
-        "fourLeggedBionicSpider.spiderGetInstruct": "[ONE] 신호 받기",
-        "fourLeggedBionicSpider.leftMove": "왼쪽으로 돌기",
-        "fourLeggedBionicSpider.rightMove": "오른쪽으로 돌기"
+        "ROBOT_RGB_MODULE": "RGB 조명 빨간색 %1%2 녹색 %3%4 파란색 %5%6"
     },
     "th": {
-        "carMotor.carGetInstruct": "รับสัญญาณ [ONE]",
-        "carMotor.forward": "ไปข้างหน้า",
-        "carMotor.backward": "ถอยหลัง",
-        "carMotor.leftMove": "เลื่อนไปทางซ้าย",
-        "carMotor.rightMove": "เลื่อนไปทางขวา",
-        "fourLeggedBionicSpider.spiderGetInstruct": "รับสัญญาณ [ONE]",
-        "fourLeggedBionicSpider.leftMove": "เลี้ยวซ้าย",
-        "fourLeggedBionicSpider.rightMove": "เลี้ยวขวา"
+        "ROBOT_RGB_MODULE": "ไฟ RGB สีแดง %1%2 สีเขียว %3%4 สีน้ำเงิน %5%6"
     },
     "nl": {
-        "carMotor.carGetInstruct": "[ONE] signaal ontvangen",
-        "carMotor.forward": "Vooruit",
-        "carMotor.backward": "Achteruit",
-        "carMotor.leftMove": "Naar links verplaatsen",
-        "carMotor.rightMove": "Naar rechts verplaatsen",
-        "fourLeggedBionicSpider.spiderGetInstruct": "[ONE] signaal ontvangen",
-        "fourLeggedBionicSpider.leftMove": "Naar links draaien",
-        "fourLeggedBionicSpider.rightMove": "Naar rechts draaien"
+        "ROBOT_RGB_MODULE": "RGB licht rood %1%2 groen %3%4 blauw %5%6"
     },
     "ar": {
-        "carMotor.carGetInstruct": "استقبال إشارة [ONE]",
-        "carMotor.forward": "تقدم",
-        "carMotor.backward": "تراجع",
-        "carMotor.leftMove": "التحرك لليسار",
-        "carMotor.rightMove": "التحرك لليمين",
-        "fourLeggedBionicSpider.spiderGetInstruct": "استقبال إشارة [ONE]",
-        "fourLeggedBionicSpider.leftMove": "انعطف يساراً",
-        "fourLeggedBionicSpider.rightMove": "انعطف يميناً"
+        "ROBOT_RGB_MODULE": "إضاءة RGB أحمر %1%2 أخضر %3%4 أزرق %5%6"
     }
 }
+
+const extensions = {}
 
 const interfaceData = {}
 

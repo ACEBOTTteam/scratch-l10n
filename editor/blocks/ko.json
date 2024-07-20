@@ -313,7 +313,7 @@
 	"ROBOT_POTENTIOMETER": "가변 저항기 %1",
 	"ROBOT_TOUCH_SENSOR": "터치 센서 %1가 터치됐습니다",
 	"ROBOT_FLAME_SENSOR": "화염 센서 %1",
-	"ROBOT_RGB_MODULE": "RGB 램프 %1 빨강 %2 %3 녹색 %4 %5 파랑 %6",
+	"ROBOT_RGB_MODULE": "RGB 조명 빨간색 %1%2 녹색 %3%4 파란색 %5%6",
 	"ROBOT_SET_TAPE_LIGHTS": "테이프 라이트 %1 %2 %3",
 	"ROBOT_TAPE_LIGHTS": "테이프 라이트 %1 %2 빨강 %3 녹색 %4 파랑 %5",
 	"ROBOT_HUMIDIFIER": "가습기 %1 %2",

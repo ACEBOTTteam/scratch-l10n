@@ -313,7 +313,7 @@
 	"ROBOT_POTENTIOMETER": "مقياس الجهد %1",
 	"ROBOT_TOUCH_SENSOR": "تم لمس مستشعر التلمس %1",
 	"ROBOT_FLAME_SENSOR": "مستشعر اللهب %1",
-	"ROBOT_RGB_MODULE": "مصباح RGB %1 أحمر %2 %3 أخضر %4 %5 أزرق %6",
+	"ROBOT_RGB_MODULE": "إضاءة RGB أحمر %1%2 أخضر %3%4 أزرق %5%6",
 	"ROBOT_SET_TAPE_LIGHTS": "إضاءة الشريط %1 %2 %3",
 	"ROBOT_TAPE_LIGHTS": "إضاءة الشريط %1 %2 أحمر %3 أخضر %4 أزرق %5",
 	"ROBOT_HUMIDIFIER": "مرطب %1 %2",

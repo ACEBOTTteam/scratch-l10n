@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "Prepoznavanje pokreta putem web kamere",
 	"gui.modify.runPythonCode": "Pokreni program",
 	"gui.extension.carMotor": "Pametni Auto",
-	"gui.extension.fourLeggedBionicSpider": "Četveronožni Bionički Pauk"
+	"gui.extension.fourLeggedBionicSpider": "Četveronožni Bionički Pauk",
+	"gui.extension.arm": "robotska ruka",
+	"gui.modify.searchBlock": "traži blokove",
+	"gui.modify.searchButton": "traži"
 }

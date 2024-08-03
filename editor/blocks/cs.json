@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "přijmout hodnotu od klienta %1",
 	"ROBOT_STRING": "Řetězec %1",
 	"ROBOT_BREAK": "Přerušit aktuální smyčku",
-	"ROBOT_ASYNC_DELAY": "asynchronní zpoždění %1"
+	"ROBOT_ASYNC_DELAY": "asynchronní zpoždění %1",
+	"ROBOT_ROCKER_DATA": "joystick x%1y%2sw%3hodnota%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "zda sériový port přijímá data",
+	"ROBOT_GET_SERIAL_PORT_DATA": "přijímat data sériového portu",
+	"ROBOT_SERIAL_PORT_NULL": "bez ukončovacího znaku",
+	"ROBOT_OPERATOR_SPLIT_STRING": "rozdělit %2 podle %1 a vzít položku %3"
 }

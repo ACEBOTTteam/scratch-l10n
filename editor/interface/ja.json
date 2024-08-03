@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "ウェブカメラを通じてジェスチャーを認識",
 	"gui.modify.runPythonCode": "プログラムを実行",
 	"gui.extension.carMotor": "スマートカー",
-	"gui.extension.fourLeggedBionicSpider": "四脚バイオニクスパイダー"
+	"gui.extension.fourLeggedBionicSpider": "四脚バイオニクスパイダー",
+	"gui.extension.arm": "ロボットアーム",
+	"gui.modify.searchBlock": "ブロックを検索",
+	"gui.modify.searchButton": "検索"
 }

@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "Rozpoznávání gest pomocí webkamery",
 	"gui.modify.runPythonCode": "Spustit program",
 	"gui.extension.carMotor": "Chytré Auto",
-	"gui.extension.fourLeggedBionicSpider": "Čtyřnohý Bionický Pavouk"
+	"gui.extension.fourLeggedBionicSpider": "Čtyřnohý Bionický Pavouk",
+	"gui.extension.arm": "robotická ruka",
+	"gui.modify.searchBlock": "hledat bloky",
+	"gui.modify.searchButton": "hledat"
 }

@@ -445,5 +445,10 @@
 	"ROBOT_GET_WEB_DATA": "接收客户端%1的值",
 	"ROBOT_STRING": "字符%1",
 	"ROBOT_BREAK": "跳出当前循环",
-	"ROBOT_ASYNC_DELAY": "异步延时%1"
+	"ROBOT_ASYNC_DELAY": "异步延时%1",
+	"ROBOT_ROCKER_DATA": "摇杆 x%1y%2sw%3值%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "串口是否接收数据",
+	"ROBOT_GET_SERIAL_PORT_DATA": "串口接收数据",
+	"ROBOT_SERIAL_PORT_NULL": "无结束符",
+	"ROBOT_OPERATOR_SPLIT_STRING": "用%1分割%2的第%3项"
 }

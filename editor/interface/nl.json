@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "Gesten herkennen via een webcam",
 	"gui.modify.runPythonCode": "Program uitvoeren",
 	"gui.extension.carMotor": "Slimme Auto",
-	"gui.extension.fourLeggedBionicSpider": "Vierbenige Bionische Spin"
+	"gui.extension.fourLeggedBionicSpider": "Vierbenige Bionische Spin",
+	"gui.extension.arm": "robotarm",
+	"gui.modify.searchBlock": "zoek blokken",
+	"gui.modify.searchButton": "zoeken"
 }

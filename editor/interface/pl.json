@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "Rozpoznawanie gestów za pomocą kamery internetowej",
 	"gui.modify.runPythonCode": "Uruchom program",
 	"gui.extension.carMotor": "Inteligentny Samochód",
-	"gui.extension.fourLeggedBionicSpider": "Czteronożny Bioniczny Pająk"
+	"gui.extension.fourLeggedBionicSpider": "Czteronożny Bioniczny Pająk",
+	"gui.extension.arm": "ręka robota",
+	"gui.modify.searchBlock": "wyszukaj bloki",
+	"gui.modify.searchButton": "szukaj"
 }

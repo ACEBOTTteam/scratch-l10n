@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "استلام القيمة من العميل %1",
 	"ROBOT_STRING": "سلسلة %1",
 	"ROBOT_BREAK": "كسر الحلقة الحالية",
-	"ROBOT_ASYNC_DELAY": "تأخير غير متزامن %1"
+	"ROBOT_ASYNC_DELAY": "تأخير غير متزامن %1",
+	"ROBOT_ROCKER_DATA": "عصا التحكم x%1y%2sw%3قيمة%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "ما إذا كان المنفذ التسلسلي يستقبل البيانات",
+	"ROBOT_GET_SERIAL_PORT_DATA": "استقبال بيانات المنفذ التسلسلي",
+	"ROBOT_SERIAL_PORT_NULL": "لا يوجد منهي",
+	"ROBOT_OPERATOR_SPLIT_STRING": "قسّم %2 بـ %1 وخذ العنصر %3"
 }

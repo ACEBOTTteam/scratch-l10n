@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "otrzymaj wartość od klienta %1",
 	"ROBOT_STRING": "Ciąg znaków %1",
 	"ROBOT_BREAK": "Przerwij bieżącą pętlę",
-	"ROBOT_ASYNC_DELAY": "opóźnienie asynchroniczne %1"
+	"ROBOT_ASYNC_DELAY": "opóźnienie asynchroniczne %1",
+	"ROBOT_ROCKER_DATA": "joystick x%1y%2sw%3wartość%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "czy port szeregowy odbiera dane",
+	"ROBOT_GET_SERIAL_PORT_DATA": "odbieranie danych z portu szeregowego",
+	"ROBOT_SERIAL_PORT_NULL": "bez znaku końcowego",
+	"ROBOT_OPERATOR_SPLIT_STRING": "podziel %2 przez %1 i weź element %3"
 }

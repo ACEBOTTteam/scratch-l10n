@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "Reconocer gestos mediante una cámara web",
 	"gui.modify.runPythonCode": "Ejecutar programa",
 	"gui.extension.carMotor": "Coche Inteligente",
-	"gui.extension.fourLeggedBionicSpider": "Araña Biónica de Cuatro Patas"
+	"gui.extension.fourLeggedBionicSpider": "Araña Biónica de Cuatro Patas",
+	"gui.extension.arm": "brazo robótico",
+	"gui.modify.searchBlock": "buscar bloques",
+	"gui.modify.searchButton": "buscar"
 }

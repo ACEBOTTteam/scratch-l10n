@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "クライアント %1 から値を受け取る",
 	"ROBOT_STRING": "文字列%1",
 	"ROBOT_BREAK": "現在のループを終了",
-	"ROBOT_ASYNC_DELAY": "非同期遅延 %1"
+	"ROBOT_ASYNC_DELAY": "非同期遅延 %1",
+	"ROBOT_ROCKER_DATA": "ロッカー x%1y%2sw%3値%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "シリアルポートがデータを受信しているかどうか",
+	"ROBOT_GET_SERIAL_PORT_DATA": "シリアルポートデータを受信",
+	"ROBOT_SERIAL_PORT_NULL": "終端符なし",
+	"ROBOT_OPERATOR_SPLIT_STRING": "%2を%1で分割して項目%3を取得"
 }

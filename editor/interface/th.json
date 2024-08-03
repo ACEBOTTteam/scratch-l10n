@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "ระบุท່າทางผ่านเว็บแคม",
 	"gui.modify.runPythonCode": "รันโปรแกรม",
 	"gui.extension.carMotor": "รถอัจฉริยะ",
-	"gui.extension.fourLeggedBionicSpider": "แมงมุมไบโอนิกสี่ขา"
+	"gui.extension.fourLeggedBionicSpider": "แมงมุมไบโอนิกสี่ขา",
+	"gui.extension.arm": "แขนหุ่นยนต์",
+	"gui.modify.searchBlock": "ค้นหาบล็อก",
+	"gui.modify.searchButton": "ค้นหา"
 }

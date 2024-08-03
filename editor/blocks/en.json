@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "receive value from client %1",
 	"ROBOT_STRING": "string %1",
 	"ROBOT_BREAK": "break current loop",
-	"ROBOT_ASYNC_DELAY": "asynchronous delay %1"
+	"ROBOT_ASYNC_DELAY": "asynchronous delay %1",
+	"ROBOT_ROCKER_DATA": "rocker x%1y%2sw%3value%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "whether the serial port receives data",
+	"ROBOT_GET_SERIAL_PORT_DATA": "receive serial port data",
+	"ROBOT_SERIAL_PORT_NULL": "no terminator",
+	"ROBOT_OPERATOR_SPLIT_STRING": "split %2 by %1 and take item %3"
 }

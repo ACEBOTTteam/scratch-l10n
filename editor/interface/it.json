@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "Riconoscere i gesti attraverso una webcam",
 	"gui.modify.runPythonCode": "Esegui programma",
 	"gui.extension.carMotor": "Auto Intelligente",
-	"gui.extension.fourLeggedBionicSpider": "Ragno Bionico a Quattro Zampe"
+	"gui.extension.fourLeggedBionicSpider": "Ragno Bionico a Quattro Zampe",
+	"gui.extension.arm": "braccio robotico",
+	"gui.modify.searchBlock": "cerca blocchi",
+	"gui.modify.searchButton": "cerca"
 }

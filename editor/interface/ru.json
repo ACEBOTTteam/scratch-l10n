@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "Распознавание жестов через веб-камеру",
 	"gui.modify.runPythonCode": "Запустить программу",
 	"gui.extension.carMotor": "Умный автомобиль",
-	"gui.extension.fourLeggedBionicSpider": "Четырехногий бионический паук"
+	"gui.extension.fourLeggedBionicSpider": "Четырехногий бионический паук",
+	"gui.extension.arm": "роботизированная рука",
+	"gui.modify.searchBlock": "поиск блоков",
+	"gui.modify.searchButton": "поиск"
 }

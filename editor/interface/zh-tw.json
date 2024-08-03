@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "透過網路攝像頭識別手勢",
 	"gui.modify.runPythonCode": "運行程式",
 	"gui.extension.carMotor": "智能車",
-	"gui.extension.fourLeggedBionicSpider": "四足仿生蜘蛛"
+	"gui.extension.fourLeggedBionicSpider": "四足仿生蜘蛛",
+	"gui.extension.arm": "機械臂",
+	"gui.modify.searchBlock": "搜索積木",
+	"gui.modify.searchButton": "搜索"
 }

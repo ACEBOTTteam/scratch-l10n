@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "클라이언트 %1의 값을 받기",
 	"ROBOT_STRING": "문자열 %1",
 	"ROBOT_BREAK": "현재 루프 종료",
-	"ROBOT_ASYNC_DELAY": "비동기 지연 %1"
+	"ROBOT_ASYNC_DELAY": "비동기 지연 %1",
+	"ROBOT_ROCKER_DATA": "조이스틱 x%1y%2sw%3값%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "시리얼 포트가 데이터를 수신하는지 여부",
+	"ROBOT_GET_SERIAL_PORT_DATA": "시리얼 포트 데이터 수신",
+	"ROBOT_SERIAL_PORT_NULL": "종료 문자가 없음",
+	"ROBOT_OPERATOR_SPLIT_STRING": "%2를 %1으로 분할하고 항목 %3을 가져옵니다"
 }

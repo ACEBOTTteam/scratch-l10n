@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "웹캠을 통해 제스처를 인식",
 	"gui.modify.runPythonCode": "프로그램 실행",
 	"gui.extension.carMotor": "스마트카",
-	"gui.extension.fourLeggedBionicSpider": "사족 바이오닉 거미"
+	"gui.extension.fourLeggedBionicSpider": "사족 바이오닉 거미",
+	"gui.extension.arm": "로봇 팔",
+	"gui.modify.searchBlock": "블록 검색",
+	"gui.modify.searchButton": "검색"
 }

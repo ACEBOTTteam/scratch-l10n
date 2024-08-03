@@ -567,5 +567,8 @@
 	"gui.extension.gestureRecognition.description": "تعرف على الإيماءات باستخدام كاميرا الويب",
 	"gui.modify.runPythonCode": "تشغيل البرنامج",
 	"gui.extension.carMotor": "سيارة ذكية",
-	"gui.extension.fourLeggedBionicSpider": "عنكبوت بايوني ذو أربعة أرجل"
+	"gui.extension.fourLeggedBionicSpider": "عنكبوت بايوني ذو أربعة أرجل",
+	"gui.extension.arm": "ذراع الروبوت",
+	"gui.modify.searchBlock": "بحث عن الكتل",
+	"gui.modify.searchButton": "بحث"
 }

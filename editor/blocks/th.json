@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "รับค่าจากไคลเอนต์ %1",
 	"ROBOT_STRING": "สตริง %1",
 	"ROBOT_BREAK": "ออกจากลูปปัจจุบัน",
-	"ROBOT_ASYNC_DELAY": "หน่วงเวลาแบบอะซิงโครนัส %1"
+	"ROBOT_ASYNC_DELAY": "หน่วงเวลาแบบอะซิงโครนัส %1",
+	"ROBOT_ROCKER_DATA": "จอยสติ๊ก x%1y%2sw%3ค่า%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "พอร์ตอนุกรมรับข้อมูลหรือไม่",
+	"ROBOT_GET_SERIAL_PORT_DATA": "รับข้อมูลพอร์ตอนุกรม",
+	"ROBOT_SERIAL_PORT_NULL": "ไม่มีตัวอักษรสิ้นสุด",
+	"ROBOT_OPERATOR_SPLIT_STRING": "แยก %2 ด้วย %1 และนำรายการที่ %3"
 }

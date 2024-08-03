@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "waarde ontvangen van client %1",
 	"ROBOT_STRING": "Tekenreeks %1",
 	"ROBOT_BREAK": "Huidige lus onderbreken",
-	"ROBOT_ASYNC_DELAY": "asynchrone vertraging %1"
+	"ROBOT_ASYNC_DELAY": "asynchrone vertraging %1",
+	"ROBOT_ROCKER_DATA": "joystick x%1y%2sw%3waarde%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "of de seriële poort gegevens ontvangt",
+	"ROBOT_GET_SERIAL_PORT_DATA": "seriële poortgegevens ontvangen",
+	"ROBOT_SERIAL_PORT_NULL": "geen afsluiter",
+	"ROBOT_OPERATOR_SPLIT_STRING": "splits %2 door %1 en neem item %3"
 }

@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "istemciden %1 değeri al",
 	"ROBOT_STRING": "Dize %1",
 	"ROBOT_BREAK": "Geçerli döngüyü kır",
-	"ROBOT_ASYNC_DELAY": "asenkron gecikme %1"
+	"ROBOT_ASYNC_DELAY": "asenkron gecikme %1",
+	"ROBOT_ROCKER_DATA": "joystick x%1y%2sw%3değer%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "seri portun veri alıp almadığı",
+	"ROBOT_GET_SERIAL_PORT_DATA": "seri port verilerini al",
+	"ROBOT_SERIAL_PORT_NULL": "sonlandırıcı yok",
+	"ROBOT_OPERATOR_SPLIT_STRING": "%2'yi %1 ile böl ve %3. öğeyi al"
 }

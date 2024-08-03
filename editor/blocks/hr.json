@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "primanje vrijednosti od klijenta %1",
 	"ROBOT_STRING": "Niz %1",
 	"ROBOT_BREAK": "Prekini trenutnu petlju",
-	"ROBOT_ASYNC_DELAY": "asinkrona odgoda %1"
+	"ROBOT_ASYNC_DELAY": "asinkrona odgoda %1",
+	"ROBOT_ROCKER_DATA": "joystick x%1y%2sw%3vrijednost%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "prima li serijski port podatke",
+	"ROBOT_GET_SERIAL_PORT_DATA": "primanje podataka serijskog porta",
+	"ROBOT_SERIAL_PORT_NULL": "bez završnog znaka",
+	"ROBOT_OPERATOR_SPLIT_STRING": "razdvojiti %2 po %1 i uzeti stavku %3"
 }

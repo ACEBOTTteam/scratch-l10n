@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "receber valor do cliente %1",
 	"ROBOT_STRING": "String %1",
 	"ROBOT_BREAK": "Interromper loop atual",
-	"ROBOT_ASYNC_DELAY": "atraso assíncrono %1"
+	"ROBOT_ASYNC_DELAY": "atraso assíncrono %1",
+	"ROBOT_ROCKER_DATA": "joystick x%1y%2sw%3valor%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "se a porta serial recebe dados",
+	"ROBOT_GET_SERIAL_PORT_DATA": "receber dados da porta serial",
+	"ROBOT_SERIAL_PORT_NULL": "sem terminador",
+	"ROBOT_OPERATOR_SPLIT_STRING": "dividir %2 por %1 e pegar o item %3"
 }

@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "получить значение от клиента %1",
 	"ROBOT_STRING": "Строка %1",
 	"ROBOT_BREAK": "Прервать текущий цикл",
-	"ROBOT_ASYNC_DELAY": "асинхронная задержка %1"
+	"ROBOT_ASYNC_DELAY": "асинхронная задержка %1",
+	"ROBOT_ROCKER_DATA": "джойстик x%1y%2sw%3значение%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "получает ли последовательный порт данные",
+	"ROBOT_GET_SERIAL_PORT_DATA": "получение данных с последовательного порта",
+	"ROBOT_SERIAL_PORT_NULL": "без завершающего символа",
+	"ROBOT_OPERATOR_SPLIT_STRING": "разделить %2 по %1 и взять элемент %3"
 }

@@ -447,5 +447,10 @@
 	"ROBOT_GET_WEB_DATA": "recevoir la valeur du client %1",
 	"ROBOT_STRING": "Chaîne %1",
 	"ROBOT_BREAK": "Quitter la boucle actuelle",
-	"ROBOT_ASYNC_DELAY": "délai asynchrone %1"
+	"ROBOT_ASYNC_DELAY": "délai asynchrone %1",
+	"ROBOT_ROCKER_DATA": "manette x%1y%2sw%3valeur%4",
+	"ROBOT_SERIAL_PORT_BOOLEAN": "le port série reçoit-il des données",
+	"ROBOT_GET_SERIAL_PORT_DATA": "recevoir des données de port série",
+	"ROBOT_SERIAL_PORT_NULL": "pas de caractère de fin",
+	"ROBOT_OPERATOR_SPLIT_STRING": "séparer %2 par %1 et prendre l'élément %3"
 }

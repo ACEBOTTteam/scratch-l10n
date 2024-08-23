@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "พอร์ตอนุกรมรับข้อมูลหรือไม่",
 	"ROBOT_GET_SERIAL_PORT_DATA": "รับข้อมูลพอร์ตอนุกรม",
 	"ROBOT_SERIAL_PORT_NULL": "ไม่มีตัวอักษรสิ้นสุด",
-	"ROBOT_OPERATOR_SPLIT_STRING": "แยก %2 ด้วย %1 และนำรายการที่ %3"
+	"ROBOT_OPERATOR_SPLIT_STRING": "แยก %2 ด้วย %1 และนำรายการที่ %3",
+	"ROBOT_LIST_SET_TYPE": "ตั้งค่าประเภทข้อมูลของ %1 เป็น %2",
+	"ROBOT_ULTRAVIOLET_RAY": "เซ็นเซอร์รังสียูวี %1",
+	"ROBOT_WIND_CUP": "ถ้วยวัดลม %1",
+	"ROBOT_4BUTTON": "ปุ่ม %2 ของโมดูลสี่ปุ่ม %1 ถูกกด",
+	"ROBOT_YELLOW": "สีเหลือง",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "รับ %1",
+	"ROBOT_PRESS": "ความกดอากาศ",
+	"ROBOT_ALTITUDE": "ระดับความสูง"
 }

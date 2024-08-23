@@ -412,7 +412,7 @@
 	"ROBOT_CITY_NAME": "Gradski naziv na engleskom",
 	"ROBOT_DIRECTION": "Smjer vjetra",
 	"ROBOT_SPEED": "Brzina vjetra",
-	"ROBOT_TEMP": "Temperatura",
+	"ROBOT_TEMP": "temperatura",
 	"ROBOT_weather": "Vrijeme",
 	"ROBOT_PM": "PM vrijednost",
 	"ROBOT_NTP_INIT": "Inicijaliziraj NTP server",
@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "prima li serijski port podatke",
 	"ROBOT_GET_SERIAL_PORT_DATA": "primanje podataka serijskog porta",
 	"ROBOT_SERIAL_PORT_NULL": "bez završnog znaka",
-	"ROBOT_OPERATOR_SPLIT_STRING": "razdvojiti %2 po %1 i uzeti stavku %3"
+	"ROBOT_OPERATOR_SPLIT_STRING": "razdvojiti %2 po %1 i uzeti stavku %3",
+	"ROBOT_LIST_SET_TYPE": "postavite tip podataka %1 na %2",
+	"ROBOT_ULTRAVIOLET_RAY": "ultraljubičasti senzor %1",
+	"ROBOT_WIND_CUP": "vjetrovita šalica %1",
+	"ROBOT_4BUTTON": "gumb %2 na modulu s četiri gumba %1 je pritisnut",
+	"ROBOT_YELLOW": "žuta",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "dobiti %1",
+	"ROBOT_PRESS": "atmosferski tlak",
+	"ROBOT_ALTITUDE": "nadmorska visina"
 }

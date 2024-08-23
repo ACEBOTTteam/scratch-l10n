@@ -570,5 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Čtyřnohý Bionický Pavouk",
 	"gui.extension.arm": "robotická ruka",
 	"gui.modify.searchBlock": "hledat bloky",
-	"gui.modify.searchButton": "hledat"
+	"gui.modify.searchButton": "hledání podle klíčových slov",
+	"gui.extension.bipedRobot.description": "dvounohý robot"
 }

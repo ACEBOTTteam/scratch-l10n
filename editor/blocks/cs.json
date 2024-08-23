@@ -412,7 +412,7 @@
 	"ROBOT_CITY_NAME": "Název města v angličtiny",
 	"ROBOT_DIRECTION": "Směr větru",
 	"ROBOT_SPEED": "Rychlost větru",
-	"ROBOT_TEMP": "Teplota",
+	"ROBOT_TEMP": "teplota",
 	"ROBOT_weather": "Počasí",
 	"ROBOT_PM": "Hodnota PM",
 	"ROBOT_NTP_INIT": "Inicializace serveru NTP",
@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "zda sériový port přijímá data",
 	"ROBOT_GET_SERIAL_PORT_DATA": "přijímat data sériového portu",
 	"ROBOT_SERIAL_PORT_NULL": "bez ukončovacího znaku",
-	"ROBOT_OPERATOR_SPLIT_STRING": "rozdělit %2 podle %1 a vzít položku %3"
+	"ROBOT_OPERATOR_SPLIT_STRING": "rozdělit %2 podle %1 a vzít položku %3",
+	"ROBOT_LIST_SET_TYPE": "nastavit typ dat %1 na %2",
+	"ROBOT_ULTRAVIOLET_RAY": "ultrafialový senzor %1",
+	"ROBOT_WIND_CUP": "větrný pohár %1",
+	"ROBOT_4BUTTON": "čtyřtlačítkový modul %1, %2 tlačítko je stisknuto",
+	"ROBOT_YELLOW": "žlutá",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "získat %1",
+	"ROBOT_PRESS": "atmosférický tlak",
+	"ROBOT_ALTITUDE": "nadmořská výška"
 }

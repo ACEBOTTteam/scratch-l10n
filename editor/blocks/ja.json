@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "シリアルポートがデータを受信しているかどうか",
 	"ROBOT_GET_SERIAL_PORT_DATA": "シリアルポートデータを受信",
 	"ROBOT_SERIAL_PORT_NULL": "終端符なし",
-	"ROBOT_OPERATOR_SPLIT_STRING": "%2を%1で分割して項目%3を取得"
+	"ROBOT_OPERATOR_SPLIT_STRING": "%2を%1で分割して項目%3を取得",
+	"ROBOT_LIST_SET_TYPE": "%1のデータ型を%2に設定",
+	"ROBOT_ULTRAVIOLET_RAY": "紫外線センサー %1",
+	"ROBOT_WIND_CUP": "風速計 %1",
+	"ROBOT_4BUTTON": "四つボタンモジュール %1 の %2 ボタンが押されました",
+	"ROBOT_YELLOW": "黄色",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "%1 を取得",
+	"ROBOT_PRESS": "気圧",
+	"ROBOT_ALTITUDE": "高度"
 }

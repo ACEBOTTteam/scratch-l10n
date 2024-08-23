@@ -570,5 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "عنكبوت بايوني ذو أربعة أرجل",
 	"gui.extension.arm": "ذراع الروبوت",
 	"gui.modify.searchBlock": "بحث عن الكتل",
-	"gui.modify.searchButton": "بحث"
+	"gui.modify.searchButton": "بحث عن الكلمات الرئيسية",
+	"gui.extension.bipedRobot.description": "روبوت ذو قدمين"
 }

@@ -412,7 +412,7 @@
 	"ROBOT_CITY_NAME": "Nazwa miasta w języku angielskim",
 	"ROBOT_DIRECTION": "Kierunek wiatru",
 	"ROBOT_SPEED": "Prędkość wiatru",
-	"ROBOT_TEMP": "Temperatura",
+	"ROBOT_TEMP": "temperatura",
 	"ROBOT_weather": "Pogoda",
 	"ROBOT_PM": "Wartość PM",
 	"ROBOT_NTP_INIT": "Inicjalizuj serwer NTP",
@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "czy port szeregowy odbiera dane",
 	"ROBOT_GET_SERIAL_PORT_DATA": "odbieranie danych z portu szeregowego",
 	"ROBOT_SERIAL_PORT_NULL": "bez znaku końcowego",
-	"ROBOT_OPERATOR_SPLIT_STRING": "podziel %2 przez %1 i weź element %3"
+	"ROBOT_OPERATOR_SPLIT_STRING": "podziel %2 przez %1 i weź element %3",
+	"ROBOT_LIST_SET_TYPE": "ustaw typ danych %1 na %2",
+	"ROBOT_ULTRAVIOLET_RAY": "czujnik ultrafioletu %1",
+	"ROBOT_WIND_CUP": "kubek wiatrowy %1",
+	"ROBOT_4BUTTON": "przycisk %2 w module czteroprzyciskowym %1 został naciśnięty",
+	"ROBOT_YELLOW": "żółty",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "pobierz %1",
+	"ROBOT_PRESS": "ciśnienie atmosferyczne",
+	"ROBOT_ALTITUDE": "wysokość"
 }

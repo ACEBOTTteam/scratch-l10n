@@ -412,7 +412,7 @@
 	"ROBOT_CITY_NAME": "Engelse stadnaam",
 	"ROBOT_DIRECTION": "Windrichting",
 	"ROBOT_SPEED": "Windsnelheid",
-	"ROBOT_TEMP": "Temperatuur",
+	"ROBOT_TEMP": "temperatuur",
 	"ROBOT_weather": "Weer",
 	"ROBOT_PM": "PM-waarde",
 	"ROBOT_NTP_INIT": "Initialiseer NTP-server",
@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "of de seriële poort gegevens ontvangt",
 	"ROBOT_GET_SERIAL_PORT_DATA": "seriële poortgegevens ontvangen",
 	"ROBOT_SERIAL_PORT_NULL": "geen afsluiter",
-	"ROBOT_OPERATOR_SPLIT_STRING": "splits %2 door %1 en neem item %3"
+	"ROBOT_OPERATOR_SPLIT_STRING": "splits %2 door %1 en neem item %3",
+	"ROBOT_LIST_SET_TYPE": "stel het gegevenstype van %1 in op %2",
+	"ROBOT_ULTRAVIOLET_RAY": "ultravioletsensor %1",
+	"ROBOT_WIND_CUP": "windbeker %1",
+	"ROBOT_4BUTTON": "de %2 knop van het vierknopsmodule %1 is ingedrukt",
+	"ROBOT_YELLOW": "geel",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "%1 ophalen",
+	"ROBOT_PRESS": "luchtdruk",
+	"ROBOT_ALTITUDE": "hoogte"
 }

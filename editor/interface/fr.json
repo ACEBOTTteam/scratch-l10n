@@ -570,5 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Araignée Bionique à Quatre Pattes",
 	"gui.extension.arm": "bras robotisé",
 	"gui.modify.searchBlock": "rechercher des blocs",
-	"gui.modify.searchButton": "rechercher"
+	"gui.modify.searchButton": "recherche par mot-clé",
+	"gui.extension.bipedRobot.description": "robot bipède"
 }

@@ -1,80 +1,84 @@
 const fs = require('fs')
 
+/**
+ * 积木
+ * block = {
+ *      "zh-cn":{
+ *          ROBOT_SET_TYPE: "设置类型"
+ *      }
+ * }
+ * 
+ * 拓展
+ * extensions = {
+ *      "arm_car.categoryName": "机械臂小车", //拓展名称
+ *      "arm_car.init": "机械臂小车初始化",
+ * }
+ * 
+ * 页面
+ * interfaceData = {
+ *      "gui.modify.searchBlock": "搜索积木",
+ * }
+ * 
+ */
+
 const block = {}
 
 const extensions = {
     "zh-cn": {
-        "carMotor.slider":"滑杆",
+        "bipedRobot.reset":"机器人复位"
     }
     ,
     "zh-tw": {
-        "carMotor.slider": "滑桿"
-    }
-    ,
+        "bipedRobot.reset": "機器人復位"
+    },
     "en": {
-        "carMotor.slider": "slider"
-    }
-    ,
+        "bipedRobot.reset": "robot reset"
+    },
     "fr": {
-        "carMotor.slider": "curseur"
-    }
-    ,
+        "bipedRobot.reset": "réinitialisation du robot"
+    },
     "ja": {
-        "carMotor.slider": "スライダー"
-    }
-    ,
+        "bipedRobot.reset": "ロボットリセット"
+    },
     "de": {
-        "carMotor.slider": "schieberegler"
-    }
-    ,
+        "bipedRobot.reset": "roboter zurücksetzen"
+    },
     "es": {
-        "carMotor.slider": "deslizador"
-    }
-    ,
+        "bipedRobot.reset": "reinicio de robot"
+    },
     "ru": {
-        "carMotor.slider": "ползунок"
-    }
-    ,
+        "bipedRobot.reset": "сброс робота"
+    },
     "cs": {
-        "carMotor.slider": "posuvník"
-    }
-    ,
+        "bipedRobot.reset": "reset robota"
+    },
     "it": {
-        "carMotor.slider": "cursore"
-    }
-    ,
+        "bipedRobot.reset": "ripristino del robot"
+    },
     "pl": {
-        "carMotor.slider": "suwak"
-    }
-    ,
+        "bipedRobot.reset": "resetowanie robota"
+    },
     "tr": {
-        "carMotor.slider": "kaydırıcı"
-    }
-    ,
+        "bipedRobot.reset": "robot sıfırlama"
+    },
     "pt": {
-        "carMotor.slider": "controle deslizante"
-    }
-    ,
+        "bipedRobot.reset": "reinicializar robô"
+    },
     "hr": {
-        "carMotor.slider": "klizač"
-    }
-    ,
+        "bipedRobot.reset": "reset robota"
+    },
     "ko": {
-        "carMotor.slider": "슬라이더"
-    }
-    ,
+        "bipedRobot.reset": "로봇 초기화"
+    },
     "th": {
-        "carMotor.slider": "แถบเลื่อน"
-    }
-    ,
+        "bipedRobot.reset": "รีเซ็ตหุ่นยนต์"
+    },
     "nl": {
-        "carMotor.slider": "schuifregelaar"
-    }
-    ,
+        "bipedRobot.reset": "robot resetten"
+    },
     "ar": {
-        "carMotor.slider": "شريط التمرير"
+        "bipedRobot.reset": "إعادة تعيين الروبوت"
     }
-    
 }
 
 const interfaceData = {}

@@ -570,5 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Aranha Biônica de Quatro Pernas",
 	"gui.extension.arm": "braço robótico",
 	"gui.modify.searchBlock": "procurar blocos",
-	"gui.modify.searchButton": "pesquisar"
+	"gui.modify.searchButton": "pesquisa por palavra-chave",
+	"gui.extension.bipedRobot.description": "robô bípedo"
 }

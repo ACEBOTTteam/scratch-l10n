@@ -570,5 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Vierbeinige Bionische Spinne",
 	"gui.extension.arm": "roboterarm",
 	"gui.modify.searchBlock": "blöcke suchen",
-	"gui.modify.searchButton": "suche"
+	"gui.modify.searchButton": "stichwortsuche",
+	"gui.extension.bipedRobot.description": "zweibeiniger roboter"
 }

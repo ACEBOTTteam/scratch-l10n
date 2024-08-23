@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "ما إذا كان المنفذ التسلسلي يستقبل البيانات",
 	"ROBOT_GET_SERIAL_PORT_DATA": "استقبال بيانات المنفذ التسلسلي",
 	"ROBOT_SERIAL_PORT_NULL": "لا يوجد منهي",
-	"ROBOT_OPERATOR_SPLIT_STRING": "قسّم %2 بـ %1 وخذ العنصر %3"
+	"ROBOT_OPERATOR_SPLIT_STRING": "قسّم %2 بـ %1 وخذ العنصر %3",
+	"ROBOT_LIST_SET_TYPE": "تعيين نوع البيانات %1 إلى %2",
+	"ROBOT_ULTRAVIOLET_RAY": "مستشعر الأشعة فوق البنفسجية %1",
+	"ROBOT_WIND_CUP": "كوب الرياح %1",
+	"ROBOT_4BUTTON": "تم الضغط على الزر %2 في وحدة الأزرار الأربعة %1",
+	"ROBOT_YELLOW": "أصفر",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "احصل على %1",
+	"ROBOT_PRESS": "الضغط الجوي",
+	"ROBOT_ALTITUDE": "الارتفاع"
 }

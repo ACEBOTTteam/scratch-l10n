@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "시리얼 포트가 데이터를 수신하는지 여부",
 	"ROBOT_GET_SERIAL_PORT_DATA": "시리얼 포트 데이터 수신",
 	"ROBOT_SERIAL_PORT_NULL": "종료 문자가 없음",
-	"ROBOT_OPERATOR_SPLIT_STRING": "%2를 %1으로 분할하고 항목 %3을 가져옵니다"
+	"ROBOT_OPERATOR_SPLIT_STRING": "%2를 %1으로 분할하고 항목 %3을 가져옵니다",
+	"ROBOT_LIST_SET_TYPE": "%1 데이터 유형을 %2로 설정",
+	"ROBOT_ULTRAVIOLET_RAY": "자외선 센서 %1",
+	"ROBOT_WIND_CUP": "풍향계 %1",
+	"ROBOT_4BUTTON": "네 버튼 모듈 %1의 %2 버튼이 눌림",
+	"ROBOT_YELLOW": "노란색",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "%1 가져오기",
+	"ROBOT_PRESS": "기압",
+	"ROBOT_ALTITUDE": "고도"
 }

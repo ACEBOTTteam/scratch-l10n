@@ -570,5 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "แมงมุมไบโอนิกสี่ขา",
 	"gui.extension.arm": "แขนหุ่นยนต์",
 	"gui.modify.searchBlock": "ค้นหาบล็อก",
-	"gui.modify.searchButton": "ค้นหา"
+	"gui.modify.searchButton": "ค้นหาคำหลัก",
+	"gui.extension.bipedRobot.description": "หุ่นยนต์สองขา"
 }

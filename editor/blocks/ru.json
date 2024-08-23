@@ -412,7 +412,7 @@
 	"ROBOT_CITY_NAME": "Имя города на английском",
 	"ROBOT_DIRECTION": "Ветровое направление",
 	"ROBOT_SPEED": "Скорость ветра",
-	"ROBOT_TEMP": "Температура",
+	"ROBOT_TEMP": "температура",
 	"ROBOT_weather": "Погода",
 	"ROBOT_PM": "Значение PM",
 	"ROBOT_NTP_INIT": "Инициализация сервера NTP",
@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "получает ли последовательный порт данные",
 	"ROBOT_GET_SERIAL_PORT_DATA": "получение данных с последовательного порта",
 	"ROBOT_SERIAL_PORT_NULL": "без завершающего символа",
-	"ROBOT_OPERATOR_SPLIT_STRING": "разделить %2 по %1 и взять элемент %3"
+	"ROBOT_OPERATOR_SPLIT_STRING": "разделить %2 по %1 и взять элемент %3",
+	"ROBOT_LIST_SET_TYPE": "установить тип данных %1 на %2",
+	"ROBOT_ULTRAVIOLET_RAY": "ультрафиолетовый датчик %1",
+	"ROBOT_WIND_CUP": "ветровая чашка %1",
+	"ROBOT_4BUTTON": "кнопка %2 модуля с четырьмя кнопками %1 нажата",
+	"ROBOT_YELLOW": "желтый",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "получить %1",
+	"ROBOT_PRESS": "атмосферное давление",
+	"ROBOT_ALTITUDE": "высота"
 }

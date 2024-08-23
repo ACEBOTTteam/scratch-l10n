@@ -570,5 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Četveronožni Bionički Pauk",
 	"gui.extension.arm": "robotska ruka",
 	"gui.modify.searchBlock": "traži blokove",
-	"gui.modify.searchButton": "traži"
+	"gui.modify.searchButton": "pretraživanje po ključnoj riječi",
+	"gui.extension.bipedRobot.description": "dvonožni robot"
 }

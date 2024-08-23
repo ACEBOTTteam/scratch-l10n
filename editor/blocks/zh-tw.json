@@ -452,5 +452,13 @@
 	"ROBOT_SERIAL_PORT_BOOLEAN": "串口是否接收數據",
 	"ROBOT_GET_SERIAL_PORT_DATA": "串口接收數據",
 	"ROBOT_SERIAL_PORT_NULL": "無結束符",
-	"ROBOT_OPERATOR_SPLIT_STRING": "用%1分割%2的第%3項"
+	"ROBOT_OPERATOR_SPLIT_STRING": "用%1分割%2的第%3項",
+	"ROBOT_LIST_SET_TYPE": "設置%1數據類型為%2",
+	"ROBOT_ULTRAVIOLET_RAY": "紫外線傳感器%1",
+	"ROBOT_WIND_CUP": "風杯%1",
+	"ROBOT_4BUTTON": "四位按鍵模塊%1的%2按鍵被按下",
+	"ROBOT_YELLOW": "黃色",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "獲取%1",
+	"ROBOT_PRESS": "大氣壓",
+	"ROBOT_ALTITUDE": "海拔"
 }

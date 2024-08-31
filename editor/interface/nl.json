@@ -570,6 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Vierbenige Bionische Spin",
 	"gui.extension.arm": "robotarm",
 	"gui.modify.searchBlock": "zoek blokken",
-	"gui.modify.searchButton": "trefwoord zoeken",
+	"gui.modify.searchButton": "blok zoeken",
 	"gui.extension.bipedRobot.description": "tweevoetige robot"
 }

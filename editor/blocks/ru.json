@@ -455,10 +455,10 @@
 	"ROBOT_OPERATOR_SPLIT_STRING": "разделить %2 по %1 и взять элемент %3",
 	"ROBOT_LIST_SET_TYPE": "установить тип данных %1 на %2",
 	"ROBOT_ULTRAVIOLET_RAY": "ультрафиолетовый датчик %1",
-	"ROBOT_WIND_CUP": "ветровая чашка %1",
+	"ROBOT_WIND_CUP": "анемометр%1",
 	"ROBOT_4BUTTON": "кнопка %2 модуля с четырьмя кнопками %1 нажата",
 	"ROBOT_YELLOW": "желтый",
-	"ROBOT_ATMOSPHERIC_PRESSURE": "получить %1",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "барометр%1",
 	"ROBOT_PRESS": "атмосферное давление",
 	"ROBOT_ALTITUDE": "высота"
 }

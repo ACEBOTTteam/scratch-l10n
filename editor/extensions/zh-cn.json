@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "设置左大腿[ONE]左小腿[TWO]右大腿[THREE]右小腿[FOUR]",
 	"bipedRobot.bipedRobotRunAction": "执行[ONE]速度[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "创建动作[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "左大腿[ONE]左小腿[TWO]右大腿[THREE]右小腿[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "左大腿[ONE]左小腿[TWO]右大腿[THREE]右小腿[FOUR]速度[FIVE]",
 	"bipedRobot.bipedRobotRun": "执行[ONE]",
 	"bipedRobot.bipedRobotServe": "开启[ONE]服务",
 	"bipedRobot.bipedRobotGetAppCommand": "获取[ONE]指令",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "跟随",
 	"bipedRobot.avoid": "避障",
 	"bipedRobot.stop": "机器人停止",
-	"bipedRobot.reset": "机器人复位"
+	"bipedRobot.reset": "机器人复位",
+	"ROBOT_ARM_LOOP_RUN": "循环运行"
 }

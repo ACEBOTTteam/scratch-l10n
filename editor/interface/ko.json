@@ -570,6 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "사족 바이오닉 거미",
 	"gui.extension.arm": "로봇 팔",
 	"gui.modify.searchBlock": "블록 검색",
-	"gui.modify.searchButton": "키워드 검색",
+	"gui.modify.searchButton": "블록 검색",
 	"gui.extension.bipedRobot.description": "이족 로봇"
 }

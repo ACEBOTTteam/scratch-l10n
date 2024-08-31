@@ -570,6 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Ragno Bionico a Quattro Zampe",
 	"gui.extension.arm": "braccio robotico",
 	"gui.modify.searchBlock": "cerca blocchi",
-	"gui.modify.searchButton": "ricerca per parola chiave",
+	"gui.modify.searchButton": "ricerca blocchi",
 	"gui.extension.bipedRobot.description": "robot bipede"
 }

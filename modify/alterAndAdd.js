@@ -25,59 +25,58 @@ const block = {}
 
 const extensions = {
     "zh-cn": {
-        "bipedRobot.reset":"机器人复位"
-    }
-    ,
+        "ROBOT_ARM_LOOP_RUN": "循环运行",
+    },
     "zh-tw": {
-        "bipedRobot.reset": "機器人復位"
+        "ROBOT_ARM_LOOP_RUN": "循環運行"
     },
     "en": {
-        "bipedRobot.reset": "robot reset"
+        "ROBOT_ARM_LOOP_RUN": "loop run"
     },
     "fr": {
-        "bipedRobot.reset": "réinitialisation du robot"
+        "ROBOT_ARM_LOOP_RUN": "exécution en boucle"
     },
     "ja": {
-        "bipedRobot.reset": "ロボットリセット"
+        "ROBOT_ARM_LOOP_RUN": "ループ実行"
     },
     "de": {
-        "bipedRobot.reset": "roboter zurücksetzen"
+        "ROBOT_ARM_LOOP_RUN": "schleifenlauf"
     },
     "es": {
-        "bipedRobot.reset": "reinicio de robot"
+        "ROBOT_ARM_LOOP_RUN": "ejecución en bucle"
     },
     "ru": {
-        "bipedRobot.reset": "сброс робота"
+        "ROBOT_ARM_LOOP_RUN": "циклический запуск"
     },
     "cs": {
-        "bipedRobot.reset": "reset robota"
+        "ROBOT_ARM_LOOP_RUN": "smyčka běží"
     },
     "it": {
-        "bipedRobot.reset": "ripristino del robot"
+        "ROBOT_ARM_LOOP_RUN": "esecuzione in loop"
     },
     "pl": {
-        "bipedRobot.reset": "resetowanie robota"
+        "ROBOT_ARM_LOOP_RUN": "uruchomienie pętli"
     },
     "tr": {
-        "bipedRobot.reset": "robot sıfırlama"
+        "ROBOT_ARM_LOOP_RUN": "döngü çalıştır"
     },
     "pt": {
-        "bipedRobot.reset": "reinicializar robô"
+        "ROBOT_ARM_LOOP_RUN": "execução em loop"
     },
     "hr": {
-        "bipedRobot.reset": "reset robota"
+        "ROBOT_ARM_LOOP_RUN": "izvedba u petlji"
     },
     "ko": {
-        "bipedRobot.reset": "로봇 초기화"
+        "ROBOT_ARM_LOOP_RUN": "루프 실행"
     },
     "th": {
-        "bipedRobot.reset": "รีเซ็ตหุ่นยนต์"
+        "ROBOT_ARM_LOOP_RUN": "การรันแบบลูป"
     },
     "nl": {
-        "bipedRobot.reset": "robot resetten"
+        "ROBOT_ARM_LOOP_RUN": "lus draaien"
     },
     "ar": {
-        "bipedRobot.reset": "إعادة تعيين الروبوت"
+        "ROBOT_ARM_LOOP_RUN": "تشغيل متكرر"
     }
 }
 

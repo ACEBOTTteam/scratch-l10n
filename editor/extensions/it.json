@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "impostare coscia sinistra[ONE] polpaccio sinistro[TWO] coscia destra[THREE] polpaccio destro[FOUR]",
 	"bipedRobot.bipedRobotRunAction": "eseguire[ONE] velocità[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "creare azione[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "coscia sinistra[ONE] polpaccio sinistro[TWO] coscia destra[THREE] polpaccio destro[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "coscia sinistra[ONE]polpaccio sinistro[TWO]coscia destra[THREE]polpaccio destro[FOUR]velocità[FIVE]",
 	"bipedRobot.bipedRobotRun": "eseguire[ONE]",
 	"bipedRobot.bipedRobotServe": "avviare servizio[ONE]",
 	"bipedRobot.bipedRobotGetAppCommand": "ottenere comando[ONE]",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "seguire",
 	"bipedRobot.avoid": "evitare",
 	"bipedRobot.stop": "fermare il robot",
-	"bipedRobot.reset": "ripristino del robot"
+	"bipedRobot.reset": "ripristino del robot",
+	"ROBOT_ARM_LOOP_RUN": "esecuzione in loop"
 }

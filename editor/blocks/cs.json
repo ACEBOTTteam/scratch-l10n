@@ -455,10 +455,10 @@
 	"ROBOT_OPERATOR_SPLIT_STRING": "rozdělit %2 podle %1 a vzít položku %3",
 	"ROBOT_LIST_SET_TYPE": "nastavit typ dat %1 na %2",
 	"ROBOT_ULTRAVIOLET_RAY": "ultrafialový senzor %1",
-	"ROBOT_WIND_CUP": "větrný pohár %1",
+	"ROBOT_WIND_CUP": "anemometr%1",
 	"ROBOT_4BUTTON": "čtyřtlačítkový modul %1, %2 tlačítko je stisknuto",
 	"ROBOT_YELLOW": "žlutá",
-	"ROBOT_ATMOSPHERIC_PRESSURE": "získat %1",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "barometr%1",
 	"ROBOT_PRESS": "atmosférický tlak",
 	"ROBOT_ALTITUDE": "nadmořská výška"
 }

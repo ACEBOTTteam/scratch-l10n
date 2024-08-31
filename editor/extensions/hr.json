@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "postavi lijevo bedro[ONE] lijeva potkoljenica[TWO] desno bedro[THREE] desna potkoljenica[FOUR]",
 	"bipedRobot.bipedRobotRunAction": "pokreni[ONE] brzina[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "stvoriti akciju[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "lijevo bedro[ONE] lijeva potkoljenica[TWO] desno bedro[THREE] desna potkoljenica[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "lijevo bedro[ONE]lijeva potkoljenica[TWO]desno bedro[THREE]desna potkoljenica[FOUR]brzina[FIVE]",
 	"bipedRobot.bipedRobotRun": "pokreni[ONE]",
 	"bipedRobot.bipedRobotServe": "pokreni uslugu[ONE]",
 	"bipedRobot.bipedRobotGetAppCommand": "preuzmi naredbu[ONE]",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "pratiti",
 	"bipedRobot.avoid": "izbjegavati",
 	"bipedRobot.stop": "zaustavi robota",
-	"bipedRobot.reset": "reset robota"
+	"bipedRobot.reset": "reset robota",
+	"ROBOT_ARM_LOOP_RUN": "izvedba u petlji"
 }

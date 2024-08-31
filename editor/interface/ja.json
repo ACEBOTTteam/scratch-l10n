@@ -570,6 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "四脚バイオニクスパイダー",
 	"gui.extension.arm": "ロボットアーム",
 	"gui.modify.searchBlock": "ブロックを検索",
-	"gui.modify.searchButton": "キーワード検索",
+	"gui.modify.searchButton": "ブロック検索",
 	"gui.extension.bipedRobot.description": "二足歩行ロボット"
 }

@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "linker oberschenkel[ONE] linker unterschenkel[TWO] rechter oberschenkel[THREE] rechter unterschenkel[FOUR] einstellen",
 	"bipedRobot.bipedRobotRunAction": "[ONE] ausführen geschwindigkeit[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "aktion erstellen[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "linker oberschenkel[ONE] linker unterschenkel[TWO] rechter oberschenkel[THREE] rechter unterschenkel[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "linker oberschenkel[ONE]linkes schienbein[TWO]rechter oberschenkel[THREE]rechtes schienbein[FOUR]geschwindigkeit[FIVE]",
 	"bipedRobot.bipedRobotRun": "[ONE] ausführen",
 	"bipedRobot.bipedRobotServe": "[ONE] dienst starten",
 	"bipedRobot.bipedRobotGetAppCommand": "[ONE] befehl abrufen",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "folgen",
 	"bipedRobot.avoid": "vermeiden",
 	"bipedRobot.stop": "roboter stopp",
-	"bipedRobot.reset": "roboter zurücksetzen"
+	"bipedRobot.reset": "roboter zurücksetzen",
+	"ROBOT_ARM_LOOP_RUN": "schleifenlauf"
 }

@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "установить левое бедро[ONE] левая голень[TWO] правое бедро[THREE] правая голень[FOUR]",
 	"bipedRobot.bipedRobotRunAction": "выполнить[ONE] скорость[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "создать действие[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "левое бедро[ONE] левая голень[TWO] правое бедро[THREE] правая голень[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "левое бедро[ONE]левая голень[TWO]правое бедро[THREE]правая голень[FOUR]скорость[FIVE]",
 	"bipedRobot.bipedRobotRun": "выполнить[ONE]",
 	"bipedRobot.bipedRobotServe": "запустить службу[ONE]",
 	"bipedRobot.bipedRobotGetAppCommand": "получить команду[ONE]",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "следовать",
 	"bipedRobot.avoid": "избегать",
 	"bipedRobot.stop": "остановка робота",
-	"bipedRobot.reset": "сброс робота"
+	"bipedRobot.reset": "сброс робота",
+	"ROBOT_ARM_LOOP_RUN": "циклический запуск"
 }

@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "nastavit levé stehno[ONE] levá lýtka[TWO] pravé stehno[THREE] pravá lýtka[FOUR]",
 	"bipedRobot.bipedRobotRunAction": "spustit[ONE] rychlost[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "vytvořit akci[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "levé stehno[ONE] levá lýtka[TWO] pravé stehno[THREE] pravá lýtka[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "levé stehno[ONE]levá lýtko[TWO]pravé stehno[THREE]pravá lýtko[FOUR]rychlost[FIVE]",
 	"bipedRobot.bipedRobotRun": "spustit[ONE]",
 	"bipedRobot.bipedRobotServe": "spustit službu[ONE]",
 	"bipedRobot.bipedRobotGetAppCommand": "získat příkaz[ONE]",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "sledovat",
 	"bipedRobot.avoid": "vyhnout se",
 	"bipedRobot.stop": "zastavení robota",
-	"bipedRobot.reset": "reset robota"
+	"bipedRobot.reset": "reset robota",
+	"ROBOT_ARM_LOOP_RUN": "smyčka běží"
 }

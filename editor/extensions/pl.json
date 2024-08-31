@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "ustaw lewe udo[ONE] lewa łydka[TWO] prawe udo[THREE] prawa łydka[FOUR]",
 	"bipedRobot.bipedRobotRunAction": "uruchom[ONE] prędkość[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "utwórz akcję[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "lewe udo[ONE] lewa łydka[TWO] prawe udo[THREE] prawa łydka[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "lewe udo[ONE]lewa łydka[TWO]prawe udo[THREE]prawa łydka[FOUR]prędkość[FIVE]",
 	"bipedRobot.bipedRobotRun": "uruchom[ONE]",
 	"bipedRobot.bipedRobotServe": "rozpocznij usługę[ONE]",
 	"bipedRobot.bipedRobotGetAppCommand": "pobierz polecenie[ONE]",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "podążaj",
 	"bipedRobot.avoid": "unikaj",
 	"bipedRobot.stop": "zatrzymaj robota",
-	"bipedRobot.reset": "resetowanie robota"
+	"bipedRobot.reset": "resetowanie robota",
+	"ROBOT_ARM_LOOP_RUN": "uruchomienie pętli"
 }

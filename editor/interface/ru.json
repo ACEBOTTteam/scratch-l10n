@@ -570,6 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Четырехногий бионический паук",
 	"gui.extension.arm": "роботизированная рука",
 	"gui.modify.searchBlock": "поиск блоков",
-	"gui.modify.searchButton": "поиск по ключевым словам",
+	"gui.modify.searchButton": "поиск блоков",
 	"gui.extension.bipedRobot.description": "двуногий робот"
 }

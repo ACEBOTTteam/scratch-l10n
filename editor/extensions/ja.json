@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "左腿[ONE]左脛[TWO]右腿[THREE]右脛[FOUR]を設定",
 	"bipedRobot.bipedRobotRunAction": "[ONE]を実行 速度[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "[ONE]動作を作成",
-	"bipedRobot.bipedRobotSetAngle": "左腿[ONE]左脛[TWO]右腿[THREE]右脛[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "左太もも[ONE]左ふくらはぎ[TWO]右太もも[THREE]右ふくらはぎ[FOUR]速度[FIVE]",
 	"bipedRobot.bipedRobotRun": "[ONE]を実行",
 	"bipedRobot.bipedRobotServe": "[ONE]サービスを開始",
 	"bipedRobot.bipedRobotGetAppCommand": "[ONE]コマンドを取得",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "フォロー",
 	"bipedRobot.avoid": "障害物を避ける",
 	"bipedRobot.stop": "ロボット停止",
-	"bipedRobot.reset": "ロボットリセット"
+	"bipedRobot.reset": "ロボットリセット",
+	"ROBOT_ARM_LOOP_RUN": "ループ実行"
 }

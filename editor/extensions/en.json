@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "set left thigh[ONE] left calf[TWO] right thigh[THREE] right calf[FOUR]",
 	"bipedRobot.bipedRobotRunAction": "run action[ONE] speed[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "create action[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "left thigh[ONE] left calf[TWO] right thigh[THREE] right calf[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "left thigh[ONE]left calf[TWO]right thigh[THREE]right calf[FOUR]speed[FIVE]",
 	"bipedRobot.bipedRobotRun": "run[ONE]",
 	"bipedRobot.bipedRobotServe": "start[ONE] service",
 	"bipedRobot.bipedRobotGetAppCommand": "get[ONE] command",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "follow",
 	"bipedRobot.avoid": "avoid",
 	"bipedRobot.stop": "robot stop",
-	"bipedRobot.reset": "robot reset"
+	"bipedRobot.reset": "robot reset",
+	"ROBOT_ARM_LOOP_RUN": "loop run"
 }

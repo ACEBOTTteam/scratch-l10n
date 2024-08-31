@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "ตั้งค่าต้นขาซ้าย[ONE] น่องซ้าย[TWO] ต้นขาขวา[THREE] น่องขวา[FOUR]",
 	"bipedRobot.bipedRobotRunAction": "เรียกใช้[ONE] ความเร็ว[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "สร้างการกระทำ[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "ต้นขาซ้าย[ONE] น่องซ้าย[TWO] ต้นขาขวา[THREE] น่องขวา[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "ต้นขาซ้าย[ONE]น่องซ้าย[TWO]ต้นขาขวา[THREE]น่องขวา[FOUR]ความเร็ว[FIVE]",
 	"bipedRobot.bipedRobotRun": "เรียกใช้[ONE]",
 	"bipedRobot.bipedRobotServe": "เริ่มบริการ[ONE]",
 	"bipedRobot.bipedRobotGetAppCommand": "รับคำสั่ง[ONE]",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "ติดตาม",
 	"bipedRobot.avoid": "หลีกเลี่ยง",
 	"bipedRobot.stop": "หยุดหุ่นยนต์",
-	"bipedRobot.reset": "รีเซ็ตหุ่นยนต์"
+	"bipedRobot.reset": "รีเซ็ตหุ่นยนต์",
+	"ROBOT_ARM_LOOP_RUN": "การรันแบบลูป"
 }

@@ -570,6 +570,6 @@
 	"gui.extension.facial_recognition": "facial recognition",
 	"gui.extension.arm": "robot arm",
 	"gui.modify.searchBlock": "search blocks",
-	"gui.modify.searchButton": "keyword search",
+	"gui.modify.searchButton": "block search",
 	"gui.extension.bipedRobot.description": "biped robot"
 }

@@ -570,6 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Dört Ayaklı Biyonik Örümcek",
 	"gui.extension.arm": "robot kolu",
 	"gui.modify.searchBlock": "blokları ara",
-	"gui.modify.searchButton": "anahtar kelime arama",
+	"gui.modify.searchButton": "blok arama",
 	"gui.extension.bipedRobot.description": "biped robot"
 }

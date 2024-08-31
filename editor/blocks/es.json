@@ -455,10 +455,10 @@
 	"ROBOT_OPERATOR_SPLIT_STRING": "dividir %2 por %1 y tomar el elemento %3",
 	"ROBOT_LIST_SET_TYPE": "establecer el tipo de datos de %1 a %2",
 	"ROBOT_ULTRAVIOLET_RAY": "sensor ultravioleta %1",
-	"ROBOT_WIND_CUP": "anemómetro %1",
+	"ROBOT_WIND_CUP": "anemómetro%1",
 	"ROBOT_4BUTTON": "el botón %2 del módulo de cuatro botones %1 está presionado",
 	"ROBOT_YELLOW": "amarillo",
-	"ROBOT_ATMOSPHERIC_PRESSURE": "obtener %1",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "barómetro%1",
 	"ROBOT_PRESS": "presión atmosférica",
 	"ROBOT_ALTITUDE": "altitud"
 }

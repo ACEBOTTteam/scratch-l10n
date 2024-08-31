@@ -455,10 +455,10 @@
 	"ROBOT_OPERATOR_SPLIT_STRING": "%2'yi %1 ile böl ve %3. öğeyi al",
 	"ROBOT_LIST_SET_TYPE": "%1 veri türünü %2 olarak ayarla",
 	"ROBOT_ULTRAVIOLET_RAY": "ultraviyole sensörü %1",
-	"ROBOT_WIND_CUP": "rüzgar kupası %1",
+	"ROBOT_WIND_CUP": "anemometre%1",
 	"ROBOT_4BUTTON": "dört düğmeli modül %1'in %2 düğmesi basılı",
 	"ROBOT_YELLOW": "sarı",
-	"ROBOT_ATMOSPHERIC_PRESSURE": "%1 almak",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "barometre%1",
 	"ROBOT_PRESS": "atmosferik basınç",
 	"ROBOT_ALTITUDE": "irtifa"
 }

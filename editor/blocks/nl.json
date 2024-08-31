@@ -455,10 +455,10 @@
 	"ROBOT_OPERATOR_SPLIT_STRING": "splits %2 door %1 en neem item %3",
 	"ROBOT_LIST_SET_TYPE": "stel het gegevenstype van %1 in op %2",
 	"ROBOT_ULTRAVIOLET_RAY": "ultravioletsensor %1",
-	"ROBOT_WIND_CUP": "windbeker %1",
+	"ROBOT_WIND_CUP": "anemometer%1",
 	"ROBOT_4BUTTON": "de %2 knop van het vierknopsmodule %1 is ingedrukt",
 	"ROBOT_YELLOW": "geel",
-	"ROBOT_ATMOSPHERIC_PRESSURE": "%1 ophalen",
+	"ROBOT_ATMOSPHERIC_PRESSURE": "barometer%1",
 	"ROBOT_PRESS": "luchtdruk",
 	"ROBOT_ALTITUDE": "hoogte"
 }

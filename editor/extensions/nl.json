@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "stel linker dijbeen[ONE] linker kuit[TWO] rechter dijbeen[THREE] rechter kuit[FOUR] in",
 	"bipedRobot.bipedRobotRunAction": "voer uit[ONE] snelheid[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "creëer actie[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "linker dijbeen[ONE] linker kuit[TWO] rechter dijbeen[THREE] rechter kuit[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "linker dij[ONE]linker kuit[TWO]rechter dij[THREE]rechter kuit[FOUR]snelheid[FIVE]",
 	"bipedRobot.bipedRobotRun": "voer uit[ONE]",
 	"bipedRobot.bipedRobotServe": "start dienst[ONE]",
 	"bipedRobot.bipedRobotGetAppCommand": "haal opdracht op[ONE]",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "volgen",
 	"bipedRobot.avoid": "vermijden",
 	"bipedRobot.stop": "robot stoppen",
-	"bipedRobot.reset": "robot resetten"
+	"bipedRobot.reset": "robot resetten",
+	"ROBOT_ARM_LOOP_RUN": "lus draaien"
 }

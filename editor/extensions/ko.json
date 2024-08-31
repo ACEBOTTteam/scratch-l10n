@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "왼쪽 허벅지[ONE] 왼쪽 종아리[TWO] 오른쪽 허벅지[THREE] 오른쪽 종아리[FOUR] 설정",
 	"bipedRobot.bipedRobotRunAction": "실행[ONE] 속도[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "동작 만들기[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "왼쪽 허벅지[ONE] 왼쪽 종아리[TWO] 오른쪽 허벅지[THREE] 오른쪽 종아리[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "왼쪽 허벅지[ONE]왼쪽 종아리[TWO]오른쪽 허벅지[THREE]오른쪽 종아리[FOUR]속도[FIVE]",
 	"bipedRobot.bipedRobotRun": "실행[ONE]",
 	"bipedRobot.bipedRobotServe": "서비스 시작[ONE]",
 	"bipedRobot.bipedRobotGetAppCommand": "명령 가져오기[ONE]",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "따라가기",
 	"bipedRobot.avoid": "피하기",
 	"bipedRobot.stop": "로봇 정지",
-	"bipedRobot.reset": "로봇 초기화"
+	"bipedRobot.reset": "로봇 초기화",
+	"ROBOT_ARM_LOOP_RUN": "루프 실행"
 }

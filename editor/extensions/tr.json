@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "sol uyluk[ONE] sol baldır[TWO] sağ uyluk[THREE] sağ baldır[FOUR] ayarla",
 	"bipedRobot.bipedRobotRunAction": "[ONE] hız[TWO] çalıştır",
 	"bipedRobot.bipedRobotCreatAction": "[ONE] eylemi oluştur",
-	"bipedRobot.bipedRobotSetAngle": "sol uyluk[ONE] sol baldır[TWO] sağ uyluk[THREE] sağ baldır[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "sol uyluk[ONE]sol baldır[TWO]sağ uyluk[THREE]sağ baldır[FOUR]hız[FIVE]",
 	"bipedRobot.bipedRobotRun": "[ONE] çalıştır",
 	"bipedRobot.bipedRobotServe": "[ONE] hizmeti başlat",
 	"bipedRobot.bipedRobotGetAppCommand": "[ONE] komut al",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "takip et",
 	"bipedRobot.avoid": "kaçın",
 	"bipedRobot.stop": "robot durdur",
-	"bipedRobot.reset": "robot sıfırlama"
+	"bipedRobot.reset": "robot sıfırlama",
+	"ROBOT_ARM_LOOP_RUN": "döngü çalıştır"
 }

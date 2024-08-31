@@ -390,7 +390,7 @@
 	"bipedRobot.bipedRobotSetPin": "اضبط الفخذ الأيسر[ONE] الساق اليسرى[TWO] الفخذ الأيمن[THREE] الساق اليمنى[FOUR]",
 	"bipedRobot.bipedRobotRunAction": "نفذ[ONE] السرعة[TWO]",
 	"bipedRobot.bipedRobotCreatAction": "إنشاء حركة[ONE]",
-	"bipedRobot.bipedRobotSetAngle": "الفخذ الأيسر[ONE] الساق اليسرى[TWO] الفخذ الأيمن[THREE] الساق اليمنى[FOUR]",
+	"bipedRobot.bipedRobotSetAngle": "الفخذ الأيسر[ONE]الساق اليسرى[TWO]الفخذ الأيمن[THREE]الساق اليمنى[FOUR]السرعة[FIVE]",
 	"bipedRobot.bipedRobotRun": "نفذ[ONE]",
 	"bipedRobot.bipedRobotServe": "ابدأ الخدمة[ONE]",
 	"bipedRobot.bipedRobotGetAppCommand": "احصل على أمر[ONE]",
@@ -409,5 +409,6 @@
 	"bipedRobot.follow": "اتبع",
 	"bipedRobot.avoid": "تجنب",
 	"bipedRobot.stop": "إيقاف الروبوت",
-	"bipedRobot.reset": "إعادة تعيين الروبوت"
+	"bipedRobot.reset": "إعادة تعيين الروبوت",
+	"ROBOT_ARM_LOOP_RUN": "تشغيل متكرر"
 }

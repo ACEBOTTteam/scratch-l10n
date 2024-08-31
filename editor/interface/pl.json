@@ -570,6 +570,6 @@
 	"gui.extension.fourLeggedBionicSpider": "Czteronożny Bioniczny Pająk",
 	"gui.extension.arm": "ręka robota",
 	"gui.modify.searchBlock": "wyszukaj bloki",
-	"gui.modify.searchButton": "wyszukiwanie według słów kluczowych",
+	"gui.modify.searchButton": "wyszukiwanie bloków",
 	"gui.extension.bipedRobot.description": "dwunożny robot"
 }

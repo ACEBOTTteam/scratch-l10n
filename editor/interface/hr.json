@@ -571,5 +571,6 @@
 	"gui.extension.arm": "robotska ruka",
 	"gui.modify.searchBlock": "traži blokove",
 	"gui.modify.searchButton": "pretraživanje blokova",
-	"gui.extension.bipedRobot.description": "dvonožni robot"
+	"gui.extension.bipedRobot.description": "dvonožni robot",
+	"gui.modify.installTheDriver": "jednim klikom instalirajte serijski upravljački program"
 }

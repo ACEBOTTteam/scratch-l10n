@@ -571,5 +571,6 @@
 	"gui.extension.arm": "robotická ruka",
 	"gui.modify.searchBlock": "hledat bloky",
 	"gui.modify.searchButton": "hledání bloků",
-	"gui.extension.bipedRobot.description": "dvounohý robot"
+	"gui.extension.bipedRobot.description": "dvounohý robot",
+	"gui.modify.installTheDriver": "jedním kliknutím nainstalujte sériový ovladač"
 }

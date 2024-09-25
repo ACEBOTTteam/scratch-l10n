@@ -571,5 +571,6 @@
 	"gui.extension.arm": "роботизированная рука",
 	"gui.modify.searchBlock": "поиск блоков",
 	"gui.modify.searchButton": "поиск блоков",
-	"gui.extension.bipedRobot.description": "двуногий робот"
+	"gui.extension.bipedRobot.description": "двуногий робот",
+	"gui.modify.installTheDriver": "установка серийного драйвера в один клик"
 }

@@ -571,5 +571,6 @@
 	"gui.extension.arm": "로봇 팔",
 	"gui.modify.searchBlock": "블록 검색",
 	"gui.modify.searchButton": "블록 검색",
-	"gui.extension.bipedRobot.description": "이족 로봇"
+	"gui.extension.bipedRobot.description": "이족 로봇",
+	"gui.modify.installTheDriver": "원클릭으로 시리얼 드라이버 설치"
 }

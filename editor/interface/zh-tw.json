@@ -571,5 +571,6 @@
 	"gui.extension.arm": "機械臂",
 	"gui.modify.searchBlock": "搜索積木",
 	"gui.modify.searchButton": "積木搜索",
-	"gui.extension.bipedRobot.description": "雙足機器人"
+	"gui.extension.bipedRobot.description": "雙足機器人",
+	"gui.modify.installTheDriver": "一鍵安裝串口驅動"
 }

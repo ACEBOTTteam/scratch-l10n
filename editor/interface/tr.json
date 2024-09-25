@@ -571,5 +571,6 @@
 	"gui.extension.arm": "robot kolu",
 	"gui.modify.searchBlock": "blokları ara",
 	"gui.modify.searchButton": "blok arama",
-	"gui.extension.bipedRobot.description": "biped robot"
+	"gui.extension.bipedRobot.description": "biped robot",
+	"gui.modify.installTheDriver": "tek tıklamayla seri sürücü yükleme"
 }

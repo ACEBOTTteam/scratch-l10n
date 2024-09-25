@@ -571,5 +571,6 @@
 	"gui.extension.arm": "ręka robota",
 	"gui.modify.searchBlock": "wyszukaj bloki",
 	"gui.modify.searchButton": "wyszukiwanie bloków",
-	"gui.extension.bipedRobot.description": "dwunożny robot"
+	"gui.extension.bipedRobot.description": "dwunożny robot",
+	"gui.modify.installTheDriver": "instalacja sterownika szeregowego jednym kliknięciem"
 }

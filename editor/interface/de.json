@@ -571,5 +571,6 @@
 	"gui.extension.arm": "roboterarm",
 	"gui.modify.searchBlock": "blöcke suchen",
 	"gui.modify.searchButton": "blocksuche",
-	"gui.extension.bipedRobot.description": "zweibeiniger roboter"
+	"gui.extension.bipedRobot.description": "zweibeiniger roboter",
+	"gui.modify.installTheDriver": "ein-klick-installation des seriellen treibers"
 }

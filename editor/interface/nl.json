@@ -571,5 +571,6 @@
 	"gui.extension.arm": "robotarm",
 	"gui.modify.searchBlock": "zoek blokken",
 	"gui.modify.searchButton": "blok zoeken",
-	"gui.extension.bipedRobot.description": "tweevoetige robot"
+	"gui.extension.bipedRobot.description": "tweevoetige robot",
+	"gui.modify.installTheDriver": "een-klik installatie van seriële driver"
 }

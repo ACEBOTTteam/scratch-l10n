@@ -450,7 +450,7 @@
 	"ROBOT_ASYNC_DELAY": "تأخير غير متزامن %1",
 	"ROBOT_ROCKER_DATA": "عصا التحكم x%1y%2sw%3قيمة%4",
 	"ROBOT_SERIAL_PORT_BOOLEAN": "ما إذا كان المنفذ التسلسلي يستقبل البيانات",
-	"ROBOT_GET_SERIAL_PORT_DATA": "استقبال بيانات المنفذ التسلسلي",
+	"ROBOT_GET_SERIAL_PORT_DATA": "منفذ تسلسلي يستقبل %1",
 	"ROBOT_SERIAL_PORT_NULL": "لا يوجد منهي",
 	"ROBOT_OPERATOR_SPLIT_STRING": "قسّم %2 بـ %1 وخذ العنصر %3",
 	"ROBOT_LIST_SET_TYPE": "تعيين نوع البيانات %1 إلى %2",
@@ -460,5 +460,14 @@
 	"ROBOT_YELLOW": "أصفر",
 	"ROBOT_ATMOSPHERIC_PRESSURE": "بارومتر%1",
 	"ROBOT_PRESS": "الضغط الجوي",
-	"ROBOT_ALTITUDE": "الارتفاع"
+	"ROBOT_ALTITUDE": "الارتفاع",
+	"ROBOT_BLDC_SWITCH": "محرك tt تقليل التروس التيار المستمر in-%1in+%2%3",
+	"ROBOT_PORT_DATA": "البيانات",
+	"ROBOT_PORT_STRING": "سلسلة",
+	"ROBOT_PORT_NUMBER": "رقم",
+	"ROBOT_GET_SERVO_ANGLE": "احصل على زاوية السيرفو %1",
+	"ROBOT_CHAR": "حرف %1",
+	"ROBOT_LEFT_ROCKER": "عصا التحكم اليسرى",
+	"ROBOT_RIGHT_ROCKER": "عصا التحكم اليمنى",
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4القيمة%5"
 }

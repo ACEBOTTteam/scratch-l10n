@@ -450,7 +450,7 @@
 	"ROBOT_ASYNC_DELAY": "asynchronous delay %1",
 	"ROBOT_ROCKER_DATA": "rocker x%1y%2sw%3value%4",
 	"ROBOT_SERIAL_PORT_BOOLEAN": "whether the serial port receives data",
-	"ROBOT_GET_SERIAL_PORT_DATA": "receive serial port data",
+	"ROBOT_GET_SERIAL_PORT_DATA": "serial port receives %1",
 	"ROBOT_SERIAL_PORT_NULL": "no terminator",
 	"ROBOT_OPERATOR_SPLIT_STRING": "split %2 by %1 and take item %3",
 	"ROBOT_LIST_SET_TYPE": "set %1 data type to %2",
@@ -460,5 +460,14 @@
 	"ROBOT_YELLOW": "yellow",
 	"ROBOT_ATMOSPHERIC_PRESSURE": "barometric pressure sensor%1",
 	"ROBOT_PRESS": "atmospheric pressure",
-	"ROBOT_ALTITUDE": "altitude"
+	"ROBOT_ALTITUDE": "altitude",
+	"ROBOT_BLDC_SWITCH": "dc gear reduction tt motor in-%1in+%2%3",
+	"ROBOT_PORT_DATA": "data",
+	"ROBOT_PORT_STRING": "string",
+	"ROBOT_PORT_NUMBER": "number",
+	"ROBOT_GET_SERVO_ANGLE": "get servo %1 angle",
+	"ROBOT_CHAR": "char %1",
+	"ROBOT_LEFT_ROCKER": "left rocker",
+	"ROBOT_RIGHT_ROCKER": "right rocker",
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4value%5"
 }

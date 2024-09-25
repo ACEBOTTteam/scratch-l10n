@@ -571,5 +571,6 @@
 	"gui.extension.arm": "brazo robótico",
 	"gui.modify.searchBlock": "buscar bloques",
 	"gui.modify.searchButton": "búsqueda de bloques",
-	"gui.extension.bipedRobot.description": "robot bípedo"
+	"gui.extension.bipedRobot.description": "robot bípedo",
+	"gui.modify.installTheDriver": "instalar el controlador de serie con un clic"
 }

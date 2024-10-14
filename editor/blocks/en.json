@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "char %1",
 	"ROBOT_LEFT_ROCKER": "left rocker",
 	"ROBOT_RIGHT_ROCKER": "right rocker",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4value%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4value%5",
+	"ROBOT_WIND_CUP_DATA": "value",
+	"ROBOT_WIND_CUP_LEVEL": "level"
 }

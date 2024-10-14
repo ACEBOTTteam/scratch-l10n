@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "znak %1",
 	"ROBOT_LEFT_ROCKER": "lijevi joystick",
 	"ROBOT_RIGHT_ROCKER": "desni joystick",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4vrijednost%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4vrijednost%5",
+	"ROBOT_WIND_CUP_DATA": "vrijednost",
+	"ROBOT_WIND_CUP_LEVEL": "razina"
 }

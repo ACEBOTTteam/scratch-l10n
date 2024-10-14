@@ -375,7 +375,7 @@
 	"ROBOT_ARM_Y": "uzay koordinatı y",
 	"ROBOT_ARM_Z": "uzay koordinatı z",
 	"carMotor.slider": "kaydırıcı",
-	"arm_car.arm.init": "robot kolu başlatma şasi[ONE]omuz[İKİ]dirsek[ÜÇ]bilek[DÖRT]pazlar[BEŞ]",
+	"arm_car.arm.init": "robot kolu başlatma şasi[ONE]omuz[TWO]dirsek[THREE]bilek[FOUR]pazlar[FIVE]",
 	"arm_car.arm.setAngle": "robot kolu [ONE] açısını ayarla [TWO]",
 	"arm_car.arm.wrist": "bilek",
 	"arm_car.car.speed": "araba hızı",

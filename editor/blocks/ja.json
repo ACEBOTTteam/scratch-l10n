@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "文字%1",
 	"ROBOT_LEFT_ROCKER": "左ジョイスティック",
 	"ROBOT_RIGHT_ROCKER": "右ジョイスティック",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4値%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4値%5",
+	"ROBOT_WIND_CUP_DATA": "値",
+	"ROBOT_WIND_CUP_LEVEL": "レベル"
 }

@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "문자 %1",
 	"ROBOT_LEFT_ROCKER": "왼쪽 조이스틱",
 	"ROBOT_RIGHT_ROCKER": "오른쪽 조이스틱",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4값%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4값%5",
+	"ROBOT_WIND_CUP_DATA": "값",
+	"ROBOT_WIND_CUP_LEVEL": "레벨"
 }

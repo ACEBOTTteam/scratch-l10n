@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "символ %1",
 	"ROBOT_LEFT_ROCKER": "левый джойстик",
 	"ROBOT_RIGHT_ROCKER": "правый джойстик",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4значение%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4значение%5",
+	"ROBOT_WIND_CUP_DATA": "значение",
+	"ROBOT_WIND_CUP_LEVEL": "уровень"
 }

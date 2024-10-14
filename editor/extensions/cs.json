@@ -375,7 +375,7 @@
 	"ROBOT_ARM_Y": "prostorová souřadnice y",
 	"ROBOT_ARM_Z": "prostorová souřadnice z",
 	"carMotor.slider": "posuvník",
-	"arm_car.arm.init": "inicializace robotického ramene šasi[ONE]rameno[DVA]loket[TŘI]zápěstí[ČTYŘI]drápy[PĚT]",
+	"arm_car.arm.init": "inicializace robotického ramene šasi[ONE]rameno[TWO]loket[THREE]zápěstí[FOUR]drápy[FIVE]",
 	"arm_car.arm.setAngle": "nastavit úhel robotického ramene [ONE] [TWO]",
 	"arm_car.arm.wrist": "zápěstí",
 	"arm_car.car.speed": "rychlost auta",

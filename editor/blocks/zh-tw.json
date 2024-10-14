@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "字符%1",
 	"ROBOT_LEFT_ROCKER": "左搖桿",
 	"ROBOT_RIGHT_ROCKER": "右搖桿",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4值%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4值%5",
+	"ROBOT_WIND_CUP_DATA": "值",
+	"ROBOT_WIND_CUP_LEVEL": "等級"
 }

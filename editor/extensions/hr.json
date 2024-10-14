@@ -375,7 +375,7 @@
 	"ROBOT_ARM_Y": "prostorna koordinata y",
 	"ROBOT_ARM_Z": "prostorna koordinata z",
 	"carMotor.slider": "klizač",
-	"arm_car.arm.init": "inicijalizacija robotske ruke šasija[ONE]rame[DVA]lakat[TRI]zapešće[ČETIRI]kandže[PET]",
+	"arm_car.arm.init": "inicijalizacija robotske ruke šasija[ONE]rame[TWO]lakat[THREE]zapešće[FOUR]kandže[FIVE]",
 	"arm_car.arm.setAngle": "postavi kut robotske ruke [ONE] [TWO]",
 	"arm_car.arm.wrist": "zapešće",
 	"arm_car.car.speed": "brzina auta",

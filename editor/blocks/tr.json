@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "karakter %1",
 	"ROBOT_LEFT_ROCKER": "sol joystick",
 	"ROBOT_RIGHT_ROCKER": "sağ joystick",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4değer%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4değer%5",
+	"ROBOT_WIND_CUP_DATA": "değer",
+	"ROBOT_WIND_CUP_LEVEL": "seviye"
 }

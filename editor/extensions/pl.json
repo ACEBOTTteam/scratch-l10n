@@ -375,7 +375,7 @@
 	"ROBOT_ARM_Y": "współrzędna przestrzenna y",
 	"ROBOT_ARM_Z": "współrzędna przestrzenna z",
 	"carMotor.slider": "suwak",
-	"arm_car.arm.init": "inicjalizacja ramienia robota podwozie[JEDEN]ramię[DWA]łokieć[TRZY]nadgarstek[CZTERY]pazury[PIĘĆ]",
+	"arm_car.arm.init": "inicjalizacja ramienia robota podwozie[ONE]ramię[TWO]łokieć[THREE]nadgarstek[FOUR]pazury[FIVE]",
 	"arm_car.arm.setAngle": "ustaw kąt ramienia robota [ONE] [TWO]",
 	"arm_car.arm.wrist": "nadgarstek",
 	"arm_car.car.speed": "prędkość samochodu",

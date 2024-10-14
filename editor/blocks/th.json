@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "ตัวอักษร %1",
 	"ROBOT_LEFT_ROCKER": "จอยสติ๊กซ้าย",
 	"ROBOT_RIGHT_ROCKER": "จอยสติ๊กขวา",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4ค่า%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4ค่า%5",
+	"ROBOT_WIND_CUP_DATA": "ค่า",
+	"ROBOT_WIND_CUP_LEVEL": "ระดับ"
 }

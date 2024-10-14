@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "znak %1",
 	"ROBOT_LEFT_ROCKER": "lewy joystick",
 	"ROBOT_RIGHT_ROCKER": "prawy joystick",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4wartość%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4wartość%5",
+	"ROBOT_WIND_CUP_DATA": "wartość",
+	"ROBOT_WIND_CUP_LEVEL": "poziom"
 }

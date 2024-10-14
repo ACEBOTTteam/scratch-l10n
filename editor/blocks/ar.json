@@ -469,5 +469,7 @@
 	"ROBOT_CHAR": "حرف %1",
 	"ROBOT_LEFT_ROCKER": "عصا التحكم اليسرى",
 	"ROBOT_RIGHT_ROCKER": "عصا التحكم اليمنى",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4القيمة%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4القيمة%5",
+	"ROBOT_WIND_CUP_DATA": "القيمة",
+	"ROBOT_WIND_CUP_LEVEL": "المستوى"
 }

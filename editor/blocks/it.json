@@ -468,5 +468,7 @@
 	"ROBOT_CHAR": "carattere %1",
 	"ROBOT_LEFT_ROCKER": "joystick sinistro",
 	"ROBOT_RIGHT_ROCKER": "joystick destro",
-	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4valore%5"
+	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4valore%5",
+	"ROBOT_WIND_CUP_DATA": "valore",
+	"ROBOT_WIND_CUP_LEVEL": "livello"
 }

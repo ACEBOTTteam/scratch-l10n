@@ -375,7 +375,7 @@
 	"ROBOT_ARM_Y": "Raumkoordinate y",
 	"ROBOT_ARM_Z": "Raumkoordinate z",
 	"carMotor.slider": "schieberegler",
-	"arm_car.arm.init": "roboterarm initialisierung chassis[ONE]schulter[TWO]ellenbogen[DREI]handgelenk[VIER]klauen[FÜNF]",
+	"arm_car.arm.init": "roboterarm initialisierung chassis[ONE]schulter[TWO]ellenbogen[THREE]handgelenk[FOUR]klauen[FIVE]",
 	"arm_car.arm.setAngle": "roboterarm [ONE] winkel [TWO] einstellen",
 	"arm_car.arm.wrist": "handgelenk",
 	"arm_car.car.speed": "autogeschwindigkeit",

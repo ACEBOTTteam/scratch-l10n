@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "kontrola putem web stranice",
 	"carMotor.camera.highDefinition": "visoka kvaliteta",
 	"carMotor.camera.mediumQuality": "srednja kvaliteta",
-	"carMotor.camera.lowQuality": "niska kvaliteta"
+	"carMotor.camera.lowQuality": "niska kvaliteta",
+	"meteorologicalStation.categoryName": "meteorološka stanica",
+	"meteorologicalStation.server": "meteorološki [ONE]",
+	"meteorologicalStation.sendData": "pošalji vrijednost [TWO] za [ONE]",
+	"meteorologicalStation.light": "svjetlo",
+	"meteorologicalStation.uv": "uv",
+	"meteorologicalStation.atm": "atmosferski tlak",
+	"meteorologicalStation.rain": "kišna kap",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "brzina vjetra",
+	"meteorologicalStation.tem": "temperatura",
+	"meteorologicalStation.hum": "vlažnost",
+	"meteorologicalStation.vibration": "vibracija",
+	"meteorologicalStation.servo": "servo",
+	"meteorologicalStation.all": "svi senzori"
 }

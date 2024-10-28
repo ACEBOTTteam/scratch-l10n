@@ -471,5 +471,16 @@
 	"ROBOT_RIGHT_ROCKER": "右ジョイスティック",
 	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4値%5",
 	"ROBOT_WIND_CUP_DATA": "値",
-	"ROBOT_WIND_CUP_LEVEL": "レベル"
+	"ROBOT_WIND_CUP_LEVEL": "レベル",
+	"ROBOT_ADD_LOG": "シリアルポート%1が連続して%2を出力",
+	"ROBOT_DELAY_WS": "%1ミリ秒待つ",
+	"ROBOT_MULTITHREADING": "マルチスレッド",
+	"ROBOT_OLED_TYPEfACE": "OLEDフォント%1",
+	"ROBOT_OLED_SET_IMG": "OLED 設定 x%1y%2 画像 %3",
+	"ROBOT_OLED_FONT_SUN": "太陽",
+	"ROBOT_OLED_FONT_RAIN": "雨",
+	"ROBOT_OLED_FONT_ENGLISH1": "英字フォント1",
+	"ROBOT_OLED_FONT_ENGLISH2": "英字フォント2",
+	"ROBOT_OLED_FONT_CHIMESE": "中国語フォント",
+	"ROBOT_OLED_FONT_BIG": "大きなフォント"
 }

@@ -471,5 +471,16 @@
 	"ROBOT_RIGHT_ROCKER": "правый джойстик",
 	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4значение%5",
 	"ROBOT_WIND_CUP_DATA": "значение",
-	"ROBOT_WIND_CUP_LEVEL": "уровень"
+	"ROBOT_WIND_CUP_LEVEL": "уровень",
+	"ROBOT_ADD_LOG": "последовательный порт %1 непрерывно печатает %2",
+	"ROBOT_DELAY_WS": "ждать %1 миллисекунд",
+	"ROBOT_MULTITHREADING": "многопоточность",
+	"ROBOT_OLED_TYPEfACE": "шрифт OLED %1",
+	"ROBOT_OLED_SET_IMG": "OLED установка x%1y%2 изображение %3",
+	"ROBOT_OLED_FONT_SUN": "солнце",
+	"ROBOT_OLED_FONT_RAIN": "дождь",
+	"ROBOT_OLED_FONT_ENGLISH1": "английский шрифт 1",
+	"ROBOT_OLED_FONT_ENGLISH2": "английский шрифт 2",
+	"ROBOT_OLED_FONT_CHIMESE": "китайский шрифт",
+	"ROBOT_OLED_FONT_BIG": "большой шрифт"
 }

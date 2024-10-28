@@ -572,5 +572,6 @@
 	"gui.modify.searchBlock": "search blocks",
 	"gui.modify.searchButton": "block search",
 	"gui.extension.bipedRobot.description": "biped robot",
-	"gui.modify.installTheDriver": "one-click install serial driver"
+	"gui.modify.installTheDriver": "one-click install serial driver",
+	"gui.extension.meteorologicalStation": "weather station"
 }

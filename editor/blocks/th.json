@@ -471,5 +471,16 @@
 	"ROBOT_RIGHT_ROCKER": "จอยสติ๊กขวา",
 	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4ค่า%5",
 	"ROBOT_WIND_CUP_DATA": "ค่า",
-	"ROBOT_WIND_CUP_LEVEL": "ระดับ"
+	"ROBOT_WIND_CUP_LEVEL": "ระดับ",
+	"ROBOT_ADD_LOG": "พอร์ตอนุกรม %1 พิมพ์ต่อเนื่อง %2",
+	"ROBOT_DELAY_WS": "รอ %1 มิลลิวินาที",
+	"ROBOT_MULTITHREADING": "มัลติเธรด",
+	"ROBOT_OLED_TYPEfACE": "ฟอนต์ OLED %1",
+	"ROBOT_OLED_SET_IMG": "OLED ตั้งค่า x%1y%2 รูปภาพ %3",
+	"ROBOT_OLED_FONT_SUN": "พระอาทิตย์",
+	"ROBOT_OLED_FONT_RAIN": "ฝน",
+	"ROBOT_OLED_FONT_ENGLISH1": "ฟอนต์ภาษาอังกฤษ 1",
+	"ROBOT_OLED_FONT_ENGLISH2": "ฟอนต์ภาษาอังกฤษ 2",
+	"ROBOT_OLED_FONT_CHIMESE": "ฟอนต์จีน",
+	"ROBOT_OLED_FONT_BIG": "ฟอนต์ใหญ่"
 }

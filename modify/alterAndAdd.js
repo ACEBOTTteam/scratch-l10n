@@ -23,76 +23,112 @@ const fs = require('fs')
 
 const block = {
     "zh-cn": {
-        "ROBOT_WIND_CUP_DATA": "值",
-        "ROBOT_WIND_CUP_LEVEL": "等级",
+        "ROBOT_OLED_FONT_ENGLISH1": "英文字体1",
+        "ROBOT_OLED_FONT_ENGLISH2": "英文字体2",
+        "ROBOT_OLED_FONT_CHIMESE": "中文字体",
+        "ROBOT_OLED_FONT_BIG": "大字体"
     },
     "zh-tw": {
-        "ROBOT_WIND_CUP_DATA": "值",
-        "ROBOT_WIND_CUP_LEVEL": "等級"
+        "ROBOT_OLED_FONT_ENGLISH1": "英文字體1",
+        "ROBOT_OLED_FONT_ENGLISH2": "英文字體2",
+        "ROBOT_OLED_FONT_CHIMESE": "中文字體",
+        "ROBOT_OLED_FONT_BIG": "大字體"
     },
     "en": {
-        "ROBOT_WIND_CUP_DATA": "value",
-        "ROBOT_WIND_CUP_LEVEL": "level"
+        "ROBOT_OLED_FONT_ENGLISH1": "english font 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "english font 2",
+        "ROBOT_OLED_FONT_CHIMESE": "chinese font",
+        "ROBOT_OLED_FONT_BIG": "big font"
     },
     "fr": {
-        "ROBOT_WIND_CUP_DATA": "valeur",
-        "ROBOT_WIND_CUP_LEVEL": "niveau"
+        "ROBOT_OLED_FONT_ENGLISH1": "police anglaise 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "police anglaise 2",
+        "ROBOT_OLED_FONT_CHIMESE": "police chinoise",
+        "ROBOT_OLED_FONT_BIG": "grande police"
     },
     "ja": {
-        "ROBOT_WIND_CUP_DATA": "値",
-        "ROBOT_WIND_CUP_LEVEL": "レベル"
+        "ROBOT_OLED_FONT_ENGLISH1": "英字フォント1",
+        "ROBOT_OLED_FONT_ENGLISH2": "英字フォント2",
+        "ROBOT_OLED_FONT_CHIMESE": "中国語フォント",
+        "ROBOT_OLED_FONT_BIG": "大きなフォント"
     },
     "de": {
-        "ROBOT_WIND_CUP_DATA": "wert",
-        "ROBOT_WIND_CUP_LEVEL": "stufe"
+        "ROBOT_OLED_FONT_ENGLISH1": "englische schriftart 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "englische schriftart 2",
+        "ROBOT_OLED_FONT_CHIMESE": "chinesische schriftart",
+        "ROBOT_OLED_FONT_BIG": "große schriftart"
     },
     "es": {
-        "ROBOT_WIND_CUP_DATA": "valor",
-        "ROBOT_WIND_CUP_LEVEL": "nivel"
+        "ROBOT_OLED_FONT_ENGLISH1": "fuente en inglés 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "fuente en inglés 2",
+        "ROBOT_OLED_FONT_CHIMESE": "fuente china",
+        "ROBOT_OLED_FONT_BIG": "fuente grande"
     },
     "ru": {
-        "ROBOT_WIND_CUP_DATA": "значение",
-        "ROBOT_WIND_CUP_LEVEL": "уровень"
+        "ROBOT_OLED_FONT_ENGLISH1": "английский шрифт 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "английский шрифт 2",
+        "ROBOT_OLED_FONT_CHIMESE": "китайский шрифт",
+        "ROBOT_OLED_FONT_BIG": "большой шрифт"
     },
     "cs": {
-        "ROBOT_WIND_CUP_DATA": "hodnota",
-        "ROBOT_WIND_CUP_LEVEL": "úroveň"
+        "ROBOT_OLED_FONT_ENGLISH1": "anglický font 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "anglický font 2",
+        "ROBOT_OLED_FONT_CHIMESE": "čínský font",
+        "ROBOT_OLED_FONT_BIG": "velký font"
     },
     "it": {
-        "ROBOT_WIND_CUP_DATA": "valore",
-        "ROBOT_WIND_CUP_LEVEL": "livello"
+        "ROBOT_OLED_FONT_ENGLISH1": "carattere inglese 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "carattere inglese 2",
+        "ROBOT_OLED_FONT_CHIMESE": "carattere cinese",
+        "ROBOT_OLED_FONT_BIG": "carattere grande"
     },
     "pl": {
-        "ROBOT_WIND_CUP_DATA": "wartość",
-        "ROBOT_WIND_CUP_LEVEL": "poziom"
+        "ROBOT_OLED_FONT_ENGLISH1": "czcionka angielska 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "czcionka angielska 2",
+        "ROBOT_OLED_FONT_CHIMESE": "czcionka chińska",
+        "ROBOT_OLED_FONT_BIG": "duża czcionka"
     },
     "tr": {
-        "ROBOT_WIND_CUP_DATA": "değer",
-        "ROBOT_WIND_CUP_LEVEL": "seviye"
+        "ROBOT_OLED_FONT_ENGLISH1": "ingilizce font 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "ingilizce font 2",
+        "ROBOT_OLED_FONT_CHIMESE": "çin yazı tipi",
+        "ROBOT_OLED_FONT_BIG": "büyük yazı tipi"
     },
     "pt": {
-        "ROBOT_WIND_CUP_DATA": "valor",
-        "ROBOT_WIND_CUP_LEVEL": "nível"
+        "ROBOT_OLED_FONT_ENGLISH1": "fonte em inglês 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "fonte em inglês 2",
+        "ROBOT_OLED_FONT_CHIMESE": "fonte chinesa",
+        "ROBOT_OLED_FONT_BIG": "grande fonte"
     },
     "hr": {
-        "ROBOT_WIND_CUP_DATA": "vrijednost",
-        "ROBOT_WIND_CUP_LEVEL": "razina"
+        "ROBOT_OLED_FONT_ENGLISH1": "engleski font 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "engleski font 2",
+        "ROBOT_OLED_FONT_CHIMESE": "kineski font",
+        "ROBOT_OLED_FONT_BIG": "veliki font"
     },
     "ko": {
-        "ROBOT_WIND_CUP_DATA": "값",
-        "ROBOT_WIND_CUP_LEVEL": "레벨"
+        "ROBOT_OLED_FONT_ENGLISH1": "영문 글꼴 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "영문 글꼴 2",
+        "ROBOT_OLED_FONT_CHIMESE": "중국어 글꼴",
+        "ROBOT_OLED_FONT_BIG": "큰 글꼴"
     },
     "th": {
-        "ROBOT_WIND_CUP_DATA": "ค่า",
-        "ROBOT_WIND_CUP_LEVEL": "ระดับ"
+        "ROBOT_OLED_FONT_ENGLISH1": "ฟอนต์ภาษาอังกฤษ 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "ฟอนต์ภาษาอังกฤษ 2",
+        "ROBOT_OLED_FONT_CHIMESE": "ฟอนต์จีน",
+        "ROBOT_OLED_FONT_BIG": "ฟอนต์ใหญ่"
     },
     "nl": {
-        "ROBOT_WIND_CUP_DATA": "waarde",
-        "ROBOT_WIND_CUP_LEVEL": "niveau"
+        "ROBOT_OLED_FONT_ENGLISH1": "engelse lettertype 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "engelse lettertype 2",
+        "ROBOT_OLED_FONT_CHIMESE": "chinese lettertype",
+        "ROBOT_OLED_FONT_BIG": "groot lettertype"
     },
     "ar": {
-        "ROBOT_WIND_CUP_DATA": "القيمة",
-        "ROBOT_WIND_CUP_LEVEL": "المستوى"
+        "ROBOT_OLED_FONT_ENGLISH1": "خط إنجليزي 1",
+        "ROBOT_OLED_FONT_ENGLISH2": "خط إنجليزي 2",
+        "ROBOT_OLED_FONT_CHIMESE": "خط صيني",
+        "ROBOT_OLED_FONT_BIG": "خط كبير"
     }
 }
 

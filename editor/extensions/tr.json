@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "web sayfası kontrolü",
 	"carMotor.camera.highDefinition": "yüksek çözünürlük",
 	"carMotor.camera.mediumQuality": "orta çözünürlük",
-	"carMotor.camera.lowQuality": "düşük çözünürlük"
+	"carMotor.camera.lowQuality": "düşük çözünürlük",
+	"meteorologicalStation.categoryName": "meteoroloji istasyonu",
+	"meteorologicalStation.server": "meteorolojik [ONE]",
+	"meteorologicalStation.sendData": "[ONE]'in değeri [TWO]'yi gönder",
+	"meteorologicalStation.light": "ışık",
+	"meteorologicalStation.uv": "uv",
+	"meteorologicalStation.atm": "atmosfer basıncı",
+	"meteorologicalStation.rain": "yağmur damlası",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "rüzgar hızı",
+	"meteorologicalStation.tem": "sıcaklık",
+	"meteorologicalStation.hum": "nem",
+	"meteorologicalStation.vibration": "titreşim",
+	"meteorologicalStation.servo": "servo",
+	"meteorologicalStation.all": "tüm sensörler"
 }

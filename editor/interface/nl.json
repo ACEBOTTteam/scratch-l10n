@@ -572,5 +572,6 @@
 	"gui.modify.searchBlock": "zoek blokken",
 	"gui.modify.searchButton": "blok zoeken",
 	"gui.extension.bipedRobot.description": "tweevoetige robot",
-	"gui.modify.installTheDriver": "een-klik installatie van seriële driver"
+	"gui.modify.installTheDriver": "een-klik installatie van seriële driver",
+	"gui.extension.meteorologicalStation": "weerstations"
 }

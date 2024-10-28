@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "웹 페이지 제어",
 	"carMotor.camera.highDefinition": "고화질",
 	"carMotor.camera.mediumQuality": "중간 화질",
-	"carMotor.camera.lowQuality": "저화질"
+	"carMotor.camera.lowQuality": "저화질",
+	"meteorologicalStation.categoryName": "기상 관측소",
+	"meteorologicalStation.server": "기상 [ONE]",
+	"meteorologicalStation.sendData": "[ONE]의 값 [TWO] 전송",
+	"meteorologicalStation.light": "빛",
+	"meteorologicalStation.uv": "자외선",
+	"meteorologicalStation.atm": "기압",
+	"meteorologicalStation.rain": "빗방울",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "풍속",
+	"meteorologicalStation.tem": "온도",
+	"meteorologicalStation.hum": "습도",
+	"meteorologicalStation.vibration": "진동",
+	"meteorologicalStation.servo": "서보",
+	"meteorologicalStation.all": "모든 센서"
 }

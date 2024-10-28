@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "التحكم عبر صفحة الويب",
 	"carMotor.camera.highDefinition": "عالي الدقة",
 	"carMotor.camera.mediumQuality": "جودة متوسطة",
-	"carMotor.camera.lowQuality": "جودة منخفضة"
+	"carMotor.camera.lowQuality": "جودة منخفضة",
+	"meteorologicalStation.categoryName": "محطة الأرصاد الجوية",
+	"meteorologicalStation.server": "الأرصاد الجوية [ONE]",
+	"meteorologicalStation.sendData": "إرسال قيمة [TWO] من [ONE]",
+	"meteorologicalStation.light": "ضوء",
+	"meteorologicalStation.uv": "الأشعة فوق البنفسجية",
+	"meteorologicalStation.atm": "الضغط الجوي",
+	"meteorologicalStation.rain": "قطرة مطر",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "سرعة الرياح",
+	"meteorologicalStation.tem": "درجة الحرارة",
+	"meteorologicalStation.hum": "رطوبة",
+	"meteorologicalStation.vibration": "اهتزاز",
+	"meteorologicalStation.servo": "سيرفو",
+	"meteorologicalStation.all": "جميع المستشعرات"
 }

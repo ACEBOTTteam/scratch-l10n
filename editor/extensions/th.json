@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "ควบคุมผ่านเว็บเพจ",
 	"carMotor.camera.highDefinition": "ความคมชัดสูง",
 	"carMotor.camera.mediumQuality": "คุณภาพปานกลาง",
-	"carMotor.camera.lowQuality": "คุณภาพต่ำ"
+	"carMotor.camera.lowQuality": "คุณภาพต่ำ",
+	"meteorologicalStation.categoryName": "สถานีอุตุนิยมวิทยา",
+	"meteorologicalStation.server": "อุตุนิยมวิทยา [ONE]",
+	"meteorologicalStation.sendData": "ส่งค่า [TWO] ของ [ONE]",
+	"meteorologicalStation.light": "แสง",
+	"meteorologicalStation.uv": "uv",
+	"meteorologicalStation.atm": "ความกดอากาศ",
+	"meteorologicalStation.rain": "หยดฝน",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "ความเร็วลม",
+	"meteorologicalStation.tem": "อุณหภูมิ",
+	"meteorologicalStation.hum": "ความชื้น",
+	"meteorologicalStation.vibration": "การสั่นสะเทือน",
+	"meteorologicalStation.servo": "เซอร์โว",
+	"meteorologicalStation.all": "เซ็นเซอร์ทั้งหมด"
 }

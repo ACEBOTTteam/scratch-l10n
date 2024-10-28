@@ -471,5 +471,16 @@
 	"ROBOT_RIGHT_ROCKER": "right rocker",
 	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4value%5",
 	"ROBOT_WIND_CUP_DATA": "value",
-	"ROBOT_WIND_CUP_LEVEL": "level"
+	"ROBOT_WIND_CUP_LEVEL": "level",
+	"ROBOT_ADD_LOG": "serial port %1 prints continuously %2",
+	"ROBOT_DELAY_WS": "wait %1 milliseconds",
+	"ROBOT_MULTITHREADING": "multithreading",
+	"ROBOT_OLED_TYPEfACE": "OLED font %1",
+	"ROBOT_OLED_SET_IMG": "OLED set x%1y%2 image %3",
+	"ROBOT_OLED_FONT_SUN": "sun",
+	"ROBOT_OLED_FONT_RAIN": "rain",
+	"ROBOT_OLED_FONT_ENGLISH1": "english font 1",
+	"ROBOT_OLED_FONT_ENGLISH2": "english font 2",
+	"ROBOT_OLED_FONT_CHIMESE": "chinese font",
+	"ROBOT_OLED_FONT_BIG": "big font"
 }

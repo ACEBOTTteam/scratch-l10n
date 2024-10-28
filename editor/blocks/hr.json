@@ -471,5 +471,16 @@
 	"ROBOT_RIGHT_ROCKER": "desni joystick",
 	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4vrijednost%5",
 	"ROBOT_WIND_CUP_DATA": "vrijednost",
-	"ROBOT_WIND_CUP_LEVEL": "razina"
+	"ROBOT_WIND_CUP_LEVEL": "razina",
+	"ROBOT_ADD_LOG": "serijski port %1 neprekidno ispisuje %2",
+	"ROBOT_DELAY_WS": "čekaj %1 milisekundi",
+	"ROBOT_MULTITHREADING": "višenitno",
+	"ROBOT_OLED_TYPEfACE": "OLED font %1",
+	"ROBOT_OLED_SET_IMG": "OLED postavi x%1y%2 sliku %3",
+	"ROBOT_OLED_FONT_SUN": "sunce",
+	"ROBOT_OLED_FONT_RAIN": "kiša",
+	"ROBOT_OLED_FONT_ENGLISH1": "engleski font 1",
+	"ROBOT_OLED_FONT_ENGLISH2": "engleski font 2",
+	"ROBOT_OLED_FONT_CHIMESE": "kineski font",
+	"ROBOT_OLED_FONT_BIG": "veliki font"
 }

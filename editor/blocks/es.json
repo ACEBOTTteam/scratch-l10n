@@ -471,5 +471,16 @@
 	"ROBOT_RIGHT_ROCKER": "joystick derecho",
 	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4valor%5",
 	"ROBOT_WIND_CUP_DATA": "valor",
-	"ROBOT_WIND_CUP_LEVEL": "nivel"
+	"ROBOT_WIND_CUP_LEVEL": "nivel",
+	"ROBOT_ADD_LOG": "puerto serie %1 imprime continuamente %2",
+	"ROBOT_DELAY_WS": "esperar %1 milisegundos",
+	"ROBOT_MULTITHREADING": "multitarea",
+	"ROBOT_OLED_TYPEfACE": "fuente OLED %1",
+	"ROBOT_OLED_SET_IMG": "OLED configurar x%1y%2 imagen %3",
+	"ROBOT_OLED_FONT_SUN": "sol",
+	"ROBOT_OLED_FONT_RAIN": "lluvia",
+	"ROBOT_OLED_FONT_ENGLISH1": "fuente en inglés 1",
+	"ROBOT_OLED_FONT_ENGLISH2": "fuente en inglés 2",
+	"ROBOT_OLED_FONT_CHIMESE": "fuente china",
+	"ROBOT_OLED_FONT_BIG": "fuente grande"
 }

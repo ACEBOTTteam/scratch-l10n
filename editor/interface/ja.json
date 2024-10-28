@@ -572,5 +572,6 @@
 	"gui.modify.searchBlock": "ブロックを検索",
 	"gui.modify.searchButton": "ブロック検索",
 	"gui.extension.bipedRobot.description": "二足歩行ロボット",
-	"gui.modify.installTheDriver": "ワンクリックでシリアルドライバーをインストール"
+	"gui.modify.installTheDriver": "ワンクリックでシリアルドライバーをインストール",
+	"gui.extension.meteorologicalStation": "気象観測所"
 }

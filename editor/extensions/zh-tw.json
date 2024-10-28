@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "網頁控制",
 	"carMotor.camera.highDefinition": "高畫質",
 	"carMotor.camera.mediumQuality": "中畫質",
-	"carMotor.camera.lowQuality": "低畫質"
+	"carMotor.camera.lowQuality": "低畫質",
+	"meteorologicalStation.categoryName": "氣象站",
+	"meteorologicalStation.server": "氣象[ONE]",
+	"meteorologicalStation.sendData": "發送[ONE]的值[TWO]",
+	"meteorologicalStation.light": "光線",
+	"meteorologicalStation.uv": "紫外線",
+	"meteorologicalStation.atm": "大氣壓",
+	"meteorologicalStation.rain": "雨滴",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "風速",
+	"meteorologicalStation.tem": "溫度",
+	"meteorologicalStation.hum": "濕度",
+	"meteorologicalStation.vibration": "震動",
+	"meteorologicalStation.servo": "舵機",
+	"meteorologicalStation.all": "所有傳感器"
 }

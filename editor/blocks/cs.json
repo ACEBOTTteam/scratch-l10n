@@ -471,5 +471,16 @@
 	"ROBOT_RIGHT_ROCKER": "pravý joystick",
 	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4hodnota%5",
 	"ROBOT_WIND_CUP_DATA": "hodnota",
-	"ROBOT_WIND_CUP_LEVEL": "úroveň"
+	"ROBOT_WIND_CUP_LEVEL": "úroveň",
+	"ROBOT_ADD_LOG": "sériový port %1 nepřetržitě tiskne %2",
+	"ROBOT_DELAY_WS": "čekat %1 milisekund",
+	"ROBOT_MULTITHREADING": "multithreading",
+	"ROBOT_OLED_TYPEfACE": "OLED písmo %1",
+	"ROBOT_OLED_SET_IMG": "OLED nastavit x%1y%2 obrázek %3",
+	"ROBOT_OLED_FONT_SUN": "slunce",
+	"ROBOT_OLED_FONT_RAIN": "déšť",
+	"ROBOT_OLED_FONT_ENGLISH1": "anglický font 1",
+	"ROBOT_OLED_FONT_ENGLISH2": "anglický font 2",
+	"ROBOT_OLED_FONT_CHIMESE": "čínský font",
+	"ROBOT_OLED_FONT_BIG": "velký font"
 }

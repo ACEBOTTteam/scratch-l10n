@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "ovládání webové stránky",
 	"carMotor.camera.highDefinition": "vysoká kvalita",
 	"carMotor.camera.mediumQuality": "střední kvalita",
-	"carMotor.camera.lowQuality": "nízká kvalita"
+	"carMotor.camera.lowQuality": "nízká kvalita",
+	"meteorologicalStation.categoryName": "meteorologická stanice",
+	"meteorologicalStation.server": "meteorologická stanice [ONE]",
+	"meteorologicalStation.sendData": "odeslat hodnotu [TWO] z [ONE]",
+	"meteorologicalStation.light": "světlo",
+	"meteorologicalStation.uv": "uv",
+	"meteorologicalStation.atm": "atmosférický tlak",
+	"meteorologicalStation.rain": "kapka deště",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "rychlost větru",
+	"meteorologicalStation.tem": "teplota",
+	"meteorologicalStation.hum": "vlhkost",
+	"meteorologicalStation.vibration": "vibrace",
+	"meteorologicalStation.servo": "servo",
+	"meteorologicalStation.all": "všechny senzory"
 }

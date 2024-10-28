@@ -572,5 +572,6 @@
 	"gui.modify.searchBlock": "hledat bloky",
 	"gui.modify.searchButton": "hledání bloků",
 	"gui.extension.bipedRobot.description": "dvounohý robot",
-	"gui.modify.installTheDriver": "jedním kliknutím nainstalujte sériový ovladač"
+	"gui.modify.installTheDriver": "jedním kliknutím nainstalujte sériový ovladač",
+	"gui.extension.meteorologicalStation": "meteorologická stanice"
 }

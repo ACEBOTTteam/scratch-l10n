@@ -471,5 +471,16 @@
 	"ROBOT_RIGHT_ROCKER": "rechter joystick",
 	"ROBOT_ROCKER_SPEED": "%1 x%2y%3sw%4waarde%5",
 	"ROBOT_WIND_CUP_DATA": "waarde",
-	"ROBOT_WIND_CUP_LEVEL": "niveau"
+	"ROBOT_WIND_CUP_LEVEL": "niveau",
+	"ROBOT_ADD_LOG": "seriële poort %1 print continu %2",
+	"ROBOT_DELAY_WS": "%1 milliseconden wachten",
+	"ROBOT_MULTITHREADING": "multithreading",
+	"ROBOT_OLED_TYPEfACE": "OLED-lettertype %1",
+	"ROBOT_OLED_SET_IMG": "OLED stel x%1y%2 afbeelding %3 in",
+	"ROBOT_OLED_FONT_SUN": "zon",
+	"ROBOT_OLED_FONT_RAIN": "regen",
+	"ROBOT_OLED_FONT_ENGLISH1": "engelse lettertype 1",
+	"ROBOT_OLED_FONT_ENGLISH2": "engelse lettertype 2",
+	"ROBOT_OLED_FONT_CHIMESE": "chinese lettertype",
+	"ROBOT_OLED_FONT_BIG": "groot lettertype"
 }

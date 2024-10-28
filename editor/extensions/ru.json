@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "управление через веб-страницу",
 	"carMotor.camera.highDefinition": "высокое качество",
 	"carMotor.camera.mediumQuality": "среднее качество",
-	"carMotor.camera.lowQuality": "низкое качество"
+	"carMotor.camera.lowQuality": "низкое качество",
+	"meteorologicalStation.categoryName": "метеорологическая станция",
+	"meteorologicalStation.server": "метеорологический [ONE]",
+	"meteorologicalStation.sendData": "отправить значение [TWO] из [ONE]",
+	"meteorologicalStation.light": "свет",
+	"meteorologicalStation.uv": "уф",
+	"meteorologicalStation.atm": "атмосферное давление",
+	"meteorologicalStation.rain": "дождевая капля",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "скорость ветра",
+	"meteorologicalStation.tem": "температура",
+	"meteorologicalStation.hum": "влажность",
+	"meteorologicalStation.vibration": "вибрация",
+	"meteorologicalStation.servo": "сервопривод",
+	"meteorologicalStation.all": "все датчики"
 }

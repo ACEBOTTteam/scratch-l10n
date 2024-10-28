@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "ウェブページコントロール",
 	"carMotor.camera.highDefinition": "高画質",
 	"carMotor.camera.mediumQuality": "中画質",
-	"carMotor.camera.lowQuality": "低画質"
+	"carMotor.camera.lowQuality": "低画質",
+	"meteorologicalStation.categoryName": "気象観測所",
+	"meteorologicalStation.server": "気象[ONE]",
+	"meteorologicalStation.sendData": "[ONE]の値[TWO]を送信",
+	"meteorologicalStation.light": "光",
+	"meteorologicalStation.uv": "紫外線",
+	"meteorologicalStation.atm": "気圧",
+	"meteorologicalStation.rain": "雨滴",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "風速",
+	"meteorologicalStation.tem": "温度",
+	"meteorologicalStation.hum": "湿度",
+	"meteorologicalStation.vibration": "振動",
+	"meteorologicalStation.servo": "サーボ",
+	"meteorologicalStation.all": "すべてのセンサー"
 }

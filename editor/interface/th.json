@@ -572,5 +572,6 @@
 	"gui.modify.searchBlock": "ค้นหาบล็อก",
 	"gui.modify.searchButton": "ค้นหาบล็อก",
 	"gui.extension.bipedRobot.description": "หุ่นยนต์สองขา",
-	"gui.modify.installTheDriver": "ติดตั้งไดรเวอร์แบบอนุกรมด้วยคลิกเดียว"
+	"gui.modify.installTheDriver": "ติดตั้งไดรเวอร์แบบอนุกรมด้วยคลิกเดียว",
+	"gui.extension.meteorologicalStation": "สถานีอุตุนิยมวิทยา"
 }

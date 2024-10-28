@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "webpagina besturing",
 	"carMotor.camera.highDefinition": "hoge definitie",
 	"carMotor.camera.mediumQuality": "gemiddelde kwaliteit",
-	"carMotor.camera.lowQuality": "lage kwaliteit"
+	"carMotor.camera.lowQuality": "lage kwaliteit",
+	"meteorologicalStation.categoryName": "weerstations",
+	"meteorologicalStation.server": "meteorologisch [ONE]",
+	"meteorologicalStation.sendData": "stuur waarde [TWO] van [ONE]",
+	"meteorologicalStation.light": "licht",
+	"meteorologicalStation.uv": "uv",
+	"meteorologicalStation.atm": "luchtdruk",
+	"meteorologicalStation.rain": "regendruppel",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "windsnelheid",
+	"meteorologicalStation.tem": "temperatuur",
+	"meteorologicalStation.hum": "vochtigheid",
+	"meteorologicalStation.vibration": "trilling",
+	"meteorologicalStation.servo": "servo",
+	"meteorologicalStation.all": "alle sensoren"
 }

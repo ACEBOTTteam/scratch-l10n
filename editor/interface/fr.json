@@ -572,5 +572,6 @@
 	"gui.modify.searchBlock": "rechercher des blocs",
 	"gui.modify.searchButton": "recherche de blocs",
 	"gui.extension.bipedRobot.description": "robot bipède",
-	"gui.modify.installTheDriver": "installation du pilote série en un clic"
+	"gui.modify.installTheDriver": "installation du pilote série en un clic",
+	"gui.extension.meteorologicalStation": "station météorologique"
 }

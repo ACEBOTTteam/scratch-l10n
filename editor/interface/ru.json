@@ -572,5 +572,6 @@
 	"gui.modify.searchBlock": "поиск блоков",
 	"gui.modify.searchButton": "поиск блоков",
 	"gui.extension.bipedRobot.description": "двуногий робот",
-	"gui.modify.installTheDriver": "установка серийного драйвера в один клик"
+	"gui.modify.installTheDriver": "установка серийного драйвера в один клик",
+	"gui.extension.meteorologicalStation": "метеорологическая станция"
 }

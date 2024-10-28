@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "网页控制",
 	"carMotor.camera.highDefinition": "高画质",
 	"carMotor.camera.mediumQuality": "中画质",
-	"carMotor.camera.lowQuality": "低画质"
+	"carMotor.camera.lowQuality": "低画质",
+	"meteorologicalStation.categoryName": "气象站",
+	"meteorologicalStation.server": "气象[ONE]",
+	"meteorologicalStation.sendData": "发送[ONE]的值[TWO]",
+	"meteorologicalStation.light": "光线",
+	"meteorologicalStation.uv": "紫外线",
+	"meteorologicalStation.atm": "大气压",
+	"meteorologicalStation.rain": "雨滴",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "风速",
+	"meteorologicalStation.tem": "温度",
+	"meteorologicalStation.hum": "湿度",
+	"meteorologicalStation.vibration": "震动",
+	"meteorologicalStation.servo": "舵机",
+	"meteorologicalStation.all": "所有传感器"
 }

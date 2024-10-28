@@ -431,5 +431,19 @@
 	"carMotor.camera.webPageControl": "control de página web",
 	"carMotor.camera.highDefinition": "alta definición",
 	"carMotor.camera.mediumQuality": "calidad media",
-	"carMotor.camera.lowQuality": "baja calidad"
+	"carMotor.camera.lowQuality": "baja calidad",
+	"meteorologicalStation.categoryName": "estación meteorológica",
+	"meteorologicalStation.server": "meteorológico [ONE]",
+	"meteorologicalStation.sendData": "enviar valor [TWO] de [ONE]",
+	"meteorologicalStation.light": "luz",
+	"meteorologicalStation.uv": "uv",
+	"meteorologicalStation.atm": "presión atmosférica",
+	"meteorologicalStation.rain": "gota de lluvia",
+	"meteorologicalStation.PM25": "PM2.5",
+	"meteorologicalStation.wind": "velocidad del viento",
+	"meteorologicalStation.tem": "temperatura",
+	"meteorologicalStation.hum": "humedad",
+	"meteorologicalStation.vibration": "vibración",
+	"meteorologicalStation.servo": "servo",
+	"meteorologicalStation.all": "todos los sensores"
 }

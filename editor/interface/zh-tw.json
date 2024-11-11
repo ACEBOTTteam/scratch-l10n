@@ -573,5 +573,6 @@
 	"gui.modify.searchButton": "積木搜索",
 	"gui.extension.bipedRobot.description": "雙足機器人",
 	"gui.modify.installTheDriver": "一鍵安裝串口驅動",
-	"gui.extension.meteorologicalStation": "氣象站"
+	"gui.extension.meteorologicalStation": "氣象站",
+	"gui.extension.chart": "數據圖表"
 }

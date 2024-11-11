@@ -21,120 +21,229 @@ const fs = require('fs')
  * 
  */
 
-const block = {
+const block = {}
+
+const extensions = {
     "zh-cn": {
-        "ROBOT_OLED_FONT_ENGLISH1": "英文字体1",
-        "ROBOT_OLED_FONT_ENGLISH2": "英文字体2",
-        "ROBOT_OLED_FONT_CHIMESE": "中文字体",
-        "ROBOT_OLED_FONT_BIG": "大字体"
+        "chart.categoryName": "数据图表",
+        "chart.showChart": "打开图表窗口",
+        "chart.setTitle": "设置图表标题[ONE]",
+        "chart.setAxisTitle": "设置轴标题: x轴[ONE] y轴[TWO]",
+        "chart.inputData": "输入[ONE]的数据: x轴[TWO] y轴[THREE]",
+        "chart.clearData": "清除数据",
+        "chart.closeChart": "关闭图表窗口",
     },
     "zh-tw": {
-        "ROBOT_OLED_FONT_ENGLISH1": "英文字體1",
-        "ROBOT_OLED_FONT_ENGLISH2": "英文字體2",
-        "ROBOT_OLED_FONT_CHIMESE": "中文字體",
-        "ROBOT_OLED_FONT_BIG": "大字體"
+        "chart.categoryName": "數據圖表",
+        "chart.showChart": "打開圖表窗口",
+        "chart.setTitle": "設置圖表標題[ONE]",
+        "chart.setAxisTitle": "設置軸標題: x軸[ONE] y軸[TWO]",
+        "chart.inputData": "輸入[ONE]的數據: x軸[TWO] y軸[THREE]",
+        "chart.clearData": "清除數據",
+        "chart.closeChart": "關閉圖表窗口"
     },
     "en": {
-        "ROBOT_OLED_FONT_ENGLISH1": "english font 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "english font 2",
-        "ROBOT_OLED_FONT_CHIMESE": "chinese font",
-        "ROBOT_OLED_FONT_BIG": "big font"
+        "chart.categoryName": "Data Chart",
+        "chart.showChart": "Open Chart Window",
+        "chart.setTitle": "Set Chart Title [ONE]",
+        "chart.setAxisTitle": "Set Axis Titles: x-axis [ONE] y-axis [TWO]",
+        "chart.inputData": "Input data for [ONE]: x-axis [TWO] y-axis [THREE]",
+        "chart.clearData": "Clear Data",
+        "chart.closeChart": "Close Chart Window"
     },
     "fr": {
-        "ROBOT_OLED_FONT_ENGLISH1": "police anglaise 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "police anglaise 2",
-        "ROBOT_OLED_FONT_CHIMESE": "police chinoise",
-        "ROBOT_OLED_FONT_BIG": "grande police"
+        "chart.categoryName": "Graphique de Données",
+        "chart.showChart": "Ouvrir la Fenêtre de Graphique",
+        "chart.setTitle": "Définir le Titre du Graphique [ONE]",
+        "chart.setAxisTitle": "Définir les Titres des Axes : axe des x [ONE] axe des y [TWO]",
+        "chart.inputData": "Saisir les données pour [ONE] : axe des x [TWO] axe des y [THREE]",
+        "chart.clearData": "Effacer les Données",
+        "chart.closeChart": "Fermer la Fenêtre de Graphique"
     },
     "ja": {
-        "ROBOT_OLED_FONT_ENGLISH1": "英字フォント1",
-        "ROBOT_OLED_FONT_ENGLISH2": "英字フォント2",
-        "ROBOT_OLED_FONT_CHIMESE": "中国語フォント",
-        "ROBOT_OLED_FONT_BIG": "大きなフォント"
+        "chart.categoryName": "データチャート",
+        "chart.showChart": "チャートウィンドウを開く",
+        "chart.setTitle": "チャートタイトルを設定する[ONE]",
+        "chart.setAxisTitle": "軸タイトルを設定する: x軸[ONE] y軸[TWO]",
+        "chart.inputData": "[ONE]のデータを入力する: x軸[TWO] y軸[THREE]",
+        "chart.clearData": "データをクリアする",
+        "chart.closeChart": "チャートウィンドウを閉じる"
     },
     "de": {
-        "ROBOT_OLED_FONT_ENGLISH1": "englische schriftart 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "englische schriftart 2",
-        "ROBOT_OLED_FONT_CHIMESE": "chinesische schriftart",
-        "ROBOT_OLED_FONT_BIG": "große schriftart"
+        "chart.categoryName": "Daten Diagramm",
+        "chart.showChart": "Diagrammfenster öffnen",
+        "chart.setTitle": "Diagrammtitel festlegen [ONE]",
+        "chart.setAxisTitle": "Achsentitel festlegen: x-Achse [ONE] y-Achse [TWO]",
+        "chart.inputData": "Daten für [ONE] eingeben: x-Achse [TWO] y-Achse [THREE]",
+        "chart.clearData": "Daten löschen",
+        "chart.closeChart": "Diagrammfenster schließen"
     },
     "es": {
-        "ROBOT_OLED_FONT_ENGLISH1": "fuente en inglés 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "fuente en inglés 2",
-        "ROBOT_OLED_FONT_CHIMESE": "fuente china",
-        "ROBOT_OLED_FONT_BIG": "fuente grande"
+        "chart.categoryName": "Gráfico de Datos",
+        "chart.showChart": "Abrir Ventana de Gráfico",
+        "chart.setTitle": "Establecer Título del Gráfico [ONE]",
+        "chart.setAxisTitle": "Establecer Títulos de Ejes: eje x [ONE] eje y [TWO]",
+        "chart.inputData": "Ingresar datos para [ONE]: eje x [TWO] eje y [THREE]",
+        "chart.clearData": "Borrar Datos",
+        "chart.closeChart": "Cerrar Ventana de Gráfico"
     },
     "ru": {
-        "ROBOT_OLED_FONT_ENGLISH1": "английский шрифт 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "английский шрифт 2",
-        "ROBOT_OLED_FONT_CHIMESE": "китайский шрифт",
-        "ROBOT_OLED_FONT_BIG": "большой шрифт"
+        "chart.categoryName": "График данных",
+        "chart.showChart": "Открыть окно графика",
+        "chart.setTitle": "Задать название графика [ONE]",
+        "chart.setAxisTitle": "Задать названия осей: ось x [ONE] ось y [TWO]",
+        "chart.inputData": "Ввести данные для [ONE]: ось x [TWO] ось y [THREE]",
+        "chart.clearData": "Очистить данные",
+        "chart.closeChart": "Закрыть окно графика"
     },
     "cs": {
-        "ROBOT_OLED_FONT_ENGLISH1": "anglický font 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "anglický font 2",
-        "ROBOT_OLED_FONT_CHIMESE": "čínský font",
-        "ROBOT_OLED_FONT_BIG": "velký font"
+        "chart.categoryName": "Datový Graf",
+        "chart.showChart": "Otevřít okno grafu",
+        "chart.setTitle": "Nastavit název grafu [ONE]",
+        "chart.setAxisTitle": "Nastavit názvy os: osa x [ONE] osa y [TWO]",
+        "chart.inputData": "Zadat data pro [ONE]: osa x [TWO] osa y [THREE]",
+        "chart.clearData": "Vymazat data",
+        "chart.closeChart": "Zavřít okno grafu"
     },
     "it": {
-        "ROBOT_OLED_FONT_ENGLISH1": "carattere inglese 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "carattere inglese 2",
-        "ROBOT_OLED_FONT_CHIMESE": "carattere cinese",
-        "ROBOT_OLED_FONT_BIG": "carattere grande"
+        "chart.categoryName": "Grafico Dati",
+        "chart.showChart": "Apri Finestra Grafico",
+        "chart.setTitle": "Imposta Titolo del Grafico [ONE]",
+        "chart.setAxisTitle": "Imposta Titoli degli Assi: asse x [ONE] asse y [TWO]",
+        "chart.inputData": "Inserisci dati per [ONE]: asse x [TWO] asse y [THREE]",
+        "chart.clearData": "Cancella Dati",
+        "chart.closeChart": "Chiudi Finestra Grafico"
     },
     "pl": {
-        "ROBOT_OLED_FONT_ENGLISH1": "czcionka angielska 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "czcionka angielska 2",
-        "ROBOT_OLED_FONT_CHIMESE": "czcionka chińska",
-        "ROBOT_OLED_FONT_BIG": "duża czcionka"
+        "chart.categoryName": "Wykres Danych",
+        "chart.showChart": "Otwórz okno wykresu",
+        "chart.setTitle": "Ustaw tytuł wykresu [ONE]",
+        "chart.setAxisTitle": "Ustaw tytuły osi: oś x [ONE] oś y [TWO]",
+        "chart.inputData": "Wprowadź dane dla [ONE]: oś x [TWO] oś y [THREE]",
+        "chart.clearData": "Wyczyść dane",
+        "chart.closeChart": "Zamknij okno wykresu"
     },
     "tr": {
-        "ROBOT_OLED_FONT_ENGLISH1": "ingilizce font 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "ingilizce font 2",
-        "ROBOT_OLED_FONT_CHIMESE": "çin yazı tipi",
-        "ROBOT_OLED_FONT_BIG": "büyük yazı tipi"
+        "chart.categoryName": "Veri Grafiği",
+        "chart.showChart": "Grafik Penceresini Aç",
+        "chart.setTitle": "Grafik Başlığını Ayarla [ONE]",
+        "chart.setAxisTitle": "Eksen Başlıklarını Ayarla: x ekseni [ONE] y ekseni [TWO]",
+        "chart.inputData": "[ONE] için veri girin: x ekseni [TWO] y ekseni [THREE]",
+        "chart.clearData": "Verileri Temizle",
+        "chart.closeChart": "Grafik Penceresini Kapat"
     },
     "pt": {
-        "ROBOT_OLED_FONT_ENGLISH1": "fonte em inglês 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "fonte em inglês 2",
-        "ROBOT_OLED_FONT_CHIMESE": "fonte chinesa",
-        "ROBOT_OLED_FONT_BIG": "grande fonte"
+        "chart.categoryName": "Gráfico de Dados",
+        "chart.showChart": "Abrir Janela do Gráfico",
+        "chart.setTitle": "Definir Título do Gráfico [ONE]",
+        "chart.setAxisTitle": "Definir Títulos dos Eixos: eixo x [ONE] eixo y [TWO]",
+        "chart.inputData": "Inserir dados para [ONE]: eixo x [TWO] eixo y [THREE]",
+        "chart.clearData": "Limpar Dados",
+        "chart.closeChart": "Fechar Janela do Gráfico"
     },
     "hr": {
-        "ROBOT_OLED_FONT_ENGLISH1": "engleski font 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "engleski font 2",
-        "ROBOT_OLED_FONT_CHIMESE": "kineski font",
-        "ROBOT_OLED_FONT_BIG": "veliki font"
+        "chart.categoryName": "Graf Podataka",
+        "chart.showChart": "Otvori prozor grafikona",
+        "chart.setTitle": "Postavi naslov grafikona [ONE]",
+        "chart.setAxisTitle": "Postavi naslove osi: x-os [ONE] y-os [TWO]",
+        "chart.inputData": "Unesi podatke za [ONE]: x-os [TWO] y-os [THREE]",
+        "chart.clearData": "Očisti podatke",
+        "chart.closeChart": "Zatvori prozor grafikona"
     },
     "ko": {
-        "ROBOT_OLED_FONT_ENGLISH1": "영문 글꼴 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "영문 글꼴 2",
-        "ROBOT_OLED_FONT_CHIMESE": "중국어 글꼴",
-        "ROBOT_OLED_FONT_BIG": "큰 글꼴"
+        "chart.categoryName": "데이터 차트",
+        "chart.showChart": "차트 창 열기",
+        "chart.setTitle": "차트 제목 설정 [ONE]",
+        "chart.setAxisTitle": "축 제목 설정: x축 [ONE] y축 [TWO]",
+        "chart.inputData": "[ONE]에 대한 데이터 입력: x축 [TWO] y축 [THREE]",
+        "chart.clearData": "데이터 지우기",
+        "chart.closeChart": "차트 창 닫기"
     },
     "th": {
-        "ROBOT_OLED_FONT_ENGLISH1": "ฟอนต์ภาษาอังกฤษ 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "ฟอนต์ภาษาอังกฤษ 2",
-        "ROBOT_OLED_FONT_CHIMESE": "ฟอนต์จีน",
-        "ROBOT_OLED_FONT_BIG": "ฟอนต์ใหญ่"
+        "chart.categoryName": "แผนภูมิข้อมูล",
+        "chart.showChart": "เปิดหน้าต่างแผนภูมิ",
+        "chart.setTitle": "ตั้งชื่อแผนภูมิ [ONE]",
+        "chart.setAxisTitle": "ตั้งชื่อแกน: แกน x [ONE] แกน y [TWO]",
+        "chart.inputData": "ป้อนข้อมูลสำหรับ [ONE]: แกน x [TWO] แกน y [THREE]",
+        "chart.clearData": "ล้างข้อมูล",
+        "chart.closeChart": "ปิดหน้าต่างแผนภูมิ"
     },
     "nl": {
-        "ROBOT_OLED_FONT_ENGLISH1": "engelse lettertype 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "engelse lettertype 2",
-        "ROBOT_OLED_FONT_CHIMESE": "chinese lettertype",
-        "ROBOT_OLED_FONT_BIG": "groot lettertype"
+        "chart.categoryName": "Data Grafiek",
+        "chart.showChart": "Grafiekvenster openen",
+        "chart.setTitle": "Grafiektitel instellen [ONE]",
+        "chart.setAxisTitle": "As-titels instellen: x-as [ONE] y-as [TWO]",
+        "chart.inputData": "Gegevens invoeren voor [ONE]: x-as [TWO] y-as [THREE]",
+        "chart.clearData": "Gegevens wissen",
+        "chart.closeChart": "Grafiekvenster sluiten"
     },
     "ar": {
-        "ROBOT_OLED_FONT_ENGLISH1": "خط إنجليزي 1",
-        "ROBOT_OLED_FONT_ENGLISH2": "خط إنجليزي 2",
-        "ROBOT_OLED_FONT_CHIMESE": "خط صيني",
-        "ROBOT_OLED_FONT_BIG": "خط كبير"
+        "chart.categoryName": "مخطط البيانات",
+        "chart.showChart": "فتح نافذة المخطط",
+        "chart.setTitle": "تعيين عنوان المخطط [ONE]",
+        "chart.setAxisTitle": "تعيين عناوين المحاور: المحور x [ONE] المحور y [TWO]",
+        "chart.inputData": "إدخال بيانات [ONE]: المحور x [TWO] المحور y [THREE]",
+        "chart.clearData": "مسح البيانات",
+        "chart.closeChart": "إغلاق نافذة المخطط"
     }
 }
 
-const extensions = {}
-
-const interfaceData = {}
+const interfaceData = {
+    "zh-cn": {
+        "gui.extension.chart": "数据图表"
+    },
+    "zh-tw": {
+        "gui.extension.chart": "數據圖表"
+    },
+    "en": {
+        "gui.extension.chart": "Data Chart"
+    },
+    "fr": {
+        "gui.extension.chart": "Graphique de Données"
+    },
+    "ja": {
+        "gui.extension.chart": "データチャート"
+    },
+    "de": {
+        "gui.extension.chart": "Daten Diagramm"
+    },
+    "es": {
+        "gui.extension.chart": "Gráfico de Datos"
+    },
+    "ru": {
+        "gui.extension.chart": "График данных"
+    },
+    "cs": {
+        "gui.extension.chart": "Datový Graf"
+    },
+    "it": {
+        "gui.extension.chart": "Grafico Dati"
+    },
+    "pl": {
+        "gui.extension.chart": "Wykres Danych"
+    },
+    "tr": {
+        "gui.extension.chart": "Veri Grafiği"
+    },
+    "pt": {
+        "gui.extension.chart": "Gráfico de Dados"
+    },
+    "hr": {
+        "gui.extension.chart": "Graf Podataka"
+    },
+    "ko": {
+        "gui.extension.chart": "데이터 차트"
+    },
+    "th": {
+        "gui.extension.chart": "แผนภูมิข้อมูล"
+    },
+    "nl": {
+        "gui.extension.chart": "Data Grafiek"
+    },
+    "ar": {
+        "gui.extension.chart": "مخطط البيانات"
+    }
+}
 
 const alterAndAdd = (jsonData, path) => {
     let blockPath = path

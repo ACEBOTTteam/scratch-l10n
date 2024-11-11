@@ -573,5 +573,6 @@
 	"gui.modify.searchButton": "blok arama",
 	"gui.extension.bipedRobot.description": "biped robot",
 	"gui.modify.installTheDriver": "tek tıklamayla seri sürücü yükleme",
-	"gui.extension.meteorologicalStation": "meteoroloji istasyonu"
+	"gui.extension.meteorologicalStation": "meteoroloji istasyonu",
+	"gui.extension.chart": "Veri Grafiği"
 }

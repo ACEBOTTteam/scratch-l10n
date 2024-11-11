@@ -573,5 +573,6 @@
 	"gui.modify.searchButton": "wyszukiwanie bloków",
 	"gui.extension.bipedRobot.description": "dwunożny robot",
 	"gui.modify.installTheDriver": "instalacja sterownika szeregowego jednym kliknięciem",
-	"gui.extension.meteorologicalStation": "stacja meteorologiczna"
+	"gui.extension.meteorologicalStation": "stacja meteorologiczna",
+	"gui.extension.chart": "Wykres Danych"
 }

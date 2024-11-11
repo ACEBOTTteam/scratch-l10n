@@ -573,5 +573,6 @@
 	"gui.modify.searchButton": "blocksuche",
 	"gui.extension.bipedRobot.description": "zweibeiniger roboter",
 	"gui.modify.installTheDriver": "ein-klick-installation des seriellen treibers",
-	"gui.extension.meteorologicalStation": "wetterstation"
+	"gui.extension.meteorologicalStation": "wetterstation",
+	"gui.extension.chart": "Daten Diagramm"
 }

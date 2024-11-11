@@ -573,5 +573,6 @@
 	"gui.modify.searchButton": "pesquisa de blocos",
 	"gui.extension.bipedRobot.description": "robô bípedo",
 	"gui.modify.installTheDriver": "instalação de driver serial com um clique",
-	"gui.extension.meteorologicalStation": "estação meteorológica"
+	"gui.extension.meteorologicalStation": "estação meteorológica",
+	"gui.extension.chart": "Gráfico de Dados"
 }

@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "dvounohý robot",
 	"gui.modify.installTheDriver": "jedním kliknutím nainstalujte sériový ovladač",
 	"gui.extension.meteorologicalStation": "meteorologická stanice",
-	"gui.extension.chart": "Datový Graf"
+	"gui.extension.chart": "Datový Graf",
+	"gui.extension.smartHome.name": "chytrá domácnost",
+	"gui.extension.smartfarm.name": "chytrá farma"
 }

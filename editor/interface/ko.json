@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "이족 로봇",
 	"gui.modify.installTheDriver": "원클릭으로 시리얼 드라이버 설치",
 	"gui.extension.meteorologicalStation": "기상 관측소",
-	"gui.extension.chart": "데이터 차트"
+	"gui.extension.chart": "데이터 차트",
+	"gui.extension.smartHome.name": "스마트 홈",
+	"gui.extension.smartfarm.name": "스마트 팜"
 }

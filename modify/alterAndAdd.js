@@ -25,224 +25,315 @@ const block = {}
 
 const extensions = {
     "zh-cn": {
-        "chart.categoryName": "数据图表",
-        "chart.showChart": "打开图表窗口",
-        "chart.setTitle": "设置图表标题[ONE]",
-        "chart.setAxisTitle": "设置轴标题: x轴[ONE] y轴[TWO]",
-        "chart.inputData": "输入[ONE]的数据: x轴[TWO] y轴[THREE]",
-        "chart.clearData": "清除数据",
-        "chart.closeChart": "关闭图表窗口",
+        "carMotor.firing":"枪口单次射击",
+        "carMotor.continuous.firing":"枪口[ONE]连续射击",
+        "carMotor.bluetoothController.expansion.name":"蓝牙手柄",
+        "carMotor.bluetoothController.connect":"连接蓝牙手柄[ONE]",
+        "carMotor.bluetoothController.isConnect":"是否到连接蓝牙手柄",
+        "carMotor.bluetoothController.buttons":"蓝牙手柄[ONE]被[TWO]",
+        "carMotor.bluetoothController.disConnect":"断开连接",
+        "carMotor.bluetoothController.move":"蓝牙手柄[ONE]是否移动",
+        "carMotor.bluetoothController.getData":"蓝牙手柄[ONE][TWO]值",
+        "carMotor.bluetoothController.leftUp":"左前",
+        "carMotor.bluetoothController.leftDown":"左后",
+        "carMotor.bluetoothController.rightUp":"右前",
+        "carMotor.bluetoothController.rightDown":"右后",
+        "carMotor.bluetoothController.pressDown":"按下",
+        "carMotor.bluetoothController.undo":"松开",
     },
     "zh-tw": {
-        "chart.categoryName": "數據圖表",
-        "chart.showChart": "打開圖表窗口",
-        "chart.setTitle": "設置圖表標題[ONE]",
-        "chart.setAxisTitle": "設置軸標題: x軸[ONE] y軸[TWO]",
-        "chart.inputData": "輸入[ONE]的數據: x軸[TWO] y軸[THREE]",
-        "chart.clearData": "清除數據",
-        "chart.closeChart": "關閉圖表窗口"
+        "carMotor.firing": "槍口單次射擊",
+        "carMotor.continuous.firing": "槍口[ONE]連續射擊",
+        "carMotor.bluetoothController.expansion.name": "藍牙手柄",
+        "carMotor.bluetoothController.connect": "連接藍牙手柄[ONE]",
+        "carMotor.bluetoothController.isConnect": "是否連接藍牙手柄",
+        "carMotor.bluetoothController.buttons": "藍牙手柄[ONE]被[TWO]",
+        "carMotor.bluetoothController.disConnect": "斷開連接",
+        "carMotor.bluetoothController.move": "藍牙手柄[ONE]是否移動",
+        "carMotor.bluetoothController.getData": "藍牙手柄[ONE][TWO]值",
+        "carMotor.bluetoothController.leftUp": "左前",
+        "carMotor.bluetoothController.leftDown": "左後",
+        "carMotor.bluetoothController.rightUp": "右前",
+        "carMotor.bluetoothController.rightDown": "右後",
+        "carMotor.bluetoothController.pressDown": "按下",
+        "carMotor.bluetoothController.undo": "鬆開"
     },
     "en": {
-        "chart.categoryName": "Data Chart",
-        "chart.showChart": "Open Chart Window",
-        "chart.setTitle": "Set Chart Title [ONE]",
-        "chart.setAxisTitle": "Set Axis Titles: x-axis [ONE] y-axis [TWO]",
-        "chart.inputData": "Input data for [ONE]: x-axis [TWO] y-axis [THREE]",
-        "chart.clearData": "Clear Data",
-        "chart.closeChart": "Close Chart Window"
+        "carMotor.firing": "gun muzzle single shot",
+        "carMotor.continuous.firing": "gun muzzle [ONE] continuous shooting",
+        "carMotor.bluetoothController.expansion.name": "bluetooth controller",
+        "carMotor.bluetoothController.connect": "connect bluetooth controller [ONE]",
+        "carMotor.bluetoothController.isConnect": "is bluetooth controller connected",
+        "carMotor.bluetoothController.buttons": "bluetooth controller [ONE] is [TWO]",
+        "carMotor.bluetoothController.disConnect": "disconnect",
+        "carMotor.bluetoothController.move": "bluetooth controller [ONE] is moving",
+        "carMotor.bluetoothController.getData": "bluetooth controller [ONE] [TWO] value",
+        "carMotor.bluetoothController.leftUp": "left front",
+        "carMotor.bluetoothController.leftDown": "left rear",
+        "carMotor.bluetoothController.rightUp": "right front",
+        "carMotor.bluetoothController.rightDown": "right rear",
+        "carMotor.bluetoothController.pressDown": "pressed",
+        "carMotor.bluetoothController.undo": "released"
     },
     "fr": {
-        "chart.categoryName": "Graphique de Données",
-        "chart.showChart": "Ouvrir la Fenêtre de Graphique",
-        "chart.setTitle": "Définir le Titre du Graphique [ONE]",
-        "chart.setAxisTitle": "Définir les Titres des Axes : axe des x [ONE] axe des y [TWO]",
-        "chart.inputData": "Saisir les données pour [ONE] : axe des x [TWO] axe des y [THREE]",
-        "chart.clearData": "Effacer les Données",
-        "chart.closeChart": "Fermer la Fenêtre de Graphique"
+        "carMotor.firing": "tir unique de la bouche du canon",
+        "carMotor.continuous.firing": "bouche du canon [ONE] tir continu",
+        "carMotor.bluetoothController.expansion.name": "manette bluetooth",
+        "carMotor.bluetoothController.connect": "connecter la manette bluetooth [ONE]",
+        "carMotor.bluetoothController.isConnect": "la manette bluetooth est-elle connectée",
+        "carMotor.bluetoothController.buttons": "la manette bluetooth [ONE] est [TWO]",
+        "carMotor.bluetoothController.disConnect": "déconnecter",
+        "carMotor.bluetoothController.move": "la manette bluetooth [ONE] se déplace",
+        "carMotor.bluetoothController.getData": "valeur [TWO] de la manette bluetooth [ONE]",
+        "carMotor.bluetoothController.leftUp": "avant gauche",
+        "carMotor.bluetoothController.leftDown": "arrière gauche",
+        "carMotor.bluetoothController.rightUp": "avant droit",
+        "carMotor.bluetoothController.rightDown": "arrière droit",
+        "carMotor.bluetoothController.pressDown": "appuyé",
+        "carMotor.bluetoothController.undo": "relâché"
     },
     "ja": {
-        "chart.categoryName": "データチャート",
-        "chart.showChart": "チャートウィンドウを開く",
-        "chart.setTitle": "チャートタイトルを設定する[ONE]",
-        "chart.setAxisTitle": "軸タイトルを設定する: x軸[ONE] y軸[TWO]",
-        "chart.inputData": "[ONE]のデータを入力する: x軸[TWO] y軸[THREE]",
-        "chart.clearData": "データをクリアする",
-        "chart.closeChart": "チャートウィンドウを閉じる"
+        "carMotor.firing": "銃口の単発射撃",
+        "carMotor.continuous.firing": "銃口[ONE]の連続射撃",
+        "carMotor.bluetoothController.expansion.name": "ブルートゥースコントローラー",
+        "carMotor.bluetoothController.connect": "ブルートゥースコントローラー[ONE]を接続",
+        "carMotor.bluetoothController.isConnect": "ブルートゥースコントローラーが接続されていますか",
+        "carMotor.bluetoothController.buttons": "ブルートゥースコントローラー[ONE]が[TWO]",
+        "carMotor.bluetoothController.disConnect": "接続解除",
+        "carMotor.bluetoothController.move": "ブルートゥースコントローラー[ONE]が移動中",
+        "carMotor.bluetoothController.getData": "ブルートゥースコントローラー[ONE][TWO]の値",
+        "carMotor.bluetoothController.leftUp": "左前",
+        "carMotor.bluetoothController.leftDown": "左後",
+        "carMotor.bluetoothController.rightUp": "右前",
+        "carMotor.bluetoothController.rightDown": "右後",
+        "carMotor.bluetoothController.pressDown": "押下",
+        "carMotor.bluetoothController.undo": "解除"
     },
     "de": {
-        "chart.categoryName": "Daten Diagramm",
-        "chart.showChart": "Diagrammfenster öffnen",
-        "chart.setTitle": "Diagrammtitel festlegen [ONE]",
-        "chart.setAxisTitle": "Achsentitel festlegen: x-Achse [ONE] y-Achse [TWO]",
-        "chart.inputData": "Daten für [ONE] eingeben: x-Achse [TWO] y-Achse [THREE]",
-        "chart.clearData": "Daten löschen",
-        "chart.closeChart": "Diagrammfenster schließen"
+        "carMotor.firing": "einzelschuss aus der mündung",
+        "carMotor.continuous.firing": "mündung [ONE] dauerfeuer",
+        "carMotor.bluetoothController.expansion.name": "bluetooth-controller",
+        "carMotor.bluetoothController.connect": "bluetooth-controller [ONE] verbinden",
+        "carMotor.bluetoothController.isConnect": "bluetooth-controller verbunden",
+        "carMotor.bluetoothController.buttons": "bluetooth-controller [ONE] ist [TWO]",
+        "carMotor.bluetoothController.disConnect": "trennen",
+        "carMotor.bluetoothController.move": "bluetooth-controller [ONE] bewegt sich",
+        "carMotor.bluetoothController.getData": "wert [TWO] des bluetooth-controllers [ONE]",
+        "carMotor.bluetoothController.leftUp": "vorne links",
+        "carMotor.bluetoothController.leftDown": "hinten links",
+        "carMotor.bluetoothController.rightUp": "vorne rechts",
+        "carMotor.bluetoothController.rightDown": "hinten rechts",
+        "carMotor.bluetoothController.pressDown": "gedrückt",
+        "carMotor.bluetoothController.undo": "freigegeben"
     },
     "es": {
-        "chart.categoryName": "Gráfico de Datos",
-        "chart.showChart": "Abrir Ventana de Gráfico",
-        "chart.setTitle": "Establecer Título del Gráfico [ONE]",
-        "chart.setAxisTitle": "Establecer Títulos de Ejes: eje x [ONE] eje y [TWO]",
-        "chart.inputData": "Ingresar datos para [ONE]: eje x [TWO] eje y [THREE]",
-        "chart.clearData": "Borrar Datos",
-        "chart.closeChart": "Cerrar Ventana de Gráfico"
+        "carMotor.firing": "disparo único desde la boca",
+        "carMotor.continuous.firing": "boca [ONE] disparo continuo",
+        "carMotor.bluetoothController.expansion.name": "controlador bluetooth",
+        "carMotor.bluetoothController.connect": "conectar controlador bluetooth [ONE]",
+        "carMotor.bluetoothController.isConnect": "controlador bluetooth conectado",
+        "carMotor.bluetoothController.buttons": "el controlador bluetooth [ONE] está [TWO]",
+        "carMotor.bluetoothController.disConnect": "desconectar",
+        "carMotor.bluetoothController.move": "controlador bluetooth [ONE] se está moviendo",
+        "carMotor.bluetoothController.getData": "valor [TWO] del controlador bluetooth [ONE]",
+        "carMotor.bluetoothController.leftUp": "frontal izquierdo",
+        "carMotor.bluetoothController.leftDown": "trasero izquierdo",
+        "carMotor.bluetoothController.rightUp": "frontal derecho",
+        "carMotor.bluetoothController.rightDown": "trasero derecho",
+        "carMotor.bluetoothController.pressDown": "presionado",
+        "carMotor.bluetoothController.undo": "liberado"
     },
     "ru": {
-        "chart.categoryName": "График данных",
-        "chart.showChart": "Открыть окно графика",
-        "chart.setTitle": "Задать название графика [ONE]",
-        "chart.setAxisTitle": "Задать названия осей: ось x [ONE] ось y [TWO]",
-        "chart.inputData": "Ввести данные для [ONE]: ось x [TWO] ось y [THREE]",
-        "chart.clearData": "Очистить данные",
-        "chart.closeChart": "Закрыть окно графика"
+        "carMotor.firing": "одиночный выстрел из дула",
+        "carMotor.continuous.firing": "дуло [ONE] непрерывная стрельба",
+        "carMotor.bluetoothController.expansion.name": "bluetooth-контроллер",
+        "carMotor.bluetoothController.connect": "подключить bluetooth-контроллер [ONE]",
+        "carMotor.bluetoothController.isConnect": "bluetooth-контроллер подключен",
+        "carMotor.bluetoothController.buttons": "bluetooth-контроллер [ONE] [TWO]",
+        "carMotor.bluetoothController.disConnect": "отключить",
+        "carMotor.bluetoothController.move": "bluetooth-контроллер [ONE] двигается",
+        "carMotor.bluetoothController.getData": "значение [TWO] bluetooth-контроллера [ONE]",
+        "carMotor.bluetoothController.leftUp": "левый передний",
+        "carMotor.bluetoothController.leftDown": "левый задний",
+        "carMotor.bluetoothController.rightUp": "правый передний",
+        "carMotor.bluetoothController.rightDown": "правый задний",
+        "carMotor.bluetoothController.pressDown": "нажато",
+        "carMotor.bluetoothController.undo": "отпущено"
     },
     "cs": {
-        "chart.categoryName": "Datový Graf",
-        "chart.showChart": "Otevřít okno grafu",
-        "chart.setTitle": "Nastavit název grafu [ONE]",
-        "chart.setAxisTitle": "Nastavit názvy os: osa x [ONE] osa y [TWO]",
-        "chart.inputData": "Zadat data pro [ONE]: osa x [TWO] osa y [THREE]",
-        "chart.clearData": "Vymazat data",
-        "chart.closeChart": "Zavřít okno grafu"
+        "carMotor.firing": "jednorázový výstřel z hlavně",
+        "carMotor.continuous.firing": "hlaveň [ONE] nepřetržitá střelba",
+        "carMotor.bluetoothController.expansion.name": "bluetooth ovladač",
+        "carMotor.bluetoothController.connect": "připojit bluetooth ovladač [ONE]",
+        "carMotor.bluetoothController.isConnect": "je bluetooth ovladač připojen",
+        "carMotor.bluetoothController.buttons": "bluetooth ovladač [ONE] je [TWO]",
+        "carMotor.bluetoothController.disConnect": "odpojit",
+        "carMotor.bluetoothController.move": "bluetooth ovladač [ONE] se pohybuje",
+        "carMotor.bluetoothController.getData": "hodnota [TWO] bluetooth ovladače [ONE]",
+        "carMotor.bluetoothController.leftUp": "levý přední",
+        "carMotor.bluetoothController.leftDown": "levý zadní",
+        "carMotor.bluetoothController.rightUp": "pravý přední",
+        "carMotor.bluetoothController.rightDown": "pravý zadní",
+        "carMotor.bluetoothController.pressDown": "stisknuto",
+        "carMotor.bluetoothController.undo": "uvolněno"
     },
     "it": {
-        "chart.categoryName": "Grafico Dati",
-        "chart.showChart": "Apri Finestra Grafico",
-        "chart.setTitle": "Imposta Titolo del Grafico [ONE]",
-        "chart.setAxisTitle": "Imposta Titoli degli Assi: asse x [ONE] asse y [TWO]",
-        "chart.inputData": "Inserisci dati per [ONE]: asse x [TWO] asse y [THREE]",
-        "chart.clearData": "Cancella Dati",
-        "chart.closeChart": "Chiudi Finestra Grafico"
+        "carMotor.firing": "singolo colpo dalla canna",
+        "carMotor.continuous.firing": "canna [ONE] tiro continuo",
+        "carMotor.bluetoothController.expansion.name": "controller bluetooth",
+        "carMotor.bluetoothController.connect": "collega il controller bluetooth [ONE]",
+        "carMotor.bluetoothController.isConnect": "il controller bluetooth è connesso",
+        "carMotor.bluetoothController.buttons": "il controller bluetooth [ONE] è [TWO]",
+        "carMotor.bluetoothController.disConnect": "disconnetti",
+        "carMotor.bluetoothController.move": "il controller bluetooth [ONE] si sta muovendo",
+        "carMotor.bluetoothController.getData": "valore [TWO] del controller bluetooth [ONE]",
+        "carMotor.bluetoothController.leftUp": "anteriore sinistro",
+        "carMotor.bluetoothController.leftDown": "posteriore sinistro",
+        "carMotor.bluetoothController.rightUp": "anteriore destro",
+        "carMotor.bluetoothController.rightDown": "posteriore destro",
+        "carMotor.bluetoothController.pressDown": "premuto",
+        "carMotor.bluetoothController.undo": "rilasciato"
     },
     "pl": {
-        "chart.categoryName": "Wykres Danych",
-        "chart.showChart": "Otwórz okno wykresu",
-        "chart.setTitle": "Ustaw tytuł wykresu [ONE]",
-        "chart.setAxisTitle": "Ustaw tytuły osi: oś x [ONE] oś y [TWO]",
-        "chart.inputData": "Wprowadź dane dla [ONE]: oś x [TWO] oś y [THREE]",
-        "chart.clearData": "Wyczyść dane",
-        "chart.closeChart": "Zamknij okno wykresu"
+        "carMotor.firing": "pojedynczy strzał z lufy",
+        "carMotor.continuous.firing": "lufa [ONE] ciągły strzał",
+        "carMotor.bluetoothController.expansion.name": "kontroler bluetooth",
+        "carMotor.bluetoothController.connect": "połącz kontroler bluetooth [ONE]",
+        "carMotor.bluetoothController.isConnect": "czy kontroler bluetooth jest połączony",
+        "carMotor.bluetoothController.buttons": "kontroler bluetooth [ONE] jest [TWO]",
+        "carMotor.bluetoothController.disConnect": "rozłącz",
+        "carMotor.bluetoothController.move": "kontroler bluetooth [ONE] porusza się",
+        "carMotor.bluetoothController.getData": "wartość [TWO] kontrolera bluetooth [ONE]",
+        "carMotor.bluetoothController.leftUp": "przód lewy",
+        "carMotor.bluetoothController.leftDown": "tył lewy",
+        "carMotor.bluetoothController.rightUp": "przód prawy",
+        "carMotor.bluetoothController.rightDown": "tył prawy",
+        "carMotor.bluetoothController.pressDown": "naciśnięte",
+        "carMotor.bluetoothController.undo": "zwolnione"
     },
     "tr": {
-        "chart.categoryName": "Veri Grafiği",
-        "chart.showChart": "Grafik Penceresini Aç",
-        "chart.setTitle": "Grafik Başlığını Ayarla [ONE]",
-        "chart.setAxisTitle": "Eksen Başlıklarını Ayarla: x ekseni [ONE] y ekseni [TWO]",
-        "chart.inputData": "[ONE] için veri girin: x ekseni [TWO] y ekseni [THREE]",
-        "chart.clearData": "Verileri Temizle",
-        "chart.closeChart": "Grafik Penceresini Kapat"
+        "carMotor.firing": "namludan tek atış",
+        "carMotor.continuous.firing": "namlu [ONE] sürekli ateş",
+        "carMotor.bluetoothController.expansion.name": "bluetooth kontrolcü",
+        "carMotor.bluetoothController.connect": "bluetooth kontrolcüyü bağla [ONE]",
+        "carMotor.bluetoothController.isConnect": "bluetooth kontrolcü bağlı mı",
+        "carMotor.bluetoothController.buttons": "bluetooth kontrolcü [ONE] [TWO]",
+        "carMotor.bluetoothController.disConnect": "bağlantıyı kes",
+        "carMotor.bluetoothController.move": "bluetooth kontrolcü [ONE] hareket ediyor",
+        "carMotor.bluetoothController.getData": "bluetooth kontrolcü [ONE] [TWO] değeri",
+        "carMotor.bluetoothController.leftUp": "sol ön",
+        "carMotor.bluetoothController.leftDown": "sol arka",
+        "carMotor.bluetoothController.rightUp": "sağ ön",
+        "carMotor.bluetoothController.rightDown": "sağ arka",
+        "carMotor.bluetoothController.pressDown": "basıldı",
+        "carMotor.bluetoothController.undo": "serbest bırakıldı"
     },
     "pt": {
-        "chart.categoryName": "Gráfico de Dados",
-        "chart.showChart": "Abrir Janela do Gráfico",
-        "chart.setTitle": "Definir Título do Gráfico [ONE]",
-        "chart.setAxisTitle": "Definir Títulos dos Eixos: eixo x [ONE] eixo y [TWO]",
-        "chart.inputData": "Inserir dados para [ONE]: eixo x [TWO] eixo y [THREE]",
-        "chart.clearData": "Limpar Dados",
-        "chart.closeChart": "Fechar Janela do Gráfico"
+        "carMotor.firing": "disparo único da boca do cano",
+        "carMotor.continuous.firing": "boca do cano [ONE] disparo contínuo",
+        "carMotor.bluetoothController.expansion.name": "controlador bluetooth",
+        "carMotor.bluetoothController.connect": "conectar controlador bluetooth [ONE]",
+        "carMotor.bluetoothController.isConnect": "controlador bluetooth conectado",
+        "carMotor.bluetoothController.buttons": "controlador bluetooth [ONE] está [TWO]",
+        "carMotor.bluetoothController.disConnect": "desconectar",
+        "carMotor.bluetoothController.move": "controlador bluetooth [ONE] está se movendo",
+        "carMotor.bluetoothController.getData": "valor [TWO] do controlador bluetooth [ONE]",
+        "carMotor.bluetoothController.leftUp": "frontal esquerdo",
+        "carMotor.bluetoothController.leftDown": "traseiro esquerdo",
+        "carMotor.bluetoothController.rightUp": "frontal direito",
+        "carMotor.bluetoothController.rightDown": "traseiro direito",
+        "carMotor.bluetoothController.pressDown": "pressionado",
+        "carMotor.bluetoothController.undo": "liberado"
     },
     "hr": {
-        "chart.categoryName": "Graf Podataka",
-        "chart.showChart": "Otvori prozor grafikona",
-        "chart.setTitle": "Postavi naslov grafikona [ONE]",
-        "chart.setAxisTitle": "Postavi naslove osi: x-os [ONE] y-os [TWO]",
-        "chart.inputData": "Unesi podatke za [ONE]: x-os [TWO] y-os [THREE]",
-        "chart.clearData": "Očisti podatke",
-        "chart.closeChart": "Zatvori prozor grafikona"
+        "carMotor.firing": "jednokratno ispaljivanje iz cijevi",
+        "carMotor.continuous.firing": "cijev [ONE] neprekidna paljba",
+        "carMotor.bluetoothController.expansion.name": "bluetooth kontroler",
+        "carMotor.bluetoothController.connect": "poveži bluetooth kontroler [ONE]",
+        "carMotor.bluetoothController.isConnect": "je li bluetooth kontroler povezan",
+        "carMotor.bluetoothController.buttons": "bluetooth kontroler [ONE] je [TWO]",
+        "carMotor.bluetoothController.disConnect": "odspoji",
+        "carMotor.bluetoothController.move": "bluetooth kontroler [ONE] se kreće",
+        "carMotor.bluetoothController.getData": "vrijednost [TWO] bluetooth kontrolera [ONE]",
+        "carMotor.bluetoothController.leftUp": "lijevo prednje",
+        "carMotor.bluetoothController.leftDown": "lijevo stražnje",
+        "carMotor.bluetoothController.rightUp": "desno prednje",
+        "carMotor.bluetoothController.rightDown": "desno stražnje",
+        "carMotor.bluetoothController.pressDown": "pritisnuto",
+        "carMotor.bluetoothController.undo": "otpušteno"
     },
     "ko": {
-        "chart.categoryName": "데이터 차트",
-        "chart.showChart": "차트 창 열기",
-        "chart.setTitle": "차트 제목 설정 [ONE]",
-        "chart.setAxisTitle": "축 제목 설정: x축 [ONE] y축 [TWO]",
-        "chart.inputData": "[ONE]에 대한 데이터 입력: x축 [TWO] y축 [THREE]",
-        "chart.clearData": "데이터 지우기",
-        "chart.closeChart": "차트 창 닫기"
+        "carMotor.firing": "총구 단일 발사",
+        "carMotor.continuous.firing": "총구 [ONE] 연속 발사",
+        "carMotor.bluetoothController.expansion.name": "블루투스 컨트롤러",
+        "carMotor.bluetoothController.connect": "블루투스 컨트롤러 [ONE] 연결",
+        "carMotor.bluetoothController.isConnect": "블루투스 컨트롤러 연결 여부",
+        "carMotor.bluetoothController.buttons": "블루투스 컨트롤러 [ONE]이(가) [TWO]",
+        "carMotor.bluetoothController.disConnect": "연결 해제",
+        "carMotor.bluetoothController.move": "블루투스 컨트롤러 [ONE] 이동 여부",
+        "carMotor.bluetoothController.getData": "블루투스 컨트롤러 [ONE][TWO] 값",
+        "carMotor.bluetoothController.leftUp": "왼쪽 앞",
+        "carMotor.bluetoothController.leftDown": "왼쪽 뒤",
+        "carMotor.bluetoothController.rightUp": "오른쪽 앞",
+        "carMotor.bluetoothController.rightDown": "오른쪽 뒤",
+        "carMotor.bluetoothController.pressDown": "누름",
+        "carMotor.bluetoothController.undo": "해제"
     },
     "th": {
-        "chart.categoryName": "แผนภูมิข้อมูล",
-        "chart.showChart": "เปิดหน้าต่างแผนภูมิ",
-        "chart.setTitle": "ตั้งชื่อแผนภูมิ [ONE]",
-        "chart.setAxisTitle": "ตั้งชื่อแกน: แกน x [ONE] แกน y [TWO]",
-        "chart.inputData": "ป้อนข้อมูลสำหรับ [ONE]: แกน x [TWO] แกน y [THREE]",
-        "chart.clearData": "ล้างข้อมูล",
-        "chart.closeChart": "ปิดหน้าต่างแผนภูมิ"
+        "carMotor.firing": "ยิงครั้งเดียวจากปากกระบอกปืน",
+        "carMotor.continuous.firing": "ปากกระบอกปืน [ONE] ยิงต่อเนื่อง",
+        "carMotor.bluetoothController.expansion.name": "ตัวควบคุมบลูทูธ",
+        "carMotor.bluetoothController.connect": "เชื่อมต่อตัวควบคุมบลูทูธ [ONE]",
+        "carMotor.bluetoothController.isConnect": "ตัวควบคุมบลูทูธเชื่อมต่อแล้วหรือไม่",
+        "carMotor.bluetoothController.buttons": "ตัวควบคุมบลูทูธ [ONE] ถูก[TWO]",
+        "carMotor.bluetoothController.disConnect": "ยกเลิกการเชื่อมต่อ",
+        "carMotor.bluetoothController.move": "ตัวควบคุมบลูทูธ [ONE] เคลื่อนไหวหรือไม่",
+        "carMotor.bluetoothController.getData": "ค่าตัวควบคุมบลูทูธ [ONE][TWO]",
+        "carMotor.bluetoothController.leftUp": "ซ้ายหน้า",
+        "carMotor.bluetoothController.leftDown": "ซ้ายหลัง",
+        "carMotor.bluetoothController.rightUp": "ขวาหน้า",
+        "carMotor.bluetoothController.rightDown": "ขวาหลัง",
+        "carMotor.bluetoothController.pressDown": "กด",
+        "carMotor.bluetoothController.undo": "ปล่อย"
     },
     "nl": {
-        "chart.categoryName": "Data Grafiek",
-        "chart.showChart": "Grafiekvenster openen",
-        "chart.setTitle": "Grafiektitel instellen [ONE]",
-        "chart.setAxisTitle": "As-titels instellen: x-as [ONE] y-as [TWO]",
-        "chart.inputData": "Gegevens invoeren voor [ONE]: x-as [TWO] y-as [THREE]",
-        "chart.clearData": "Gegevens wissen",
-        "chart.closeChart": "Grafiekvenster sluiten"
+        "carMotor.firing": "enkele schot uit de loop",
+        "carMotor.continuous.firing": "loop [ONE] continu schieten",
+        "carMotor.bluetoothController.expansion.name": "bluetooth-controller",
+        "carMotor.bluetoothController.connect": "bluetooth-controller [ONE] verbinden",
+        "carMotor.bluetoothController.isConnect": "bluetooth-controller verbonden",
+        "carMotor.bluetoothController.buttons": "bluetooth-controller [ONE] is [TWO]",
+        "carMotor.bluetoothController.disConnect": "verbinding verbreken",
+        "carMotor.bluetoothController.move": "bluetooth-controller [ONE] beweegt",
+        "carMotor.bluetoothController.getData": "waarde [TWO] van bluetooth-controller [ONE]",
+        "carMotor.bluetoothController.leftUp": "linksvoor",
+        "carMotor.bluetoothController.leftDown": "linksonder",
+        "carMotor.bluetoothController.rightUp": "rechtsvoor",
+        "carMotor.bluetoothController.rightDown": "rechtsonder",
+        "carMotor.bluetoothController.pressDown": "ingedrukt",
+        "carMotor.bluetoothController.undo": "losgelaten"
     },
     "ar": {
-        "chart.categoryName": "مخطط البيانات",
-        "chart.showChart": "فتح نافذة المخطط",
-        "chart.setTitle": "تعيين عنوان المخطط [ONE]",
-        "chart.setAxisTitle": "تعيين عناوين المحاور: المحور x [ONE] المحور y [TWO]",
-        "chart.inputData": "إدخال بيانات [ONE]: المحور x [TWO] المحور y [THREE]",
-        "chart.clearData": "مسح البيانات",
-        "chart.closeChart": "إغلاق نافذة المخطط"
+        "carMotor.firing": "إطلاق طلقة واحدة من الفوهة",
+        "carMotor.continuous.firing": "فوهة [ONE] إطلاق مستمر",
+        "carMotor.bluetoothController.expansion.name": "وحدة تحكم بلوتوث",
+        "carMotor.bluetoothController.connect": "اتصال وحدة تحكم بلوتوث [ONE]",
+        "carMotor.bluetoothController.isConnect": "هل وحدة تحكم البلوتوث متصلة",
+        "carMotor.bluetoothController.buttons": "وحدة تحكم بلوتوث [ONE] [TWO]",
+        "carMotor.bluetoothController.disConnect": "قطع الاتصال",
+        "carMotor.bluetoothController.move": "وحدة تحكم بلوتوث [ONE] تتحرك",
+        "carMotor.bluetoothController.getData": "قيمة [TWO] لوحدة تحكم بلوتوث [ONE]",
+        "carMotor.bluetoothController.leftUp": "الأمام الأيسر",
+        "carMotor.bluetoothController.leftDown": "الخلف الأيسر",
+        "carMotor.bluetoothController.rightUp": "الأمام الأيمن",
+        "carMotor.bluetoothController.rightDown": "الخلف الأيمن",
+        "carMotor.bluetoothController.pressDown": "مضغوط",
+        "carMotor.bluetoothController.undo": "مطلق"
     }
 }
 
 const interfaceData = {
-    "zh-cn": {
-        "gui.extension.chart": "数据图表"
-    },
-    "zh-tw": {
-        "gui.extension.chart": "數據圖表"
-    },
-    "en": {
-        "gui.extension.chart": "Data Chart"
-    },
-    "fr": {
-        "gui.extension.chart": "Graphique de Données"
-    },
-    "ja": {
-        "gui.extension.chart": "データチャート"
-    },
-    "de": {
-        "gui.extension.chart": "Daten Diagramm"
-    },
-    "es": {
-        "gui.extension.chart": "Gráfico de Datos"
-    },
-    "ru": {
-        "gui.extension.chart": "График данных"
-    },
-    "cs": {
-        "gui.extension.chart": "Datový Graf"
-    },
-    "it": {
-        "gui.extension.chart": "Grafico Dati"
-    },
-    "pl": {
-        "gui.extension.chart": "Wykres Danych"
-    },
-    "tr": {
-        "gui.extension.chart": "Veri Grafiği"
-    },
-    "pt": {
-        "gui.extension.chart": "Gráfico de Dados"
-    },
-    "hr": {
-        "gui.extension.chart": "Graf Podataka"
-    },
-    "ko": {
-        "gui.extension.chart": "데이터 차트"
-    },
-    "th": {
-        "gui.extension.chart": "แผนภูมิข้อมูล"
-    },
-    "nl": {
-        "gui.extension.chart": "Data Grafiek"
-    },
-    "ar": {
-        "gui.extension.chart": "مخطط البيانات"
-    }
+
 }
 
 const alterAndAdd = (jsonData, path) => {

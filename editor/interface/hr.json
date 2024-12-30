@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "dvonožni robot",
 	"gui.modify.installTheDriver": "jednim klikom instalirajte serijski upravljački program",
 	"gui.extension.meteorologicalStation": "meteorološka stanica",
-	"gui.extension.chart": "Graf Podataka"
+	"gui.extension.chart": "Graf Podataka",
+	"gui.extension.smartHome.name": "pametni dom",
+	"gui.extension.smartfarm.name": "pametna farma"
 }

@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "雙足機器人",
 	"gui.modify.installTheDriver": "一鍵安裝串口驅動",
 	"gui.extension.meteorologicalStation": "氣象站",
-	"gui.extension.chart": "數據圖表"
+	"gui.extension.chart": "數據圖表",
+	"gui.extension.smartHome.name": "智慧家居",
+	"gui.extension.smartfarm.name": "智慧農場"
 }

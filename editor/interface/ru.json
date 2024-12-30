@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "двуногий робот",
 	"gui.modify.installTheDriver": "установка серийного драйвера в один клик",
 	"gui.extension.meteorologicalStation": "метеорологическая станция",
-	"gui.extension.chart": "График данных"
+	"gui.extension.chart": "График данных",
+	"gui.extension.smartHome.name": "умный дом",
+	"gui.extension.smartfarm.name": "умная ферма"
 }

@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "biped robot",
 	"gui.modify.installTheDriver": "one-click install serial driver",
 	"gui.extension.meteorologicalStation": "weather station",
-	"gui.extension.chart": "Data Chart"
+	"gui.extension.chart": "Data Chart",
+	"gui.extension.smartHome.name": "smart home",
+	"gui.extension.smartFarm.name": "smart farm"
 }

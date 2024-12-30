@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "zweibeiniger roboter",
 	"gui.modify.installTheDriver": "ein-klick-installation des seriellen treibers",
 	"gui.extension.meteorologicalStation": "wetterstation",
-	"gui.extension.chart": "Daten Diagramm"
+	"gui.extension.chart": "Daten Diagramm",
+	"gui.extension.smartHome.name": "smart home",
+	"gui.extension.smartfarm.name": "smarter bauernhof"
 }

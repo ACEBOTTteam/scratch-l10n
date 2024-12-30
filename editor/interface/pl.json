@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "dwunożny robot",
 	"gui.modify.installTheDriver": "instalacja sterownika szeregowego jednym kliknięciem",
 	"gui.extension.meteorologicalStation": "stacja meteorologiczna",
-	"gui.extension.chart": "Wykres Danych"
+	"gui.extension.chart": "Wykres Danych",
+	"gui.extension.smartHome.name": "inteligentny dom",
+	"gui.extension.smartfarm.name": "inteligentne gospodarstwo"
 }

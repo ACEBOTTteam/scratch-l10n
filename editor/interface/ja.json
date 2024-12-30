@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "二足歩行ロボット",
 	"gui.modify.installTheDriver": "ワンクリックでシリアルドライバーをインストール",
 	"gui.extension.meteorologicalStation": "気象観測所",
-	"gui.extension.chart": "データチャート"
+	"gui.extension.chart": "データチャート",
+	"gui.extension.smartHome.name": "スマートホーム",
+	"gui.extension.smartfarm.name": "スマートファーム"
 }

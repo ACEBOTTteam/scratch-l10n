@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "روبوت ذو قدمين",
 	"gui.modify.installTheDriver": "تثبيت برنامج تشغيل التسلسلي بنقرة واحدة",
 	"gui.extension.meteorologicalStation": "محطة الأرصاد الجوية",
-	"gui.extension.chart": "مخطط البيانات"
+	"gui.extension.chart": "مخطط البيانات",
+	"gui.extension.smartHome.name": "المنزل الذكي",
+	"gui.extension.smartfarm.name": "المزرعة الذكية"
 }

@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "robô bípedo",
 	"gui.modify.installTheDriver": "instalação de driver serial com um clique",
 	"gui.extension.meteorologicalStation": "estação meteorológica",
-	"gui.extension.chart": "Gráfico de Dados"
+	"gui.extension.chart": "Gráfico de Dados",
+	"gui.extension.smartHome.name": "casa inteligente",
+	"gui.extension.smartfarm.name": "fazenda inteligente"
 }

@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "biped robot",
 	"gui.modify.installTheDriver": "tek tıklamayla seri sürücü yükleme",
 	"gui.extension.meteorologicalStation": "meteoroloji istasyonu",
-	"gui.extension.chart": "Veri Grafiği"
+	"gui.extension.chart": "Veri Grafiği",
+	"gui.extension.smartHome.name": "akıllı ev",
+	"gui.extension.smartfarm.name": "akıllı çiftlik"
 }

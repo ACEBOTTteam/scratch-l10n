@@ -574,5 +574,7 @@
 	"gui.extension.bipedRobot.description": "หุ่นยนต์สองขา",
 	"gui.modify.installTheDriver": "ติดตั้งไดรเวอร์แบบอนุกรมด้วยคลิกเดียว",
 	"gui.extension.meteorologicalStation": "สถานีอุตุนิยมวิทยา",
-	"gui.extension.chart": "แผนภูมิข้อมูล"
+	"gui.extension.chart": "แผนภูมิข้อมูล",
+	"gui.extension.smartHome.name": "สมาร์ทโฮม",
+	"gui.extension.smartfarm.name": "สมาร์ทฟาร์ม"
 }

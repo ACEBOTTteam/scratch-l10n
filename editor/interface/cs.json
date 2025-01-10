@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "meteorologická stanice",
 	"gui.extension.chart": "Datový Graf",
 	"gui.extension.smartHome.name": "chytrá domácnost",
-	"gui.extension.smartfarm.name": "chytrá farma"
+	"gui.extension.smartfarm.name": "chytrá farma",
+	"gui.extension.bluetoothController.name": "bluetooth ovladač",
+	"gui.modify.createSDK": "\nGenerování SDK probíhá, trvá to přibližně 1-3 minuty, prosím, buďte trpěliví! ......",
+	"gui.modify.createSDKing": "Generování probíhá, trvá to přibližně 1-3 minuty, prosím, buďte trpěliví! ......",
+	"gui.modify.SDKSuccess": "\nSDK bylo úspěšně vygenerováno\nZačínáme generování firmwaru......",
+	"gui.modify.createError": "\nGenerování selhalo, pravděpodobně kvůli problémům s konfigurací, prosím zkontrolujte konfiguraci",
+	"gui.modify.createFirmwareing": "\nGenerování firmwaru......",
+	"gui.modify.firmwareSuccess": "\nFirmware byl úspěšně vygenerován......",
+	"gui.modify.SDKing": "\nGenerování SDK......",
+	"gui.modify.createFirmware": "Vytvořit firmware",
+	"gui.extension.ASR.name": "Hlasové rozpoznávání",
+	"gui.extension.ASR.description": "Vytvořit a nahrát firmware pro rozpoznávání hlasu.",
+	"gui.modify.parameter": "parametr",
+	"gui.modify.ChoosRole": "vybrat roli"
 }

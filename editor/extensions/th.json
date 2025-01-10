@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "ขวาหน้า",
 	"carMotor.bluetoothController.rightDown": "ขวาหลัง",
 	"carMotor.bluetoothController.pressDown": "กด",
-	"carMotor.bluetoothController.undo": "ปล่อย"
+	"carMotor.bluetoothController.undo": "ปล่อย",
+	"ASR.categoryName": "การรู้จำเสียงพูด",
+	"ASR.sound_config": "การตั้งค่าเสียง การออกเสียง[ONE] ระดับเสียง[TWO] ความเร็ว[THREE]",
+	"ASR.turn_on_the_radio": "การออกอากาศเริ่มต้น[ONE] เวลาหมดเวลา[TWO]วินาที",
+	"ASR.wakeword": "ความไวในการปลุก[ONE] คำปลุก[TWO] การตอบกลับปลุก[THREE]",
+	"ASR.exit_reply": "การตอบกลับออกเมื่อหมดเวลา[ONE]",
+	"ASR.initiative_exit": "คำสั่งออกจากโปรแกรม[ONE] การตอบกลับ[TWO]",
+	"ASR.command_recognition_sensitivity": "ความไวในการรู้จำคำสั่ง[ONE]",
+	"ASR.recognition_command": "ชื่อการกระทำ[ONE] ID[TWO] คำสั่ง[THREE] การตอบกลับ[FOUR] เอาต์พุตพอร์ต[FIVE]",
+	"ASR.sweet_girl": "เสียงสาวหวาน",
+	"ASR.cute_girl_voice": "เสียงสาวน่ารัก",
+	"ASR.vivacious_female_voice": "เสียงสาวสดใส",
+	"ASR.male_announcer": "นักพากย์ชาย",
+	"ASR.naive_boy_voice": "เสียงเด็กชายไร้เดียงสา",
+	"ASR.childs_voice": "เสียงเด็ก"
 }

@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "الأمام الأيمن",
 	"carMotor.bluetoothController.rightDown": "الخلف الأيمن",
 	"carMotor.bluetoothController.pressDown": "مضغوط",
-	"carMotor.bluetoothController.undo": "مطلق"
+	"carMotor.bluetoothController.undo": "مطلق",
+	"ASR.categoryName": "التعرف على الصوت",
+	"ASR.sound_config": "إعداد الصوت النطق[ONE] الصوت[TWO] السرعة[THREE]",
+	"ASR.turn_on_the_radio": "إذاعة البداية[ONE] الوقت المستغرق[TWO]ثانية",
+	"ASR.wakeword": "حساسية الاستيقاظ[ONE] كلمة الاستيقاظ[TWO] رد الاستيقاظ[THREE]",
+	"ASR.exit_reply": "رد الخروج في حالة انتهاء الوقت[ONE]",
+	"ASR.initiative_exit": "أمر الخروج التلقائي[ONE] رد[ TWO]",
+	"ASR.command_recognition_sensitivity": "حساسية التعرف على الأوامر[ONE]",
+	"ASR.recognition_command": "اسم الإجراء[ONE] ID[TWO] كلمة الأمر[THREE] الرد[FOUR] إخراج المنفذ[FIVE]",
+	"ASR.sweet_girl": "صوت الفتاة الحلوة",
+	"ASR.cute_girl_voice": "صوت الفتاة اللطيفة",
+	"ASR.vivacious_female_voice": "صوت الفتاة النشيطة",
+	"ASR.male_announcer": "معلق ذكر",
+	"ASR.naive_boy_voice": "صوت الولد البريء",
+	"ASR.childs_voice": "صوت الطفل"
 }

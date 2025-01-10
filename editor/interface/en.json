@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "weather station",
 	"gui.extension.chart": "Data Chart",
 	"gui.extension.smartHome.name": "smart home",
-	"gui.extension.smartFarm.name": "smart farm"
+	"gui.extension.smartFarm.name": "smart farm",
+	"gui.extension.bluetoothController.name": "bluetooth controller",
+	"gui.modify.createSDK": "\nSDK generation in progress, it will take about 1-3 minutes, please be patient! ......",
+	"gui.modify.createSDKing": "Generation in progress, it will take about 1-3 minutes, please be patient! ......",
+	"gui.modify.SDKSuccess": "\nSDK generated successfully\nStarting firmware generation......",
+	"gui.modify.createError": "\nGeneration failed, possibly due to configuration issues, please check your configuration",
+	"gui.modify.createFirmwareing": "\nGenerating firmware......",
+	"gui.modify.firmwareSuccess": "\nFirmware generated successfully......",
+	"gui.modify.SDKing": "\nGenerating SDK......",
+	"gui.modify.createFirmware": "Generate firmware",
+	"gui.extension.ASR.name": "Speech Recognition",
+	"gui.extension.ASR.description": "Build and upload speech recognition firmware.",
+	"gui.modify.parameter": "parameter",
+	"gui.modify.ChoosRole": "choose role"
 }

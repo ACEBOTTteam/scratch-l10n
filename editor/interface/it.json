@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "stazione meteorologica",
 	"gui.extension.chart": "Grafico Dati",
 	"gui.extension.smartHome.name": "casa intelligente",
-	"gui.extension.smartfarm.name": "fattoria intelligente"
+	"gui.extension.smartfarm.name": "fattoria intelligente",
+	"gui.extension.bluetoothController.name": "controller bluetooth",
+	"gui.modify.createSDK": "\nGenerazione SDK in corso, ci vorranno circa 1-3 minuti, per favore, abbi pazienza! ......",
+	"gui.modify.createSDKing": "Generazione in corso, ci vorranno circa 1-3 minuti, per favore, abbi pazienza! ......",
+	"gui.modify.SDKSuccess": "\nSDK generato con successo\nInizio generazione del firmware......",
+	"gui.modify.createError": "\nGenerazione fallita, probabilmente a causa di un problema di configurazione, per favore controlla la configurazione",
+	"gui.modify.createFirmwareing": "\nGenerazione del firmware......",
+	"gui.modify.firmwareSuccess": "\nFirmware generato con successo......",
+	"gui.modify.SDKing": "\nGenerazione SDK......",
+	"gui.modify.createFirmware": "Genera firmware",
+	"gui.extension.ASR.name": "Riconoscimento vocale",
+	"gui.extension.ASR.description": "Costruire e caricare il firmware di riconoscimento vocale.",
+	"gui.modify.parameter": "parametro",
+	"gui.modify.ChoosRole": "scegli il ruolo"
 }

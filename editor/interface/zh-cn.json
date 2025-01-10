@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "气象站",
 	"gui.extension.chart": "数据图表",
 	"gui.extension.smartHome.name": "智能家居",
-	"gui.extension.smartFarm.name": "智能农场"
+	"gui.extension.smartFarm.name": "智能农场",
+	"gui.extension.bluetoothController.name": "蓝牙手柄",
+	"gui.modify.createSDK": "\nSDK生成中，大约需要1-3分钟，请耐心等待！......",
+	"gui.modify.createSDKing": "生成中，大约需要1-3分钟，请耐心等待！......",
+	"gui.modify.SDKSuccess": "\nSDK生成成功\n开始生成固件......",
+	"gui.modify.createError": "\n生成失败，可能是配置原因，请检查配置",
+	"gui.modify.createFirmwareing": "\n正在生成固件......",
+	"gui.modify.firmwareSuccess": "\n固件生成成功......",
+	"gui.modify.SDKing": "\n正在生成SDK......",
+	"gui.modify.createFirmware": "生成固件",
+	"gui.extension.ASR.name": "语音识别",
+	"gui.extension.ASR.description": "搭建生成语音识别固件，并上传。",
+	"gui.modify.parameter": "参数",
+	"gui.modify.ChoosRole": "选择角色"
 }

@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "sağ ön",
 	"carMotor.bluetoothController.rightDown": "sağ arka",
 	"carMotor.bluetoothController.pressDown": "basıldı",
-	"carMotor.bluetoothController.undo": "serbest bırakıldı"
+	"carMotor.bluetoothController.undo": "serbest bırakıldı",
+	"ASR.categoryName": "Sesli Tanıma",
+	"ASR.sound_config": "Ses yapılandırması Telaffuz[ONE] Ses seviyesi[TWO] Hız[THREE]",
+	"ASR.turn_on_the_radio": "Başlangıç yayını[ONE] Zaman aşımı[TWO]s",
+	"ASR.wakeword": "Uyanma hassasiyeti[ONE] Uyanma kelimesi[TWO] Uyanma yanıtı[THREE]",
+	"ASR.exit_reply": "Zaman aşımı çıkış yanıtı[ONE]",
+	"ASR.initiative_exit": "Proaktif çıkış komutu[ONE] Yanıt[TWO]",
+	"ASR.command_recognition_sensitivity": "Komut tanıma hassasiyeti[ONE]",
+	"ASR.recognition_command": "Eylem adı[ONE] ID[TWO] Komut kelimesi[THREE] Yanıt[FOUR] Port çıkışı[FIVE]",
+	"ASR.sweet_girl": "Tatlı kız sesi",
+	"ASR.cute_girl_voice": "Sevimli kız sesi",
+	"ASR.vivacious_female_voice": "Canlı kız sesi",
+	"ASR.male_announcer": "Erkek sunucu",
+	"ASR.naive_boy_voice": "Saf erkek sesi",
+	"ASR.childs_voice": "Çocuk sesi"
 }

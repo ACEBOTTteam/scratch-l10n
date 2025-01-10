@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "สถานีอุตุนิยมวิทยา",
 	"gui.extension.chart": "แผนภูมิข้อมูล",
 	"gui.extension.smartHome.name": "สมาร์ทโฮม",
-	"gui.extension.smartfarm.name": "สมาร์ทฟาร์ม"
+	"gui.extension.smartfarm.name": "สมาร์ทฟาร์ม",
+	"gui.extension.bluetoothController.name": "ตัวควบคุม bluetooth",
+	"gui.modify.createSDK": "\nกำลังสร้าง SDK ใช้เวลาประมาณ 1-3 นาที กรุณารอสักครู่! ......",
+	"gui.modify.createSDKing": "กำลังสร้าง ใช้เวลาประมาณ 1-3 นาที กรุณารอสักครู่! ......",
+	"gui.modify.SDKSuccess": "\nSDK สร้างเสร็จเรียบร้อย\nกำลังเริ่มสร้างเฟิร์มแวร์......",
+	"gui.modify.createError": "\nการสร้างล้มเหลว อาจเป็นเพราะการตั้งค่าผิดพลาด กรุณาตรวจสอบการตั้งค่า",
+	"gui.modify.createFirmwareing": "\nกำลังสร้างเฟิร์มแวร์......",
+	"gui.modify.firmwareSuccess": "\nเฟิร์มแวร์สร้างเสร็จเรียบร้อย......",
+	"gui.modify.SDKing": "\nกำลังสร้าง SDK......",
+	"gui.modify.createFirmware": "สร้างเฟิร์มแวร์",
+	"gui.extension.ASR.name": "การรู้จำเสียง",
+	"gui.extension.ASR.description": "สร้างและอัปโหลดเฟิร์มแวร์การรู้จำเสียง",
+	"gui.modify.parameter": "พารามิเตอร์",
+	"gui.modify.ChoosRole": "เลือกบทบาท"
 }

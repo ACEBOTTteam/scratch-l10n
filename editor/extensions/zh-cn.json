@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "右前",
 	"carMotor.bluetoothController.rightDown": "右后",
 	"carMotor.bluetoothController.pressDown": "按下",
-	"carMotor.bluetoothController.undo": "松开"
+	"carMotor.bluetoothController.undo": "松开",
+	"ASR.categoryName": "语音识别",
+	"ASR.sound_config": "声音配置 发音[ONE]音量[TWO]语速[THREE]",
+	"ASR.turn_on_the_radio": "开机播报[ONE]超时时间[TWO]s",
+	"ASR.wakeword": "唤醒灵敏度[ONE]唤醒词[TWO] 唤醒回复[THREE]",
+	"ASR.exit_reply": "超时退出回复[ONE]",
+	"ASR.initiative_exit": "主动退出命令[ONE]回复[TWO]",
+	"ASR.command_recognition_sensitivity": "命令识别灵敏度[ONE]",
+	"ASR.recognition_command": "行为名[ONE]ID[TWO]命令词[THREE]回复语[FOUR]端口输出[FIVE]",
+	"ASR.sweet_girl": "甜美女声",
+	"ASR.cute_girl_voice": "可爱女声",
+	"ASR.vivacious_female_voice": "活泼女声",
+	"ASR.male_announcer": "男播音员",
+	"ASR.naive_boy_voice": "天真男声",
+	"ASR.childs_voice": "童声"
 }

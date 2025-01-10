@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "오른쪽 앞",
 	"carMotor.bluetoothController.rightDown": "오른쪽 뒤",
 	"carMotor.bluetoothController.pressDown": "누름",
-	"carMotor.bluetoothController.undo": "해제"
+	"carMotor.bluetoothController.undo": "해제",
+	"ASR.categoryName": "음성 인식",
+	"ASR.sound_config": "소리 설정 발음[ONE] 볼륨[TWO] 속도[THREE]",
+	"ASR.turn_on_the_radio": "기기 켜짐 방송[ONE] 타임아웃[TWO]초",
+	"ASR.wakeword": "깨우기 민감도[ONE] 깨우기 단어[TWO] 깨우기 응답[THREE]",
+	"ASR.exit_reply": "타임아웃 종료 응답[ONE]",
+	"ASR.initiative_exit": "능동 종료 명령[ONE] 응답[TWO]",
+	"ASR.command_recognition_sensitivity": "명령 인식 민감도[ONE]",
+	"ASR.recognition_command": "동작명[ONE] ID[TWO] 명령어[THREE] 응답[FOUR] 포트 출력[FIVE]",
+	"ASR.sweet_girl": "달콤한 소녀 목소리",
+	"ASR.cute_girl_voice": "귀여운 소녀 목소리",
+	"ASR.vivacious_female_voice": "활발한 소녀 목소리",
+	"ASR.male_announcer": "남자 아나운서",
+	"ASR.naive_boy_voice": "순수한 소년 목소리",
+	"ASR.childs_voice": "어린이 목소리"
 }

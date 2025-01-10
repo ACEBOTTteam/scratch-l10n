@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "rechtsvoor",
 	"carMotor.bluetoothController.rightDown": "rechtsonder",
 	"carMotor.bluetoothController.pressDown": "ingedrukt",
-	"carMotor.bluetoothController.undo": "losgelaten"
+	"carMotor.bluetoothController.undo": "losgelaten",
+	"ASR.categoryName": "Spraakherkenning",
+	"ASR.sound_config": "Geluid configuratie Uitspraak[ONE] Volume[TWO] Snelheid[THREE]",
+	"ASR.turn_on_the_radio": "Opstart uitzending[ONE] Timeout[TWO]s",
+	"ASR.wakeword": "Wake-up gevoeligheid[ONE] Wake-up woord[TWO] Wake-up antwoord[THREE]",
+	"ASR.exit_reply": "Timeout afsluitantwoord[ONE]",
+	"ASR.initiative_exit": "Initiatief afsluit commando[ONE] Antwoord[TWO]",
+	"ASR.command_recognition_sensitivity": "Command herkenning gevoeligheid[ONE]",
+	"ASR.recognition_command": "Actie naam[ONE] ID[TWO] Commando woord[THREE] Antwoord[FOUR] Poortuitgang[FIVE]",
+	"ASR.sweet_girl": "Zoete meisjesstem",
+	"ASR.cute_girl_voice": "Schattige meisjesstem",
+	"ASR.vivacious_female_voice": "Levendige meisjesstem",
+	"ASR.male_announcer": "Mannelijke omroeper",
+	"ASR.naive_boy_voice": "Naieve jongensstem",
+	"ASR.childs_voice": "Kindstem"
 }

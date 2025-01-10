@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "метеорологическая станция",
 	"gui.extension.chart": "График данных",
 	"gui.extension.smartHome.name": "умный дом",
-	"gui.extension.smartfarm.name": "умная ферма"
+	"gui.extension.smartfarm.name": "умная ферма",
+	"gui.extension.bluetoothController.name": "bluetooth-контроллер",
+	"gui.modify.createSDK": "\nГенерация SDK в процессе, займет около 1-3 минут, пожалуйста, подождите! ......",
+	"gui.modify.createSDKing": "Генерация в процессе, займет около 1-3 минут, пожалуйста, подождите! ......",
+	"gui.modify.SDKSuccess": "\nSDK успешно сгенерирован\nНачинаем генерацию прошивки......",
+	"gui.modify.createError": "\nОшибка генерации, возможно, из-за проблемы с конфигурацией, проверьте настройки",
+	"gui.modify.createFirmwareing": "\nГенерация прошивки......",
+	"gui.modify.firmwareSuccess": "\nПрошивка успешно сгенерирована......",
+	"gui.modify.SDKing": "\nГенерация SDK......",
+	"gui.modify.createFirmware": "Создать прошивку",
+	"gui.extension.ASR.name": "Распознавание речи",
+	"gui.extension.ASR.description": "Создать и загрузить прошивку распознавания речи.",
+	"gui.modify.parameter": "параметр",
+	"gui.modify.ChoosRole": "выбрать роль"
 }

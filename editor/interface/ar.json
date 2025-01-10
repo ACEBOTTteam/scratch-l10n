@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "محطة الأرصاد الجوية",
 	"gui.extension.chart": "مخطط البيانات",
 	"gui.extension.smartHome.name": "المنزل الذكي",
-	"gui.extension.smartfarm.name": "المزرعة الذكية"
+	"gui.extension.smartfarm.name": "المزرعة الذكية",
+	"gui.extension.bluetoothController.name": "وحدة تحكم bluetooth",
+	"gui.modify.createSDK": "\nجاري إنشاء SDK ، سيستغرق حوالي 1-3 دقائق، يرجى الانتظار! ......",
+	"gui.modify.createSDKing": "جاري الإنشاء ، سيستغرق حوالي 1-3 دقائق، يرجى الانتظار! ......",
+	"gui.modify.SDKSuccess": "\nتم إنشاء SDK بنجاح\nبدء إنشاء البرنامج الثابت......",
+	"gui.modify.createError": "\nفشل الإنشاء، قد يكون السبب في الإعدادات، يرجى التحقق من الإعدادات",
+	"gui.modify.createFirmwareing": "\nجاري إنشاء البرنامج الثابت......",
+	"gui.modify.firmwareSuccess": "\nتم إنشاء البرنامج الثابت بنجاح......",
+	"gui.modify.SDKing": "\nجاري إنشاء SDK......",
+	"gui.modify.createFirmware": "إنشاء البرنامج الثابت",
+	"gui.extension.ASR.name": "التعرف على الصوت",
+	"gui.extension.ASR.description": "بناء وتحميل البرنامج الثابت للتعرف على الصوت.",
+	"gui.modify.parameter": "معامل",
+	"gui.modify.ChoosRole": "اختيار الدور"
 }

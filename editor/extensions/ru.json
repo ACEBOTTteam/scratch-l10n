@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "правый передний",
 	"carMotor.bluetoothController.rightDown": "правый задний",
 	"carMotor.bluetoothController.pressDown": "нажато",
-	"carMotor.bluetoothController.undo": "отпущено"
+	"carMotor.bluetoothController.undo": "отпущено",
+	"ASR.categoryName": "Распознавание речи",
+	"ASR.sound_config": "Настройки звука Произношение[ONE] Громкость[TWO] Скорость[THREE]",
+	"ASR.turn_on_the_radio": "Запуск воспроизведения[ONE] Время ожидания[TWO]s",
+	"ASR.wakeword": "Чувствительность активации[ONE] Активатор[TWO] Ответ на активацию[THREE]",
+	"ASR.exit_reply": "Ответ на выход по тайм-ауту[ONE]",
+	"ASR.initiative_exit": "Команда на выход[ONE] Ответ[TWO]",
+	"ASR.command_recognition_sensitivity": "Чувствительность распознавания команд[ONE]",
+	"ASR.recognition_command": "Имя действия[ONE] ID[TWO] Командное слово[THREE] Ответ[FOUR] Выход порта[FIVE]",
+	"ASR.sweet_girl": "Сладкий голос девушки",
+	"ASR.cute_girl_voice": "Милый голос девушки",
+	"ASR.vivacious_female_voice": "Живой голос девушки",
+	"ASR.male_announcer": "Мужской диктор",
+	"ASR.naive_boy_voice": "Наивный голос мальчика",
+	"ASR.childs_voice": "Детский голос"
 }

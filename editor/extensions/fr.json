@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "avant droit",
 	"carMotor.bluetoothController.rightDown": "arrière droit",
 	"carMotor.bluetoothController.pressDown": "appuyé",
-	"carMotor.bluetoothController.undo": "relâché"
+	"carMotor.bluetoothController.undo": "relâché",
+	"ASR.categoryName": "Reconnaissance vocale",
+	"ASR.sound_config": "Configuration du son Prononciation[ONE] Volume[TWO] Vitesse[THREE]",
+	"ASR.turn_on_the_radio": "Diffusion au démarrage[ONE] Délai d'expiration[TWO]s",
+	"ASR.wakeword": "Sensibilité d'éveil[ONE] Mot de réveil[TWO] Réponse d'éveil[THREE]",
+	"ASR.exit_reply": "Réponse de sortie en cas de dépassement du temps[ONE]",
+	"ASR.initiative_exit": "Commande de sortie proactive[ONE] Réponse[TWO]",
+	"ASR.command_recognition_sensitivity": "Sensibilité à la reconnaissance des commandes[ONE]",
+	"ASR.recognition_command": "Nom de l'action[ONE] ID[TWO] Mot-clé de commande[THREE] Réponse[FOUR] Sortie du port[FIVE]",
+	"ASR.sweet_girl": "Voix douce de fille",
+	"ASR.cute_girl_voice": "Voix mignonne de fille",
+	"ASR.vivacious_female_voice": "Voix vivante de fille",
+	"ASR.male_announcer": "Annonceur masculin",
+	"ASR.naive_boy_voice": "Voix de garçon naïf",
+	"ASR.childs_voice": "Voix d'enfant"
 }

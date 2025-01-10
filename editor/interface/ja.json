@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "気象観測所",
 	"gui.extension.chart": "データチャート",
 	"gui.extension.smartHome.name": "スマートホーム",
-	"gui.extension.smartfarm.name": "スマートファーム"
+	"gui.extension.smartfarm.name": "スマートファーム",
+	"gui.extension.bluetoothController.name": "bluetooth コントローラー",
+	"gui.modify.createSDK": "\nSDKの生成中です。約1～3分かかりますので、しばらくお待ちください！......",
+	"gui.modify.createSDKing": "生成中、約1～3分かかりますので、しばらくお待ちください！......",
+	"gui.modify.SDKSuccess": "\nSDKが正常に生成されました\nファームウェアの生成を開始します......",
+	"gui.modify.createError": "\n生成に失敗しました。構成に問題があるかもしれません。構成を確認してください。",
+	"gui.modify.createFirmwareing": "\nファームウェアの生成中......",
+	"gui.modify.firmwareSuccess": "\nファームウェアが正常に生成されました......",
+	"gui.modify.SDKing": "\nSDKを生成中......",
+	"gui.modify.createFirmware": "ファームウェアを生成する",
+	"gui.extension.ASR.name": "音声認識",
+	"gui.extension.ASR.description": "音声認識のファームウェアを構築してアップロードします。",
+	"gui.modify.parameter": "パラメーター",
+	"gui.modify.ChoosRole": "役割を選択"
 }

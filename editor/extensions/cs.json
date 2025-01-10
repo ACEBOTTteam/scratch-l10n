@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "pravý přední",
 	"carMotor.bluetoothController.rightDown": "pravý zadní",
 	"carMotor.bluetoothController.pressDown": "stisknuto",
-	"carMotor.bluetoothController.undo": "uvolněno"
+	"carMotor.bluetoothController.undo": "uvolněno",
+	"ASR.categoryName": "Rozpoznávání řeči",
+	"ASR.sound_config": "Nastavení zvuku Výslovnost[ONE] Hlasitost[TWO] Rychlost[THREE]",
+	"ASR.turn_on_the_radio": "Spuštění vysílání[ONE] Časový limit[TWO]s",
+	"ASR.wakeword": "Citlivost probuzení[ONE] Probuzení slovo[TWO] Odpověď na probuzení[THREE]",
+	"ASR.exit_reply": "Odpověď při vypršení času[ONE]",
+	"ASR.initiative_exit": "Příkaz k aktivnímu ukončení[ONE] Odpověď[TWO]",
+	"ASR.command_recognition_sensitivity": "Citlivost rozpoznávání příkazů[ONE]",
+	"ASR.recognition_command": "Název akce[ONE] ID[TWO] Příkazové slovo[THREE] Odpověď[FOUR] Výstup portu[FIVE]",
+	"ASR.sweet_girl": "Sladký hlas dívky",
+	"ASR.cute_girl_voice": "Roztomilý hlas dívky",
+	"ASR.vivacious_female_voice": "Živý hlas dívky",
+	"ASR.male_announcer": "Mužský hlas moderátora",
+	"ASR.naive_boy_voice": "Naivní chlapec",
+	"ASR.childs_voice": "Dětský hlas"
 }

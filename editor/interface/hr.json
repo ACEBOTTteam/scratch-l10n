@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "meteorološka stanica",
 	"gui.extension.chart": "Graf Podataka",
 	"gui.extension.smartHome.name": "pametni dom",
-	"gui.extension.smartfarm.name": "pametna farma"
+	"gui.extension.smartfarm.name": "pametna farma",
+	"gui.extension.bluetoothController.name": "bluetooth kontroler",
+	"gui.modify.createSDK": "\nGeneriranje SDK-a u tijeku, traje otprilike 1-3 minute, molimo vas da budete strpljivi! ......",
+	"gui.modify.createSDKing": "Generiranje u tijeku, traje otprilike 1-3 minute, molimo vas da budete strpljivi! ......",
+	"gui.modify.SDKSuccess": "\nSDK uspješno generiran\nPočinjemo s generiranjem firmware-a......",
+	"gui.modify.createError": "\nGeneriranje nije uspjelo, moguće zbog problema s konfiguracijom, provjerite konfiguraciju",
+	"gui.modify.createFirmwareing": "\nGeneriranje firmware-a......",
+	"gui.modify.firmwareSuccess": "\nFirmware uspješno generiran......",
+	"gui.modify.SDKing": "\nGeneriranje SDK-a......",
+	"gui.modify.createFirmware": "Generiraj firmware",
+	"gui.extension.ASR.name": "Prepoznavanje govora",
+	"gui.extension.ASR.description": "Izradite i učitajte firmware za prepoznavanje govora.",
+	"gui.modify.parameter": "parametar",
+	"gui.modify.ChoosRole": "odaberite ulogu"
 }

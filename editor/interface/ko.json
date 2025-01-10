@@ -576,5 +576,18 @@
 	"gui.extension.meteorologicalStation": "기상 관측소",
 	"gui.extension.chart": "데이터 차트",
 	"gui.extension.smartHome.name": "스마트 홈",
-	"gui.extension.smartfarm.name": "스마트 팜"
+	"gui.extension.smartfarm.name": "스마트 팜",
+	"gui.extension.bluetoothController.name": "블루투스 컨트롤러",
+	"gui.modify.createSDK": "\nSDK 생성 중, 약 1-3분 정도 걸립니다. 잠시만 기다려 주세요! ......",
+	"gui.modify.createSDKing": "생성 중, 약 1-3분 정도 걸립니다. 잠시만 기다려 주세요! ......",
+	"gui.modify.SDKSuccess": "\nSDK가 성공적으로 생성되었습니다\n펌웨어 생성을 시작합니다......",
+	"gui.modify.createError": "\n생성 실패, 구성 문제일 수 있습니다. 구성을 확인하세요.",
+	"gui.modify.createFirmwareing": "\n펌웨어 생성 중......",
+	"gui.modify.firmwareSuccess": "\n펌웨어가 성공적으로 생성되었습니다......",
+	"gui.modify.SDKing": "\nSDK 생성 중......",
+	"gui.modify.createFirmware": "펌웨어 생성",
+	"gui.extension.ASR.name": "음성 인식",
+	"gui.extension.ASR.description": "음성 인식 펌웨어를 구축하고 업로드합니다.",
+	"gui.modify.parameter": "파라미터",
+	"gui.modify.ChoosRole": "역할 선택"
 }

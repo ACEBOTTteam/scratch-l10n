@@ -492,5 +492,19 @@
 	"carMotor.bluetoothController.rightUp": "desno prednje",
 	"carMotor.bluetoothController.rightDown": "desno stražnje",
 	"carMotor.bluetoothController.pressDown": "pritisnuto",
-	"carMotor.bluetoothController.undo": "otpušteno"
+	"carMotor.bluetoothController.undo": "otpušteno",
+	"ASR.categoryName": "Prepoznavanje govora",
+	"ASR.sound_config": "Konfiguracija zvuka Izgovor[ONE] Glasnoća[TWO] Brzina[THREE]",
+	"ASR.turn_on_the_radio": "Početno emitiranje[ONE] Vrijeme čekanja[TWO]s",
+	"ASR.wakeword": "Osjetljivost buđenja[ONE] Aktivacijska riječ[TWO] Odgovor na buđenje[THREE]",
+	"ASR.exit_reply": "Odgovor na izlaz nakon isteka vremena[ONE]",
+	"ASR.initiative_exit": "Proaktivna naredba za izlaz[ONE] Odgovor[TWO]",
+	"ASR.command_recognition_sensitivity": "Osjetljivost prepoznavanja naredbi[ONE]",
+	"ASR.recognition_command": "Naziv radnje[ONE] ID[TWO] Naredba[THREE] Odgovor[FOUR] Izlaz porta[FIVE]",
+	"ASR.sweet_girl": "Sladak djevojački glas",
+	"ASR.cute_girl_voice": "Slatki djevojački glas",
+	"ASR.vivacious_female_voice": "Živahni djevojački glas",
+	"ASR.male_announcer": "Muški spiker",
+	"ASR.naive_boy_voice": "Naivni dječak glas",
+	"ASR.childs_voice": "Dječji glas"
 }

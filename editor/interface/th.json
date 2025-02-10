@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "การรู้จำเสียง",
 	"gui.extension.ASR.description": "สร้างและอัปโหลดเฟิร์มแวร์การรู้จำเสียง",
 	"gui.modify.parameter": "พารามิเตอร์",
-	"gui.modify.ChoosRole": "เลือกบทบาท"
+	"gui.modify.ChoosRole": "เลือกบทบาท",
+	"gui.modify.cameraWindow": "หน้าต่างวิดีโอ",
+	"gui.modify.closeFace": "ปิดการติดตามใบหน้า",
+	"gui.modify.closeGender": "ปิดการจดจำเพศ",
+	"gui.modify.runSeccess": "การทำงานสำเร็จ",
+	"gui.modify.runError": "การทำงานล้มเหลว",
+	"gui.modify.runing": "กำลังทำงาน",
+	"gui.modify.keepSuccess": "บันทึกสำเร็จ",
+	"gui.modify.keepError": "การบันทึกล้มเหลว",
+	"gui.modify.keepErrorInfo": "บันทึกบล็อกล้มเหลว โปรดตรวจสอบบล็อก",
+	"gui.modify.sampleProgram": "โปรแกรมตัวอย่าง",
+	"gui.modify.jumpLink": "เอกสารบทเรียน"
 }

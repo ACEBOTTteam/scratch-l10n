@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "التعرف على الصوت",
 	"gui.extension.ASR.description": "بناء وتحميل البرنامج الثابت للتعرف على الصوت.",
 	"gui.modify.parameter": "معامل",
-	"gui.modify.ChoosRole": "اختيار الدور"
+	"gui.modify.ChoosRole": "اختيار الدور",
+	"gui.modify.cameraWindow": "نافذة الفيديو",
+	"gui.modify.closeFace": "تم تعطيل تتبع الوجه",
+	"gui.modify.closeGender": "تم تعطيل التعرف على الجنس",
+	"gui.modify.runSeccess": "العملية ناجحة",
+	"gui.modify.runError": "فشل العملية",
+	"gui.modify.runing": "قيد التشغيل",
+	"gui.modify.keepSuccess": "تم الحفظ بنجاح",
+	"gui.modify.keepError": "فشل الحفظ",
+	"gui.modify.keepErrorInfo": "فشل حفظ الكتل، يرجى التحقق من الكتل",
+	"gui.modify.sampleProgram": "برنامج نموذجي",
+	"gui.modify.jumpLink": "وثيقة تعليمية"
 }

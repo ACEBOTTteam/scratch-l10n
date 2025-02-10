@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "Ses Tanıma",
 	"gui.extension.ASR.description": "Ses tanıma firmware'ini oluşturun ve yükleyin.",
 	"gui.modify.parameter": "parametre",
-	"gui.modify.ChoosRole": "rol seç"
+	"gui.modify.ChoosRole": "rol seç",
+	"gui.modify.cameraWindow": "video penceresi",
+	"gui.modify.closeFace": "yüz takibi devre dışı",
+	"gui.modify.closeGender": "cinsiyet tanıma devre dışı",
+	"gui.modify.runSeccess": "işlem başarılı",
+	"gui.modify.runError": "işlem başarısız",
+	"gui.modify.runing": "çalışıyor",
+	"gui.modify.keepSuccess": "başarıyla kaydedildi",
+	"gui.modify.keepError": "kaydetme başarısız",
+	"gui.modify.keepErrorInfo": "blok kaydetme başarısız, blokları kontrol edin",
+	"gui.modify.sampleProgram": "örnek program",
+	"gui.modify.jumpLink": "eğitim belgesi"
 }

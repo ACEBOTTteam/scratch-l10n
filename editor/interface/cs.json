@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "Hlasové rozpoznávání",
 	"gui.extension.ASR.description": "Vytvořit a nahrát firmware pro rozpoznávání hlasu.",
 	"gui.modify.parameter": "parametr",
-	"gui.modify.ChoosRole": "vybrat roli"
+	"gui.modify.ChoosRole": "vybrat roli",
+	"gui.modify.cameraWindow": "video okno",
+	"gui.modify.closeFace": "sledování obličeje zakázáno",
+	"gui.modify.closeGender": "rozpoznávání pohlaví zakázáno",
+	"gui.modify.runSeccess": "operace byla úspěšná",
+	"gui.modify.runError": "operace selhala",
+	"gui.modify.runing": "probíhá",
+	"gui.modify.keepSuccess": "úspěšně uloženo",
+	"gui.modify.keepError": "uložení selhalo",
+	"gui.modify.keepErrorInfo": "uložení bloků selhalo, zkontrolujte bloky",
+	"gui.modify.sampleProgram": "ukázkový program",
+	"gui.modify.jumpLink": "výukový dokument"
 }

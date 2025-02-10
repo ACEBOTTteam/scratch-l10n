@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "Spraakherkenning",
 	"gui.extension.ASR.description": "Bouw en upload spraakherkenningsfirmware.",
 	"gui.modify.parameter": "parameter",
-	"gui.modify.ChoosRole": "kies rol"
+	"gui.modify.ChoosRole": "kies rol",
+	"gui.modify.cameraWindow": "videovenster",
+	"gui.modify.closeFace": "gezichtsherkenning uitgeschakeld",
+	"gui.modify.closeGender": "geslachtsherkenning uitgeschakeld",
+	"gui.modify.runSeccess": "bewerking geslaagd",
+	"gui.modify.runError": "bewerking mislukt",
+	"gui.modify.runing": "aan het uitvoeren",
+	"gui.modify.keepSuccess": "succesvol opgeslagen",
+	"gui.modify.keepError": "opslaan mislukt",
+	"gui.modify.keepErrorInfo": "blok opslaan mislukt, controleer de blokken",
+	"gui.modify.sampleProgram": "voorbeeldprogramma",
+	"gui.modify.jumpLink": "handleiding document"
 }

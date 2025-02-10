@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "음성 인식",
 	"gui.extension.ASR.description": "음성 인식 펌웨어를 구축하고 업로드합니다.",
 	"gui.modify.parameter": "파라미터",
-	"gui.modify.ChoosRole": "역할 선택"
+	"gui.modify.ChoosRole": "역할 선택",
+	"gui.modify.cameraWindow": "비디오 창",
+	"gui.modify.closeFace": "얼굴 추적 비활성화",
+	"gui.modify.closeGender": "성별 인식 비활성화",
+	"gui.modify.runSeccess": "작업 성공",
+	"gui.modify.runError": "작업 실패",
+	"gui.modify.runing": "실행 중",
+	"gui.modify.keepSuccess": "성공적으로 저장됨",
+	"gui.modify.keepError": "저장 실패",
+	"gui.modify.keepErrorInfo": "블록 저장 실패, 블록을 확인하세요",
+	"gui.modify.sampleProgram": "샘플 프로그램",
+	"gui.modify.jumpLink": "튜토리얼 문서"
 }

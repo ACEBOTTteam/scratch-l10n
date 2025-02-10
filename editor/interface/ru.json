@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "Распознавание речи",
 	"gui.extension.ASR.description": "Создать и загрузить прошивку распознавания речи.",
 	"gui.modify.parameter": "параметр",
-	"gui.modify.ChoosRole": "выбрать роль"
+	"gui.modify.ChoosRole": "выбрать роль",
+	"gui.modify.cameraWindow": "видеозапись",
+	"gui.modify.closeFace": "отслеживание лица отключено",
+	"gui.modify.closeGender": "распознавание пола отключено",
+	"gui.modify.runSeccess": "успешное выполнение",
+	"gui.modify.runError": "ошибка выполнения",
+	"gui.modify.runing": "выполняется",
+	"gui.modify.keepSuccess": "успешно сохранено",
+	"gui.modify.keepError": "ошибка сохранения",
+	"gui.modify.keepErrorInfo": "ошибка сохранения блоков, проверьте блоки",
+	"gui.modify.sampleProgram": "пример программы",
+	"gui.modify.jumpLink": "учебный документ"
 }

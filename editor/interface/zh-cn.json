@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "语音识别",
 	"gui.extension.ASR.description": "搭建生成语音识别固件，并上传。",
 	"gui.modify.parameter": "参数",
-	"gui.modify.ChoosRole": "选择角色"
+	"gui.modify.ChoosRole": "选择角色",
+	"gui.modify.cameraWindow": "视频窗口",
+	"gui.modify.closeFace": "已关闭人脸追踪",
+	"gui.modify.closeGender": "已关闭识别性别",
+	"gui.modify.runSeccess": "运行成功",
+	"gui.modify.runError": "运行失败",
+	"gui.modify.runing": "正在运行",
+	"gui.modify.keepSuccess": "保存成功",
+	"gui.modify.keepError": "保存失败",
+	"gui.modify.keepErrorInfo": "积木保存失败，请检查积木",
+	"gui.modify.sampleProgram": "示例程序",
+	"gui.modify.jumpLink": "教程文档"
 }

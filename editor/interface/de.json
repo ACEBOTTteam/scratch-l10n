@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "Spracherkennung",
 	"gui.extension.ASR.description": "Erstelle und lade die Spracherkennungs-Firmware hoch.",
 	"gui.modify.parameter": "parameter",
-	"gui.modify.ChoosRole": "rolle wählen"
+	"gui.modify.ChoosRole": "rolle wählen",
+	"gui.modify.cameraWindow": "videofenster",
+	"gui.modify.closeFace": "gesichtserkennung deaktiviert",
+	"gui.modify.closeGender": "geschlechtserkennung deaktiviert",
+	"gui.modify.runSeccess": "operation erfolgreich",
+	"gui.modify.runError": "operation fehlgeschlagen",
+	"gui.modify.runing": "läuft",
+	"gui.modify.keepSuccess": "erfolgreich gespeichert",
+	"gui.modify.keepError": "speichern fehlgeschlagen",
+	"gui.modify.keepErrorInfo": "speichern der blöcke fehlgeschlagen, bitte überprüfen sie die blöcke",
+	"gui.modify.sampleProgram": "beispielprogramm",
+	"gui.modify.jumpLink": "tutorial-dokument"
 }

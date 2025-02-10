@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "語音識別",
 	"gui.extension.ASR.description": "搭建生成語音識別固件，並上傳。",
 	"gui.modify.parameter": "參數",
-	"gui.modify.ChoosRole": "選擇角色"
+	"gui.modify.ChoosRole": "選擇角色",
+	"gui.modify.cameraWindow": "視頻窗口",
+	"gui.modify.closeFace": "已關閉人臉追蹤",
+	"gui.modify.closeGender": "已關閉識別性別",
+	"gui.modify.runSeccess": "運行成功",
+	"gui.modify.runError": "運行失敗",
+	"gui.modify.runing": "正在運行",
+	"gui.modify.keepSuccess": "保存成功",
+	"gui.modify.keepError": "保存失敗",
+	"gui.modify.keepErrorInfo": "積木保存失敗，請檢查積木",
+	"gui.modify.sampleProgram": "範例程序",
+	"gui.modify.jumpLink": "教程文檔"
 }

@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "Speech Recognition",
 	"gui.extension.ASR.description": "Build and upload speech recognition firmware.",
 	"gui.modify.parameter": "parameter",
-	"gui.modify.ChoosRole": "choose role"
+	"gui.modify.ChoosRole": "choose role",
+	"gui.modify.cameraWindow": "video window",
+	"gui.modify.closeFace": "face tracking disabled",
+	"gui.modify.closeGender": "gender recognition disabled",
+	"gui.modify.runSeccess": "operation successful",
+	"gui.modify.runError": "operation failed",
+	"gui.modify.runing": "running",
+	"gui.modify.keepSuccess": "saved successfully",
+	"gui.modify.keepError": "save failed",
+	"gui.modify.keepErrorInfo": "block save failed, please check blocks",
+	"gui.modify.sampleProgram": "sample program",
+	"gui.modify.jumpLink": "tutorial document"
 }

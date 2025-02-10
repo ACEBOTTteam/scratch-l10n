@@ -27,76 +27,58 @@ const extensions = {}
 
 const interfaceData = {
     "zh-cn": {
-        "gui.modify.parameter": "参数",
-        "gui.modify.ChoosRole": "选择角色",
+        "gui.modify.jumpLink": "教程文档",
     },
     "zh-tw": {
-        "gui.modify.parameter": "參數",
-        "gui.modify.ChoosRole": "選擇角色"
+        "gui.modify.jumpLink": "教程文檔"
     },
     "en": {
-        "gui.modify.parameter": "parameter",
-        "gui.modify.ChoosRole": "choose role"
+        "gui.modify.jumpLink": "tutorial document"
     },
     "fr": {
-        "gui.modify.parameter": "paramètre",
-        "gui.modify.ChoosRole": "choisir un rôle"
+        "gui.modify.jumpLink": "document tutoriel"
     },
     "ja": {
-        "gui.modify.parameter": "パラメーター",
-        "gui.modify.ChoosRole": "役割を選択"
+        "gui.modify.jumpLink": "チュートリアルドキュメント"
     },
     "de": {
-        "gui.modify.parameter": "parameter",
-        "gui.modify.ChoosRole": "rolle wählen"
+        "gui.modify.jumpLink": "tutorial-dokument"
     },
     "es": {
-        "gui.modify.parameter": "parámetro",
-        "gui.modify.ChoosRole": "elegir rol"
+        "gui.modify.jumpLink": "documento tutorial"
     },
     "ru": {
-        "gui.modify.parameter": "параметр",
-        "gui.modify.ChoosRole": "выбрать роль"
+        "gui.modify.jumpLink": "учебный документ"
     },
     "cs": {
-        "gui.modify.parameter": "parametr",
-        "gui.modify.ChoosRole": "vybrat roli"
+        "gui.modify.jumpLink": "výukový dokument"
     },
     "it": {
-        "gui.modify.parameter": "parametro",
-        "gui.modify.ChoosRole": "scegli il ruolo"
+        "gui.modify.jumpLink": "documento tutoriale"
     },
     "pl": {
-        "gui.modify.parameter": "parametr",
-        "gui.modify.ChoosRole": "wybierz rolę"
+        "gui.modify.jumpLink": "dokument samouczka"
     },
     "tr": {
-        "gui.modify.parameter": "parametre",
-        "gui.modify.ChoosRole": "rol seç"
+        "gui.modify.jumpLink": "eğitim belgesi"
     },
     "pt": {
-        "gui.modify.parameter": "parâmetro",
-        "gui.modify.ChoosRole": "escolher papel"
+        "gui.modify.jumpLink": "documento tutorial"
     },
     "hr": {
-        "gui.modify.parameter": "parametar",
-        "gui.modify.ChoosRole": "odaberite ulogu"
+        "gui.modify.jumpLink": "uputni dokument"
     },
     "ko": {
-        "gui.modify.parameter": "파라미터",
-        "gui.modify.ChoosRole": "역할 선택"
+        "gui.modify.jumpLink": "튜토리얼 문서"
     },
     "th": {
-        "gui.modify.parameter": "พารามิเตอร์",
-        "gui.modify.ChoosRole": "เลือกบทบาท"
+        "gui.modify.jumpLink": "เอกสารบทเรียน"
     },
     "nl": {
-        "gui.modify.parameter": "parameter",
-        "gui.modify.ChoosRole": "kies rol"
+        "gui.modify.jumpLink": "handleiding document"
     },
     "ar": {
-        "gui.modify.parameter": "معامل",
-        "gui.modify.ChoosRole": "اختيار الدور"
+        "gui.modify.jumpLink": "وثيقة تعليمية"
     }
 }
 

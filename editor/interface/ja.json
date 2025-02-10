@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "音声認識",
 	"gui.extension.ASR.description": "音声認識のファームウェアを構築してアップロードします。",
 	"gui.modify.parameter": "パラメーター",
-	"gui.modify.ChoosRole": "役割を選択"
+	"gui.modify.ChoosRole": "役割を選択",
+	"gui.modify.cameraWindow": "ビデオウィンドウ",
+	"gui.modify.closeFace": "顔追跡を無効化しました",
+	"gui.modify.closeGender": "性別認識を無効化しました",
+	"gui.modify.runSeccess": "操作成功",
+	"gui.modify.runError": "操作失敗",
+	"gui.modify.runing": "実行中",
+	"gui.modify.keepSuccess": "保存成功",
+	"gui.modify.keepError": "保存失敗",
+	"gui.modify.keepErrorInfo": "ブロックの保存に失敗しました。ブロックを確認してください",
+	"gui.modify.sampleProgram": "サンプルプログラム",
+	"gui.modify.jumpLink": "チュートリアルドキュメント"
 }

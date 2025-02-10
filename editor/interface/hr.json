@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "Prepoznavanje govora",
 	"gui.extension.ASR.description": "Izradite i učitajte firmware za prepoznavanje govora.",
 	"gui.modify.parameter": "parametar",
-	"gui.modify.ChoosRole": "odaberite ulogu"
+	"gui.modify.ChoosRole": "odaberite ulogu",
+	"gui.modify.cameraWindow": "prozor videozapisa",
+	"gui.modify.closeFace": "praćenje lica onemogućeno",
+	"gui.modify.closeGender": "prepoznavanje spola onemogućeno",
+	"gui.modify.runSeccess": "operacija uspješna",
+	"gui.modify.runError": "operacija neuspješna",
+	"gui.modify.runing": "u tijeku",
+	"gui.modify.keepSuccess": "uspješno spremljeno",
+	"gui.modify.keepError": "spremanje nije uspjelo",
+	"gui.modify.keepErrorInfo": "spremanje blokova nije uspjelo, provjerite blokove",
+	"gui.modify.sampleProgram": "primjer programa",
+	"gui.modify.jumpLink": "uputni dokument"
 }

@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "Rozpoznawanie mowy",
 	"gui.extension.ASR.description": "Tworzenie i przesyłanie firmware'u rozpoznawania mowy.",
 	"gui.modify.parameter": "parametr",
-	"gui.modify.ChoosRole": "wybierz rolę"
+	"gui.modify.ChoosRole": "wybierz rolę",
+	"gui.modify.cameraWindow": "okno wideo",
+	"gui.modify.closeFace": "śledzenie twarzy wyłączone",
+	"gui.modify.closeGender": "rozpoznawanie płci wyłączone",
+	"gui.modify.runSeccess": "operacja zakończona powodzeniem",
+	"gui.modify.runError": "operacja nie powiodła się",
+	"gui.modify.runing": "uruchamianie",
+	"gui.modify.keepSuccess": "pomyślnie zapisano",
+	"gui.modify.keepError": "nie udało się zapisać",
+	"gui.modify.keepErrorInfo": "nie udało się zapisać bloku, sprawdź bloki",
+	"gui.modify.sampleProgram": "program przykładowy",
+	"gui.modify.jumpLink": "dokument samouczka"
 }

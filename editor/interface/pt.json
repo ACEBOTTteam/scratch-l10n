@@ -589,5 +589,16 @@
 	"gui.extension.ASR.name": "Reconhecimento de voz",
 	"gui.extension.ASR.description": "Construa e envie o firmware de reconhecimento de voz.",
 	"gui.modify.parameter": "parâmetro",
-	"gui.modify.ChoosRole": "escolher papel"
+	"gui.modify.ChoosRole": "escolher papel",
+	"gui.modify.cameraWindow": "janela de vídeo",
+	"gui.modify.closeFace": "rastreamento facial desativado",
+	"gui.modify.closeGender": "reconhecimento de gênero desativado",
+	"gui.modify.runSeccess": "operação bem-sucedida",
+	"gui.modify.runError": "operação falhou",
+	"gui.modify.runing": "em execução",
+	"gui.modify.keepSuccess": "salvo com sucesso",
+	"gui.modify.keepError": "falha ao salvar",
+	"gui.modify.keepErrorInfo": "falha ao salvar blocos, por favor, verifique os blocos",
+	"gui.modify.sampleProgram": "programa de exemplo",
+	"gui.modify.jumpLink": "documento tutorial"
 }

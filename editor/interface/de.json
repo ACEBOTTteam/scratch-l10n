@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "speichern fehlgeschlagen",
 	"gui.modify.keepErrorInfo": "speichern der blöcke fehlgeschlagen, bitte überprüfen sie die blöcke",
 	"gui.modify.sampleProgram": "beispielprogramm",
-	"gui.modify.jumpLink": "tutorial-dokument"
+	"gui.modify.jumpLink": "tutorial-dokument",
+	"gui.extension.bluetoothControllerRealTime.name": "Online-Controller"
 }

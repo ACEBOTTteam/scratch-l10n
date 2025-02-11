@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "échec de l'enregistrement",
 	"gui.modify.keepErrorInfo": "échec de l'enregistrement des blocs, veuillez vérifier les blocs",
 	"gui.modify.sampleProgram": "programme d'exemple",
-	"gui.modify.jumpLink": "document tutoriel"
+	"gui.modify.jumpLink": "document tutoriel",
+	"gui.extension.bluetoothControllerRealTime.name": "manette en ligne"
 }

@@ -23,63 +23,82 @@ const fs = require('fs')
 
 const block = {}
 
-const extensions = {}
-
-const interfaceData = {
+const extensions = {
     "zh-cn": {
-        "gui.modify.jumpLink": "教程文档",
+        "carMotor.bluetoothControllerRealTime.buttons": "手柄[ONE]被[TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "手柄[ONE][TWO]值",
     },
     "zh-tw": {
-        "gui.modify.jumpLink": "教程文檔"
+        "carMotor.bluetoothControllerRealTime.buttons": "手柄[ONE]被[TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "手柄[ONE][TWO]值"
     },
     "en": {
-        "gui.modify.jumpLink": "tutorial document"
+        "carMotor.bluetoothControllerRealTime.buttons": "controller [ONE] is [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "controller [ONE] [TWO] value"
     },
     "fr": {
-        "gui.modify.jumpLink": "document tutoriel"
+        "carMotor.bluetoothControllerRealTime.buttons": "manette [ONE] est [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "manette [ONE] [TWO] valeur"
     },
     "ja": {
-        "gui.modify.jumpLink": "チュートリアルドキュメント"
+        "carMotor.bluetoothControllerRealTime.buttons": "コントローラー[ONE]が[TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "コントローラー[ONE][TWO]の値"
     },
     "de": {
-        "gui.modify.jumpLink": "tutorial-dokument"
+        "carMotor.bluetoothControllerRealTime.buttons": "Controller [ONE] ist [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "Controller [ONE] [TWO] Wert"
     },
     "es": {
-        "gui.modify.jumpLink": "documento tutorial"
+        "carMotor.bluetoothControllerRealTime.buttons": "controlador [ONE] está [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "controlador [ONE] [TWO] valor"
     },
     "ru": {
-        "gui.modify.jumpLink": "учебный документ"
+        "carMotor.bluetoothControllerRealTime.buttons": "контроллер [ONE] это [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "контроллер [ONE] [TWO] значение"
     },
     "cs": {
-        "gui.modify.jumpLink": "výukový dokument"
+        "carMotor.bluetoothControllerRealTime.buttons": "ovladač [ONE] je [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "ovladač [ONE] [TWO] hodnota"
     },
     "it": {
-        "gui.modify.jumpLink": "documento tutoriale"
+        "carMotor.bluetoothControllerRealTime.buttons": "controller [ONE] è [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "controller [ONE] [TWO] valore"
     },
     "pl": {
-        "gui.modify.jumpLink": "dokument samouczka"
+        "carMotor.bluetoothControllerRealTime.buttons": "kontroler [ONE] jest [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] wartość"
     },
     "tr": {
-        "gui.modify.jumpLink": "eğitim belgesi"
+        "carMotor.bluetoothControllerRealTime.buttons": "kontrolcü [ONE] [TWO] durumunda",
+        "carMotor.bluetoothControllerRealTime.getData": "kontrolcü [ONE] [TWO] değeri"
     },
     "pt": {
-        "gui.modify.jumpLink": "documento tutorial"
+        "carMotor.bluetoothControllerRealTime.buttons": "controle [ONE] está [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "controle [ONE] [TWO] valor"
     },
     "hr": {
-        "gui.modify.jumpLink": "uputni dokument"
+        "carMotor.bluetoothControllerRealTime.buttons": "kontroler [ONE] je [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] vrijednost"
     },
     "ko": {
-        "gui.modify.jumpLink": "튜토리얼 문서"
+        "carMotor.bluetoothControllerRealTime.buttons": "컨트롤러 [ONE]이 [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "컨트롤러 [ONE] [TWO] 값"
     },
     "th": {
-        "gui.modify.jumpLink": "เอกสารบทเรียน"
+        "carMotor.bluetoothControllerRealTime.buttons": "ตัวควบคุม [ONE] อยู่ที่ [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "ตัวควบคุม [ONE] [TWO] ค่า"
     },
     "nl": {
-        "gui.modify.jumpLink": "handleiding document"
+        "carMotor.bluetoothControllerRealTime.buttons": "controller [ONE] is [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "controller [ONE] [TWO] waarde"
     },
     "ar": {
-        "gui.modify.jumpLink": "وثيقة تعليمية"
+        "carMotor.bluetoothControllerRealTime.buttons": "التحكم [ONE] هو [TWO]",
+        "carMotor.bluetoothControllerRealTime.getData": "التحكم [ONE] [TWO] القيمة"
     }
+}
+
+const interfaceData = {
 }
 
 const alterAndAdd = (jsonData, path) => {

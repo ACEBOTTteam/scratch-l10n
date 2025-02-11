@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "kaydetme başarısız",
 	"gui.modify.keepErrorInfo": "blok kaydetme başarısız, blokları kontrol edin",
 	"gui.modify.sampleProgram": "örnek program",
-	"gui.modify.jumpLink": "eğitim belgesi"
+	"gui.modify.jumpLink": "eğitim belgesi",
+	"gui.extension.bluetoothControllerRealTime.name": "çevrimiçi denetleyici"
 }

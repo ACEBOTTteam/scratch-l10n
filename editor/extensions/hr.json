@@ -506,5 +506,8 @@
 	"ASR.vivacious_female_voice": "Živahni djevojački glas",
 	"ASR.male_announcer": "Muški spiker",
 	"ASR.naive_boy_voice": "Naivni dječak glas",
-	"ASR.childs_voice": "Dječji glas"
+	"ASR.childs_voice": "Dječji glas",
+	"carMotor.bluetoothControllerRealTime.expansion.name": "online kontroler",
+	"carMotor.bluetoothControllerRealTime.buttons": "kontroler [ONE] je [TWO]",
+	"carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] vrijednost"
 }

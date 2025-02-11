@@ -506,5 +506,8 @@
 	"ASR.vivacious_female_voice": "活泼女声",
 	"ASR.male_announcer": "男播音员",
 	"ASR.naive_boy_voice": "天真男声",
-	"ASR.childs_voice": "童声"
+	"ASR.childs_voice": "童声",
+	"carMotor.bluetoothControllerRealTime.expansion.name": "在线手柄",
+	"carMotor.bluetoothControllerRealTime.buttons": "手柄[ONE]被[TWO]",
+	"carMotor.bluetoothControllerRealTime.getData": "手柄[ONE][TWO]值"
 }

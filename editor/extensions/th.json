@@ -506,5 +506,8 @@
 	"ASR.vivacious_female_voice": "เสียงสาวสดใส",
 	"ASR.male_announcer": "นักพากย์ชาย",
 	"ASR.naive_boy_voice": "เสียงเด็กชายไร้เดียงสา",
-	"ASR.childs_voice": "เสียงเด็ก"
+	"ASR.childs_voice": "เสียงเด็ก",
+	"carMotor.bluetoothControllerRealTime.expansion.name": "ตัวควบคุมออนไลน์",
+	"carMotor.bluetoothControllerRealTime.buttons": "ตัวควบคุม [ONE] อยู่ที่ [TWO]",
+	"carMotor.bluetoothControllerRealTime.getData": "ตัวควบคุม [ONE] [TWO] ค่า"
 }

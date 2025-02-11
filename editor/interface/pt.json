@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "falha ao salvar",
 	"gui.modify.keepErrorInfo": "falha ao salvar blocos, por favor, verifique os blocos",
 	"gui.modify.sampleProgram": "programa de exemplo",
-	"gui.modify.jumpLink": "documento tutorial"
+	"gui.modify.jumpLink": "documento tutorial",
+	"gui.extension.bluetoothControllerRealTime.name": "controlador online"
 }

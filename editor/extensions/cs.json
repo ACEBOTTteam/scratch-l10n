@@ -506,5 +506,8 @@
 	"ASR.vivacious_female_voice": "Živý hlas dívky",
 	"ASR.male_announcer": "Mužský hlas moderátora",
 	"ASR.naive_boy_voice": "Naivní chlapec",
-	"ASR.childs_voice": "Dětský hlas"
+	"ASR.childs_voice": "Dětský hlas",
+	"carMotor.bluetoothControllerRealTime.expansion.name": "online ovladač",
+	"carMotor.bluetoothControllerRealTime.buttons": "ovladač [ONE] je [TWO]",
+	"carMotor.bluetoothControllerRealTime.getData": "ovladač [ONE] [TWO] hodnota"
 }

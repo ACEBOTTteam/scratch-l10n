@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "การบันทึกล้มเหลว",
 	"gui.modify.keepErrorInfo": "บันทึกบล็อกล้มเหลว โปรดตรวจสอบบล็อก",
 	"gui.modify.sampleProgram": "โปรแกรมตัวอย่าง",
-	"gui.modify.jumpLink": "เอกสารบทเรียน"
+	"gui.modify.jumpLink": "เอกสารบทเรียน",
+	"gui.extension.bluetoothControllerRealTime.name": "ตัวควบคุมออนไลน์"
 }

@@ -506,5 +506,8 @@
 	"ASR.vivacious_female_voice": "활발한 소녀 목소리",
 	"ASR.male_announcer": "남자 아나운서",
 	"ASR.naive_boy_voice": "순수한 소년 목소리",
-	"ASR.childs_voice": "어린이 목소리"
+	"ASR.childs_voice": "어린이 목소리",
+	"carMotor.bluetoothControllerRealTime.expansion.name": "온라인 컨트롤러",
+	"carMotor.bluetoothControllerRealTime.buttons": "컨트롤러 [ONE]이 [TWO]",
+	"carMotor.bluetoothControllerRealTime.getData": "컨트롤러 [ONE] [TWO] 값"
 }

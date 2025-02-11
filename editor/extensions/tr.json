@@ -506,5 +506,8 @@
 	"ASR.vivacious_female_voice": "Canlı kız sesi",
 	"ASR.male_announcer": "Erkek sunucu",
 	"ASR.naive_boy_voice": "Saf erkek sesi",
-	"ASR.childs_voice": "Çocuk sesi"
+	"ASR.childs_voice": "Çocuk sesi",
+	"carMotor.bluetoothControllerRealTime.expansion.name": "çevrimiçi denetleyici",
+	"carMotor.bluetoothControllerRealTime.buttons": "kontrolcü [ONE] [TWO] durumunda",
+	"carMotor.bluetoothControllerRealTime.getData": "kontrolcü [ONE] [TWO] değeri"
 }

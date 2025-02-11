@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "spremanje nije uspjelo",
 	"gui.modify.keepErrorInfo": "spremanje blokova nije uspjelo, provjerite blokove",
 	"gui.modify.sampleProgram": "primjer programa",
-	"gui.modify.jumpLink": "uputni dokument"
+	"gui.modify.jumpLink": "uputni dokument",
+	"gui.extension.bluetoothControllerRealTime.name": "online kontroler"
 }

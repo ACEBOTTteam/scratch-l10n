@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "저장 실패",
 	"gui.modify.keepErrorInfo": "블록 저장 실패, 블록을 확인하세요",
 	"gui.modify.sampleProgram": "샘플 프로그램",
-	"gui.modify.jumpLink": "튜토리얼 문서"
+	"gui.modify.jumpLink": "튜토리얼 문서",
+	"gui.extension.bluetoothControllerRealTime.name": "온라인 컨트롤러"
 }

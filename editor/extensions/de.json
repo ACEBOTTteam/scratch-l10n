@@ -506,5 +506,8 @@
 	"ASR.vivacious_female_voice": "Lebhafte Mädchenstimme",
 	"ASR.male_announcer": "Männlicher Ansager",
 	"ASR.naive_boy_voice": "Naiver Jungenstimme",
-	"ASR.childs_voice": "Kindstimme"
+	"ASR.childs_voice": "Kindstimme",
+	"carMotor.bluetoothControllerRealTime.expansion.name": "Online-Controller",
+	"carMotor.bluetoothControllerRealTime.buttons": "Controller [ONE] ist [TWO]",
+	"carMotor.bluetoothControllerRealTime.getData": "Controller [ONE] [TWO] Wert"
 }

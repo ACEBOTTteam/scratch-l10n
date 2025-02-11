@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "保存失败",
 	"gui.modify.keepErrorInfo": "积木保存失败，请检查积木",
 	"gui.modify.sampleProgram": "示例程序",
-	"gui.modify.jumpLink": "教程文档"
+	"gui.modify.jumpLink": "教程文档",
+	"gui.extension.bluetoothControllerRealTime.name": "在线手柄"
 }

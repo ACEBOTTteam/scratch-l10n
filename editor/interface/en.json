@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "save failed",
 	"gui.modify.keepErrorInfo": "block save failed, please check blocks",
 	"gui.modify.sampleProgram": "sample program",
-	"gui.modify.jumpLink": "tutorial document"
+	"gui.modify.jumpLink": "tutorial document",
+	"gui.extension.bluetoothControllerRealTime.name": "online controller"
 }

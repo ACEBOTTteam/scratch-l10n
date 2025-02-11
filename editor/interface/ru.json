@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "ошибка сохранения",
 	"gui.modify.keepErrorInfo": "ошибка сохранения блоков, проверьте блоки",
 	"gui.modify.sampleProgram": "пример программы",
-	"gui.modify.jumpLink": "учебный документ"
+	"gui.modify.jumpLink": "учебный документ",
+	"gui.extension.bluetoothControllerRealTime.name": "онлайн контроллер"
 }

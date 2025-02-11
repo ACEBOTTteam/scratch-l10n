@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "uložení selhalo",
 	"gui.modify.keepErrorInfo": "uložení bloků selhalo, zkontrolujte bloky",
 	"gui.modify.sampleProgram": "ukázkový program",
-	"gui.modify.jumpLink": "výukový dokument"
+	"gui.modify.jumpLink": "výukový dokument",
+	"gui.extension.bluetoothControllerRealTime.name": "online ovladač"
 }

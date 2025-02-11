@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "salvataggio fallito",
 	"gui.modify.keepErrorInfo": "salvataggio del blocco fallito, controlla i blocchi",
 	"gui.modify.sampleProgram": "programma di esempio",
-	"gui.modify.jumpLink": "documento tutoriale"
+	"gui.modify.jumpLink": "documento tutoriale",
+	"gui.extension.bluetoothControllerRealTime.name": "controller online"
 }

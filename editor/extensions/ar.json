@@ -506,5 +506,8 @@
 	"ASR.vivacious_female_voice": "صوت الفتاة النشيطة",
 	"ASR.male_announcer": "معلق ذكر",
 	"ASR.naive_boy_voice": "صوت الولد البريء",
-	"ASR.childs_voice": "صوت الطفل"
+	"ASR.childs_voice": "صوت الطفل",
+	"carMotor.bluetoothControllerRealTime.expansion.name": "وحدة تحكم عبر الإنترنت",
+	"carMotor.bluetoothControllerRealTime.buttons": "التحكم [ONE] هو [TWO]",
+	"carMotor.bluetoothControllerRealTime.getData": "التحكم [ONE] [TWO] القيمة"
 }

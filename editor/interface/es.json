@@ -600,5 +600,6 @@
 	"gui.modify.keepError": "fallo al guardar",
 	"gui.modify.keepErrorInfo": "fallo al guardar el bloque, por favor revise los bloques",
 	"gui.modify.sampleProgram": "programa de ejemplo",
-	"gui.modify.jumpLink": "documento tutorial"
+	"gui.modify.jumpLink": "documento tutorial",
+	"gui.extension.bluetoothControllerRealTime.name": "controlador en línea"
 }

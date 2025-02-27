@@ -509,5 +509,7 @@
 	"ASR.childs_voice": "صوت الطفل",
 	"carMotor.bluetoothControllerRealTime.expansion.name": "وحدة تحكم عبر الإنترنت",
 	"carMotor.bluetoothControllerRealTime.buttons": "التحكم [ONE] هو [TWO]",
-	"carMotor.bluetoothControllerRealTime.getData": "التحكم [ONE] [TWO] القيمة"
+	"carMotor.bluetoothControllerRealTime.getData": "التحكم [ONE] [TWO] القيمة",
+	"carMotor.bluetoothController.online": "وضع الاتصال بالإنترنت",
+	"carMotor.bluetoothController.offline": "وضع عدم الاتصال بالإنترنت"
 }

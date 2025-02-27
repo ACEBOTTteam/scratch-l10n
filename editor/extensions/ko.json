@@ -509,5 +509,7 @@
 	"ASR.childs_voice": "어린이 목소리",
 	"carMotor.bluetoothControllerRealTime.expansion.name": "온라인 컨트롤러",
 	"carMotor.bluetoothControllerRealTime.buttons": "컨트롤러 [ONE]이 [TWO]",
-	"carMotor.bluetoothControllerRealTime.getData": "컨트롤러 [ONE] [TWO] 값"
+	"carMotor.bluetoothControllerRealTime.getData": "컨트롤러 [ONE] [TWO] 값",
+	"carMotor.bluetoothController.online": "온라인 모드",
+	"carMotor.bluetoothController.offline": "오프라인 모드"
 }

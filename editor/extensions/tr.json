@@ -509,5 +509,7 @@
 	"ASR.childs_voice": "Çocuk sesi",
 	"carMotor.bluetoothControllerRealTime.expansion.name": "çevrimiçi denetleyici",
 	"carMotor.bluetoothControllerRealTime.buttons": "kontrolcü [ONE] [TWO] durumunda",
-	"carMotor.bluetoothControllerRealTime.getData": "kontrolcü [ONE] [TWO] değeri"
+	"carMotor.bluetoothControllerRealTime.getData": "kontrolcü [ONE] [TWO] değeri",
+	"carMotor.bluetoothController.online": "çevrimiçi mod",
+	"carMotor.bluetoothController.offline": "çevrimdışı mod"
 }

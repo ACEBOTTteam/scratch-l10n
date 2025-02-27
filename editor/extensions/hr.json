@@ -509,5 +509,7 @@
 	"ASR.childs_voice": "Dječji glas",
 	"carMotor.bluetoothControllerRealTime.expansion.name": "online kontroler",
 	"carMotor.bluetoothControllerRealTime.buttons": "kontroler [ONE] je [TWO]",
-	"carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] vrijednost"
+	"carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] vrijednost",
+	"carMotor.bluetoothController.online": "online način",
+	"carMotor.bluetoothController.offline": "offline način"
 }

@@ -509,5 +509,7 @@
 	"ASR.childs_voice": "Детский голос",
 	"carMotor.bluetoothControllerRealTime.expansion.name": "онлайн контроллер",
 	"carMotor.bluetoothControllerRealTime.buttons": "контроллер [ONE] это [TWO]",
-	"carMotor.bluetoothControllerRealTime.getData": "контроллер [ONE] [TWO] значение"
+	"carMotor.bluetoothControllerRealTime.getData": "контроллер [ONE] [TWO] значение",
+	"carMotor.bluetoothController.online": "онлайн-режим",
+	"carMotor.bluetoothController.offline": "оффлайн-режим"
 }

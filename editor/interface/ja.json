@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "ブロックの保存に失敗しました。ブロックを確認してください",
 	"gui.modify.sampleProgram": "サンプルプログラム",
 	"gui.modify.jumpLink": "チュートリアルドキュメント",
-	"gui.extension.bluetoothControllerRealTime.name": "オンラインコントローラー"
+	"gui.extension.bluetoothControllerRealTime.name": "オンラインコントローラー",
+	"gui.modify.sampleProgramErr": "サンプルプログラムは変更できません。新しいファイルとして保存してください！"
 }

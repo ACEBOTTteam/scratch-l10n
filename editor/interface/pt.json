@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "falha ao salvar blocos, por favor, verifique os blocos",
 	"gui.modify.sampleProgram": "programa de exemplo",
 	"gui.modify.jumpLink": "documento tutorial",
-	"gui.extension.bluetoothControllerRealTime.name": "controlador online"
+	"gui.extension.bluetoothControllerRealTime.name": "controlador online",
+	"gui.modify.sampleProgramErr": "O programa de exemplo não pode ser modificado, por favor salve como um novo arquivo!"
 }

@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "blok kaydetme başarısız, blokları kontrol edin",
 	"gui.modify.sampleProgram": "örnek program",
 	"gui.modify.jumpLink": "eğitim belgesi",
-	"gui.extension.bluetoothControllerRealTime.name": "çevrimiçi denetleyici"
+	"gui.extension.bluetoothControllerRealTime.name": "çevrimiçi denetleyici",
+	"gui.modify.sampleProgramErr": "Örnek program değiştirilemez, lütfen yeni bir dosya olarak kaydedin!"
 }

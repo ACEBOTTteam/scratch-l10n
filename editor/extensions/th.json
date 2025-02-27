@@ -509,5 +509,7 @@
 	"ASR.childs_voice": "เสียงเด็ก",
 	"carMotor.bluetoothControllerRealTime.expansion.name": "ตัวควบคุมออนไลน์",
 	"carMotor.bluetoothControllerRealTime.buttons": "ตัวควบคุม [ONE] อยู่ที่ [TWO]",
-	"carMotor.bluetoothControllerRealTime.getData": "ตัวควบคุม [ONE] [TWO] ค่า"
+	"carMotor.bluetoothControllerRealTime.getData": "ตัวควบคุม [ONE] [TWO] ค่า",
+	"carMotor.bluetoothController.online": "โหมดออนไลน์",
+	"carMotor.bluetoothController.offline": "โหมดออฟไลน์"
 }

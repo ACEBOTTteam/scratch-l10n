@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "فشل حفظ الكتل، يرجى التحقق من الكتل",
 	"gui.modify.sampleProgram": "برنامج نموذجي",
 	"gui.modify.jumpLink": "وثيقة تعليمية",
-	"gui.extension.bluetoothControllerRealTime.name": "وحدة تحكم عبر الإنترنت"
+	"gui.extension.bluetoothControllerRealTime.name": "وحدة تحكم عبر الإنترنت",
+	"gui.modify.sampleProgramErr": "لا يمكن تعديل البرنامج المثال، يرجى حفظه كملف جديد!"
 }

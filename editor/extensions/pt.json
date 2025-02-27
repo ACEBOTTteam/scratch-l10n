@@ -509,5 +509,7 @@
 	"ASR.childs_voice": "Voz de criança",
 	"carMotor.bluetoothControllerRealTime.expansion.name": "controlador online",
 	"carMotor.bluetoothControllerRealTime.buttons": "controle [ONE] está [TWO]",
-	"carMotor.bluetoothControllerRealTime.getData": "controle [ONE] [TWO] valor"
+	"carMotor.bluetoothControllerRealTime.getData": "controle [ONE] [TWO] valor",
+	"carMotor.bluetoothController.online": "modo online",
+	"carMotor.bluetoothController.offline": "modo offline"
 }

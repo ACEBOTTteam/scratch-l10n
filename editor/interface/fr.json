@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "échec de l'enregistrement des blocs, veuillez vérifier les blocs",
 	"gui.modify.sampleProgram": "programme d'exemple",
 	"gui.modify.jumpLink": "document tutoriel",
-	"gui.extension.bluetoothControllerRealTime.name": "manette en ligne"
+	"gui.extension.bluetoothControllerRealTime.name": "manette en ligne",
+	"gui.modify.sampleProgramErr": "Le programme d'exemple ne peut pas être modifié, veuillez enregistrer un nouveau fichier !"
 }

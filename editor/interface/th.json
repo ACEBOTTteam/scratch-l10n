@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "บันทึกบล็อกล้มเหลว โปรดตรวจสอบบล็อก",
 	"gui.modify.sampleProgram": "โปรแกรมตัวอย่าง",
 	"gui.modify.jumpLink": "เอกสารบทเรียน",
-	"gui.extension.bluetoothControllerRealTime.name": "ตัวควบคุมออนไลน์"
+	"gui.extension.bluetoothControllerRealTime.name": "ตัวควบคุมออนไลน์",
+	"gui.modify.sampleProgramErr": "โปรแกรมตัวอย่างไม่สามารถแก้ไขได้ กรุณาบันทึกเป็นไฟล์ใหม่!"
 }

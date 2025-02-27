@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "blok opslaan mislukt, controleer de blokken",
 	"gui.modify.sampleProgram": "voorbeeldprogramma",
 	"gui.modify.jumpLink": "handleiding document",
-	"gui.extension.bluetoothControllerRealTime.name": "online controller"
+	"gui.extension.bluetoothControllerRealTime.name": "online controller",
+	"gui.modify.sampleProgramErr": "Het voorbeeldprogramma kan niet worden gewijzigd, sla het als een nieuw bestand op!"
 }

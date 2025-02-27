@@ -23,82 +23,63 @@ const fs = require('fs')
 
 const block = {}
 
-const extensions = {
-    "zh-cn": {
-        "carMotor.bluetoothControllerRealTime.buttons": "手柄[ONE]被[TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "手柄[ONE][TWO]值",
-    },
-    "zh-tw": {
-        "carMotor.bluetoothControllerRealTime.buttons": "手柄[ONE]被[TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "手柄[ONE][TWO]值"
-    },
-    "en": {
-        "carMotor.bluetoothControllerRealTime.buttons": "controller [ONE] is [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "controller [ONE] [TWO] value"
-    },
-    "fr": {
-        "carMotor.bluetoothControllerRealTime.buttons": "manette [ONE] est [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "manette [ONE] [TWO] valeur"
-    },
-    "ja": {
-        "carMotor.bluetoothControllerRealTime.buttons": "コントローラー[ONE]が[TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "コントローラー[ONE][TWO]の値"
-    },
-    "de": {
-        "carMotor.bluetoothControllerRealTime.buttons": "Controller [ONE] ist [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "Controller [ONE] [TWO] Wert"
-    },
-    "es": {
-        "carMotor.bluetoothControllerRealTime.buttons": "controlador [ONE] está [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "controlador [ONE] [TWO] valor"
-    },
-    "ru": {
-        "carMotor.bluetoothControllerRealTime.buttons": "контроллер [ONE] это [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "контроллер [ONE] [TWO] значение"
-    },
-    "cs": {
-        "carMotor.bluetoothControllerRealTime.buttons": "ovladač [ONE] je [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "ovladač [ONE] [TWO] hodnota"
-    },
-    "it": {
-        "carMotor.bluetoothControllerRealTime.buttons": "controller [ONE] è [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "controller [ONE] [TWO] valore"
-    },
-    "pl": {
-        "carMotor.bluetoothControllerRealTime.buttons": "kontroler [ONE] jest [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] wartość"
-    },
-    "tr": {
-        "carMotor.bluetoothControllerRealTime.buttons": "kontrolcü [ONE] [TWO] durumunda",
-        "carMotor.bluetoothControllerRealTime.getData": "kontrolcü [ONE] [TWO] değeri"
-    },
-    "pt": {
-        "carMotor.bluetoothControllerRealTime.buttons": "controle [ONE] está [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "controle [ONE] [TWO] valor"
-    },
-    "hr": {
-        "carMotor.bluetoothControllerRealTime.buttons": "kontroler [ONE] je [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] vrijednost"
-    },
-    "ko": {
-        "carMotor.bluetoothControllerRealTime.buttons": "컨트롤러 [ONE]이 [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "컨트롤러 [ONE] [TWO] 값"
-    },
-    "th": {
-        "carMotor.bluetoothControllerRealTime.buttons": "ตัวควบคุม [ONE] อยู่ที่ [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "ตัวควบคุม [ONE] [TWO] ค่า"
-    },
-    "nl": {
-        "carMotor.bluetoothControllerRealTime.buttons": "controller [ONE] is [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "controller [ONE] [TWO] waarde"
-    },
-    "ar": {
-        "carMotor.bluetoothControllerRealTime.buttons": "التحكم [ONE] هو [TWO]",
-        "carMotor.bluetoothControllerRealTime.getData": "التحكم [ONE] [TWO] القيمة"
-    }
-}
+const extensions = {}
 
 const interfaceData = {
+    "zh-cn": {
+        "gui.modify.sampleProgramErr": "示例程序不可更改，请保存新文件!"
+    },
+    "zh-tw": {
+        "gui.modify.sampleProgramErr": "示範程式無法更改，請保存新檔案!"
+    },
+    "en": {
+        "gui.modify.sampleProgramErr": "Sample program cannot be modified, please save as a new file!"
+    },
+    "fr": {
+        "gui.modify.sampleProgramErr": "Le programme d'exemple ne peut pas être modifié, veuillez enregistrer un nouveau fichier !"
+    },
+    "ja": {
+        "gui.modify.sampleProgramErr": "サンプルプログラムは変更できません。新しいファイルとして保存してください！"
+    },
+    "de": {
+        "gui.modify.sampleProgramErr": "Das Beispielprogramm kann nicht geändert werden, bitte speichern Sie eine neue Datei!"
+    },
+    "es": {
+        "gui.modify.sampleProgramErr": "¡El programa de ejemplo no se puede modificar, guarde un nuevo archivo!"
+    },
+    "ru": {
+        "gui.modify.sampleProgramErr": "Пример программы не может быть изменен, пожалуйста, сохраните новый файл!"
+    },
+    "cs": {
+        "gui.modify.sampleProgramErr": "Ukázkový program nelze upravit, prosím uložte nový soubor!"
+    },
+    "it": {
+        "gui.modify.sampleProgramErr": "Il programma di esempio non può essere modificato, si prega di salvare come nuovo file!"
+    },
+    "pl": {
+        "gui.modify.sampleProgramErr": "Program przykładowy nie może być zmieniany, proszę zapisać nowy plik!"
+    },
+    "tr": {
+        "gui.modify.sampleProgramErr": "Örnek program değiştirilemez, lütfen yeni bir dosya olarak kaydedin!"
+    },
+    "pt": {
+        "gui.modify.sampleProgramErr": "O programa de exemplo não pode ser modificado, por favor salve como um novo arquivo!"
+    },
+    "hr": {
+        "gui.modify.sampleProgramErr": "Primjer programa ne može se izmijeniti, molimo spremite novi fajl!"
+    },
+    "ko": {
+        "gui.modify.sampleProgramErr": "예제 프로그램은 수정할 수 없습니다. 새 파일로 저장하십시오!"
+    },
+    "th": {
+        "gui.modify.sampleProgramErr": "โปรแกรมตัวอย่างไม่สามารถแก้ไขได้ กรุณาบันทึกเป็นไฟล์ใหม่!"
+    },
+    "nl": {
+        "gui.modify.sampleProgramErr": "Het voorbeeldprogramma kan niet worden gewijzigd, sla het als een nieuw bestand op!"
+    },
+    "ar": {
+        "gui.modify.sampleProgramErr": "لا يمكن تعديل البرنامج المثال، يرجى حفظه كملف جديد!"
+    }
 }
 
 const alterAndAdd = (jsonData, path) => {

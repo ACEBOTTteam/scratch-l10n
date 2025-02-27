@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "spremanje blokova nije uspjelo, provjerite blokove",
 	"gui.modify.sampleProgram": "primjer programa",
 	"gui.modify.jumpLink": "uputni dokument",
-	"gui.extension.bluetoothControllerRealTime.name": "online kontroler"
+	"gui.extension.bluetoothControllerRealTime.name": "online kontroler",
+	"gui.modify.sampleProgramErr": "Primjer programa ne može se izmijeniti, molimo spremite novi fajl!"
 }

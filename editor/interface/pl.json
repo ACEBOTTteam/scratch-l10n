@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "nie udało się zapisać bloku, sprawdź bloki",
 	"gui.modify.sampleProgram": "program przykładowy",
 	"gui.modify.jumpLink": "dokument samouczka",
-	"gui.extension.bluetoothControllerRealTime.name": "sterownik online"
+	"gui.extension.bluetoothControllerRealTime.name": "sterownik online",
+	"gui.modify.sampleProgramErr": "Program przykładowy nie może być zmieniany, proszę zapisać nowy plik!"
 }

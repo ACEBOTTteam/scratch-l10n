@@ -601,5 +601,6 @@
 	"gui.modify.keepErrorInfo": "uložení bloků selhalo, zkontrolujte bloky",
 	"gui.modify.sampleProgram": "ukázkový program",
 	"gui.modify.jumpLink": "výukový dokument",
-	"gui.extension.bluetoothControllerRealTime.name": "online ovladač"
+	"gui.extension.bluetoothControllerRealTime.name": "online ovladač",
+	"gui.modify.sampleProgramErr": "Ukázkový program nelze upravit, prosím uložte nový soubor!"
 }

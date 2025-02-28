@@ -27,58 +27,76 @@ const extensions = {}
 
 const interfaceData = {
     "zh-cn": {
-        "gui.modify.sampleProgramErr": "示例程序不可更改，请保存新文件!"
+        "gui.modify.microPython": "microPython固件",
+        "gui.modify.mobile": "移动端固件"
     },
     "zh-tw": {
-        "gui.modify.sampleProgramErr": "示範程式無法更改，請保存新檔案!"
+        "gui.modify.microPython": "micropython韌體",
+        "gui.modify.mobile": "移動端韌體"
     },
     "en": {
-        "gui.modify.sampleProgramErr": "Sample program cannot be modified, please save as a new file!"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "mobile firmware"
     },
     "fr": {
-        "gui.modify.sampleProgramErr": "Le programme d'exemple ne peut pas être modifié, veuillez enregistrer un nouveau fichier !"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "firmware mobile"
     },
     "ja": {
-        "gui.modify.sampleProgramErr": "サンプルプログラムは変更できません。新しいファイルとして保存してください！"
+        "gui.modify.microPython": "micropythonファームウェア",
+        "gui.modify.mobile": "モバイルファームウェア"
     },
     "de": {
-        "gui.modify.sampleProgramErr": "Das Beispielprogramm kann nicht geändert werden, bitte speichern Sie eine neue Datei!"
+        "gui.modify.microPython": "micropython-firmware",
+        "gui.modify.mobile": "mobile firmware"
     },
     "es": {
-        "gui.modify.sampleProgramErr": "¡El programa de ejemplo no se puede modificar, guarde un nuevo archivo!"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "firmware móvil"
     },
     "ru": {
-        "gui.modify.sampleProgramErr": "Пример программы не может быть изменен, пожалуйста, сохраните новый файл!"
+        "gui.modify.microPython": "micropython прошивка",
+        "gui.modify.mobile": "мобильная прошивка"
     },
     "cs": {
-        "gui.modify.sampleProgramErr": "Ukázkový program nelze upravit, prosím uložte nový soubor!"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "mobilní firmware"
     },
     "it": {
-        "gui.modify.sampleProgramErr": "Il programma di esempio non può essere modificato, si prega di salvare come nuovo file!"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "firmware mobile"
     },
     "pl": {
-        "gui.modify.sampleProgramErr": "Program przykładowy nie może być zmieniany, proszę zapisać nowy plik!"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "oprogramowanie mobilne"
     },
     "tr": {
-        "gui.modify.sampleProgramErr": "Örnek program değiştirilemez, lütfen yeni bir dosya olarak kaydedin!"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "mobil firmware"
     },
     "pt": {
-        "gui.modify.sampleProgramErr": "O programa de exemplo não pode ser modificado, por favor salve como um novo arquivo!"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "firmware móvel"
     },
     "hr": {
-        "gui.modify.sampleProgramErr": "Primjer programa ne može se izmijeniti, molimo spremite novi fajl!"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "mobilni firmware"
     },
     "ko": {
-        "gui.modify.sampleProgramErr": "예제 프로그램은 수정할 수 없습니다. 새 파일로 저장하십시오!"
+        "gui.modify.microPython": "micropython 펌웨어",
+        "gui.modify.mobile": "모바일 펌웨어"
     },
     "th": {
-        "gui.modify.sampleProgramErr": "โปรแกรมตัวอย่างไม่สามารถแก้ไขได้ กรุณาบันทึกเป็นไฟล์ใหม่!"
+        "gui.modify.microPython": "micropython เฟิร์มแวร์",
+        "gui.modify.mobile": "เฟิร์มแวร์มือถือ"
     },
     "nl": {
-        "gui.modify.sampleProgramErr": "Het voorbeeldprogramma kan niet worden gewijzigd, sla het als een nieuw bestand op!"
+        "gui.modify.microPython": "micropython firmware",
+        "gui.modify.mobile": "mobiele firmware"
     },
     "ar": {
-        "gui.modify.sampleProgramErr": "لا يمكن تعديل البرنامج المثال، يرجى حفظه كملف جديد!"
+        "gui.modify.microPython": "micropython البرامج الثابتة",
+        "gui.modify.mobile": "البرامج الثابتة للجوال"
     }
 }
 

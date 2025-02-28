@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "sample program",
 	"gui.modify.jumpLink": "tutorial document",
 	"gui.extension.bluetoothControllerRealTime.name": "online controller",
-	"gui.modify.sampleProgramErr": "Sample program cannot be modified, please save as a new file!"
+	"gui.modify.sampleProgramErr": "Sample program cannot be modified, please save as a new file!",
+	"gui.modify.microPython": "micropython firmware",
+	"gui.modify.mobile": "mobile firmware"
 }

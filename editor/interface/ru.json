@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "метеорологическая станция",
 	"gui.extension.chart": "График данных",
 	"gui.extension.smartHome.name": "умный дом",
-	"gui.extension.smartfarm.name": "умная ферма",
+	"gui.extension.smartFarm.name": "умная ферма",
 	"gui.extension.bluetoothController.name": "bluetooth-контроллер",
 	"gui.modify.createSDK": "\nГенерация SDK в процессе, займет около 1-3 минут, пожалуйста, подождите! ......",
 	"gui.modify.createSDKing": "Генерация в процессе, займет около 1-3 минут, пожалуйста, подождите! ......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "пример программы",
 	"gui.modify.jumpLink": "учебный документ",
 	"gui.extension.bluetoothControllerRealTime.name": "онлайн контроллер",
-	"gui.modify.sampleProgramErr": "Пример программы не может быть изменен, пожалуйста, сохраните новый файл!"
+	"gui.modify.sampleProgramErr": "Пример программы не может быть изменен, пожалуйста, сохраните новый файл!",
+	"gui.modify.microPython": "micropython прошивка",
+	"gui.modify.mobile": "мобильная прошивка"
 }

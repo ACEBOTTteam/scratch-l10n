@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "meteoroloji istasyonu",
 	"gui.extension.chart": "Veri Grafiği",
 	"gui.extension.smartHome.name": "akıllı ev",
-	"gui.extension.smartfarm.name": "akıllı çiftlik",
+	"gui.extension.smartFarm.name": "akıllı çiftlik",
 	"gui.extension.bluetoothController.name": "bluetooth denetleyici",
 	"gui.modify.createSDK": "\nSDK oluşturuluyor, yaklaşık 1-3 dakika sürecektir, lütfen sabırlı olun! ......",
 	"gui.modify.createSDKing": "Oluşturuluyor, yaklaşık 1-3 dakika sürecektir, lütfen sabırlı olun! ......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "örnek program",
 	"gui.modify.jumpLink": "eğitim belgesi",
 	"gui.extension.bluetoothControllerRealTime.name": "çevrimiçi denetleyici",
-	"gui.modify.sampleProgramErr": "Örnek program değiştirilemez, lütfen yeni bir dosya olarak kaydedin!"
+	"gui.modify.sampleProgramErr": "Örnek program değiştirilemez, lütfen yeni bir dosya olarak kaydedin!",
+	"gui.modify.microPython": "micropython firmware",
+	"gui.modify.mobile": "mobil firmware"
 }

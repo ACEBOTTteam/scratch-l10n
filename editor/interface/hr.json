@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "meteorološka stanica",
 	"gui.extension.chart": "Graf Podataka",
 	"gui.extension.smartHome.name": "pametni dom",
-	"gui.extension.smartfarm.name": "pametna farma",
+	"gui.extension.smartFarm.name": "pametna farma",
 	"gui.extension.bluetoothController.name": "bluetooth kontroler",
 	"gui.modify.createSDK": "\nGeneriranje SDK-a u tijeku, traje otprilike 1-3 minute, molimo vas da budete strpljivi! ......",
 	"gui.modify.createSDKing": "Generiranje u tijeku, traje otprilike 1-3 minute, molimo vas da budete strpljivi! ......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "primjer programa",
 	"gui.modify.jumpLink": "uputni dokument",
 	"gui.extension.bluetoothControllerRealTime.name": "online kontroler",
-	"gui.modify.sampleProgramErr": "Primjer programa ne može se izmijeniti, molimo spremite novi fajl!"
+	"gui.modify.sampleProgramErr": "Primjer programa ne može se izmijeniti, molimo spremite novi fajl!",
+	"gui.modify.microPython": "micropython firmware",
+	"gui.modify.mobile": "mobilni firmware"
 }

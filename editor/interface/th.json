@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "สถานีอุตุนิยมวิทยา",
 	"gui.extension.chart": "แผนภูมิข้อมูล",
 	"gui.extension.smartHome.name": "สมาร์ทโฮม",
-	"gui.extension.smartfarm.name": "สมาร์ทฟาร์ม",
+	"gui.extension.smartFarm.name": "สมาร์ทฟาร์ม",
 	"gui.extension.bluetoothController.name": "ตัวควบคุม bluetooth",
 	"gui.modify.createSDK": "\nกำลังสร้าง SDK ใช้เวลาประมาณ 1-3 นาที กรุณารอสักครู่! ......",
 	"gui.modify.createSDKing": "กำลังสร้าง ใช้เวลาประมาณ 1-3 นาที กรุณารอสักครู่! ......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "โปรแกรมตัวอย่าง",
 	"gui.modify.jumpLink": "เอกสารบทเรียน",
 	"gui.extension.bluetoothControllerRealTime.name": "ตัวควบคุมออนไลน์",
-	"gui.modify.sampleProgramErr": "โปรแกรมตัวอย่างไม่สามารถแก้ไขได้ กรุณาบันทึกเป็นไฟล์ใหม่!"
+	"gui.modify.sampleProgramErr": "โปรแกรมตัวอย่างไม่สามารถแก้ไขได้ กรุณาบันทึกเป็นไฟล์ใหม่!",
+	"gui.modify.microPython": "micropython เฟิร์มแวร์",
+	"gui.modify.mobile": "เฟิร์มแวร์มือถือ"
 }

@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "기상 관측소",
 	"gui.extension.chart": "데이터 차트",
 	"gui.extension.smartHome.name": "스마트 홈",
-	"gui.extension.smartfarm.name": "스마트 팜",
+	"gui.extension.smartFarm.name": "스마트 팜",
 	"gui.extension.bluetoothController.name": "블루투스 컨트롤러",
 	"gui.modify.createSDK": "\nSDK 생성 중, 약 1-3분 정도 걸립니다. 잠시만 기다려 주세요! ......",
 	"gui.modify.createSDKing": "생성 중, 약 1-3분 정도 걸립니다. 잠시만 기다려 주세요! ......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "샘플 프로그램",
 	"gui.modify.jumpLink": "튜토리얼 문서",
 	"gui.extension.bluetoothControllerRealTime.name": "온라인 컨트롤러",
-	"gui.modify.sampleProgramErr": "예제 프로그램은 수정할 수 없습니다. 새 파일로 저장하십시오!"
+	"gui.modify.sampleProgramErr": "예제 프로그램은 수정할 수 없습니다. 새 파일로 저장하십시오!",
+	"gui.modify.microPython": "micropython 펌웨어",
+	"gui.modify.mobile": "모바일 펌웨어"
 }

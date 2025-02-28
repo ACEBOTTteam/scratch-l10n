@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "weerstations",
 	"gui.extension.chart": "Data Grafiek",
 	"gui.extension.smartHome.name": "slim huis",
-	"gui.extension.smartfarm.name": "slimme boerderij",
+	"gui.extension.smartFarm.name": "slimme boerderij",
 	"gui.extension.bluetoothController.name": "bluetooth-controller",
 	"gui.modify.createSDK": "\nSDK generatie in uitvoering, ongeveer 1-3 minuten, geduld alstublieft! ......",
 	"gui.modify.createSDKing": "Generatie in uitvoering, ongeveer 1-3 minuten, geduld alstublieft! ......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "voorbeeldprogramma",
 	"gui.modify.jumpLink": "handleiding document",
 	"gui.extension.bluetoothControllerRealTime.name": "online controller",
-	"gui.modify.sampleProgramErr": "Het voorbeeldprogramma kan niet worden gewijzigd, sla het als een nieuw bestand op!"
+	"gui.modify.sampleProgramErr": "Het voorbeeldprogramma kan niet worden gewijzigd, sla het als een nieuw bestand op!",
+	"gui.modify.microPython": "micropython firmware",
+	"gui.modify.mobile": "mobiele firmware"
 }

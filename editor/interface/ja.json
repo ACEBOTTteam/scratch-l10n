@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "気象観測所",
 	"gui.extension.chart": "データチャート",
 	"gui.extension.smartHome.name": "スマートホーム",
-	"gui.extension.smartfarm.name": "スマートファーム",
+	"gui.extension.smartFarm.name": "スマートファーム",
 	"gui.extension.bluetoothController.name": "bluetooth コントローラー",
 	"gui.modify.createSDK": "\nSDKの生成中です。約1～3分かかりますので、しばらくお待ちください！......",
 	"gui.modify.createSDKing": "生成中、約1～3分かかりますので、しばらくお待ちください！......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "サンプルプログラム",
 	"gui.modify.jumpLink": "チュートリアルドキュメント",
 	"gui.extension.bluetoothControllerRealTime.name": "オンラインコントローラー",
-	"gui.modify.sampleProgramErr": "サンプルプログラムは変更できません。新しいファイルとして保存してください！"
+	"gui.modify.sampleProgramErr": "サンプルプログラムは変更できません。新しいファイルとして保存してください！",
+	"gui.modify.microPython": "micropythonファームウェア",
+	"gui.modify.mobile": "モバイルファームウェア"
 }

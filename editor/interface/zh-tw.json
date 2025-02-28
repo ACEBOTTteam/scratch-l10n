@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "氣象站",
 	"gui.extension.chart": "數據圖表",
 	"gui.extension.smartHome.name": "智慧家居",
-	"gui.extension.smartfarm.name": "智慧農場",
+	"gui.extension.smartFarm.name": "智慧農場",
 	"gui.extension.bluetoothController.name": "藍牙手柄",
 	"gui.modify.createSDK": "\nSDK生成中，大約需要1-3分鐘，請耐心等待！......",
 	"gui.modify.createSDKing": "生成中，大約需要1-3分鐘，請耐心等待！......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "範例程序",
 	"gui.modify.jumpLink": "教程文檔",
 	"gui.extension.bluetoothControllerRealTime.name": "在線手柄",
-	"gui.modify.sampleProgramErr": "示範程式無法更改，請保存新檔案!"
+	"gui.modify.sampleProgramErr": "示範程式無法更改，請保存新檔案!",
+	"gui.modify.microPython": "micropython韌體",
+	"gui.modify.mobile": "移動端韌體"
 }

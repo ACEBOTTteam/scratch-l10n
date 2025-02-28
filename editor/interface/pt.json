@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "estação meteorológica",
 	"gui.extension.chart": "Gráfico de Dados",
 	"gui.extension.smartHome.name": "casa inteligente",
-	"gui.extension.smartfarm.name": "fazenda inteligente",
+	"gui.extension.smartFarm.name": "fazenda inteligente",
 	"gui.extension.bluetoothController.name": "controlador bluetooth",
 	"gui.modify.createSDK": "\nGeração do SDK em andamento, levará cerca de 1-3 minutos, por favor, aguarde! ......",
 	"gui.modify.createSDKing": "Geração em andamento, levará cerca de 1-3 minutos, por favor, aguarde! ......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "programa de exemplo",
 	"gui.modify.jumpLink": "documento tutorial",
 	"gui.extension.bluetoothControllerRealTime.name": "controlador online",
-	"gui.modify.sampleProgramErr": "O programa de exemplo não pode ser modificado, por favor salve como um novo arquivo!"
+	"gui.modify.sampleProgramErr": "O programa de exemplo não pode ser modificado, por favor salve como um novo arquivo!",
+	"gui.modify.microPython": "micropython firmware",
+	"gui.modify.mobile": "firmware móvel"
 }

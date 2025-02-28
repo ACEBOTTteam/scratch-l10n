@@ -576,7 +576,7 @@
 	"gui.extension.meteorologicalStation": "محطة الأرصاد الجوية",
 	"gui.extension.chart": "مخطط البيانات",
 	"gui.extension.smartHome.name": "المنزل الذكي",
-	"gui.extension.smartfarm.name": "المزرعة الذكية",
+	"gui.extension.smartFarm.name": "المزرعة الذكية",
 	"gui.extension.bluetoothController.name": "وحدة تحكم bluetooth",
 	"gui.modify.createSDK": "\nجاري إنشاء SDK ، سيستغرق حوالي 1-3 دقائق، يرجى الانتظار! ......",
 	"gui.modify.createSDKing": "جاري الإنشاء ، سيستغرق حوالي 1-3 دقائق، يرجى الانتظار! ......",
@@ -602,5 +602,7 @@
 	"gui.modify.sampleProgram": "برنامج نموذجي",
 	"gui.modify.jumpLink": "وثيقة تعليمية",
 	"gui.extension.bluetoothControllerRealTime.name": "وحدة تحكم عبر الإنترنت",
-	"gui.modify.sampleProgramErr": "لا يمكن تعديل البرنامج المثال، يرجى حفظه كملف جديد!"
+	"gui.modify.sampleProgramErr": "لا يمكن تعديل البرنامج المثال، يرجى حفظه كملف جديد!",
+	"gui.modify.microPython": "micropython البرامج الثابتة",
+	"gui.modify.mobile": "البرامج الثابتة للجوال"
 }

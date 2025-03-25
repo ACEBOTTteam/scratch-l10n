@@ -511,5 +511,6 @@
 	"carMotor.bluetoothControllerRealTime.buttons": "التحكم [ONE] هو [TWO]",
 	"carMotor.bluetoothControllerRealTime.getData": "التحكم [ONE] [TWO] القيمة",
 	"carMotor.bluetoothController.online": "وضع الاتصال بالإنترنت",
-	"carMotor.bluetoothController.offline": "وضع عدم الاتصال بالإنترنت"
+	"carMotor.bluetoothController.offline": "وضع عدم الاتصال بالإنترنت",
+	"carMotor.bluetoothController.multithreading": "تعدد مؤشرات الترابط"
 }

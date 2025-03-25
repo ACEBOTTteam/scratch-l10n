@@ -511,5 +511,6 @@
 	"carMotor.bluetoothControllerRealTime.buttons": "controle [ONE] está [TWO]",
 	"carMotor.bluetoothControllerRealTime.getData": "controle [ONE] [TWO] valor",
 	"carMotor.bluetoothController.online": "modo online",
-	"carMotor.bluetoothController.offline": "modo offline"
+	"carMotor.bluetoothController.offline": "modo offline",
+	"carMotor.bluetoothController.multithreading": "multithreading"
 }

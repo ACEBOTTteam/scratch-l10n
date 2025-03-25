@@ -23,81 +23,65 @@ const fs = require('fs')
 
 const block = {}
 
-const extensions = {}
-
-const interfaceData = {
+const extensions = {
     "zh-cn": {
-        "gui.modify.microPython": "microPython固件",
-        "gui.modify.mobile": "移动端固件"
+        "carMotor.bluetoothController.multithreading": "多线程"
     },
     "zh-tw": {
-        "gui.modify.microPython": "micropython韌體",
-        "gui.modify.mobile": "移動端韌體"
+        "carMotor.bluetoothController.multithreading": "多執行緒"
     },
     "en": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "mobile firmware"
+        "carMotor.bluetoothController.multithreading": "multithreading"
     },
     "fr": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "firmware mobile"
+        "carMotor.bluetoothController.multithreading": "multithreading"
     },
     "ja": {
-        "gui.modify.microPython": "micropythonファームウェア",
-        "gui.modify.mobile": "モバイルファームウェア"
+        "carMotor.bluetoothController.multithreading": "マルチスレッド"
     },
     "de": {
-        "gui.modify.microPython": "micropython-firmware",
-        "gui.modify.mobile": "mobile firmware"
+        "carMotor.bluetoothController.multithreading": "multithreading"
     },
     "es": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "firmware móvil"
+        "carMotor.bluetoothController.multithreading": "multithreading"
     },
     "ru": {
-        "gui.modify.microPython": "micropython прошивка",
-        "gui.modify.mobile": "мобильная прошивка"
+        "carMotor.bluetoothController.multithreading": "многопоточное выполнение"
     },
     "cs": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "mobilní firmware"
+        "carMotor.bluetoothController.multithreading": "multithreading"
     },
     "it": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "firmware mobile"
+        "carMotor.bluetoothController.multithreading": "multithreading"
     },
     "pl": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "oprogramowanie mobilne"
+        "carMotor.bluetoothController.multithreading": "wielowątkowość"
     },
     "tr": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "mobil firmware"
+        "carMotor.bluetoothController.multithreading": "çok iş parçacıklı"
     },
     "pt": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "firmware móvel"
+        "carMotor.bluetoothController.multithreading": "multithreading"
     },
     "hr": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "mobilni firmware"
+        "carMotor.bluetoothController.multithreading": "višenitno"
     },
     "ko": {
-        "gui.modify.microPython": "micropython 펌웨어",
-        "gui.modify.mobile": "모바일 펌웨어"
+        "carMotor.bluetoothController.multithreading": "멀티스레딩"
     },
     "th": {
-        "gui.modify.microPython": "micropython เฟิร์มแวร์",
-        "gui.modify.mobile": "เฟิร์มแวร์มือถือ"
+        "carMotor.bluetoothController.multithreading": "มัลติเธรด"
     },
     "nl": {
-        "gui.modify.microPython": "micropython firmware",
-        "gui.modify.mobile": "mobiele firmware"
+        "carMotor.bluetoothController.multithreading": "multithreading"
     },
     "ar": {
-        "gui.modify.microPython": "micropython البرامج الثابتة",
-        "gui.modify.mobile": "البرامج الثابتة للجوال"
+        "carMotor.bluetoothController.multithreading": "تعدد مؤشرات الترابط"
     }
+}
+
+const interfaceData = {
+    
 }
 
 const alterAndAdd = (jsonData, path) => {

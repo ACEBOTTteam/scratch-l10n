@@ -511,5 +511,6 @@
 	"carMotor.bluetoothControllerRealTime.buttons": "kontroler [ONE] je [TWO]",
 	"carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] vrijednost",
 	"carMotor.bluetoothController.online": "online način",
-	"carMotor.bluetoothController.offline": "offline način"
+	"carMotor.bluetoothController.offline": "offline način",
+	"carMotor.bluetoothController.multithreading": "višenitno"
 }

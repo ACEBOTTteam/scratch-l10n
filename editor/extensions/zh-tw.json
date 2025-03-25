@@ -511,5 +511,6 @@
 	"carMotor.bluetoothControllerRealTime.buttons": "手柄[ONE]被[TWO]",
 	"carMotor.bluetoothControllerRealTime.getData": "手柄[ONE][TWO]值",
 	"carMotor.bluetoothController.online": "在線模式",
-	"carMotor.bluetoothController.offline": "離線模式"
+	"carMotor.bluetoothController.offline": "離線模式",
+	"carMotor.bluetoothController.multithreading": "多執行緒"
 }

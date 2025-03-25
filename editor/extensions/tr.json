@@ -511,5 +511,6 @@
 	"carMotor.bluetoothControllerRealTime.buttons": "kontrolcü [ONE] [TWO] durumunda",
 	"carMotor.bluetoothControllerRealTime.getData": "kontrolcü [ONE] [TWO] değeri",
 	"carMotor.bluetoothController.online": "çevrimiçi mod",
-	"carMotor.bluetoothController.offline": "çevrimdışı mod"
+	"carMotor.bluetoothController.offline": "çevrimdışı mod",
+	"carMotor.bluetoothController.multithreading": "çok iş parçacıklı"
 }

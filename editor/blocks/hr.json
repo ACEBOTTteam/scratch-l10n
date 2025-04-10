@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "engleski font 1",
 	"ROBOT_OLED_FONT_ENGLISH2": "engleski font 2",
 	"ROBOT_OLED_FONT_CHIMESE": "kineski font",
-	"ROBOT_OLED_FONT_BIG": "veliki font"
+	"ROBOT_OLED_FONT_BIG": "veliki font",
+	"ROBOT_INIT_UDP_SERVER": "inicijalizirati udp poslužitelj, port %1",
+	"ROBOT_UDP_CREATE_DATA": "stvoriti udp paket, ip %1 port %2",
+	"ROBOT_UDP_GET_IP": "dobiti broadcast ip",
+	"ROBOT_UDP_WRITE": "poslati udp podatke %1",
+	"ROBOT_UDP_IS_DATA": "jesu li podaci primljeni?",
+	"ROBOT_UDP_READ_DATA": "pročitati udp podatke",
+	"ROBOT_BLE_INIT": "postaviti ble %1%2",
+	"ROBOT_BLE_START": "domaćin pokreće bluetooth, naziv %1",
+	"ROBOT_BLE_SEND": "domaćin šalje podatke %1",
+	"ROBOT_BLE_DATA": "podaci primljeni od domaćina",
+	"ROBOT_BLE_GET": "domaćin prima podatke",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "je li klijent povezan?",
+	"ROBOT_BLE_CLENT_CONNECT": "klijent povezuje bluetooth, naziv %1",
+	"ROBOT_BLE_CLENT_SEND": "klijent šalje podatke %1",
+	"ROBOT_BLE_CLENT_DATA": "podaci primljeni od klijenta",
+	"ROBOT_BLE_CLENT_GET": "klijent prima podatke",
+	"CATEGORY_ROBOTS_BLE": "bluetooth niske potrošnje"
 }

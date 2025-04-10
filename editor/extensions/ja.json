@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "コントローラー[ONE][TWO]の値",
 	"carMotor.bluetoothController.online": "オンラインモード",
 	"carMotor.bluetoothController.offline": "オフラインモード",
-	"carMotor.bluetoothController.multithreading": "マルチスレッド"
+	"carMotor.bluetoothController.multithreading": "マルチスレッド",
+	"carMotor.camera.led": "カメラ[ONE]",
+	"carMotor.camera.Commant": "カメラ取得[ONE]コマンド",
+	"ASR.LOW": "低い",
+	"ASR.MIDDLE": "中",
+	"ASR.HIGH": "高い"
 }

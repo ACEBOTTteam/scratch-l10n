@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "fonte em inglês 1",
 	"ROBOT_OLED_FONT_ENGLISH2": "fonte em inglês 2",
 	"ROBOT_OLED_FONT_CHIMESE": "fonte chinesa",
-	"ROBOT_OLED_FONT_BIG": "grande fonte"
+	"ROBOT_OLED_FONT_BIG": "grande fonte",
+	"ROBOT_INIT_UDP_SERVER": "inicializar servidor udp, porta %1",
+	"ROBOT_UDP_CREATE_DATA": "criar pacote udp, ip %1 porta %2",
+	"ROBOT_UDP_GET_IP": "obter ip de transmissão",
+	"ROBOT_UDP_WRITE": "enviar dados udp %1",
+	"ROBOT_UDP_IS_DATA": "dados recebidos?",
+	"ROBOT_UDP_READ_DATA": "ler dados udp",
+	"ROBOT_BLE_INIT": "configurar ble %1%2",
+	"ROBOT_BLE_START": "host inicia bluetooth, nome %1",
+	"ROBOT_BLE_SEND": "host envia dados %1",
+	"ROBOT_BLE_DATA": "dados recebidos pelo host",
+	"ROBOT_BLE_GET": "host recebe dados",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "o cliente está conectado?",
+	"ROBOT_BLE_CLENT_CONNECT": "cliente conectar bluetooth, nome %1",
+	"ROBOT_BLE_CLENT_SEND": "cliente enviar dados %1",
+	"ROBOT_BLE_CLENT_DATA": "dados recebidos pelo cliente",
+	"ROBOT_BLE_CLENT_GET": "cliente recebe dados",
+	"CATEGORY_ROBOTS_BLE": "bluetooth de baixa energia"
 }

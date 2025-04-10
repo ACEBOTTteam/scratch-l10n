@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] vrijednost",
 	"carMotor.bluetoothController.online": "online način",
 	"carMotor.bluetoothController.offline": "offline način",
-	"carMotor.bluetoothController.multithreading": "višenitno"
+	"carMotor.bluetoothController.multithreading": "višenitno",
+	"carMotor.camera.led": "kamera[ONE]",
+	"carMotor.camera.Commant": "kamera preuzmi naredbu [ONE]",
+	"ASR.LOW": "nisko",
+	"ASR.MIDDLE": "srednje",
+	"ASR.HIGH": "visoko"
 }

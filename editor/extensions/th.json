@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "ตัวควบคุม [ONE] [TWO] ค่า",
 	"carMotor.bluetoothController.online": "โหมดออนไลน์",
 	"carMotor.bluetoothController.offline": "โหมดออฟไลน์",
-	"carMotor.bluetoothController.multithreading": "มัลติเธรด"
+	"carMotor.bluetoothController.multithreading": "มัลติเธรด",
+	"carMotor.camera.led": "กล้อง[ONE]",
+	"carMotor.camera.Commant": "กล้องรับคำสั่ง [ONE]",
+	"ASR.LOW": "ต่ำ",
+	"ASR.MIDDLE": "ปานกลาง",
+	"ASR.HIGH": "สูง"
 }

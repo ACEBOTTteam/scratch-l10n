@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "영문 글꼴 1",
 	"ROBOT_OLED_FONT_ENGLISH2": "영문 글꼴 2",
 	"ROBOT_OLED_FONT_CHIMESE": "중국어 글꼴",
-	"ROBOT_OLED_FONT_BIG": "큰 글꼴"
+	"ROBOT_OLED_FONT_BIG": "큰 글꼴",
+	"ROBOT_INIT_UDP_SERVER": "udp 서버 초기화, 포트 %1",
+	"ROBOT_UDP_CREATE_DATA": "udp 패킷 생성, ip %1 포트 %2",
+	"ROBOT_UDP_GET_IP": "브로드캐스트 ip 가져오기",
+	"ROBOT_UDP_WRITE": "udp 데이터 전송 %1",
+	"ROBOT_UDP_IS_DATA": "데이터 수신됨?",
+	"ROBOT_UDP_READ_DATA": "udp 데이터 읽기",
+	"ROBOT_BLE_INIT": "ble 설정 %1%2",
+	"ROBOT_BLE_START": "호스트 블루투스 시작, 이름 %1",
+	"ROBOT_BLE_SEND": "호스트 데이터 전송 %1",
+	"ROBOT_BLE_DATA": "호스트가 받은 데이터",
+	"ROBOT_BLE_GET": "호스트 데이터 수신",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "클라이언트 연결됨?",
+	"ROBOT_BLE_CLENT_CONNECT": "클라이언트 블루투스 연결, 이름 %1",
+	"ROBOT_BLE_CLENT_SEND": "클라이언트 데이터 전송 %1",
+	"ROBOT_BLE_CLENT_DATA": "클라이언트가 받은 데이터",
+	"ROBOT_BLE_CLENT_GET": "클라이언트 데이터 수신",
+	"CATEGORY_ROBOTS_BLE": "저전력 블루투스"
 }

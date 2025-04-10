@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "anglický font 1",
 	"ROBOT_OLED_FONT_ENGLISH2": "anglický font 2",
 	"ROBOT_OLED_FONT_CHIMESE": "čínský font",
-	"ROBOT_OLED_FONT_BIG": "velký font"
+	"ROBOT_OLED_FONT_BIG": "velký font",
+	"ROBOT_INIT_UDP_SERVER": "inicializovat udp server, port %1",
+	"ROBOT_UDP_CREATE_DATA": "vytvořit udp paket, ip %1 port %2",
+	"ROBOT_UDP_GET_IP": "získat vysílací ip",
+	"ROBOT_UDP_WRITE": "odeslat udp data %1",
+	"ROBOT_UDP_IS_DATA": "byla přijata data?",
+	"ROBOT_UDP_READ_DATA": "číst udp data",
+	"ROBOT_BLE_INIT": "nastavit ble %1%2",
+	"ROBOT_BLE_START": "hostitel spustit bluetooth, jméno %1",
+	"ROBOT_BLE_SEND": "hostitel odesílá data %1",
+	"ROBOT_BLE_DATA": "data přijatá hostitelem",
+	"ROBOT_BLE_GET": "hostitel přijímá data",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "je klient připojen?",
+	"ROBOT_BLE_CLENT_CONNECT": "klient připojit bluetooth, jméno %1",
+	"ROBOT_BLE_CLENT_SEND": "klient odeslat data %1",
+	"ROBOT_BLE_CLENT_DATA": "data přijatá klientem",
+	"ROBOT_BLE_CLENT_GET": "klient přijímá data",
+	"CATEGORY_ROBOTS_BLE": "nízkoenergetický bluetooth"
 }

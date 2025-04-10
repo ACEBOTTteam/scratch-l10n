@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "ovladač [ONE] [TWO] hodnota",
 	"carMotor.bluetoothController.online": "online režim",
 	"carMotor.bluetoothController.offline": "offline režim",
-	"carMotor.bluetoothController.multithreading": "multithreading"
+	"carMotor.bluetoothController.multithreading": "multithreading",
+	"carMotor.camera.led": "kamera[ONE]",
+	"carMotor.camera.Commant": "kamera získat příkaz [ONE]",
+	"ASR.LOW": "nízký",
+	"ASR.MIDDLE": "střední",
+	"ASR.HIGH": "vysoký"
 }

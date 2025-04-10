@@ -604,5 +604,6 @@
 	"gui.extension.bluetoothControllerRealTime.name": "online controller",
 	"gui.modify.sampleProgramErr": "Sample program cannot be modified, please save as a new file!",
 	"gui.modify.microPython": "micropython firmware",
-	"gui.modify.mobile": "mobile firmware"
+	"gui.modify.mobile": "mobile firmware",
+	"CATEGORY_ROBOTS_BLE": "low energy bluetooth"
 }

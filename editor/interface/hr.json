@@ -604,5 +604,6 @@
 	"gui.extension.bluetoothControllerRealTime.name": "online kontroler",
 	"gui.modify.sampleProgramErr": "Primjer programa ne može se izmijeniti, molimo spremite novi fajl!",
 	"gui.modify.microPython": "micropython firmware",
-	"gui.modify.mobile": "mobilni firmware"
+	"gui.modify.mobile": "mobilni firmware",
+	"CATEGORY_ROBOTS_BLE": "bluetooth niske potrošnje"
 }

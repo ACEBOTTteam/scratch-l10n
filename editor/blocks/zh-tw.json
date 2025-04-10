@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "英文字體1",
 	"ROBOT_OLED_FONT_ENGLISH2": "英文字體2",
 	"ROBOT_OLED_FONT_CHIMESE": "中文字體",
-	"ROBOT_OLED_FONT_BIG": "大字體"
+	"ROBOT_OLED_FONT_BIG": "大字體",
+	"ROBOT_INIT_UDP_SERVER": "UDP服務初始化,端口%1",
+	"ROBOT_UDP_CREATE_DATA": "創建 UDP 數據包, IP%1端口%2",
+	"ROBOT_UDP_GET_IP": "獲取廣播IP",
+	"ROBOT_UDP_WRITE": "UDP發送數據%1",
+	"ROBOT_UDP_IS_DATA": "是否接收到數據",
+	"ROBOT_UDP_READ_DATA": "UDP讀取數據",
+	"ROBOT_BLE_INIT": "低功耗藍牙設置%1%2",
+	"ROBOT_BLE_START": "主機開啟藍牙,名稱%1",
+	"ROBOT_BLE_SEND": "主機發送數據%1",
+	"ROBOT_BLE_DATA": "主機接收到的數據",
+	"ROBOT_BLE_GET": "主機接收數據",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "客戶端是否連接",
+	"ROBOT_BLE_CLENT_CONNECT": "客戶端連接藍牙,名稱%1",
+	"ROBOT_BLE_CLENT_SEND": "客戶端發送數據%1",
+	"ROBOT_BLE_CLENT_DATA": "客戶端接收到的數據",
+	"ROBOT_BLE_CLENT_GET": "客戶端接收數據",
+	"CATEGORY_ROBOTS_BLE": "低功耗藍牙"
 }

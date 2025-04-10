@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "kontrolcü [ONE] [TWO] değeri",
 	"carMotor.bluetoothController.online": "çevrimiçi mod",
 	"carMotor.bluetoothController.offline": "çevrimdışı mod",
-	"carMotor.bluetoothController.multithreading": "çok iş parçacıklı"
+	"carMotor.bluetoothController.multithreading": "çok iş parçacıklı",
+	"carMotor.camera.led": "kamera[ONE]",
+	"carMotor.camera.Commant": "kamera [ONE] komutunu al",
+	"ASR.LOW": "düşük",
+	"ASR.MIDDLE": "orta",
+	"ASR.HIGH": "yüksek"
 }

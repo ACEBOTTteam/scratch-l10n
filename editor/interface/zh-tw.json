@@ -604,5 +604,6 @@
 	"gui.extension.bluetoothControllerRealTime.name": "在線手柄",
 	"gui.modify.sampleProgramErr": "示範程式無法更改，請保存新檔案!",
 	"gui.modify.microPython": "micropython韌體",
-	"gui.modify.mobile": "移動端韌體"
+	"gui.modify.mobile": "移動端韌體",
+	"CATEGORY_ROBOTS_BLE": "低功耗藍牙"
 }

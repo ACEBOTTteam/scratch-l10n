@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "ingilizce font 1",
 	"ROBOT_OLED_FONT_ENGLISH2": "ingilizce font 2",
 	"ROBOT_OLED_FONT_CHIMESE": "çin yazı tipi",
-	"ROBOT_OLED_FONT_BIG": "büyük yazı tipi"
+	"ROBOT_OLED_FONT_BIG": "büyük yazı tipi",
+	"ROBOT_INIT_UDP_SERVER": "udp sunucusunu başlat, port %1",
+	"ROBOT_UDP_CREATE_DATA": "udp paketi oluştur, ip %1 port %2",
+	"ROBOT_UDP_GET_IP": "yayın ip adresini al",
+	"ROBOT_UDP_WRITE": "udp verisi gönder %1",
+	"ROBOT_UDP_IS_DATA": "veri alındı mı?",
+	"ROBOT_UDP_READ_DATA": "udp verisini oku",
+	"ROBOT_BLE_INIT": "ble ayarla %1%2",
+	"ROBOT_BLE_START": "ana bilgisayar bluetooth'u başlat, adı %1",
+	"ROBOT_BLE_SEND": "ana bilgisayar veri gönderiyor %1",
+	"ROBOT_BLE_DATA": "ana bilgisayarın aldığı veri",
+	"ROBOT_BLE_GET": "ana bilgisayar veri alıyor",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "istemci bağlı mı?",
+	"ROBOT_BLE_CLENT_CONNECT": "istemci bluetooth'a bağlanıyor, adı %1",
+	"ROBOT_BLE_CLENT_SEND": "istemci veri gönderiyor %1",
+	"ROBOT_BLE_CLENT_DATA": "istemcinin aldığı veri",
+	"ROBOT_BLE_CLENT_GET": "istemci veri alıyor",
+	"CATEGORY_ROBOTS_BLE": "düşük enerji bluetooth"
 }

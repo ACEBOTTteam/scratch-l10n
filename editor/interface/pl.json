@@ -604,5 +604,6 @@
 	"gui.extension.bluetoothControllerRealTime.name": "sterownik online",
 	"gui.modify.sampleProgramErr": "Program przykładowy nie może być zmieniany, proszę zapisać nowy plik!",
 	"gui.modify.microPython": "micropython firmware",
-	"gui.modify.mobile": "oprogramowanie mobilne"
+	"gui.modify.mobile": "oprogramowanie mobilne",
+	"CATEGORY_ROBOTS_BLE": "bluetooth o niskim zużyciu energii"
 }

@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "خط إنجليزي 1",
 	"ROBOT_OLED_FONT_ENGLISH2": "خط إنجليزي 2",
 	"ROBOT_OLED_FONT_CHIMESE": "خط صيني",
-	"ROBOT_OLED_FONT_BIG": "خط كبير"
+	"ROBOT_OLED_FONT_BIG": "خط كبير",
+	"ROBOT_INIT_UDP_SERVER": "بدء خادم udp، المنفذ %1",
+	"ROBOT_UDP_CREATE_DATA": "إنشاء حزمة udp، عنوان ip %1 المنفذ %2",
+	"ROBOT_UDP_GET_IP": "الحصول على عنوان ip للبث",
+	"ROBOT_UDP_WRITE": "إرسال بيانات udp %1",
+	"ROBOT_UDP_IS_DATA": "هل تم استقبال البيانات؟",
+	"ROBOT_UDP_READ_DATA": "قراءة بيانات udp",
+	"ROBOT_BLE_INIT": "إعداد ble %1%2",
+	"ROBOT_BLE_START": "يبدأ المضيف البلوتوث، الاسم %1",
+	"ROBOT_BLE_SEND": "المضيف يرسل البيانات %1",
+	"ROBOT_BLE_DATA": "البيانات المستلمة بواسطة المضيف",
+	"ROBOT_BLE_GET": "المضيف يستقبل البيانات",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "هل العميل متصل؟",
+	"ROBOT_BLE_CLENT_CONNECT": "اتصال العميل بالبلوتوث، الاسم %1",
+	"ROBOT_BLE_CLENT_SEND": "العميل يرسل البيانات %1",
+	"ROBOT_BLE_CLENT_DATA": "البيانات المستلمة بواسطة العميل",
+	"ROBOT_BLE_CLENT_GET": "العميل يستقبل البيانات",
+	"CATEGORY_ROBOTS_BLE": "بلوتوث منخفض الطاقة"
 }

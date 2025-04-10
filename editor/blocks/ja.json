@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "英字フォント1",
 	"ROBOT_OLED_FONT_ENGLISH2": "英字フォント2",
 	"ROBOT_OLED_FONT_CHIMESE": "中国語フォント",
-	"ROBOT_OLED_FONT_BIG": "大きなフォント"
+	"ROBOT_OLED_FONT_BIG": "大きなフォント",
+	"ROBOT_INIT_UDP_SERVER": "udpサービスを初期化, ポート%1",
+	"ROBOT_UDP_CREATE_DATA": "udpパケットを作成, ip%1 ポート%2",
+	"ROBOT_UDP_GET_IP": "ブロードキャストipを取得",
+	"ROBOT_UDP_WRITE": "udpデータを送信%1",
+	"ROBOT_UDP_IS_DATA": "データを受信しましたか?",
+	"ROBOT_UDP_READ_DATA": "udpデータを読み取る",
+	"ROBOT_BLE_INIT": "bleを設定%1%2",
+	"ROBOT_BLE_START": "ホストがbluetoothを開始, 名称%1",
+	"ROBOT_BLE_SEND": "ホストがデータを送信%1",
+	"ROBOT_BLE_DATA": "ホストが受信したデータ",
+	"ROBOT_BLE_GET": "ホストがデータを受信",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "クライアントが接続されていますか?",
+	"ROBOT_BLE_CLENT_CONNECT": "クライアントがbluetoothを接続, 名称%1",
+	"ROBOT_BLE_CLENT_SEND": "クライアントがデータを送信%1",
+	"ROBOT_BLE_CLENT_DATA": "クライアントが受信したデータ",
+	"ROBOT_BLE_CLENT_GET": "クライアントがデータを受信",
+	"CATEGORY_ROBOTS_BLE": "低消費電力bluetooth"
 }

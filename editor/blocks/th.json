@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "ฟอนต์ภาษาอังกฤษ 1",
 	"ROBOT_OLED_FONT_ENGLISH2": "ฟอนต์ภาษาอังกฤษ 2",
 	"ROBOT_OLED_FONT_CHIMESE": "ฟอนต์จีน",
-	"ROBOT_OLED_FONT_BIG": "ฟอนต์ใหญ่"
+	"ROBOT_OLED_FONT_BIG": "ฟอนต์ใหญ่",
+	"ROBOT_INIT_UDP_SERVER": "เริ่มต้นเซิร์ฟเวอร์ udp, พอร์ต %1",
+	"ROBOT_UDP_CREATE_DATA": "สร้างแพ็กเก็ต udp, ip %1 พอร์ต %2",
+	"ROBOT_UDP_GET_IP": "รับ ip กระจายสัญญาณ",
+	"ROBOT_UDP_WRITE": "ส่งข้อมูล udp %1",
+	"ROBOT_UDP_IS_DATA": "ได้รับข้อมูลแล้ว?",
+	"ROBOT_UDP_READ_DATA": "อ่านข้อมูล udp",
+	"ROBOT_BLE_INIT": "ตั้งค่า ble %1%2",
+	"ROBOT_BLE_START": "โฮสต์เริ่ม bluetooth, ชื่อ %1",
+	"ROBOT_BLE_SEND": "โฮสต์ส่งข้อมูล %1",
+	"ROBOT_BLE_DATA": "ข้อมูลที่โฮสต์ได้รับ",
+	"ROBOT_BLE_GET": "โฮสต์รับข้อมูล",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "ลูกค้าถูกเชื่อมต่อหรือไม่?",
+	"ROBOT_BLE_CLENT_CONNECT": "ลูกค้าเชื่อมต่อ bluetooth, ชื่อ %1",
+	"ROBOT_BLE_CLENT_SEND": "ลูกค้าส่งข้อมูล %1",
+	"ROBOT_BLE_CLENT_DATA": "ข้อมูลที่ลูกค้าได้รับ",
+	"ROBOT_BLE_CLENT_GET": "ลูกค้ารับข้อมูล",
+	"CATEGORY_ROBOTS_BLE": "บลูทูธพลังงานต่ำ"
 }

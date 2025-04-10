@@ -604,5 +604,6 @@
 	"gui.extension.bluetoothControllerRealTime.name": "オンラインコントローラー",
 	"gui.modify.sampleProgramErr": "サンプルプログラムは変更できません。新しいファイルとして保存してください！",
 	"gui.modify.microPython": "micropythonファームウェア",
-	"gui.modify.mobile": "モバイルファームウェア"
+	"gui.modify.mobile": "モバイルファームウェア",
+	"CATEGORY_ROBOTS_BLE": "低消費電力bluetooth"
 }

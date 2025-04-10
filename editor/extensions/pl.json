@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "kontroler [ONE] [TWO] wartość",
 	"carMotor.bluetoothController.online": "tryb online",
 	"carMotor.bluetoothController.offline": "tryb offline",
-	"carMotor.bluetoothController.multithreading": "wielowątkowość"
+	"carMotor.bluetoothController.multithreading": "wielowątkowość",
+	"carMotor.camera.led": "kamera[ONE]",
+	"carMotor.camera.Commant": "kamera pobierz polecenie [ONE]",
+	"ASR.LOW": "niski",
+	"ASR.MIDDLE": "średni",
+	"ASR.HIGH": "wysoki"
 }

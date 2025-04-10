@@ -604,5 +604,6 @@
 	"gui.extension.bluetoothControllerRealTime.name": "online ovladač",
 	"gui.modify.sampleProgramErr": "Ukázkový program nelze upravit, prosím uložte nový soubor!",
 	"gui.modify.microPython": "micropython firmware",
-	"gui.modify.mobile": "mobilní firmware"
+	"gui.modify.mobile": "mobilní firmware",
+	"CATEGORY_ROBOTS_BLE": "nízkoenergetický bluetooth"
 }

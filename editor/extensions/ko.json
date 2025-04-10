@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "컨트롤러 [ONE] [TWO] 값",
 	"carMotor.bluetoothController.online": "온라인 모드",
 	"carMotor.bluetoothController.offline": "오프라인 모드",
-	"carMotor.bluetoothController.multithreading": "멀티스레딩"
+	"carMotor.bluetoothController.multithreading": "멀티스레딩",
+	"carMotor.camera.led": "카메라[ONE]",
+	"carMotor.camera.Commant": "카메라 [ONE] 명령 가져오기",
+	"ASR.LOW": "낮음",
+	"ASR.MIDDLE": "중간",
+	"ASR.HIGH": "높음"
 }

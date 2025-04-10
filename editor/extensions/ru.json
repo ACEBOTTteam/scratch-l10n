@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "контроллер [ONE] [TWO] значение",
 	"carMotor.bluetoothController.online": "онлайн-режим",
 	"carMotor.bluetoothController.offline": "оффлайн-режим",
-	"carMotor.bluetoothController.multithreading": "многопоточное выполнение"
+	"carMotor.bluetoothController.multithreading": "многопоточное выполнение",
+	"carMotor.camera.led": "камера[ONE]",
+	"carMotor.camera.Commant": "камера получить команду [ONE]",
+	"ASR.LOW": "низкий",
+	"ASR.MIDDLE": "средний",
+	"ASR.HIGH": "высокий"
 }

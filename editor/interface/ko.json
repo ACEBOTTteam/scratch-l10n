@@ -604,5 +604,6 @@
 	"gui.extension.bluetoothControllerRealTime.name": "온라인 컨트롤러",
 	"gui.modify.sampleProgramErr": "예제 프로그램은 수정할 수 없습니다. 새 파일로 저장하십시오!",
 	"gui.modify.microPython": "micropython 펌웨어",
-	"gui.modify.mobile": "모바일 펌웨어"
+	"gui.modify.mobile": "모바일 펌웨어",
+	"CATEGORY_ROBOTS_BLE": "저전력 블루투스"
 }

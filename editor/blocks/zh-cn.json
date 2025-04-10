@@ -480,5 +480,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "英文字体1",
 	"ROBOT_OLED_FONT_ENGLISH2": "英文字体2",
 	"ROBOT_OLED_FONT_CHIMESE": "中文字体",
-	"ROBOT_OLED_FONT_BIG": "大字体"
+	"ROBOT_OLED_FONT_BIG": "大字体",
+	"ROBOT_INIT_UDP_SERVER": "UDP服务初始化,端口%1",
+	"ROBOT_UDP_CREATE_DATA": "创建 UDP 数据包, IP%1端口%2",
+	"ROBOT_UDP_GET_IP": "获取广播IP",
+	"ROBOT_UDP_WRITE": "UDP发送数据%1",
+	"ROBOT_UDP_IS_DATA": "是否接收到数据",
+	"ROBOT_UDP_READ_DATA": "UDP读取数据",
+	"ROBOT_BLE_INIT": "低功耗蓝牙设置%1%2",
+	"ROBOT_BLE_START": "主机开启蓝牙,名称%1",
+	"ROBOT_BLE_SEND": "主机发送数据%1",
+	"ROBOT_BLE_DATA": "主机接收到的数据",
+	"ROBOT_BLE_GET": "主机接收数据",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "客户端是否连接",
+	"ROBOT_BLE_CLENT_CONNECT": "客户端连接蓝牙,名称%1",
+	"ROBOT_BLE_CLENT_SEND": "客户端发送数据%1",
+	"ROBOT_BLE_CLENT_DATA": "客户端接收到的数据",
+	"ROBOT_BLE_CLENT_GET": "客户端接收数据",
+	"CATEGORY_ROBOTS_BLE": "低功耗蓝牙"
 }

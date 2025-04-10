@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "手柄[ONE][TWO]值",
 	"carMotor.bluetoothController.online": "在线模式",
 	"carMotor.bluetoothController.offline": "离线模式",
-	"carMotor.bluetoothController.multithreading": "多线程"
+	"carMotor.bluetoothController.multithreading": "多线程",
+	"carMotor.camera.led": "摄像头[ONE]",
+	"carMotor.camera.Commant": "摄像头获取[ONE]指令",
+	"ASR.LOW": "低",
+	"ASR.MIDDLE": "中",
+	"ASR.HIGH": "高"
 }

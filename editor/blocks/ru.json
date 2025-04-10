@@ -482,5 +482,22 @@
 	"ROBOT_OLED_FONT_ENGLISH1": "английский шрифт 1",
 	"ROBOT_OLED_FONT_ENGLISH2": "английский шрифт 2",
 	"ROBOT_OLED_FONT_CHIMESE": "китайский шрифт",
-	"ROBOT_OLED_FONT_BIG": "большой шрифт"
+	"ROBOT_OLED_FONT_BIG": "большой шрифт",
+	"ROBOT_INIT_UDP_SERVER": "инициализировать udp-сервер, порт %1",
+	"ROBOT_UDP_CREATE_DATA": "создать udp-пакет, ip %1 порт %2",
+	"ROBOT_UDP_GET_IP": "получить широковещательный ip",
+	"ROBOT_UDP_WRITE": "отправить udp-данные %1",
+	"ROBOT_UDP_IS_DATA": "данные получены?",
+	"ROBOT_UDP_READ_DATA": "читать udp-данные",
+	"ROBOT_BLE_INIT": "настроить ble %1%2",
+	"ROBOT_BLE_START": "хост включает bluetooth, имя %1",
+	"ROBOT_BLE_SEND": "хост отправляет данные %1",
+	"ROBOT_BLE_DATA": "данные, полученные хостом",
+	"ROBOT_BLE_GET": "хост получает данные",
+	"ROBOT_BLE_CLIEN_IS_CONNECT": "клиент подключен?",
+	"ROBOT_BLE_CLENT_CONNECT": "клиент подключается к bluetooth, имя %1",
+	"ROBOT_BLE_CLENT_SEND": "клиент отправляет данные %1",
+	"ROBOT_BLE_CLENT_DATA": "данные, полученные клиентом",
+	"ROBOT_BLE_CLENT_GET": "клиент получает данные",
+	"CATEGORY_ROBOTS_BLE": "bluetooth с низким энергопотреблением"
 }

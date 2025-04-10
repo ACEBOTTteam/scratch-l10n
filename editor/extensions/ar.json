@@ -512,5 +512,10 @@
 	"carMotor.bluetoothControllerRealTime.getData": "التحكم [ONE] [TWO] القيمة",
 	"carMotor.bluetoothController.online": "وضع الاتصال بالإنترنت",
 	"carMotor.bluetoothController.offline": "وضع عدم الاتصال بالإنترنت",
-	"carMotor.bluetoothController.multithreading": "تعدد مؤشرات الترابط"
+	"carMotor.bluetoothController.multithreading": "تعدد مؤشرات الترابط",
+	"carMotor.camera.led": "كاميرا[ONE]",
+	"carMotor.camera.Commant": "الكاميرا الحصول على الأمر [ONE]",
+	"ASR.LOW": "منخفض",
+	"ASR.MIDDLE": "متوسط",
+	"ASR.HIGH": "مرتفع"
 }

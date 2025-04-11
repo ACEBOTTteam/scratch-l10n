@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "kamera pobierz polecenie [ONE]",
 	"ASR.LOW": "niski",
 	"ASR.MIDDLE": "średni",
-	"ASR.HIGH": "wysoki"
+	"ASR.HIGH": "wysoki",
+	"KNN.RESULT.POSSIBILITY": "prawdopodobieństwo wyniku rozpoznania"
 }

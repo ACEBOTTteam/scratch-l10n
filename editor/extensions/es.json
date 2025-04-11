@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "cámara obtener comando [ONE]",
 	"ASR.LOW": "bajo",
 	"ASR.MIDDLE": "medio",
-	"ASR.HIGH": "alto"
+	"ASR.HIGH": "alto",
+	"KNN.RESULT.POSSIBILITY": "posibilidad del resultado de reconocimiento"
 }

@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "摄像头获取[ONE]指令",
 	"ASR.LOW": "低",
 	"ASR.MIDDLE": "中",
-	"ASR.HIGH": "高"
+	"ASR.HIGH": "高",
+	"KNN.RESULT.POSSIBILITY": "识别结果的可能性"
 }

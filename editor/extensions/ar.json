@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "الكاميرا الحصول على الأمر [ONE]",
 	"ASR.LOW": "منخفض",
 	"ASR.MIDDLE": "متوسط",
-	"ASR.HIGH": "مرتفع"
+	"ASR.HIGH": "مرتفع",
+	"KNN.RESULT.POSSIBILITY": "احتمالية نتيجة التعرف"
 }

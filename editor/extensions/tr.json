@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "kamera [ONE] komutunu al",
 	"ASR.LOW": "düşük",
 	"ASR.MIDDLE": "orta",
-	"ASR.HIGH": "yüksek"
+	"ASR.HIGH": "yüksek",
+	"KNN.RESULT.POSSIBILITY": "tanıma sonucunun olasılığı"
 }

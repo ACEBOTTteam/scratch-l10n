@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "카메라 [ONE] 명령 가져오기",
 	"ASR.LOW": "낮음",
 	"ASR.MIDDLE": "중간",
-	"ASR.HIGH": "높음"
+	"ASR.HIGH": "높음",
+	"KNN.RESULT.POSSIBILITY": "인식 결과의 가능성"
 }

@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "कैमरा से [ONE] आदेश प्राप्त करें",
 	"ASR.LOW": "कम",
 	"ASR.MIDDLE": "मध्यम",
-	"ASR.HIGH": "उच्च"
+	"ASR.HIGH": "उच्च",
+	"KNN.RESULT.POSSIBILITY": "पहचान परिणाम की संभावना"
 }

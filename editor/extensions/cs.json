@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "kamera získat příkaz [ONE]",
 	"ASR.LOW": "nízký",
 	"ASR.MIDDLE": "střední",
-	"ASR.HIGH": "vysoký"
+	"ASR.HIGH": "vysoký",
+	"KNN.RESULT.POSSIBILITY": "pravděpodobnost výsledku rozpoznání"
 }

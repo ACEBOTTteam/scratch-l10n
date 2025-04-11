@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "กล้องรับคำสั่ง [ONE]",
 	"ASR.LOW": "ต่ำ",
 	"ASR.MIDDLE": "ปานกลาง",
-	"ASR.HIGH": "สูง"
+	"ASR.HIGH": "สูง",
+	"KNN.RESULT.POSSIBILITY": "ความเป็นไปได้ของผลลัพธ์การจดจำ"
 }

@@ -27,99 +27,61 @@ const block = {
 
 const extensions = {
   "zh-cn": {
-    "ASR.LOW": "低",
-    "ASR.MIDDLE": "中",
-    "ASR.HIGH": "高",
+    "KNN.RESULT.POSSIBILITY": "识别结果的可能性",
   },
   "zh-tw": {
-    "ASR.LOW": "低",
-    "ASR.MIDDLE": "中",
-    "ASR.HIGH": "高"
+    "KNN.RESULT.POSSIBILITY": "識別結果的可能性"
   },
   "en": {
-    "ASR.LOW": "low",
-    "ASR.MIDDLE": "middle",
-    "ASR.HIGH": "high"
+    "KNN.RESULT.POSSIBILITY": "possibility of recognition result"
   },
   "fr": {
-    "ASR.LOW": "faible",
-    "ASR.MIDDLE": "moyen",
-    "ASR.HIGH": "élevé"
+    "KNN.RESULT.POSSIBILITY": "probabilité du résultat de reconnaissance"
   },
   "ja": {
-    "ASR.LOW": "低い",
-    "ASR.MIDDLE": "中",
-    "ASR.HIGH": "高い"
+    "KNN.RESULT.POSSIBILITY": "認識結果の可能性"
   },
   "de": {
-    "ASR.LOW": "niedrig",
-    "ASR.MIDDLE": "mittel",
-    "ASR.HIGH": "hoch"
+    "KNN.RESULT.POSSIBILITY": "wahrscheinlichkeit des erkennungsergebnisses"
   },
   "es": {
-    "ASR.LOW": "bajo",
-    "ASR.MIDDLE": "medio",
-    "ASR.HIGH": "alto"
+    "KNN.RESULT.POSSIBILITY": "posibilidad del resultado de reconocimiento"
   },
   "ru": {
-    "ASR.LOW": "низкий",
-    "ASR.MIDDLE": "средний",
-    "ASR.HIGH": "высокий"
+    "KNN.RESULT.POSSIBILITY": "вероятность результата распознавания"
   },
   "cs": {
-    "ASR.LOW": "nízký",
-    "ASR.MIDDLE": "střední",
-    "ASR.HIGH": "vysoký"
+    "KNN.RESULT.POSSIBILITY": "pravděpodobnost výsledku rozpoznání"
   },
   "it": {
-    "ASR.LOW": "basso",
-    "ASR.MIDDLE": "medio",
-    "ASR.HIGH": "alto"
+    "KNN.RESULT.POSSIBILITY": "possibilità del risultato di riconoscimento"
   },
   "pl": {
-    "ASR.LOW": "niski",
-    "ASR.MIDDLE": "średni",
-    "ASR.HIGH": "wysoki"
+    "KNN.RESULT.POSSIBILITY": "prawdopodobieństwo wyniku rozpoznania"
   },
   "tr": {
-    "ASR.LOW": "düşük",
-    "ASR.MIDDLE": "orta",
-    "ASR.HIGH": "yüksek"
+    "KNN.RESULT.POSSIBILITY": "tanıma sonucunun olasılığı"
   },
   "pt": {
-    "ASR.LOW": "baixo",
-    "ASR.MIDDLE": "médio",
-    "ASR.HIGH": "alto"
+    "KNN.RESULT.POSSIBILITY": "possibilidade do resultado de reconhecimento"
   },
   "hr": {
-    "ASR.LOW": "nisko",
-    "ASR.MIDDLE": "srednje",
-    "ASR.HIGH": "visoko"
+    "KNN.RESULT.POSSIBILITY": "vjerojatnost rezultata prepoznavanja"
   },
   "hi": {
-    "ASR.LOW": "कम",
-    "ASR.MIDDLE": "मध्यम",
-    "ASR.HIGH": "उच्च"
+    "KNN.RESULT.POSSIBILITY": "पहचान परिणाम की संभावना"
   },
   "ko": {
-    "ASR.LOW": "낮음",
-    "ASR.MIDDLE": "중간",
-    "ASR.HIGH": "높음"
+    "KNN.RESULT.POSSIBILITY": "인식 결과의 가능성"
   },
   "th": {
-    "ASR.LOW": "ต่ำ",
-    "ASR.MIDDLE": "ปานกลาง",
-    "ASR.HIGH": "สูง"
+    "KNN.RESULT.POSSIBILITY": "ความเป็นไปได้ของผลลัพธ์การจดจำ"
   },
   "nl": {
-    "ASR.LOW": "laag",
-    "ASR.MIDDLE": "gemiddeld",
-    "ASR.HIGH": "hoog"
+    "KNN.RESULT.POSSIBILITY": "mogelijkheid van herkenningsresultaat"
   },
   "ar": {
-    "ASR.LOW": "منخفض",
-    "ASR.MIDDLE": "متوسط",
-    "ASR.HIGH": "مرتفع"
+    "KNN.RESULT.POSSIBILITY": "احتمالية نتيجة التعرف"
   }
 }
 

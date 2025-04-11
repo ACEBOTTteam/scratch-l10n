@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "kamera preuzmi naredbu [ONE]",
 	"ASR.LOW": "nisko",
 	"ASR.MIDDLE": "srednje",
-	"ASR.HIGH": "visoko"
+	"ASR.HIGH": "visoko",
+	"KNN.RESULT.POSSIBILITY": "vjerojatnost rezultata prepoznavanja"
 }

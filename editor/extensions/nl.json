@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "camera verkrijg [ONE] commando",
 	"ASR.LOW": "laag",
 	"ASR.MIDDLE": "gemiddeld",
-	"ASR.HIGH": "hoog"
+	"ASR.HIGH": "hoog",
+	"KNN.RESULT.POSSIBILITY": "mogelijkheid van herkenningsresultaat"
 }

@@ -517,5 +517,6 @@
 	"carMotor.camera.Commant": "カメラ取得[ONE]コマンド",
 	"ASR.LOW": "低い",
 	"ASR.MIDDLE": "中",
-	"ASR.HIGH": "高い"
+	"ASR.HIGH": "高い",
+	"KNN.RESULT.POSSIBILITY": "認識結果の可能性"
 }

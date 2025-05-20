@@ -499,5 +499,21 @@
 	"ROBOT_BLE_CLENT_SEND": "클라이언트 데이터 전송 %1",
 	"ROBOT_BLE_CLENT_DATA": "클라이언트가 받은 데이터",
 	"ROBOT_BLE_CLENT_GET": "클라이언트 데이터 수신",
-	"CATEGORY_ROBOTS_BLE": "저전력 블루투스"
+	"CATEGORY_ROBOTS_BLE": "저전력 블루투스",
+	"ROBOT_PID_CREATE": "pid%1 생성",
+	"ROBOT_PID_SET": "pid%1 입력 %2 출력 %3 목표값 %4 kp %5 ki %6 kd %7 설정",
+	"ROBOT_PID_TYPE": "pid%1 작업 모드 %2 설정",
+	"ROBOT_PID_PERIOD": "pid%1 계산 주기 %2 설정",
+	"ROBOT_PID_OUTPUT_SCOPE": "pid%1 출력 범위 %2에서 %3까지 설정",
+	"ROBOT_PID_CALCULATE": "pid%1 계산",
+	"ROBOT_MANUAL": "수동",
+	"ROBOT_AUTOMATIC": "자동",
+	"ROBOT_PID_INPUT": "입력 값",
+	"ROBOT_PID_OUTPUT": "출력 값",
+	"ROBOT_PID_TARGET": "목표 값",
+	"ROBOT_ESPNOW_INIT_MAC": "ESP NOW mac 주소 초기화 %1",
+	"ROBOT_ESPNOW_SEND": "ESP NOW 문자열 데이터 전송 %1",
+	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW 문자열 데이터 수신",
+	"ROBOT_ESPNOW_GET_DATA": "ESP NOW 수신된 문자열 데이터",
+	"ROBOT_ESPNOW_GET_MAC": "mac 주소"
 }

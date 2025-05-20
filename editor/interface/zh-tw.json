@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "示範程式無法更改，請保存新檔案!",
 	"gui.modify.microPython": "micropython韌體",
 	"gui.modify.mobile": "移動端韌體",
-	"CATEGORY_ROBOTS_BLE": "低功耗藍牙"
+	"CATEGORY_ROBOTS_BLE": "低功耗藍牙",
+	"gui.extension.PAW.name": "機械爪",
+	"gui.modify.serialPortMappingInstrument": "串口測繪儀"
 }

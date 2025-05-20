@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "Örnek program değiştirilemez, lütfen yeni bir dosya olarak kaydedin!",
 	"gui.modify.microPython": "micropython firmware",
 	"gui.modify.mobile": "mobil firmware",
-	"CATEGORY_ROBOTS_BLE": "düşük enerji bluetooth"
+	"CATEGORY_ROBOTS_BLE": "düşük enerji bluetooth",
+	"gui.extension.PAW.name": "Mekanik Pençe",
+	"gui.modify.serialPortMappingInstrument": "seri port eşleme aracı"
 }

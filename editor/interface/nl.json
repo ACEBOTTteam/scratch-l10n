@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "Het voorbeeldprogramma kan niet worden gewijzigd, sla het als een nieuw bestand op!",
 	"gui.modify.microPython": "micropython firmware",
 	"gui.modify.mobile": "mobiele firmware",
-	"CATEGORY_ROBOTS_BLE": "bluetooth met laag energieverbruik"
+	"CATEGORY_ROBOTS_BLE": "bluetooth met laag energieverbruik",
+	"gui.extension.PAW.name": "Mechanische Klauw",
+	"gui.modify.serialPortMappingInstrument": "instrument voor seriële poorttoewijzing"
 }

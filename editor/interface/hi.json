@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "नमूना कार्यक्रम को बदला नहीं जा सकता, कृपया नया फ़ाइल सहेजें!",
 	"gui.modify.microPython": "microPython फर्मवेयर",
 	"gui.modify.mobile": "मोबाइल फर्मवेयर",
-	"CATEGORY_ROBOTS_BLE": "लो पावर ब्लूटूथ"
+	"CATEGORY_ROBOTS_BLE": "लो पावर ब्लूटूथ",
+	"gui.extension.PAW.name": "यांत्रिक पंजा",
+	"gui.modify.serialPortMappingInstrument": "सीरियल पोर्ट मैपिंग उपकरण"
 }

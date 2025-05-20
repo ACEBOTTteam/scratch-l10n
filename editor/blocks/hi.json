@@ -497,5 +497,21 @@
 	"ROBOT_BLE_CLENT_SEND": "क्लाइंट डेटा भेजें %1",
 	"ROBOT_BLE_CLENT_DATA": "क्लाइंट द्वारा प्राप्त डेटा",
 	"ROBOT_BLE_CLENT_GET": "क्लाइंट डेटा प्राप्त करें",
-	"CATEGORY_ROBOTS_BLE": "BLE (लो पावर ब्लूटूथ)"
+	"CATEGORY_ROBOTS_BLE": "BLE (लो पावर ब्लूटूथ)",
+	"ROBOT_PID_CREATE": "pid%1 बनाएँ",
+	"ROBOT_PID_SET": "pid%1 इनपुट %2 आउटपुट %3 लक्ष्य %4 kp %5 ki %6 kd %7 सेट करें",
+	"ROBOT_PID_TYPE": "pid%1 कार्य मोड %2 सेट करें",
+	"ROBOT_PID_PERIOD": "pid%1 गणना अवधि %2 सेट करें",
+	"ROBOT_PID_OUTPUT_SCOPE": "pid%1 आउटपुट सीमा %2 से %3 तक सेट करें",
+	"ROBOT_PID_CALCULATE": "pid%1 की गणना करें",
+	"ROBOT_MANUAL": "मैन्युअल",
+	"ROBOT_AUTOMATIC": "स्वचालित",
+	"ROBOT_PID_INPUT": "इनपुट मान",
+	"ROBOT_PID_OUTPUT": "आउटपुट मान",
+	"ROBOT_PID_TARGET": "लक्ष्य मान",
+	"ROBOT_ESPNOW_INIT_MAC": "ESP NOW मैक पता प्रारंभ करें %1",
+	"ROBOT_ESPNOW_SEND": "ESP NOW स्ट्रिंग डेटा भेजें %1",
+	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW स्ट्रिंग डेटा प्राप्त हुआ",
+	"ROBOT_ESPNOW_GET_DATA": "ESP NOW प्राप्त स्ट्रिंग डेटा",
+	"ROBOT_ESPNOW_GET_MAC": "मैक पता"
 }

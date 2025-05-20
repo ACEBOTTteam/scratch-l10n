@@ -499,5 +499,21 @@
 	"ROBOT_BLE_CLENT_SEND": "klijent šalje podatke %1",
 	"ROBOT_BLE_CLENT_DATA": "podaci primljeni od klijenta",
 	"ROBOT_BLE_CLENT_GET": "klijent prima podatke",
-	"CATEGORY_ROBOTS_BLE": "bluetooth niske potrošnje"
+	"CATEGORY_ROBOTS_BLE": "bluetooth niske potrošnje",
+	"ROBOT_PID_CREATE": "stvori pid%1",
+	"ROBOT_PID_SET": "postavi pid%1 ulaz %2 izlaz %3 cilj %4 kp %5 ki %6 kd %7",
+	"ROBOT_PID_TYPE": "postavi način rada pid%1 %2",
+	"ROBOT_PID_PERIOD": "postavi razdoblje izračuna pid%1 %2",
+	"ROBOT_PID_OUTPUT_SCOPE": "postavi izlazni raspon pid%1 od %2 do %3",
+	"ROBOT_PID_CALCULATE": "izračunaj pid%1",
+	"ROBOT_MANUAL": "ručni",
+	"ROBOT_AUTOMATIC": "automatski",
+	"ROBOT_PID_INPUT": "ulazna vrijednost",
+	"ROBOT_PID_OUTPUT": "izlazna vrijednost",
+	"ROBOT_PID_TARGET": "ciljna vrijednost",
+	"ROBOT_ESPNOW_INIT_MAC": "ESP NOW inicijalizirati mac adresu %1",
+	"ROBOT_ESPNOW_SEND": "ESP NOW pošalji podatke niza %1",
+	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW primljeni podaci niza",
+	"ROBOT_ESPNOW_GET_DATA": "ESP NOW primljeni podaci niza",
+	"ROBOT_ESPNOW_GET_MAC": "mac adresa"
 }

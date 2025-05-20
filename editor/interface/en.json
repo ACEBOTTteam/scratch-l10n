@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "Sample program cannot be modified, please save as a new file!",
 	"gui.modify.microPython": "micropython firmware",
 	"gui.modify.mobile": "mobile firmware",
-	"CATEGORY_ROBOTS_BLE": "low energy bluetooth"
+	"CATEGORY_ROBOTS_BLE": "low energy bluetooth",
+	"gui.extension.PAW.name": "Mechanical Paw",
+	"gui.modify.serialPortMappingInstrument": "serial port mapping instrument"
 }

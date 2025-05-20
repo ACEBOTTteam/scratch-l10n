@@ -499,5 +499,21 @@
 	"ROBOT_BLE_CLENT_SEND": "client envoyer des données %1",
 	"ROBOT_BLE_CLENT_DATA": "données reçues par le client",
 	"ROBOT_BLE_CLENT_GET": "client recevoir des données",
-	"CATEGORY_ROBOTS_BLE": "bluetooth basse consommation"
+	"CATEGORY_ROBOTS_BLE": "bluetooth basse consommation",
+	"ROBOT_PID_CREATE": "créer pid%1",
+	"ROBOT_PID_SET": "définir pid%1 entrée %2 sortie %3 cible %4 kp %5 ki %6 kd %7",
+	"ROBOT_PID_TYPE": "définir le mode de pid%1 %2",
+	"ROBOT_PID_PERIOD": "définir la période de calcul de pid%1 %2",
+	"ROBOT_PID_OUTPUT_SCOPE": "définir la plage de sortie de pid%1 de %2 à %3",
+	"ROBOT_PID_CALCULATE": "calculer pid%1",
+	"ROBOT_MANUAL": "manuel",
+	"ROBOT_AUTOMATIC": "automatique",
+	"ROBOT_PID_INPUT": "valeur d'entrée",
+	"ROBOT_PID_OUTPUT": "valeur de sortie",
+	"ROBOT_PID_TARGET": "valeur cible",
+	"ROBOT_ESPNOW_INIT_MAC": "ESP NOW initialiser l'adresse mac %1",
+	"ROBOT_ESPNOW_SEND": "ESP NOW envoyer des données de chaîne %1",
+	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW données de chaîne reçues",
+	"ROBOT_ESPNOW_GET_DATA": "ESP NOW données de chaîne reçues",
+	"ROBOT_ESPNOW_GET_MAC": "adresse mac"
 }

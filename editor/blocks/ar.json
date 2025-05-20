@@ -499,5 +499,21 @@
 	"ROBOT_BLE_CLENT_SEND": "العميل يرسل البيانات %1",
 	"ROBOT_BLE_CLENT_DATA": "البيانات المستلمة بواسطة العميل",
 	"ROBOT_BLE_CLENT_GET": "العميل يستقبل البيانات",
-	"CATEGORY_ROBOTS_BLE": "بلوتوث منخفض الطاقة"
+	"CATEGORY_ROBOTS_BLE": "بلوتوث منخفض الطاقة",
+	"ROBOT_PID_CREATE": "إنشاء pid%1",
+	"ROBOT_PID_SET": "تكوين pid%1 الإدخال %2 الإخراج %3 القيمة المستهدفة %4 kp %5 ki %6 kd %7",
+	"ROBOT_PID_TYPE": "تعيين وضع التشغيل pid%1 %2",
+	"ROBOT_PID_PERIOD": "تعيين فترة الحساب pid%1 %2",
+	"ROBOT_PID_OUTPUT_SCOPE": "تعيين نطاق الإخراج pid%1 من %2 إلى %3",
+	"ROBOT_PID_CALCULATE": "احسب pid%1",
+	"ROBOT_MANUAL": "يدوي",
+	"ROBOT_AUTOMATIC": "تلقائي",
+	"ROBOT_PID_INPUT": "قيمة الإدخال",
+	"ROBOT_PID_OUTPUT": "قيمة الإخراج",
+	"ROBOT_PID_TARGET": "القيمة المستهدفة",
+	"ROBOT_ESPNOW_INIT_MAC": "ESP NOW تهيئة عنوان mac %1",
+	"ROBOT_ESPNOW_SEND": "ESP NOW إرسال بيانات السلسلة %1",
+	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW تم استلام بيانات السلسلة",
+	"ROBOT_ESPNOW_GET_DATA": "ESP NOW البيانات المستلمة للسلسلة",
+	"ROBOT_ESPNOW_GET_MAC": "عنوان mac"
 }

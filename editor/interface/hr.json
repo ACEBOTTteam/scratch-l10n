@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "Primjer programa ne može se izmijeniti, molimo spremite novi fajl!",
 	"gui.modify.microPython": "micropython firmware",
 	"gui.modify.mobile": "mobilni firmware",
-	"CATEGORY_ROBOTS_BLE": "bluetooth niske potrošnje"
+	"CATEGORY_ROBOTS_BLE": "bluetooth niske potrošnje",
+	"gui.extension.PAW.name": "Mehanička Kandža",
+	"gui.modify.serialPortMappingInstrument": "alat za mapiranje serijskog porta"
 }

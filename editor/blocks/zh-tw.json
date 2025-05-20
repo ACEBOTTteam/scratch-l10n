@@ -499,5 +499,21 @@
 	"ROBOT_BLE_CLENT_SEND": "客戶端發送數據%1",
 	"ROBOT_BLE_CLENT_DATA": "客戶端接收到的數據",
 	"ROBOT_BLE_CLENT_GET": "客戶端接收數據",
-	"CATEGORY_ROBOTS_BLE": "低功耗藍牙"
+	"CATEGORY_ROBOTS_BLE": "低功耗藍牙",
+	"ROBOT_PID_CREATE": "建立pid%1",
+	"ROBOT_PID_SET": "pid%1 設定輸入值%2輸出值%3期望值%4kp%5ki%6kd%7",
+	"ROBOT_PID_TYPE": "pid%1 設定工作模式%2",
+	"ROBOT_PID_PERIOD": "pid%1 設定計算週期%2",
+	"ROBOT_PID_OUTPUT_SCOPE": "pid%1 設定輸出範圍%2到%3",
+	"ROBOT_PID_CALCULATE": "pid%1 計算",
+	"ROBOT_MANUAL": "手動",
+	"ROBOT_AUTOMATIC": "自動",
+	"ROBOT_PID_INPUT": "輸入值",
+	"ROBOT_PID_OUTPUT": "輸出值",
+	"ROBOT_PID_TARGET": "期望值",
+	"ROBOT_ESPNOW_INIT_MAC": "ESP NOW初始化mac地址%1",
+	"ROBOT_ESPNOW_SEND": "ESP NOW發送字串數據%1",
+	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW接收到字串數據",
+	"ROBOT_ESPNOW_GET_DATA": "ESP NOW接收到的字串數據",
+	"ROBOT_ESPNOW_GET_MAC": "mac地址"
 }

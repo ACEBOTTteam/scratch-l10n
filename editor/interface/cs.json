@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "Ukázkový program nelze upravit, prosím uložte nový soubor!",
 	"gui.modify.microPython": "micropython firmware",
 	"gui.modify.mobile": "mobilní firmware",
-	"CATEGORY_ROBOTS_BLE": "nízkoenergetický bluetooth"
+	"CATEGORY_ROBOTS_BLE": "nízkoenergetický bluetooth",
+	"gui.extension.PAW.name": "Mechanická paže",
+	"gui.modify.serialPortMappingInstrument": "nástroj pro mapování sériového portu"
 }

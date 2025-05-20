@@ -499,5 +499,21 @@
 	"ROBOT_BLE_CLENT_SEND": "クライアントがデータを送信%1",
 	"ROBOT_BLE_CLENT_DATA": "クライアントが受信したデータ",
 	"ROBOT_BLE_CLENT_GET": "クライアントがデータを受信",
-	"CATEGORY_ROBOTS_BLE": "低消費電力bluetooth"
+	"CATEGORY_ROBOTS_BLE": "低消費電力bluetooth",
+	"ROBOT_PID_CREATE": "pid%1 を作成",
+	"ROBOT_PID_SET": "pid%1 の入力 %2 出力 %3 目標値 %4 kp %5 ki %6 kd %7 を設定",
+	"ROBOT_PID_TYPE": "pid%1 の動作モード %2 を設定",
+	"ROBOT_PID_PERIOD": "pid%1 の計算周期を %2 に設定",
+	"ROBOT_PID_OUTPUT_SCOPE": "pid%1 の出力範囲を %2 から %3 に設定",
+	"ROBOT_PID_CALCULATE": "pid%1 を計算",
+	"ROBOT_MANUAL": "手動",
+	"ROBOT_AUTOMATIC": "自動",
+	"ROBOT_PID_INPUT": "入力値",
+	"ROBOT_PID_OUTPUT": "出力値",
+	"ROBOT_PID_TARGET": "目標値",
+	"ROBOT_ESPNOW_INIT_MAC": "ESP NOW macアドレス%1を初期化",
+	"ROBOT_ESPNOW_SEND": "ESP NOW 文字列データ%1を送信",
+	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW 文字列データを受信",
+	"ROBOT_ESPNOW_GET_DATA": "ESP NOW 受信した文字列データ",
+	"ROBOT_ESPNOW_GET_MAC": "macアドレス"
 }

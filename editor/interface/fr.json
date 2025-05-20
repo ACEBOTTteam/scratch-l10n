@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "Le programme d'exemple ne peut pas être modifié, veuillez enregistrer un nouveau fichier !",
 	"gui.modify.microPython": "micropython firmware",
 	"gui.modify.mobile": "firmware mobile",
-	"CATEGORY_ROBOTS_BLE": "bluetooth basse consommation"
+	"CATEGORY_ROBOTS_BLE": "bluetooth basse consommation",
+	"gui.extension.PAW.name": "Griffe Mécanique",
+	"gui.modify.serialPortMappingInstrument": "instrument de cartographie du port série"
 }

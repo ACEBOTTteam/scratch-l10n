@@ -499,5 +499,21 @@
 	"ROBOT_BLE_CLENT_SEND": "client verzendt gegevens %1",
 	"ROBOT_BLE_CLENT_DATA": "gegevens ontvangen door client",
 	"ROBOT_BLE_CLENT_GET": "client ontvangt gegevens",
-	"CATEGORY_ROBOTS_BLE": "bluetooth met laag energieverbruik"
+	"CATEGORY_ROBOTS_BLE": "bluetooth met laag energieverbruik",
+	"ROBOT_PID_CREATE": "maak pid%1",
+	"ROBOT_PID_SET": "stel pid%1 in invoer %2 uitvoer %3 doel %4 kp %5 ki %6 kd %7",
+	"ROBOT_PID_TYPE": "stel werkmodus van pid%1 in %2",
+	"ROBOT_PID_PERIOD": "stel berekeningsperiode van pid%1 in %2",
+	"ROBOT_PID_OUTPUT_SCOPE": "stel uitvoerbereik van pid%1 in van %2 tot %3",
+	"ROBOT_PID_CALCULATE": "bereken pid%1",
+	"ROBOT_MANUAL": "handmatig",
+	"ROBOT_AUTOMATIC": "automatisch",
+	"ROBOT_PID_INPUT": "invoervalue",
+	"ROBOT_PID_OUTPUT": "uitvoervalue",
+	"ROBOT_PID_TARGET": "doelwaarde",
+	"ROBOT_ESPNOW_INIT_MAC": "ESP NOW mac-adres initialiseren %1",
+	"ROBOT_ESPNOW_SEND": "ESP NOW tekenreeksgegevens verzenden %1",
+	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW tekenreeksgegevens ontvangen",
+	"ROBOT_ESPNOW_GET_DATA": "ESP NOW ontvangen tekenreeksgegevens",
+	"ROBOT_ESPNOW_GET_MAC": "mac-adres"
 }

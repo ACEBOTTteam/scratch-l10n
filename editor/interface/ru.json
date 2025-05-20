@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "Пример программы не может быть изменен, пожалуйста, сохраните новый файл!",
 	"gui.modify.microPython": "micropython прошивка",
 	"gui.modify.mobile": "мобильная прошивка",
-	"CATEGORY_ROBOTS_BLE": "bluetooth с низким энергопотреблением"
+	"CATEGORY_ROBOTS_BLE": "bluetooth с низким энергопотреблением",
+	"gui.extension.PAW.name": "Механический захват",
+	"gui.modify.serialPortMappingInstrument": "инструмент отображения последовательного порта"
 }

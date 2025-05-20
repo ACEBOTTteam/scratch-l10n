@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "โปรแกรมตัวอย่างไม่สามารถแก้ไขได้ กรุณาบันทึกเป็นไฟล์ใหม่!",
 	"gui.modify.microPython": "micropython เฟิร์มแวร์",
 	"gui.modify.mobile": "เฟิร์มแวร์มือถือ",
-	"CATEGORY_ROBOTS_BLE": "บลูทูธพลังงานต่ำ"
+	"CATEGORY_ROBOTS_BLE": "บลูทูธพลังงานต่ำ",
+	"gui.extension.PAW.name": "กรงเล็บเครื่องจักร",
+	"gui.modify.serialPortMappingInstrument": "เครื่องมือแมปพอร์ตอนุกรม"
 }

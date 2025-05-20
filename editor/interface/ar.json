@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "لا يمكن تعديل البرنامج المثال، يرجى حفظه كملف جديد!",
 	"gui.modify.microPython": "micropython البرامج الثابتة",
 	"gui.modify.mobile": "البرامج الثابتة للجوال",
-	"CATEGORY_ROBOTS_BLE": "بلوتوث منخفض الطاقة"
+	"CATEGORY_ROBOTS_BLE": "بلوتوث منخفض الطاقة",
+	"gui.extension.PAW.name": "مخلب ميكانيكي",
+	"gui.modify.serialPortMappingInstrument": "أداة تعيين منفذ التسلسلي"
 }

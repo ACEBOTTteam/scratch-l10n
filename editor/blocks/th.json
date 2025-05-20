@@ -499,5 +499,21 @@
 	"ROBOT_BLE_CLENT_SEND": "ลูกค้าส่งข้อมูล %1",
 	"ROBOT_BLE_CLENT_DATA": "ข้อมูลที่ลูกค้าได้รับ",
 	"ROBOT_BLE_CLENT_GET": "ลูกค้ารับข้อมูล",
-	"CATEGORY_ROBOTS_BLE": "บลูทูธพลังงานต่ำ"
+	"CATEGORY_ROBOTS_BLE": "บลูทูธพลังงานต่ำ",
+	"ROBOT_PID_CREATE": "สร้าง pid%1",
+	"ROBOT_PID_SET": "ตั้งค่า pid%1 อินพุต %2 เอาต์พุต %3 ค่าเป้าหมาย %4 kp %5 ki %6 kd %7",
+	"ROBOT_PID_TYPE": "ตั้งค่าโหมด pid%1 %2",
+	"ROBOT_PID_PERIOD": "ตั้งค่ารอบการคำนวณของ pid%1 %2",
+	"ROBOT_PID_OUTPUT_SCOPE": "ตั้งค่าช่วงเอาต์พุตของ pid%1 จาก %2 ถึง %3",
+	"ROBOT_PID_CALCULATE": "คำนวณ pid%1",
+	"ROBOT_MANUAL": "คู่มือ",
+	"ROBOT_AUTOMATIC": "อัตโนมัติ",
+	"ROBOT_PID_INPUT": "ค่าขาเข้า",
+	"ROBOT_PID_OUTPUT": "ค่าขาออก",
+	"ROBOT_PID_TARGET": "ค่าเป้าหมาย",
+	"ROBOT_ESPNOW_INIT_MAC": "ESP NOW เริ่มต้นที่อยู่ mac %1",
+	"ROBOT_ESPNOW_SEND": "ESP NOW ส่งข้อมูลสตริง %1",
+	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW ได้รับข้อมูลสตริง",
+	"ROBOT_ESPNOW_GET_DATA": "ESP NOW ข้อมูลสตริงที่ได้รับ",
+	"ROBOT_ESPNOW_GET_MAC": "ที่อยู่ mac"
 }

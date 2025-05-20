@@ -605,5 +605,7 @@
 	"gui.modify.sampleProgramErr": "예제 프로그램은 수정할 수 없습니다. 새 파일로 저장하십시오!",
 	"gui.modify.microPython": "micropython 펌웨어",
 	"gui.modify.mobile": "모바일 펌웨어",
-	"CATEGORY_ROBOTS_BLE": "저전력 블루투스"
+	"CATEGORY_ROBOTS_BLE": "저전력 블루투스",
+	"gui.extension.PAW.name": "기계 집게",
+	"gui.modify.serialPortMappingInstrument": "시리얼 포트 매핑 도구"
 }

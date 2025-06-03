@@ -515,5 +515,6 @@
 	"ROBOT_ESPNOW_SEND": "ESP NOW enviar datos de cadena %1",
 	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW datos de cadena recibidos",
 	"ROBOT_ESPNOW_GET_DATA": "ESP NOW datos de cadena recibidos",
-	"ROBOT_ESPNOW_GET_MAC": "dirección mac"
+	"ROBOT_ESPNOW_GET_MAC": "dirección mac",
+	"ROBOT_BLE_IS_CONNECT_HOST": "conectado al host"
 }

@@ -515,5 +515,6 @@
 	"ROBOT_ESPNOW_SEND": "ESP NOW 文字列データ%1を送信",
 	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW 文字列データを受信",
 	"ROBOT_ESPNOW_GET_DATA": "ESP NOW 受信した文字列データ",
-	"ROBOT_ESPNOW_GET_MAC": "macアドレス"
+	"ROBOT_ESPNOW_GET_MAC": "macアドレス",
+	"ROBOT_BLE_IS_CONNECT_HOST": "ホストに接続されていますか"
 }

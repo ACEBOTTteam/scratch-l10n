@@ -515,5 +515,6 @@
 	"ROBOT_ESPNOW_SEND": "ESP NOW odeslat řetězcová data %1",
 	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW přijata řetězcová data",
 	"ROBOT_ESPNOW_GET_DATA": "ESP NOW přijatá řetězcová data",
-	"ROBOT_ESPNOW_GET_MAC": "mac adresa"
+	"ROBOT_ESPNOW_GET_MAC": "mac adresa",
+	"ROBOT_BLE_IS_CONNECT_HOST": "připojeno k hostiteli"
 }

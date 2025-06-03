@@ -79,7 +79,7 @@ const locales = {
     // 'sr': {name: 'Српски'},
     // 'fi': {name: 'Suomi'},
     // 'sv': {name: 'Svenska'},
-    // 'vi': {name: 'Tiếng Việt'},
+    'vi': {name: 'Tiếng Việt'},
     'tr': {name: 'Türkçe'},
     // 'uk': {name: 'Українська'},
     'zh-cn': {name: '简体中文'},

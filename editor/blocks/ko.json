@@ -515,5 +515,6 @@
 	"ROBOT_ESPNOW_SEND": "ESP NOW 문자열 데이터 전송 %1",
 	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW 문자열 데이터 수신",
 	"ROBOT_ESPNOW_GET_DATA": "ESP NOW 수신된 문자열 데이터",
-	"ROBOT_ESPNOW_GET_MAC": "mac 주소"
+	"ROBOT_ESPNOW_GET_MAC": "mac 주소",
+	"ROBOT_BLE_IS_CONNECT_HOST": "호스트에 연결됨"
 }

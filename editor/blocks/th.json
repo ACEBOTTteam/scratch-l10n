@@ -515,5 +515,6 @@
 	"ROBOT_ESPNOW_SEND": "ESP NOW ส่งข้อมูลสตริง %1",
 	"ROBOT_ESPNOW_DATA_CALLBACK": "ESP NOW ได้รับข้อมูลสตริง",
 	"ROBOT_ESPNOW_GET_DATA": "ESP NOW ข้อมูลสตริงที่ได้รับ",
-	"ROBOT_ESPNOW_GET_MAC": "ที่อยู่ mac"
+	"ROBOT_ESPNOW_GET_MAC": "ที่อยู่ mac",
+	"ROBOT_BLE_IS_CONNECT_HOST": "เชื่อมต่อกับโฮสต์"
 }

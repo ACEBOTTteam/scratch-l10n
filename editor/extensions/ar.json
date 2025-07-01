@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "اتجاه دوران شاشة LCD [ONE]",
 	"carMotor.visionModule.vision_camera_init": "تهيئة الكاميرا",
 	"carMotor.visionModule.camera_resolution_ratio": "الكاميرا [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "تتبع اللون [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "التعرف على اللون [ONE]",
 	"carMotor.visionModule.get_recognition_data": "الحصول على [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "وحدة الرؤية تحصل على أمر [ONE]",
 	"carMotor.visionModule.get_visionModule_command_data": "وحدة الرؤية تحصل على قيمة [ONE]",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "دقة منخفضة",
 	"carMotor.menus.red": "أحمر",
 	"carMotor.menus.blue": "أزرق",
-	"carMotor.menus.green": "أخضر"
+	"carMotor.menus.green": "أخضر",
+	"arm_car.ai_mode_init": "تهيئة وحدة الرؤية [ONE][TWO]",
+	"arm_car.ai_mode_return": "وحدة الرؤية تعود إلى القائمة الرئيسية",
+	"arm_car.ai_mode_set_color": "وحدة الرؤية تضبط R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "التعرف على اللون [ONE]",
+	"carMotor.menus.anyColor": "أي لون",
+	"carMotor.menus.exit": "خروج",
+	"carMotor.menus.Traffic_recognize_card": "التعرف على حركة المرور: بطاقة",
+	"carMotor.menus.Traffic_recognize_signPlate": "التعرف على حركة المرور: لافتة",
+	"mechanicalArm.armDefaultMotion": "وضع الذاكرة [ONE]"
 }

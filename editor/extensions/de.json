@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "lcd-bildschirmdrehungsrichtung [ONE]",
 	"carMotor.visionModule.vision_camera_init": "kamerainitialisierung",
 	"carMotor.visionModule.camera_resolution_ratio": "kamera [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "farbverfolgung [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "farberkennung [ONE]",
 	"carMotor.visionModule.get_recognition_data": "hole [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "visionsmodul hole [ONE] befehl",
 	"carMotor.visionModule.get_visionModule_command_data": "visionsmodul hole [ONE] wert",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "niedrige auflösung",
 	"carMotor.menus.red": "rot",
 	"carMotor.menus.blue": "blau",
-	"carMotor.menus.green": "grün"
+	"carMotor.menus.green": "grün",
+	"arm_car.ai_mode_init": "Visuelles Modul initialisieren [ONE][TWO]",
+	"arm_car.ai_mode_return": "Visuelles Modul kehrt zum Hauptmenü zurück",
+	"arm_car.ai_mode_set_color": "Visuelles Modul setzt R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "Farberkennung [ONE]",
+	"carMotor.menus.anyColor": "Beliebige Farbe",
+	"carMotor.menus.exit": "beenden",
+	"carMotor.menus.Traffic_recognize_card": "verkehrserkennung: karte",
+	"carMotor.menus.Traffic_recognize_signPlate": "verkehrserkennung: schildtafel",
+	"mechanicalArm.armDefaultMotion": "speichermodus [ONE]"
 }

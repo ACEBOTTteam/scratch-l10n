@@ -37,7 +37,7 @@ const locales = {
     'ko': {name: '한국어'},
     // 'ha': {name: 'Hausa'},
     // 'hy': {name: 'Հայերեն'},
-    // 'he': {name: 'עִבְרִית'},
+    'he': {name: 'עִבְרִית'},
     'hi': {name: 'हिंदी'},
     'hr': {name: 'Hrvatski'},
     // 'xh': {name: 'isiXhosa'},

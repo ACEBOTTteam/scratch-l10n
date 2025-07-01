@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "एलसीडी स्क्रीन घुमाव दिशा [ONE]",
 	"carMotor.visionModule.vision_camera_init": "कैमरा प्रारंभिकरण",
 	"carMotor.visionModule.camera_resolution_ratio": "कैमरा [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "रंग ट्रैकिंग [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "रंग पहचान [ONE]",
 	"carMotor.visionModule.get_recognition_data": "[ONE] प्राप्त करें",
 	"carMotor.visionModule.get_visionModule_command": "दृश्य मॉड्यूल से [ONE] कमांड प्राप्त करें",
 	"carMotor.visionModule.get_visionModule_command_data": "दृश्य मॉड्यूल से [ONE] मान प्राप्त करें",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "निम्न रिज़ॉल्यूशन",
 	"carMotor.menus.red": "लाल",
 	"carMotor.menus.blue": "नीला",
-	"carMotor.menus.green": "हरा"
+	"carMotor.menus.green": "हरा",
+	"arm_car.ai_mode_init": "दृश्य मॉड्यूलเ प्रारंभ करें [ONE][TWO]",
+	"arm_car.ai_mode_return": "दृश्य मॉड्यूल मुख्य मेनू पर लौटता है",
+	"arm_car.ai_mode_set_color": "दृश्य मॉड्यूल रंग सेट करता है R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "रंग पहचान [ONE]",
+	"carMotor.menus.anyColor": "कोई भी रंग",
+	"carMotor.menus.exit": "बाहर निकलें",
+	"carMotor.menus.Traffic_recognize_card": "यातायात मान्यता: कार्ड",
+	"carMotor.menus.Traffic_recognize_signPlate": "यातायात मान्यता: साइन प्लेट",
+	"mechanicalArm.armDefaultMotion": "मेमोरी मोड [ONE]"
 }

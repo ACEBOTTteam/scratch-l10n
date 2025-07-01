@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "smjer rotacije LCD zaslona [ONE]",
 	"carMotor.visionModule.vision_camera_init": "inicijalizacija kamere",
 	"carMotor.visionModule.camera_resolution_ratio": "kamera [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "praćenje boje [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "prepoznavanje boje [ONE]",
 	"carMotor.visionModule.get_recognition_data": "dohvati [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "vizualni modul dohvaća naredbu [ONE]",
 	"carMotor.visionModule.get_visionModule_command_data": "vizualni modul dohvaća vrijednost [ONE]",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "niska rezolucija",
 	"carMotor.menus.red": "crvena",
 	"carMotor.menus.blue": "plava",
-	"carMotor.menus.green": "zelena"
+	"carMotor.menus.green": "zelena",
+	"arm_car.ai_mode_init": "Inicijalizacija vizualnog modula [ONE][TWO]",
+	"arm_car.ai_mode_return": "Vizualni modul se vraća na glavni izbornik",
+	"arm_car.ai_mode_set_color": "Vizualni modul postavlja R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "Prepoznavanje boje [ONE]",
+	"carMotor.menus.anyColor": "Bilo koja boja",
+	"carMotor.menus.exit": "izlaz",
+	"carMotor.menus.Traffic_recognize_card": "prepoznavanje prometa: kartica",
+	"carMotor.menus.Traffic_recognize_signPlate": "prepoznavanje prometa: prometni znak",
+	"mechanicalArm.armDefaultMotion": "način memorije [ONE]"
 }

@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "lcd screen rotation direction [ONE]",
 	"carMotor.visionModule.vision_camera_init": "camera initialization",
 	"carMotor.visionModule.camera_resolution_ratio": "camera [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "color tracking [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "color recognition [ONE]",
 	"carMotor.visionModule.get_recognition_data": "get [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "vision module get [ONE] command",
 	"carMotor.visionModule.get_visionModule_command_data": "vision module get [ONE] value",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "low resolution",
 	"carMotor.menus.red": "red",
 	"carMotor.menus.blue": "blue",
-	"carMotor.menus.green": "green"
+	"carMotor.menus.green": "green",
+	"arm_car.ai_mode_init": "Visual module initialize [ONE][TWO]",
+	"arm_car.ai_mode_return": "Visual module return to main menu",
+	"arm_car.ai_mode_set_color": "Visual module set R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "Color recognition [ONE]",
+	"carMotor.menus.anyColor": "Any color",
+	"carMotor.menus.exit": "exit",
+	"carMotor.menus.Traffic_recognize_card": "traffic recognition: card",
+	"carMotor.menus.Traffic_recognize_signPlate": "traffic recognition: sign plate",
+	"mechanicalArm.armDefaultMotion": "memory mode [ONE]"
 }

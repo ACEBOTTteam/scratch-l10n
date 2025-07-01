@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "směr otáčení lcd obrazovky [ONE]",
 	"carMotor.visionModule.vision_camera_init": "inicializace kamery",
 	"carMotor.visionModule.camera_resolution_ratio": "kamera [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "sledování barvy [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "rozpoznávání barvy [ONE]",
 	"carMotor.visionModule.get_recognition_data": "získat [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "vizuální modul získat příkaz [ONE]",
 	"carMotor.visionModule.get_visionModule_command_data": "vizuální modul získat hodnotu [ONE]",
@@ -598,7 +598,7 @@
 	"carMotor.menus.visionModuleLine": "vizuální sledování čáry",
 	"carMotor.menus.trafficIdentification": "rozpoznání dopravy",
 	"carMotor.menus.machineLearning": "strojové učení",
-	"carMotor.menus.face": "rozpoznání obličeje",
+	"carMotor.menus.face": "rozpoznávání obličeje",
 	"carMotor.menus.photograph": "fotografie",
 	"carMotor.menus.x": "x souřadnice",
 	"carMotor.menus.y": "y souřadnice",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "nízké rozlišení",
 	"carMotor.menus.red": "červená",
 	"carMotor.menus.blue": "modrá",
-	"carMotor.menus.green": "zelená"
+	"carMotor.menus.green": "zelená",
+	"arm_car.ai_mode_init": "Inicializace vizuálního modulu [ONE][TWO]",
+	"arm_car.ai_mode_return": "Vizuální modul se vrací do hlavního menu",
+	"arm_car.ai_mode_set_color": "Vizuální modul nastavuje R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "Rozpoznání barvy [ONE]",
+	"carMotor.menus.anyColor": "Jakákoli barva",
+	"carMotor.menus.exit": "ukončit",
+	"carMotor.menus.Traffic_recognize_card": "dopravní rozpoznání: karta",
+	"carMotor.menus.Traffic_recognize_signPlate": "dopravní rozpoznání: dopravní značka",
+	"mechanicalArm.armDefaultMotion": "režim paměti [ONE]"
 }

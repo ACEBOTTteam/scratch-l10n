@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "LCD ekran dönüş yönü [ONE]",
 	"carMotor.visionModule.vision_camera_init": "kamera başlatma",
 	"carMotor.visionModule.camera_resolution_ratio": "kamera [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "renk takibi [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "renk tanıma [ONE]",
 	"carMotor.visionModule.get_recognition_data": "al [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "görsel modül [ONE] komutunu al",
 	"carMotor.visionModule.get_visionModule_command_data": "görsel modül [ONE] değerini al",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "düşük çözünürlük",
 	"carMotor.menus.red": "kırmızı",
 	"carMotor.menus.blue": "mavi",
-	"carMotor.menus.green": "yeşil"
+	"carMotor.menus.green": "yeşil",
+	"arm_car.ai_mode_init": "Görsel modül başlat [ONE][TWO]",
+	"arm_car.ai_mode_return": "Görsel modül ana menüye dönüyor",
+	"arm_car.ai_mode_set_color": "Görsel modül R[ONE] G[TWO] B[THREE] ayarlar",
+	"arm_car.color_appoint_recognize": "Renk tanıma [ONE]",
+	"carMotor.menus.anyColor": "Herhangi renk",
+	"carMotor.menus.exit": "çıkış",
+	"carMotor.menus.Traffic_recognize_card": "trafik tanıma: kart",
+	"carMotor.menus.Traffic_recognize_signPlate": "trafik tanıma: levha",
+	"mechanicalArm.armDefaultMotion": "hafıza modu [ONE]"
 }

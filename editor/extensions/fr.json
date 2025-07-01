@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "direction de rotation de l'écran lcd [ONE]",
 	"carMotor.visionModule.vision_camera_init": "initialisation de la caméra",
 	"carMotor.visionModule.camera_resolution_ratio": "caméra [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "suivi de couleur [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "reconnaissance de couleur [ONE]",
 	"carMotor.visionModule.get_recognition_data": "obtenir [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "module de vision obtenir la commande [ONE]",
 	"carMotor.visionModule.get_visionModule_command_data": "module de vision obtenir la valeur [ONE]",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "basse résolution",
 	"carMotor.menus.red": "rouge",
 	"carMotor.menus.blue": "bleu",
-	"carMotor.menus.green": "vert"
+	"carMotor.menus.green": "vert",
+	"arm_car.ai_mode_init": "Initialiser le module visuel [ONE][TWO]",
+	"arm_car.ai_mode_return": "Le module visuel revient au menu principal",
+	"arm_car.ai_mode_set_color": "Le module visuel définit R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "Reconnaissance de couleur [ONE]",
+	"carMotor.menus.anyColor": "Couleur arbitraire",
+	"carMotor.menus.exit": "quitter",
+	"carMotor.menus.Traffic_recognize_card": "reconnaissance de la circulation : carte",
+	"carMotor.menus.Traffic_recognize_signPlate": "reconnaissance de la circulation : panneau de signalisation",
+	"mechanicalArm.armDefaultMotion": "mode mémoire [ONE]"
 }

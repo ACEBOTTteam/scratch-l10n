@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "LCD 화면 회전 방향 [ONE]",
 	"carMotor.visionModule.vision_camera_init": "카메라 초기화",
 	"carMotor.visionModule.camera_resolution_ratio": "카메라 [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "색상 추적 [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "색상 인식 [ONE]",
 	"carMotor.visionModule.get_recognition_data": "[ONE] 가져오기",
 	"carMotor.visionModule.get_visionModule_command": "비전 모듈에서 [ONE] 명령 가져오기",
 	"carMotor.visionModule.get_visionModule_command_data": "비전 모듈에서 [ONE] 값 가져오기",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "저해상도",
 	"carMotor.menus.red": "빨간색",
 	"carMotor.menus.blue": "파란색",
-	"carMotor.menus.green": "초록색"
+	"carMotor.menus.green": "초록색",
+	"arm_car.ai_mode_init": "비전 모듈 초기화 [ONE][TWO]",
+	"arm_car.ai_mode_return": "비전 모듈이 메인 메뉴로 돌아갑니다",
+	"arm_car.ai_mode_set_color": "비전 모듈이 R[ONE] G[TWO] B[THREE] 설정",
+	"arm_car.color_appoint_recognize": "색상 인식 [ONE]",
+	"carMotor.menus.anyColor": "아무 색",
+	"carMotor.menus.exit": "종료",
+	"carMotor.menus.Traffic_recognize_card": "교통 인식: 카드",
+	"carMotor.menus.Traffic_recognize_signPlate": "교통 인식: 표지판",
+	"mechanicalArm.armDefaultMotion": "메모리 모드 [ONE]"
 }

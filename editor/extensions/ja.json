@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "lcd画面の回転方向[ONE]",
 	"carMotor.visionModule.vision_camera_init": "カメラの初期化",
 	"carMotor.visionModule.camera_resolution_ratio": "カメラ[ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "色追跡[ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "色認識[ONE]",
 	"carMotor.visionModule.get_recognition_data": "[ONE]を取得",
 	"carMotor.visionModule.get_visionModule_command": "ビジョンモジュールが[ONE]コマンドを取得",
 	"carMotor.visionModule.get_visionModule_command_data": "ビジョンモジュールが[ONE]値を取得",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "低解像度",
 	"carMotor.menus.red": "赤",
 	"carMotor.menus.blue": "青",
-	"carMotor.menus.green": "緑"
+	"carMotor.menus.green": "緑",
+	"arm_car.ai_mode_init": "ビジョンモジュール初期化 [ONE][TWO]",
+	"arm_car.ai_mode_return": "ビジョンモジュールがメインメニューに戻る",
+	"arm_car.ai_mode_set_color": "ビジョンモジュールが R[ONE] G[TWO] B[THREE] を設定",
+	"arm_car.color_appoint_recognize": "色認識 [ONE]",
+	"carMotor.menus.anyColor": "任意の色",
+	"carMotor.menus.exit": "終了",
+	"carMotor.menus.Traffic_recognize_card": "交通認識:カード",
+	"carMotor.menus.Traffic_recognize_signPlate": "交通認識:標識",
+	"mechanicalArm.armDefaultMotion": "メモリーモード[ONE]"
 }

@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "ทิศทางการหมุนหน้าจอ LCD[ONE]",
 	"carMotor.visionModule.vision_camera_init": "เริ่มต้นกล้อง",
 	"carMotor.visionModule.camera_resolution_ratio": "กล้อง[ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "ติดตามสี[ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "การจดจำสี [ONE]",
 	"carMotor.visionModule.get_recognition_data": "รับข้อมูล[ONE]",
 	"carMotor.visionModule.get_visionModule_command": "โมดูลภาพรับคำสั่ง[ONE]",
 	"carMotor.visionModule.get_visionModule_command_data": "โมดูลภาพรับค่าคำสั่ง[ONE]",
@@ -598,7 +598,7 @@
 	"carMotor.menus.visionModuleLine": "ติดตามเส้นด้วยภาพ",
 	"carMotor.menus.trafficIdentification": "การจดจำการจราจร",
 	"carMotor.menus.machineLearning": "การเรียนรู้ของเครื่อง",
-	"carMotor.menus.face": "การจดจำใบหน้า",
+	"carMotor.menus.face": "จดจำใบหน้า",
 	"carMotor.menus.photograph": "ถ่ายภาพ",
 	"carMotor.menus.x": "แกน x",
 	"carMotor.menus.y": "แกน y",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "ความละเอียดต่ำ",
 	"carMotor.menus.red": "สีแดง",
 	"carMotor.menus.blue": "สีน้ำเงิน",
-	"carMotor.menus.green": "สีเขียว"
+	"carMotor.menus.green": "สีเขียว",
+	"arm_car.ai_mode_init": "เริ่มต้นโมดูลภาพ [ONE][TWO]",
+	"arm_car.ai_mode_return": "โมดูลภาพกลับเมนูหลัก",
+	"arm_car.ai_mode_set_color": "โมดูลภาพตั้งค่า R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "จดจำสี [ONE]",
+	"carMotor.menus.anyColor": "สีใดก็ได้",
+	"carMotor.menus.exit": "ออก",
+	"carMotor.menus.Traffic_recognize_card": "จดจำการจราจร: การ์ด",
+	"carMotor.menus.Traffic_recognize_signPlate": "จดจำการจราจร: ป้าย",
+	"mechanicalArm.armDefaultMotion": "โหมดหน่วยความจำ [ONE]"
 }

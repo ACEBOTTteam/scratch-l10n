@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "kierunek obrotu ekranu LCD [ONE]",
 	"carMotor.visionModule.vision_camera_init": "inicjalizacja kamery",
 	"carMotor.visionModule.camera_resolution_ratio": "kamera [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "śledzenie koloru [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "rozpoznawanie koloru [ONE]",
 	"carMotor.visionModule.get_recognition_data": "pobierz [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "moduł wizji pobierz polecenie [ONE]",
 	"carMotor.visionModule.get_visionModule_command_data": "moduł wizji pobierz wartość [ONE]",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "niska rozdzielczość",
 	"carMotor.menus.red": "czerwony",
 	"carMotor.menus.blue": "niebieski",
-	"carMotor.menus.green": "zielony"
+	"carMotor.menus.green": "zielony",
+	"arm_car.ai_mode_init": "Inicjalizacja modułu wizyjnego [ONE][TWO]",
+	"arm_car.ai_mode_return": "Moduł wizyjny powraca do menu głównego",
+	"arm_car.ai_mode_set_color": "Moduł wizyjny ustawia R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "Rozpoznanie koloru [ONE]",
+	"carMotor.menus.anyColor": "Dowolny kolor",
+	"carMotor.menus.exit": "wyjście",
+	"carMotor.menus.Traffic_recognize_card": "rozpoznawanie ruchu drogowego: karta",
+	"carMotor.menus.Traffic_recognize_signPlate": "rozpoznawanie ruchu drogowego: znak drogowy",
+	"mechanicalArm.armDefaultMotion": "tryb pamięci [ONE]"
 }

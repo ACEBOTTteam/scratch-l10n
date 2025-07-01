@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "направление вращения lcd экрана [ONE]",
 	"carMotor.visionModule.vision_camera_init": "инициализация камеры",
 	"carMotor.visionModule.camera_resolution_ratio": "камера [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "отслеживание цвета [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "распознавание цвета [ONE]",
 	"carMotor.visionModule.get_recognition_data": "получить [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "модуль зрения получить команду [ONE]",
 	"carMotor.visionModule.get_visionModule_command_data": "модуль зрения получить значение [ONE]",
@@ -598,7 +598,7 @@
 	"carMotor.menus.visionModuleLine": "визуальное слежение за линией",
 	"carMotor.menus.trafficIdentification": "распознавание трафика",
 	"carMotor.menus.machineLearning": "машинное обучение",
-	"carMotor.menus.face": "распознавание лица",
+	"carMotor.menus.face": "распознавание лиц",
 	"carMotor.menus.photograph": "фотосъемка",
 	"carMotor.menus.x": "координата x",
 	"carMotor.menus.y": "координата y",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "низкое разрешение",
 	"carMotor.menus.red": "красный",
 	"carMotor.menus.blue": "синий",
-	"carMotor.menus.green": "зеленый"
+	"carMotor.menus.green": "зеленый",
+	"arm_car.ai_mode_init": "Инициализация визуального модуля [ONE][TWO]",
+	"arm_car.ai_mode_return": "Визуальный модуль возвращается в меню",
+	"arm_car.ai_mode_set_color": "Визуальный модуль устанавливает R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "Распознавание цвета [ONE]",
+	"carMotor.menus.anyColor": "Любой цвет",
+	"carMotor.menus.exit": "выход",
+	"carMotor.menus.Traffic_recognize_card": "распознавание трафика: карта",
+	"carMotor.menus.Traffic_recognize_signPlate": "распознавание трафика: дорожный знак",
+	"mechanicalArm.armDefaultMotion": "режим памяти [ONE]"
 }

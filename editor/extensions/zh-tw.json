@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "lcd螢幕旋轉方向[ONE]",
 	"carMotor.visionModule.vision_camera_init": "攝像頭初始化",
 	"carMotor.visionModule.camera_resolution_ratio": "攝像頭[ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "顏色追蹤[ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "顏色識別[ONE]",
 	"carMotor.visionModule.get_recognition_data": "獲取[ONE]",
 	"carMotor.visionModule.get_visionModule_command": "視覺模組獲取[ONE]指令",
 	"carMotor.visionModule.get_visionModule_command_data": "視覺模組獲取[ONE]值",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "低分辨率",
 	"carMotor.menus.red": "紅色",
 	"carMotor.menus.blue": "藍色",
-	"carMotor.menus.green": "綠色"
+	"carMotor.menus.green": "綠色",
+	"arm_car.ai_mode_init": "視覺模組初始化[ONE][TWO]",
+	"arm_car.ai_mode_return": "視覺模組返回主選單",
+	"arm_car.ai_mode_set_color": "視覺模組設定 R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "顏色識別[ONE]",
+	"carMotor.menus.anyColor": "任意顏色",
+	"carMotor.menus.exit": "退出",
+	"carMotor.menus.Traffic_recognize_card": "交通識別:卡片",
+	"carMotor.menus.Traffic_recognize_signPlate": "交通識別:標識牌",
+	"mechanicalArm.armDefaultMotion": "記憶模式[ONE]"
 }

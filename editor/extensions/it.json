@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "direzione rotazione schermo LCD [ONE]",
 	"carMotor.visionModule.vision_camera_init": "inizializzazione fotocamera",
 	"carMotor.visionModule.camera_resolution_ratio": "fotocamera [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "tracciamento colore [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "riconoscimento del colore [ONE]",
 	"carMotor.visionModule.get_recognition_data": "ottenere [ONE]",
 	"carMotor.visionModule.get_visionModule_command": "modulo visivo ottenere comando [ONE]",
 	"carMotor.visionModule.get_visionModule_command_data": "modulo visivo ottenere valore [ONE]",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "bassa risoluzione",
 	"carMotor.menus.red": "rosso",
 	"carMotor.menus.blue": "blu",
-	"carMotor.menus.green": "verde"
+	"carMotor.menus.green": "verde",
+	"arm_car.ai_mode_init": "Inizializza modulo visivo [ONE][TWO]",
+	"arm_car.ai_mode_return": "Il modulo visivo torna al menu principale",
+	"arm_car.ai_mode_set_color": "Il modulo visivo imposta R[ONE] G[TWO] B[THREE]",
+	"arm_car.color_appoint_recognize": "Riconoscimento colore [ONE]",
+	"carMotor.menus.anyColor": "Qualsiasi colore",
+	"carMotor.menus.exit": "esci",
+	"carMotor.menus.Traffic_recognize_card": "riconoscimento del traffico: carta",
+	"carMotor.menus.Traffic_recognize_signPlate": "riconoscimento del traffico: targa",
+	"mechanicalArm.armDefaultMotion": "modalità memoria [ONE]"
 }

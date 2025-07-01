@@ -583,7 +583,7 @@
 	"carMotor.visionModule.lcd_rotation": "LCD-scherm rotatierichting [ONE]",
 	"carMotor.visionModule.vision_camera_init": "Camera initialisatie",
 	"carMotor.visionModule.camera_resolution_ratio": "Camera [ONE]",
-	"carMotor.visionModule.color_appoint_recognize": "Kleur volgen [ONE]",
+	"carMotor.visionModule.color_appoint_recognize": "kleurherkenning [ONE]",
 	"carMotor.visionModule.get_recognition_data": "Haal [ONE] op",
 	"carMotor.visionModule.get_visionModule_command": "Visueel module verkrijgt [ONE] opdracht",
 	"carMotor.visionModule.get_visionModule_command_data": "Visueel module verkrijgt [ONE] waarde",
@@ -598,7 +598,7 @@
 	"carMotor.menus.visionModuleLine": "Visuele lijnvolging",
 	"carMotor.menus.trafficIdentification": "Verkeersherkenning",
 	"carMotor.menus.machineLearning": "Machine learning",
-	"carMotor.menus.face": "Gezichtsherkenning",
+	"carMotor.menus.face": "gezichtsherkenning",
 	"carMotor.menus.photograph": "Fotograferen",
 	"carMotor.menus.x": "x-coördinaat",
 	"carMotor.menus.y": "y-coördinaat",
@@ -610,5 +610,14 @@
 	"carMotor.menus.QQVGA": "Lage resolutie",
 	"carMotor.menus.red": "Rood",
 	"carMotor.menus.blue": "Blauw",
-	"carMotor.menus.green": "Groen"
+	"carMotor.menus.green": "Groen",
+	"arm_car.ai_mode_init": "Initieer visueel module [ONE][TWO]",
+	"arm_car.ai_mode_return": "Visueel module keert terug naar hoofdmenu",
+	"arm_car.ai_mode_set_color": "Visueel module stelt R[ONE] G[TWO] B[THREE] in",
+	"arm_car.color_appoint_recognize": "Kleurherkenning [ONE]",
+	"carMotor.menus.anyColor": "Elke kleur",
+	"carMotor.menus.exit": "afsluiten",
+	"carMotor.menus.Traffic_recognize_card": "verkeersherkenning: kaart",
+	"carMotor.menus.Traffic_recognize_signPlate": "verkeersherkenning: verkeersbord",
+	"mechanicalArm.armDefaultMotion": "geheugenmodus [ONE]"
 }

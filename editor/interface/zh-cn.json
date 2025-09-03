@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "监测人脸,实现人脸识别、人脸追踪、性别检测",
 	"gui.extension.knnClassifier.description": "图像分类模型的训练和识别",
 	"gui.extension.fourLeggedBionicSpider.description": "四足仿生蜘蛛套件是一种模仿蜘蛛动作的四足机器人，具备灵活的运动能力和多样的行走模式。",
-	"gui.extension.bipedRobot": "双足机器人"
+	"gui.extension.bipedRobot": "双足机器人",
+	"gui.extension.truckbott.description": "一款带有语言识别的叉车",
+	"gui.modify.showChart": "图表展示",
+	"gui.modify.chartNoData": "暂无数据",
+	"gui.modify.connectDevice": "连接设备",
+	"gui.modify.anewUploadFrmware": "运行识别，请重新上传固件",
+	"gui.modify.K210Firmware": "K210固件"
 }

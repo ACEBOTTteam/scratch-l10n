@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Monitorear rostros, reconocimiento facial, seguimiento facial y detección de género",
 	"gui.extension.knnClassifier.description": "Entrenamiento y reconocimiento de modelos de clasificación de imágenes",
 	"gui.extension.fourLeggedBionicSpider.description": "El kit de araña biónica cuadrúpeda es un robot de cuatro patas que imita los movimientos de una araña, con movilidad flexible y diversos modos de caminar.",
-	"gui.extension.bipedRobot": "Robot bípedo"
+	"gui.extension.bipedRobot": "Robot bípedo",
+	"gui.extension.truckbott.description": "un montacargas con reconocimiento de voz",
+	"gui.modify.showChart": "mostrar gráfico",
+	"gui.modify.chartNoData": "no hay datos disponibles",
+	"gui.modify.connectDevice": "conectar dispositivo",
+	"gui.modify.anewUploadFrmware": "ejecutar reconocimiento, por favor vuelva a subir el firmware",
+	"gui.modify.K210Firmware": "firmware k210"
 }

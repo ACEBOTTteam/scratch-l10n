@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Monitoramento facial, reconhecimento facial, rastreamento facial e detecção de gênero",
 	"gui.extension.knnClassifier.description": "Treinamento e reconhecimento de modelos de classificação de imagens",
 	"gui.extension.fourLeggedBionicSpider.description": "O kit de aranha biônica quadrúpede é um robô quadrúpede que imita os movimentos de uma aranha, com mobilidade flexível e vários modos de caminhada.",
-	"gui.extension.bipedRobot": "Robô bípedo"
+	"gui.extension.bipedRobot": "Robô bípedo",
+	"gui.extension.truckbott.description": "uma empilhadeira com reconhecimento de voz",
+	"gui.modify.showChart": "mostrar gráfico",
+	"gui.modify.chartNoData": "nenhum dado disponível",
+	"gui.modify.connectDevice": "conectar dispositivo",
+	"gui.modify.anewUploadFrmware": "executar reconhecimento, por favor reenvie o firmware",
+	"gui.modify.K210Firmware": "firmware k210"
 }

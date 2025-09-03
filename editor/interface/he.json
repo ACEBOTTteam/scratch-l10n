@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "ניטור פנים, זיהוי פנים, מעקב פנים וזיהוי מגדר",
 	"gui.extension.knnClassifier.description": "אימון וזיהוי מודל סיווג תמונות",
 	"gui.extension.fourLeggedBionicSpider.description": "ערכת עכביש ביוני ארבע רגליים היא רובוט המדמה תנועות עכביש, עם יכולת תנועה גמישה ודפוסי הליכה מגוונים.",
-	"gui.extension.bipedRobot": "רובוט דו-רגלי"
+	"gui.extension.bipedRobot": "רובוט דו-רגלי",
+	"gui.extension.truckbott.description": "מלגזה עם זיהוי דיבור",
+	"gui.modify.showChart": "הצג תרשים",
+	"gui.modify.chartNoData": "אין נתונים",
+	"gui.modify.connectDevice": "חבר מכשיר",
+	"gui.modify.anewUploadFrmware": "הפעל זיהוי, אנא העלה מחדש את הקושחה",
+	"gui.modify.K210Firmware": "קושחת k210"
 }

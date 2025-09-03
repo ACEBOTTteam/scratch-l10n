@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Monitorowanie twarzy, rozpoznawanie twarzy, śledzenie twarzy, wykrywanie płci",
 	"gui.extension.knnClassifier.description": "Trenowanie i rozpoznawanie modeli klasyfikacji obrazów",
 	"gui.extension.fourLeggedBionicSpider.description": "Zestaw czworonożnego biomimetycznego pająka to robot czteronożny naśladujący ruchy pająka, posiadający elastyczną mobilność i różnorodne tryby chodzenia.",
-	"gui.extension.bipedRobot": "Robot dwunożny"
+	"gui.extension.bipedRobot": "Robot dwunożny",
+	"gui.extension.truckbott.description": "wózek widłowy z rozpoznawaniem mowy",
+	"gui.modify.showChart": "pokaż wykres",
+	"gui.modify.chartNoData": "brak danych",
+	"gui.modify.connectDevice": "połącz urządzenie",
+	"gui.modify.anewUploadFrmware": "uruchom rozpoznawanie, prześlij ponownie firmware",
+	"gui.modify.K210Firmware": "oprogramowanie układowe k210"
 }

@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Мониторинг лиц, распознавание лиц, отслеживание лиц, определение пола",
 	"gui.extension.knnClassifier.description": "Обучение и распознавание моделей классификации изображений",
 	"gui.extension.fourLeggedBionicSpider.description": "Набор квадрупедного бионического паука — это четырехногие робот, имитирующий движения паука, обладающий гибкой подвижностью и разнообразными режимами ходьбы.",
-	"gui.extension.bipedRobot": "Двуногий робот"
+	"gui.extension.bipedRobot": "Двуногий робот",
+	"gui.extension.truckbott.description": "погрузчик с распознаванием речи",
+	"gui.modify.showChart": "показать график",
+	"gui.modify.chartNoData": "данные отсутствуют",
+	"gui.modify.connectDevice": "подключить устройство",
+	"gui.modify.anewUploadFrmware": "запустите распознавание, пожалуйста, повторно загрузите прошивку",
+	"gui.modify.K210Firmware": "прошивка k210"
 }

@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Gezichtsbewaking, gezichtsherkenning, gezichtstracking en geslachtsdetectie",
 	"gui.extension.knnClassifier.description": "Training en herkenning van beeldclassificatiemodellen",
 	"gui.extension.fourLeggedBionicSpider.description": "De quadrupede bionische spin kit is een viervoetige robot die de bewegingen van een spin nabootst, met flexibele mobiliteit en verschillende loopmodi.",
-	"gui.extension.bipedRobot": "Tweevoetige robot"
+	"gui.extension.bipedRobot": "Tweevoetige robot",
+	"gui.extension.truckbott.description": "een vorkheftruck met spraakherkenning",
+	"gui.modify.showChart": "grafiek tonen",
+	"gui.modify.chartNoData": "geen gegevens beschikbaar",
+	"gui.modify.connectDevice": "apparaat verbinden",
+	"gui.modify.anewUploadFrmware": "herkenning uitvoeren, upload de firmware opnieuw",
+	"gui.modify.K210Firmware": "k210 firmware"
 }

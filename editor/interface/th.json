@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "ตรวจจับใบหน้า, จดจำใบหน้า, ติดตามใบหน้า และตรวจจับเพศ",
 	"gui.extension.knnClassifier.description": "การฝึกและจดจำโมเดลการจำแนกรูปภาพ",
 	"gui.extension.fourLeggedBionicSpider.description": "ชุดแมงมุมชีวภาพสี่ขาเป็นหุ่นยนต์สี่ขาที่เลียนแบบการเคลื่อนไหวของแมงมุม มีความยืดหยุ่นในการเคลื่อนไหวและโหมดการเดินที่หลากหลาย",
-	"gui.extension.bipedRobot": "หุ่นยนต์สองขา"
+	"gui.extension.bipedRobot": "หุ่นยนต์สองขา",
+	"gui.extension.truckbott.description": "รถยกที่มีการจดจำเสียง",
+	"gui.modify.showChart": "แสดงแผนภูมิ",
+	"gui.modify.chartNoData": "ไม่มีข้อมูล",
+	"gui.modify.connectDevice": "เชื่อมต่ออุปกรณ์",
+	"gui.modify.anewUploadFrmware": "เรียกใช้การจดจำ โปรดอัปโหลดเฟิร์มแวร์ใหม่",
+	"gui.modify.K210Firmware": "เฟิร์มแวร์ k210"
 }

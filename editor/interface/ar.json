@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "مراقبة الوجه، التعرف على الوجه، تتبع الوجه، واكتشاف الجنس.",
 	"gui.extension.knnClassifier.description": "تدريب ونمذجة التعرف على تصنيف الصور.",
 	"gui.extension.fourLeggedBionicSpider.description": "مجموعة العنكبوت البيوني رباعية الأرجل هي روبوت رباعي الأرجل يحاكي حركة العنكبوت، يتميز بحركة مرنة وأنماط مشي متعددة.",
-	"gui.extension.bipedRobot": "روبوت ذو قدمين"
+	"gui.extension.bipedRobot": "روبوت ذو قدمين",
+	"gui.extension.truckbott.description": "رافعة شوكية مع التعرف على الصوت",
+	"gui.modify.showChart": "عرض المخطط",
+	"gui.modify.chartNoData": "لا توجد بيانات",
+	"gui.modify.connectDevice": "توصيل الجهاز",
+	"gui.modify.anewUploadFrmware": "تشغيل التعرف، يرجى إعادة تحميل البرنامج الثابت",
+	"gui.modify.K210Firmware": "البرنامج الثابت k210"
 }

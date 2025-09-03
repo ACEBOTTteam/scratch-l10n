@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "얼굴 모니터링, 얼굴 인식, 얼굴 추적 및 성별 인식",
 	"gui.extension.knnClassifier.description": "이미지 분류 모델의 훈련 및 인식",
 	"gui.extension.fourLeggedBionicSpider.description": "네 발을 가진 바이오닉 거미 키트는 거미의 움직임을 모방하는 네 발 로봇으로, 유연한 이동성과 다양한 걷기 모드를 제공합니다.",
-	"gui.extension.bipedRobot": "이족 보행 로봇"
+	"gui.extension.bipedRobot": "이족 보행 로봇",
+	"gui.extension.truckbott.description": "음성 인식이 있는 포크리프트",
+	"gui.modify.showChart": "차트 표시",
+	"gui.modify.chartNoData": "데이터 없음",
+	"gui.modify.connectDevice": "장치 연결",
+	"gui.modify.anewUploadFrmware": "인식을 실행하려면 펌웨어를 다시 업로드하세요",
+	"gui.modify.K210Firmware": "k210 펌웨어"
 }

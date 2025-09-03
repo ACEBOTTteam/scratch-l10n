@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Gesichtserkennung, Gesichtsverfolgung, Geschlechtserkennung",
 	"gui.extension.knnClassifier.description": "Training und Erkennung von Bildklassifikationsmodellen",
 	"gui.extension.fourLeggedBionicSpider.description": "Das vierbeinige bionische Spinnen-Kit ist ein vierbeiniges Robotersystem, das Spinnenbewegungen nachahmt und über flexible Beweglichkeit und vielfältige Gangarten verfügt.",
-	"gui.extension.bipedRobot": "Zweibeiniger Roboter"
+	"gui.extension.bipedRobot": "Zweibeiniger Roboter",
+	"gui.extension.truckbott.description": "ein gabelstapler mit spracherkennung",
+	"gui.modify.showChart": "diagramm anzeigen",
+	"gui.modify.chartNoData": "keine daten verfügbar",
+	"gui.modify.connectDevice": "gerät verbinden",
+	"gui.modify.anewUploadFrmware": "erkennung ausführen, bitte firmware erneut hochladen",
+	"gui.modify.K210Firmware": "k210-firmware"
 }

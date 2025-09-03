@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Monitoraggio facciale, riconoscimento facciale, tracciamento facciale e rilevamento del genere",
 	"gui.extension.knnClassifier.description": "Addestramento e riconoscimento di modelli di classificazione delle immagini",
 	"gui.extension.fourLeggedBionicSpider.description": "Il kit ragno bionico quadrupede è un robot quadrupede che imita i movimenti del ragno, con mobilità flessibile e modalità di camminata diversificate.",
-	"gui.extension.bipedRobot": "Robot bipede"
+	"gui.extension.bipedRobot": "Robot bipede",
+	"gui.extension.truckbott.description": "un carrello elevatore con riconoscimento vocale",
+	"gui.modify.showChart": "mostra grafico",
+	"gui.modify.chartNoData": "nessun dato disponibile",
+	"gui.modify.connectDevice": "connetti dispositivo",
+	"gui.modify.anewUploadFrmware": "esegui il riconoscimento, carica di nuovo il firmware",
+	"gui.modify.K210Firmware": "firmware k210"
 }

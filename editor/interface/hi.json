@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "चेहरे की निगरानी, चेहरे की पहचान, चेहरे का ट्रैकिंग और लिंग पहचान",
 	"gui.extension.knnClassifier.description": "इमेज क्लासिफिकेशन मॉडल का प्रशिक्षण और पहचान",
 	"gui.extension.fourLeggedBionicSpider.description": "चार पैर वाला बायोनिक मकड़ी किट एक ऐसा चार-पैर वाला रोबोट है जो मकड़ी की हरकतों की नकल करता है, जिसमें लचीली गतिशीलता और विभिन्न चलने के तरीके होते हैं।",
-	"gui.extension.bipedRobot": "दो पैरों वाला रोबोट"
+	"gui.extension.bipedRobot": "दो पैरों वाला रोबोट",
+	"gui.extension.truckbott.description": "वॉइस रिकग्निशन वाला फोर्कलिफ्ट",
+	"gui.modify.showChart": "चार्ट दिखाएं",
+	"gui.modify.chartNoData": "कोई डेटा उपलब्ध नहीं है",
+	"gui.modify.connectDevice": "डिवाइस कनेक्ट करें",
+	"gui.modify.anewUploadFrmware": "पहचान चलाएँ, कृपया फर्मवेयर फिर से अपलोड करें",
+	"gui.modify.K210Firmware": "k210 फर्मवेयर"
 }

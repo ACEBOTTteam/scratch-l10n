@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Monitorování obličeje, rozpoznávání obličeje, sledování obličeje, detekce pohlaví",
 	"gui.extension.knnClassifier.description": "Trénink a rozpoznávání modelů klasifikace obrázků",
 	"gui.extension.fourLeggedBionicSpider.description": "Sada čtyřnohého biomimetického pavouka je čtyřnohý robot, který napodobuje pohyby pavouka, disponuje flexibilní pohyblivostí a různými způsoby chůze.",
-	"gui.extension.bipedRobot": "Dvounohý robot"
+	"gui.extension.bipedRobot": "Dvounohý robot",
+	"gui.extension.truckbott.description": "vysokozdvižný vozík s rozpoznáváním řeči",
+	"gui.modify.showChart": "zobrazit graf",
+	"gui.modify.chartNoData": "žádná data",
+	"gui.modify.connectDevice": "připojit zařízení",
+	"gui.modify.anewUploadFrmware": "spusťte rozpoznávání, prosím nahrajte firmware znovu",
+	"gui.modify.K210Firmware": "firmware k210"
 }

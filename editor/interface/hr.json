@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Praćenje lica, prepoznavanje lica, praćenje lica i otkrivanje spola",
 	"gui.extension.knnClassifier.description": "Trening i prepoznavanje modela klasifikacije slika",
 	"gui.extension.fourLeggedBionicSpider.description": "Komplet četveronožnog bioničkog pauka je četveronožni robot koji oponaša pokrete pauka, s fleksibilnom pokretljivošću i različitim načinima hodanja.",
-	"gui.extension.bipedRobot": "Dvonožni robot"
+	"gui.extension.bipedRobot": "Dvonožni robot",
+	"gui.extension.truckbott.description": "viličar s prepoznavanjem govora",
+	"gui.modify.showChart": "prikaži grafikon",
+	"gui.modify.chartNoData": "nema podataka",
+	"gui.modify.connectDevice": "poveži uređaj",
+	"gui.modify.anewUploadFrmware": "pokrenite prepoznavanje, ponovno učitajte firmware",
+	"gui.modify.K210Firmware": "firmver k210"
 }

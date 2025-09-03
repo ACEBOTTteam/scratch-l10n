@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Yüz izleme, yüz tanıma, yüz takibi ve cinsiyet algılama",
 	"gui.extension.knnClassifier.description": "Görüntü sınıflandırma modellerinin eğitimi ve tanınması",
 	"gui.extension.fourLeggedBionicSpider.description": "Dört ayaklı biyomimik örümcek seti, örümcek hareketlerini taklit eden, esnek hareket kabiliyeti ve çeşitli yürüyüş modları olan dört ayaklı bir robottur.",
-	"gui.extension.bipedRobot": "İki ayaklı robot"
+	"gui.extension.bipedRobot": "İki ayaklı robot",
+	"gui.extension.truckbott.description": "konuşma tanıma özelliğine sahip bir forklift",
+	"gui.modify.showChart": "grafiği göster",
+	"gui.modify.chartNoData": "veri yok",
+	"gui.modify.connectDevice": "cihaz bağla",
+	"gui.modify.anewUploadFrmware": "tanımayı çalıştırın, lütfen firmware'i yeniden yükleyin",
+	"gui.modify.K210Firmware": "k210 ürün yazılımı"
 }

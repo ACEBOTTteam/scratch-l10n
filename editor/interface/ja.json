@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "顔の監視、顔認識、顔追跡、性別検出を実現",
 	"gui.extension.knnClassifier.description": "画像分類モデルのトレーニングと認識",
 	"gui.extension.fourLeggedBionicSpider.description": "四足バイオニックスパイダーキットは、クモの動きを模倣した四足ロボットで、柔軟な運動能力と多様な歩行モードを備えています。",
-	"gui.extension.bipedRobot": "二足歩行ロボット"
+	"gui.extension.bipedRobot": "二足歩行ロボット",
+	"gui.extension.truckbott.description": "音声認識付きフォークリフト",
+	"gui.modify.showChart": "グラフを表示",
+	"gui.modify.chartNoData": "データがありません",
+	"gui.modify.connectDevice": "デバイスを接続",
+	"gui.modify.anewUploadFrmware": "認識を実行してください、ファームウェアを再アップロードしてください",
+	"gui.modify.K210Firmware": "k210ファームウェア"
 }

@@ -620,5 +620,11 @@
 	"gui.extension.facialRecognition.description": "Surveillance faciale, reconnaissance faciale, suivi du visage, détection du sexe",
 	"gui.extension.knnClassifier.description": "Entraînement et reconnaissance de modèles de classification d'images",
 	"gui.extension.fourLeggedBionicSpider.description": "Le kit araignée biomimétique quadrupède est un robot à quatre pattes qui imite les mouvements d'une araignée, offrant une mobilité flexible et divers modes de déplacement.",
-	"gui.extension.bipedRobot": "Robot bipède"
+	"gui.extension.bipedRobot": "Robot bipède",
+	"gui.extension.truckbott.description": "un chariot élévateur avec reconnaissance vocale",
+	"gui.modify.showChart": "afficher le graphique",
+	"gui.modify.chartNoData": "aucune donnée disponible",
+	"gui.modify.connectDevice": "connecter l'appareil",
+	"gui.modify.anewUploadFrmware": "exécuter la reconnaissance, veuillez re-télécharger le firmware",
+	"gui.modify.K210Firmware": "micrologiciel k210"
 }

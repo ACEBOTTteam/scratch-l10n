@@ -652,5 +652,10 @@
 	"battleCar.tone": "โทน",
 	"battleCar.speedUp": "เร่ง",
 	"battleCar.speedCut": "ชะลอ",
-	"battleCar.stopAttack": "หยุดโจมตี"
+	"battleCar.stopAttack": "หยุดโจมตี",
+	"battleCar.app_getBlueCode": "รถต่อสู้รับรหัสจับคู่บลูทูธ",
+	"battleCar.setBuzzer": "ตั้งค่าระยะเวลาหนึ่งจังหวะของ buzzer เป็น [ONE]ms",
+	"battleCar.setBuzzerTime": "บัซเซอร์ [ONE]hz ระยะเวลา [TWO]ms",
+	"battleCar.setTypeBuzzer": "บัซเซอร์ [ONE] ความถี่ [TWO]",
+	"battleCar.getMacLocation": "ที่อยู่ mac รถต่อสู้"
 }

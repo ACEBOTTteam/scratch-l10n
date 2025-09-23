@@ -23,72 +23,75 @@ const fs = require('fs')
 
 const block = {}
 
-const extensions = {}
-const interfaceData = {
+const extensions = {
   "zh-cn": {
-    "gui.modify.K210Firmware": "K210固件",
-  },
-  "zh-tw": {
-    "gui.modify.K210Firmware": "k210韌體"
-  },
-  "en": {
-    "gui.modify.K210Firmware": "k210 firmware"
-  },
-  "fr": {
-    "gui.modify.K210Firmware": "micrologiciel k210"
-  },
-  "ja": {
-    "gui.modify.K210Firmware": "k210ファームウェア"
-  },
-  "de": {
-    "gui.modify.K210Firmware": "k210-firmware"
-  },
-  "es": {
-    "gui.modify.K210Firmware": "firmware k210"
-  },
-  "ru": {
-    "gui.modify.K210Firmware": "прошивка k210"
-  },
-  "cs": {
-    "gui.modify.K210Firmware": "firmware k210"
-  },
-  "it": {
-    "gui.modify.K210Firmware": "firmware k210"
-  },
-  "pl": {
-    "gui.modify.K210Firmware": "oprogramowanie układowe k210"
-  },
-  "tr": {
-    "gui.modify.K210Firmware": "k210 ürün yazılımı"
-  },
-  "pt": {
-    "gui.modify.K210Firmware": "firmware k210"
-  },
-  "hr": {
-    "gui.modify.K210Firmware": "firmver k210"
-  },
-  "hi": {
-    "gui.modify.K210Firmware": "k210 फर्मवेयर"
-  },
-  "ko": {
-    "gui.modify.K210Firmware": "k210 펌웨어"
-  },
-  "th": {
-    "gui.modify.K210Firmware": "เฟิร์มแวร์ k210"
-  },
-  "nl": {
-    "gui.modify.K210Firmware": "k210 firmware"
-  },
-  "ar": {
-    "gui.modify.K210Firmware": "البرنامج الثابت k210"
-  },
-  "vi": {
-    "gui.modify.K210Firmware": "phần mềm k210"
-  },
-  "he": {
-    "gui.modify.K210Firmware": "קושחת k210"
-  }
+  "battleCar.getMacLocation": "格斗小车mac地址"
+},
+"zh-tw": {
+  "battleCar.getMacLocation": "格鬥小車mac地址"
+},
+"en": {
+  "battleCar.getMacLocation": "battle car mac address"
+},
+"fr": {
+  "battleCar.getMacLocation": "adresse mac de la voiture de combat"
+},
+"ja": {
+  "battleCar.getMacLocation": "バトルカーmacアドレス"
+},
+"de": {
+  "battleCar.getMacLocation": "kampfwagen-mac-adresse"
+},
+"es": {
+  "battleCar.getMacLocation": "dirección mac del coche de combate"
+},
+"ru": {
+  "battleCar.getMacLocation": "mac-адрес боевой машины"
+},
+"cs": {
+  "battleCar.getMacLocation": "mac adresa bojového auta"
+},
+"it": {
+  "battleCar.getMacLocation": "indirizzo mac della battle car"
+},
+"pl": {
+  "battleCar.getMacLocation": "adres mac samochodu bojowego"
+},
+"tr": {
+  "battleCar.getMacLocation": "savaş arabası mac adresi"
+},
+"pt": {
+  "battleCar.getMacLocation": "endereço mac do carro de combate"
+},
+"hr": {
+  "battleCar.getMacLocation": "mac adresa borbenog automobila"
+},
+"hi": {
+  "battleCar.getMacLocation": "बैटल कार mac पता"
+},
+"ko": {
+  "battleCar.getMacLocation": "배틀카 mac 주소"
+},
+"th": {
+  "battleCar.getMacLocation": "ที่อยู่ mac รถต่อสู้"
+},
+"nl": {
+  "battleCar.getMacLocation": "mac-adres van gevechtsauto"
+},
+"ar": {
+  "battleCar.getMacLocation": "عنوان mac لسيارة القتال"
+},
+"vi": {
+  "battleCar.getMacLocation": "địa chỉ mac của xe chiến đấu"
+},
+"he": {
+  "battleCar.getMacLocation": "כתובת mac של רכב הקרב"
 }
+
+
+
+}
+const interfaceData = {}
 
 
 const alterAndAdd = (jsonData, path) => {

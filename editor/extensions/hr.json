@@ -652,5 +652,10 @@
 	"battleCar.tone": "ton",
 	"battleCar.speedUp": "ubrzaj",
 	"battleCar.speedCut": "uspori",
-	"battleCar.stopAttack": "zaustavi napad"
+	"battleCar.stopAttack": "zaustavi napad",
+	"battleCar.app_getBlueCode": "borbeni automobil dobiti bluetooth kȏd za uparivanje",
+	"battleCar.setBuzzer": "postavi trajanje jednog otkucaja zujalice na [ONE]ms",
+	"battleCar.setBuzzerTime": "zujalica [ONE]hz trajanje [TWO]ms",
+	"battleCar.setTypeBuzzer": "zujalica [ONE] frekvencija [TWO]",
+	"battleCar.getMacLocation": "mac adresa borbenog automobila"
 }

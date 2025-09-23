@@ -652,5 +652,10 @@
 	"battleCar.tone": "tono",
 	"battleCar.speedUp": "accelerare",
 	"battleCar.speedCut": "rallentare",
-	"battleCar.stopAttack": "fermare attacco"
+	"battleCar.stopAttack": "fermare attacco",
+	"battleCar.app_getBlueCode": "auto da combattimento ottenere codice di abbinamento bluetooth",
+	"battleCar.setBuzzer": "imposta la durata di un battito del buzzer a [ONE]ms",
+	"battleCar.setBuzzerTime": "cicalino [ONE]hz durata [TWO]ms",
+	"battleCar.setTypeBuzzer": "cicalino [ONE] frequenza [TWO]",
+	"battleCar.getMacLocation": "indirizzo mac della battle car"
 }

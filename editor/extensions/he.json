@@ -652,5 +652,10 @@
 	"battleCar.tone": "טון",
 	"battleCar.speedUp": "האץ",
 	"battleCar.speedCut": "האט",
-	"battleCar.stopAttack": "עצור התקפה"
+	"battleCar.stopAttack": "עצור התקפה",
+	"battleCar.app_getBlueCode": "רכב קרב קבל קוד התאמת bluetooth",
+	"battleCar.setBuzzer": "הגדר את משך פעימה אחת של הצופר ל-[ONE]ms",
+	"battleCar.setBuzzerTime": "צפצפה [ONE]hz משך [TWO]ms",
+	"battleCar.setTypeBuzzer": "צפצפה [ONE] תדירות [TWO]",
+	"battleCar.getMacLocation": "כתובת mac של רכב הקרב"
 }

@@ -652,5 +652,10 @@
 	"battleCar.tone": "音調",
 	"battleCar.speedUp": "加速",
 	"battleCar.speedCut": "減速",
-	"battleCar.stopAttack": "停止攻擊"
+	"battleCar.stopAttack": "停止攻擊",
+	"battleCar.app_getBlueCode": "格鬥小車獲取藍牙配對碼",
+	"battleCar.setBuzzer": "設置蜂鳴器一拍的持續時間為[ONE]ms",
+	"battleCar.setBuzzerTime": "蜂鳴器[ONE]hz 持續時間[TWO]ms",
+	"battleCar.setTypeBuzzer": "蜂鳴器[ONE] 頻率[TWO]",
+	"battleCar.getMacLocation": "格鬥小車mac地址"
 }

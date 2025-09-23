@@ -652,5 +652,10 @@
 	"battleCar.tone": "toon",
 	"battleCar.speedUp": "versnellen",
 	"battleCar.speedCut": "vertragen",
-	"battleCar.stopAttack": "stop aanval"
+	"battleCar.stopAttack": "stop aanval",
+	"battleCar.app_getBlueCode": "gevechtsauto bluetooth-koppelingscode ophalen",
+	"battleCar.setBuzzer": "stel de duur van één tik van de zoemer in op [ONE]ms",
+	"battleCar.setBuzzerTime": "zoemer [ONE]hz duur [TWO]ms",
+	"battleCar.setTypeBuzzer": "zoemer [ONE] frequentie [TWO]",
+	"battleCar.getMacLocation": "mac-adres van gevechtsauto"
 }

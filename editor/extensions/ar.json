@@ -652,5 +652,10 @@
 	"battleCar.tone": "نغمة",
 	"battleCar.speedUp": "تسريع",
 	"battleCar.speedCut": "إبطاء",
-	"battleCar.stopAttack": "إيقاف الهجوم"
+	"battleCar.stopAttack": "إيقاف الهجوم",
+	"battleCar.app_getBlueCode": "سيارة القتال الحصول على رمز اقتران bluetooth",
+	"battleCar.setBuzzer": "تعيين مدة نبضة واحدة للجرس إلى [ONE]ms",
+	"battleCar.setBuzzerTime": "جرس [ONE]hz مدة [TWO]ms",
+	"battleCar.setTypeBuzzer": "جرس [ONE] تردد [TWO]",
+	"battleCar.getMacLocation": "عنوان mac لسيارة القتال"
 }

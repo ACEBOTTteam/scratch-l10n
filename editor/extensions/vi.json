@@ -652,5 +652,10 @@
 	"battleCar.tone": "âm",
 	"battleCar.speedUp": "tăng tốc",
 	"battleCar.speedCut": "giảm tốc",
-	"battleCar.stopAttack": "dừng tấn công"
+	"battleCar.stopAttack": "dừng tấn công",
+	"battleCar.app_getBlueCode": "xe chiến đấu lấy mã ghép nối bluetooth",
+	"battleCar.setBuzzer": "đặt thời gian kéo dài một nhịp của còi thành [ONE]ms",
+	"battleCar.setBuzzerTime": "còi [ONE]hz thời gian [TWO]ms",
+	"battleCar.setTypeBuzzer": "còi [ONE] tần số [TWO]",
+	"battleCar.getMacLocation": "địa chỉ mac của xe chiến đấu"
 }

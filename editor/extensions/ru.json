@@ -652,5 +652,10 @@
 	"battleCar.tone": "тон",
 	"battleCar.speedUp": "ускорить",
 	"battleCar.speedCut": "замедлить",
-	"battleCar.stopAttack": "остановить атаку"
+	"battleCar.stopAttack": "остановить атаку",
+	"battleCar.app_getBlueCode": "боевой автомобиль получить код сопряжения bluetooth",
+	"battleCar.setBuzzer": "установить длительность одного такта зуммера на [ONE]мс",
+	"battleCar.setBuzzerTime": "зуммер [ONE]hz продолжительность [TWO]ms",
+	"battleCar.setTypeBuzzer": "зуммер [ONE] частота [TWO]",
+	"battleCar.getMacLocation": "mac-адрес боевой машины"
 }

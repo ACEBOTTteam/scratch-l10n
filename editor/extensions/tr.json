@@ -652,5 +652,10 @@
 	"battleCar.tone": "ton",
 	"battleCar.speedUp": "hızlan",
 	"battleCar.speedCut": "yavaşla",
-	"battleCar.stopAttack": "saldırıyı durdur"
+	"battleCar.stopAttack": "saldırıyı durdur",
+	"battleCar.app_getBlueCode": "dövüş arabası bluetooth eşleştirme kodunu al",
+	"battleCar.setBuzzer": "buzzer bir vuruş süresini [ONE]ms olarak ayarla",
+	"battleCar.setBuzzerTime": "buzzer [ONE]hz süre [TWO]ms",
+	"battleCar.setTypeBuzzer": "buzzer [ONE] frekans [TWO]",
+	"battleCar.getMacLocation": "savaş arabası mac adresi"
 }

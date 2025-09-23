@@ -652,5 +652,10 @@
 	"battleCar.tone": "स्वर",
 	"battleCar.speedUp": "तेज करो",
 	"battleCar.speedCut": "धीमा करो",
-	"battleCar.stopAttack": "हमला रोकें"
+	"battleCar.stopAttack": "हमला रोकें",
+	"battleCar.app_getBlueCode": "लड़ाकू कार ब्लूटूथ पेयरिंग कोड प्राप्त करें",
+	"battleCar.setBuzzer": "बजर की एक बीट की अवधि [ONE]ms पर सेट करें",
+	"battleCar.setBuzzerTime": "बजर [ONE]hz अवधि [TWO]ms",
+	"battleCar.setTypeBuzzer": "बजर [ONE] आवृत्ति [TWO]",
+	"battleCar.getMacLocation": "बैटल कार mac पता"
 }

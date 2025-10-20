@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "hızlan",
 	"battleCar.speedCut": "yavaşla",
 	"battleCar.stopAttack": "saldırıyı durdur",
-	"battleCar.app_getBlueCode": "dövüş arabası bluetooth eşleştirme kodunu al",
+	"battleCar.app_getBlueCode": "savaş arabası uygulamadan [ONE] alır",
 	"battleCar.setBuzzer": "buzzer bir vuruş süresini [ONE]ms olarak ayarla",
 	"battleCar.setBuzzerTime": "buzzer [ONE]hz süre [TWO]ms",
 	"battleCar.setTypeBuzzer": "buzzer [ONE] frekans [TWO]",
-	"battleCar.getMacLocation": "savaş arabası mac adresi"
+	"battleCar.getMacLocation": "savaş arabası mac adresi",
+	"battleCar.bluetoothCode": "bluetooth eşleştirme kodu",
+	"battleCar.weapon_max": "silah hareket aralığının maksimum değeri",
+	"battleCar.weapon_min": "silah hareket aralığının minimum değeri",
+	"battleCar.weapon": "silah hareket aralığı"
 }

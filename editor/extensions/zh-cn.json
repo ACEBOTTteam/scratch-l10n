@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "加速",
 	"battleCar.speedCut": "减速",
 	"battleCar.stopAttack": "停止攻击",
-	"battleCar.app_getBlueCode": "格斗小车获取蓝牙配对码",
+	"battleCar.app_getBlueCode": "格斗小车从app获取[ONE]",
 	"battleCar.setBuzzer": "设置蜂鸣器一拍的持续时间为[ONE]ms",
 	"battleCar.setBuzzerTime": "蜂鸣器[ONE]hz 持续时间[TWO]ms",
 	"battleCar.setTypeBuzzer": "蜂鸣器[ONE] 频率[TWO]",
-	"battleCar.getMacLocation": "格斗小车mac地址"
+	"battleCar.getMacLocation": "格斗小车mac地址",
+	"battleCar.bluetoothCode": "蓝牙配对码",
+	"battleCar.weapon_max": "武器运动范围最大值",
+	"battleCar.weapon_min": "武器运动范围最小值",
+	"battleCar.weapon": "武器运动范围"
 }

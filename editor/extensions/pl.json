@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "przyspieszyć",
 	"battleCar.speedCut": "zwolnić",
 	"battleCar.stopAttack": "zatrzymać atak",
-	"battleCar.app_getBlueCode": "samochód bojowy pobierz kod parowania bluetooth",
+	"battleCar.app_getBlueCode": "samochód bojowy pobiera [ONE] z aplikacji",
 	"battleCar.setBuzzer": "ustaw czas trwania jednego uderzenia buzzera na [ONE]ms",
 	"battleCar.setBuzzerTime": "buzzer [ONE]hz czas trwania [TWO]ms",
 	"battleCar.setTypeBuzzer": "buzzer [ONE] częstotliwość [TWO]",
-	"battleCar.getMacLocation": "adres mac samochodu bojowego"
+	"battleCar.getMacLocation": "adres mac samochodu bojowego",
+	"battleCar.bluetoothCode": "kod parowania bluetooth",
+	"battleCar.weapon_max": "maksymalna wartość zakresu ruchu broni",
+	"battleCar.weapon_min": "minimalna wartość zakresu ruchu broni",
+	"battleCar.weapon": "zakres ruchu broni"
 }

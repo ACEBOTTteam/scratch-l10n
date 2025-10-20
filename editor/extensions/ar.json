@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "تسريع",
 	"battleCar.speedCut": "إبطاء",
 	"battleCar.stopAttack": "إيقاف الهجوم",
-	"battleCar.app_getBlueCode": "سيارة القتال الحصول على رمز اقتران bluetooth",
+	"battleCar.app_getBlueCode": "السيارة القتالية تحصل على [ONE] من التطبيق",
 	"battleCar.setBuzzer": "تعيين مدة نبضة واحدة للجرس إلى [ONE]ms",
 	"battleCar.setBuzzerTime": "جرس [ONE]hz مدة [TWO]ms",
 	"battleCar.setTypeBuzzer": "جرس [ONE] تردد [TWO]",
-	"battleCar.getMacLocation": "عنوان mac لسيارة القتال"
+	"battleCar.getMacLocation": "عنوان mac لسيارة القتال",
+	"battleCar.bluetoothCode": "رمز اقتران bluetooth",
+	"battleCar.weapon_max": "القيمة القصوى لنطاق حركة السلاح",
+	"battleCar.weapon_min": "القيمة الدنيا لنطاق حركة السلاح",
+	"battleCar.weapon": "نطاق حركة السلاح"
 }

@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "speed up",
 	"battleCar.speedCut": "slow down",
 	"battleCar.stopAttack": "stop attack",
-	"battleCar.app_getBlueCode": "battle car get bluetooth pairing code",
+	"battleCar.app_getBlueCode": "battle car get [ONE] from app",
 	"battleCar.setBuzzer": "set buzzer one beat duration to [ONE]ms",
 	"battleCar.setBuzzerTime": "buzzer [ONE]hz duration [TWO]ms",
 	"battleCar.setTypeBuzzer": "buzzer [ONE] frequency [TWO]",
-	"battleCar.getMacLocation": "battle car mac address"
+	"battleCar.getMacLocation": "battle car mac address",
+	"battleCar.bluetoothCode": "bluetooth pairing code",
+	"battleCar.weapon_max": "weapon movement range max value",
+	"battleCar.weapon_min": "weapon movement range min value",
+	"battleCar.weapon": "weapon movement range"
 }

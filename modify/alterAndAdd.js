@@ -25,70 +25,68 @@ const block = {}
 
 const extensions = {
   "zh-cn": {
-  "battleCar.getMacLocation": "格斗小车mac地址"
+  "battleCar.weapon": "武器运动范围"
 },
 "zh-tw": {
-  "battleCar.getMacLocation": "格鬥小車mac地址"
+  "battleCar.weapon": "武器運動範圍"
 },
 "en": {
-  "battleCar.getMacLocation": "battle car mac address"
+  "battleCar.weapon": "weapon movement range"
 },
 "fr": {
-  "battleCar.getMacLocation": "adresse mac de la voiture de combat"
+  "battleCar.weapon": "plage de mouvement de l'arme"
 },
 "ja": {
-  "battleCar.getMacLocation": "バトルカーmacアドレス"
+  "battleCar.weapon": "武器の動作範囲"
 },
 "de": {
-  "battleCar.getMacLocation": "kampfwagen-mac-adresse"
+  "battleCar.weapon": "bewegungsbereich der waffe"
 },
 "es": {
-  "battleCar.getMacLocation": "dirección mac del coche de combate"
+  "battleCar.weapon": "rango de movimiento del arma"
 },
 "ru": {
-  "battleCar.getMacLocation": "mac-адрес боевой машины"
+  "battleCar.weapon": "диапазон движения оружия"
 },
 "cs": {
-  "battleCar.getMacLocation": "mac adresa bojového auta"
+  "battleCar.weapon": "rozsah pohybu zbraně"
 },
 "it": {
-  "battleCar.getMacLocation": "indirizzo mac della battle car"
+  "battleCar.weapon": "intervallo di movimento dell'arma"
 },
 "pl": {
-  "battleCar.getMacLocation": "adres mac samochodu bojowego"
+  "battleCar.weapon": "zakres ruchu broni"
 },
 "tr": {
-  "battleCar.getMacLocation": "savaş arabası mac adresi"
+  "battleCar.weapon": "silah hareket aralığı"
 },
 "pt": {
-  "battleCar.getMacLocation": "endereço mac do carro de combate"
+  "battleCar.weapon": "alcance de movimento da arma"
 },
 "hr": {
-  "battleCar.getMacLocation": "mac adresa borbenog automobila"
+  "battleCar.weapon": "raspon kretanja oružja"
 },
 "hi": {
-  "battleCar.getMacLocation": "बैटल कार mac पता"
+  "battleCar.weapon": "हथियार की गति सीमा"
 },
 "ko": {
-  "battleCar.getMacLocation": "배틀카 mac 주소"
+  "battleCar.weapon": "무기 이동 범위"
 },
 "th": {
-  "battleCar.getMacLocation": "ที่อยู่ mac รถต่อสู้"
+  "battleCar.weapon": "ช่วงการเคลื่อนไหวของอาวุธ"
 },
 "nl": {
-  "battleCar.getMacLocation": "mac-adres van gevechtsauto"
+  "battleCar.weapon": "bewegingsbereik van het wapen"
 },
 "ar": {
-  "battleCar.getMacLocation": "عنوان mac لسيارة القتال"
+  "battleCar.weapon": "نطاق حركة السلاح"
 },
 "vi": {
-  "battleCar.getMacLocation": "địa chỉ mac của xe chiến đấu"
+  "battleCar.weapon": "phạm vi chuyển động vũ khí"
 },
 "he": {
-  "battleCar.getMacLocation": "כתובת mac של רכב הקרב"
+  "battleCar.weapon": "טווח תנועת הנשק"
 }
-
-
 
 }
 const interfaceData = {}

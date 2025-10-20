@@ -34,8 +34,8 @@
         "validate:paint": "babel-node scripts/validate-translations ./editor/paint-editor/",
         "validate:editor": "npm run validate:blocks && npm run validate:extensions && npm run validate:interface && npm run validate:paint",
         "validate:www": "babel-node scripts/validate-www ./www",
-        "build:modify":"babel-node modify/alterAndAdd",
-        "build:msg":"babel-node scripts/build-msg"
+        "build:modify": "babel-node modify/alterAndAdd",
+        "build:msg": "babel-node scripts/build-msg"
     },
     "repository": {
         "type": "git",
@@ -48,8 +48,8 @@
     },
     "homepage": "https://github.com/LLK/scratch-l10n#readme",
     "dependencies": {
-        "@babel/cli": "^7.1.2",
-        "@babel/core": "^7.1.2",
+        "@babel/cli": "^7.28.3",
+        "@babel/core": "^7.28.4",
         "@transifex/api": "4.3.0",
         "babel-plugin-react-intl": "^3.0.1",
         "download": "^8.0.0",
@@ -61,7 +61,8 @@
         "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
         "@babel/plugin-syntax-dynamic-import": "^7.0.0",
         "@babel/plugin-transform-async-to-generator": "^7.1.0",
-        "@babel/preset-env": "^7.9.5",
+        "@babel/plugin-transform-regenerator": "^7.28.4",
+        "@babel/preset-env": "^7.28.3",
         "@babel/preset-react": "^7.0.0",
         "async": "3.2.5",
         "babel-eslint": "^10.0.1",

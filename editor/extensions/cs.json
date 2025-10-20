@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "zrychlit",
 	"battleCar.speedCut": "zpomalit",
 	"battleCar.stopAttack": "zastavit útok",
-	"battleCar.app_getBlueCode": "bojové auto získat kód spárování bluetooth",
+	"battleCar.app_getBlueCode": "bojové auto získá [ONE] z aplikace",
 	"battleCar.setBuzzer": "nastavit trvání jednoho taktu bzučáku na [ONE]ms",
 	"battleCar.setBuzzerTime": "bzučák [ONE]hz trvání [TWO]ms",
 	"battleCar.setTypeBuzzer": "bzučák [ONE] frekvence [TWO]",
-	"battleCar.getMacLocation": "mac adresa bojového auta"
+	"battleCar.getMacLocation": "mac adresa bojového auta",
+	"battleCar.bluetoothCode": "párovací kód bluetooth",
+	"battleCar.weapon_max": "maximální hodnota rozsahu pohybu zbraně",
+	"battleCar.weapon_min": "minimální hodnota rozsahu pohybu zbraně",
+	"battleCar.weapon": "rozsah pohybu zbraně"
 }

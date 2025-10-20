@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "versnellen",
 	"battleCar.speedCut": "vertragen",
 	"battleCar.stopAttack": "stop aanval",
-	"battleCar.app_getBlueCode": "gevechtsauto bluetooth-koppelingscode ophalen",
+	"battleCar.app_getBlueCode": "gevechtsauto haalt [ONE] van de app",
 	"battleCar.setBuzzer": "stel de duur van één tik van de zoemer in op [ONE]ms",
 	"battleCar.setBuzzerTime": "zoemer [ONE]hz duur [TWO]ms",
 	"battleCar.setTypeBuzzer": "zoemer [ONE] frequentie [TWO]",
-	"battleCar.getMacLocation": "mac-adres van gevechtsauto"
+	"battleCar.getMacLocation": "mac-adres van gevechtsauto",
+	"battleCar.bluetoothCode": "bluetooth-koppelcode",
+	"battleCar.weapon_max": "maximale waarde van het bewegingsbereik van het wapen",
+	"battleCar.weapon_min": "minimale waarde van het bewegingsbereik van het wapen",
+	"battleCar.weapon": "bewegingsbereik van het wapen"
 }

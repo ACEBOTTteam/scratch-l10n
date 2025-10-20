@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "तेज करो",
 	"battleCar.speedCut": "धीमा करो",
 	"battleCar.stopAttack": "हमला रोकें",
-	"battleCar.app_getBlueCode": "लड़ाकू कार ब्लूटूथ पेयरिंग कोड प्राप्त करें",
+	"battleCar.app_getBlueCode": "बैटल कार ऐप से [ONE] प्राप्त करती है",
 	"battleCar.setBuzzer": "बजर की एक बीट की अवधि [ONE]ms पर सेट करें",
 	"battleCar.setBuzzerTime": "बजर [ONE]hz अवधि [TWO]ms",
 	"battleCar.setTypeBuzzer": "बजर [ONE] आवृत्ति [TWO]",
-	"battleCar.getMacLocation": "बैटल कार mac पता"
+	"battleCar.getMacLocation": "बैटल कार mac पता",
+	"battleCar.bluetoothCode": "ब्लूटूथ पेयरिंग कोड",
+	"battleCar.weapon_max": "हथियार की गति सीमा का अधिकतम मान",
+	"battleCar.weapon_min": "हथियार की गति सीमा का न्यूनतम मान",
+	"battleCar.weapon": "हथियार की गति सीमा"
 }

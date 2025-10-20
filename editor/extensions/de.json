@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "beschleunigen",
 	"battleCar.speedCut": "verlangsamen",
 	"battleCar.stopAttack": "angriff stoppen",
-	"battleCar.app_getBlueCode": "kampfwagen bluetooth-kopplungscode abrufen",
+	"battleCar.app_getBlueCode": "kampfwagen erhält [ONE] von der app",
 	"battleCar.setBuzzer": "summer-einzeltondauer auf [ONE]ms einstellen",
 	"battleCar.setBuzzerTime": "summer [ONE]hz dauer [TWO]ms",
 	"battleCar.setTypeBuzzer": "summer [ONE] frequenz [TWO]",
-	"battleCar.getMacLocation": "kampfwagen-mac-adresse"
+	"battleCar.getMacLocation": "kampfwagen-mac-adresse",
+	"battleCar.bluetoothCode": "bluetooth-kopplungscode",
+	"battleCar.weapon_max": "maximalwert des waffenbewegungsbereichs",
+	"battleCar.weapon_min": "minimalwert des waffenbewegungsbereichs",
+	"battleCar.weapon": "bewegungsbereich der waffe"
 }

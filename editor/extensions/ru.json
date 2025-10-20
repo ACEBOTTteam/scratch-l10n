@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "ускорить",
 	"battleCar.speedCut": "замедлить",
 	"battleCar.stopAttack": "остановить атаку",
-	"battleCar.app_getBlueCode": "боевой автомобиль получить код сопряжения bluetooth",
+	"battleCar.app_getBlueCode": "боевой автомобиль получает [ONE] из приложения",
 	"battleCar.setBuzzer": "установить длительность одного такта зуммера на [ONE]мс",
 	"battleCar.setBuzzerTime": "зуммер [ONE]hz продолжительность [TWO]ms",
 	"battleCar.setTypeBuzzer": "зуммер [ONE] частота [TWO]",
-	"battleCar.getMacLocation": "mac-адрес боевой машины"
+	"battleCar.getMacLocation": "mac-адрес боевой машины",
+	"battleCar.bluetoothCode": "код сопряжения bluetooth",
+	"battleCar.weapon_max": "максимальное значение диапазона движения оружия",
+	"battleCar.weapon_min": "минимальное значение диапазона движения оружия",
+	"battleCar.weapon": "диапазон движения оружия"
 }

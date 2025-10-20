@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "가속",
 	"battleCar.speedCut": "감속",
 	"battleCar.stopAttack": "공격 중지",
-	"battleCar.app_getBlueCode": "배틀카 블루투스 페어링 코드 가져오기",
+	"battleCar.app_getBlueCode": "배틀카가 앱에서 [ONE]을 가져옴",
 	"battleCar.setBuzzer": "버저 한 박자의 지속 시간을 [ONE]ms로 설정",
 	"battleCar.setBuzzerTime": "버저 [ONE]hz 지속 시간 [TWO]ms",
 	"battleCar.setTypeBuzzer": "버저 [ONE] 주파수 [TWO]",
-	"battleCar.getMacLocation": "배틀카 mac 주소"
+	"battleCar.getMacLocation": "배틀카 mac 주소",
+	"battleCar.bluetoothCode": "블루투스 페어링 코드",
+	"battleCar.weapon_max": "무기 이동 범위 최대값",
+	"battleCar.weapon_min": "무기 이동 범위 최소값",
+	"battleCar.weapon": "무기 이동 범위"
 }

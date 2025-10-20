@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "加速",
 	"battleCar.speedCut": "減速",
 	"battleCar.stopAttack": "攻撃停止",
-	"battleCar.app_getBlueCode": "バトルカーがbluetoothペアリングコードを取得",
+	"battleCar.app_getBlueCode": "バトルカーがアプリから[ONE]を取得",
 	"battleCar.setBuzzer": "ブザーの1拍の持続時間を[ONE]msに設定",
 	"battleCar.setBuzzerTime": "ブザー[ONE]hz 継続時間[TWO]ms",
 	"battleCar.setTypeBuzzer": "ブザー[ONE] 周波数[TWO]",
-	"battleCar.getMacLocation": "バトルカーmacアドレス"
+	"battleCar.getMacLocation": "バトルカーmacアドレス",
+	"battleCar.bluetoothCode": "bluetoothペアリングコード",
+	"battleCar.weapon_max": "武器の動作範囲の最大値",
+	"battleCar.weapon_min": "武器の動作範囲の最小値",
+	"battleCar.weapon": "武器の動作範囲"
 }

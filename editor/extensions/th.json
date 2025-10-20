@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "เร่ง",
 	"battleCar.speedCut": "ชะลอ",
 	"battleCar.stopAttack": "หยุดโจมตี",
-	"battleCar.app_getBlueCode": "รถต่อสู้รับรหัสจับคู่บลูทูธ",
+	"battleCar.app_getBlueCode": "รถต่อสู้รับ [ONE] จากแอป",
 	"battleCar.setBuzzer": "ตั้งค่าระยะเวลาหนึ่งจังหวะของ buzzer เป็น [ONE]ms",
 	"battleCar.setBuzzerTime": "บัซเซอร์ [ONE]hz ระยะเวลา [TWO]ms",
 	"battleCar.setTypeBuzzer": "บัซเซอร์ [ONE] ความถี่ [TWO]",
-	"battleCar.getMacLocation": "ที่อยู่ mac รถต่อสู้"
+	"battleCar.getMacLocation": "ที่อยู่ mac รถต่อสู้",
+	"battleCar.bluetoothCode": "รหัสจับคู่ bluetooth",
+	"battleCar.weapon_max": "ค่ามากสุดของช่วงการเคลื่อนไหวของอาวุธ",
+	"battleCar.weapon_min": "ค่าน้อยสุดของช่วงการเคลื่อนไหวของอาวุธ",
+	"battleCar.weapon": "ช่วงการเคลื่อนไหวของอาวุธ"
 }

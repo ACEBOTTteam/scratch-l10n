@@ -653,9 +653,13 @@
 	"battleCar.speedUp": "האץ",
 	"battleCar.speedCut": "האט",
 	"battleCar.stopAttack": "עצור התקפה",
-	"battleCar.app_getBlueCode": "רכב קרב קבל קוד התאמת bluetooth",
+	"battleCar.app_getBlueCode": "רכב הקרב מקבל [ONE] מהאפליקציה",
 	"battleCar.setBuzzer": "הגדר את משך פעימה אחת של הצופר ל-[ONE]ms",
 	"battleCar.setBuzzerTime": "צפצפה [ONE]hz משך [TWO]ms",
 	"battleCar.setTypeBuzzer": "צפצפה [ONE] תדירות [TWO]",
-	"battleCar.getMacLocation": "כתובת mac של רכב הקרב"
+	"battleCar.getMacLocation": "כתובת mac של רכב הקרב",
+	"battleCar.bluetoothCode": "קוד התאמת bluetooth",
+	"battleCar.weapon_max": "ערך מקסימלי של טווח תנועת הנשק",
+	"battleCar.weapon_min": "ערך מינימלי של טווח תנועת הנשק",
+	"battleCar.weapon": "טווח תנועת הנשק"
 }

@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "mã ghép nối bluetooth",
 	"battleCar.weapon_max": "giá trị tối đa của phạm vi chuyển động vũ khí",
 	"battleCar.weapon_min": "giá trị tối thiểu của phạm vi chuyển động vũ khí",
-	"battleCar.weapon": "phạm vi chuyển động vũ khí"
+	"battleCar.weapon": "phạm vi chuyển động vũ khí",
+	"ROBOT_HUMIDIFIER_V2": "máy tạo ẩm V2%1%2",
+	"carMotorV2.initCar": "khởi tạo xe thông minh",
+	"carMotorV2.carWebInit": "thiết kế trang web xe"
 }

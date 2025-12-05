@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "펜",
 	"gui.extension.pen.description": "스프라이트를 사용하여 그려 보세요. ",
 	"gui.extension.videosensing.name": "비디오 감지",
-	"gui.extension.videosensing.description": "네 발을 가진 바이오닉 거미 키트는 거미의 움직임을 모방하는 네 발 로봇으로, 유연한 이동성과 다양한 걷기 모드를 제공합니다.",
+	"gui.extension.videosensing.description": "카메라를 사용하여 움직임을 감지합니다.",
 	"gui.extension.text2speech.name": "텍스트 음성 변환(TTS)",
 	"gui.extension.text2speech.description": "프로젝트가 말을 하도록 만들어 보세요.",
 	"gui.extension.translate.name": "번역",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "인터넷을 통해 날씨 정보를 가져옵니다. 컴퓨터는 온라인이어야합니다",
 	"gui.extension.gestureRecognition": "제스처 인식",
 	"gui.extension.gestureRecognition.description": "웹캠을 통해 제스처를 인식",
-	"gui.modify.runPythonCode": "프로그램 실행",
+	"gui.modify.runPythonCode": "프로그램 업로드",
 	"gui.extension.carMotor": "스마트카",
 	"gui.extension.fourLeggedBionicSpider": "사족 바이오닉 거미",
 	"gui.extension.arm": "로봇 팔",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "차트 표시",
 	"gui.modify.chartNoData": "데이터 없음",
 	"gui.modify.connectDevice": "장치 연결",
-	"gui.modify.anewUploadFrmware": "인식을 실행하려면 펌웨어를 다시 업로드하세요",
-	"gui.modify.K210Firmware": "k210 펌웨어"
+	"gui.modify.anewUploadFrmware": "실행 실패, 펌웨어를 다시 업로드하세요",
+	"gui.modify.K210Firmware": "k210 펌웨어",
+	"gui.modify.isExit": "종료하시겠습니까?",
+	"carMotorV2.setMotorSpeed": "모터 [ONE]의 속도를 [TWO]로 설정",
+	"carMotorV2.startCar": "스마트 자동차를 시작",
+	"gui.modify.uploadFirmware": "펌웨어 업로드"
 }

@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Kalem",
 	"gui.extension.pen.description": "Kuklan ile çiz.",
 	"gui.extension.videosensing.name": "Video Algılama",
-	"gui.extension.videosensing.description": "Dört ayaklı biyomimik örümcek seti, örümcek hareketlerini taklit eden, esnek hareket kabiliyeti ve çeşitli yürüyüş modları olan dört ayaklı bir robottur.",
+	"gui.extension.videosensing.description": "kamerayı kullanarak hareket algıla.",
 	"gui.extension.text2speech.name": "Metinden Sese",
 	"gui.extension.text2speech.description": "Projeni konuştur.",
 	"gui.extension.translate.name": "Çeviri",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "İnternet üzerinden hava durumu bilgisi alın, bilgisayarın çevrimiçi olması gerekir",
 	"gui.extension.gestureRecognition": "Jest Tanıma",
 	"gui.extension.gestureRecognition.description": "Web kamerası üzerinden jest tanıma",
-	"gui.modify.runPythonCode": "Programı Çalıştır",
+	"gui.modify.runPythonCode": "program yükle",
 	"gui.extension.carMotor": "Akıllı Araba",
 	"gui.extension.fourLeggedBionicSpider": "Dört Ayaklı Biyonik Örümcek",
 	"gui.extension.arm": "robot kolu",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "grafiği göster",
 	"gui.modify.chartNoData": "veri yok",
 	"gui.modify.connectDevice": "cihaz bağla",
-	"gui.modify.anewUploadFrmware": "tanımayı çalıştırın, lütfen firmware'i yeniden yükleyin",
-	"gui.modify.K210Firmware": "k210 ürün yazılımı"
+	"gui.modify.anewUploadFrmware": "işlem başarısız oldu, lütfen ürün yazılımını yeniden yükleyin",
+	"gui.modify.K210Firmware": "k210 ürün yazılımı",
+	"gui.modify.isExit": "çıkmak istediğinizden emin misiniz?",
+	"carMotorV2.setMotorSpeed": "motor [ONE] hızını [TWO] olarak ayarla",
+	"carMotorV2.startCar": "akıllı arabayı başlat",
+	"gui.modify.uploadFirmware": "ürün yazılımı yükle"
 }

@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "bluetooth-kopplungscode",
 	"battleCar.weapon_max": "maximalwert des waffenbewegungsbereichs",
 	"battleCar.weapon_min": "minimalwert des waffenbewegungsbereichs",
-	"battleCar.weapon": "bewegungsbereich der waffe"
+	"battleCar.weapon": "bewegungsbereich der waffe",
+	"ROBOT_HUMIDIFIER_V2": "luftbefeuchter V2%1%2",
+	"carMotorV2.initCar": "initialisierung des smarten autos",
+	"carMotorV2.carWebInit": "webseitendesign des autos"
 }

@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Pióro",
 	"gui.extension.pen.description": "Narysuj za pomocą swoich duszków",
 	"gui.extension.videosensing.name": "Czujniki wideo",
-	"gui.extension.videosensing.description": "Zestaw czworonożnego biomimetycznego pająka to robot czteronożny naśladujący ruchy pająka, posiadający elastyczną mobilność i różnorodne tryby chodzenia.",
+	"gui.extension.videosensing.description": "wykrywanie ruchu za pomocą kamery.",
 	"gui.extension.text2speech.name": "Tekst na Mowę",
 	"gui.extension.text2speech.description": "Spraw by twoje projekty mówiły",
 	"gui.extension.translate.name": "Tłumacz",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Pobierz informacje o pogodzie przez internet, komputer musi być podłączony",
 	"gui.extension.gestureRecognition": "Rozpoznawanie gestów",
 	"gui.extension.gestureRecognition.description": "Rozpoznawanie gestów za pomocą kamery internetowej",
-	"gui.modify.runPythonCode": "Uruchom program",
+	"gui.modify.runPythonCode": "prześlij program",
 	"gui.extension.carMotor": "Inteligentny Samochód",
 	"gui.extension.fourLeggedBionicSpider": "Czteronożny Bioniczny Pająk",
 	"gui.extension.arm": "ręka robota",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "pokaż wykres",
 	"gui.modify.chartNoData": "brak danych",
 	"gui.modify.connectDevice": "połącz urządzenie",
-	"gui.modify.anewUploadFrmware": "uruchom rozpoznawanie, prześlij ponownie firmware",
-	"gui.modify.K210Firmware": "oprogramowanie układowe k210"
+	"gui.modify.anewUploadFrmware": "operacja nie powiodła się, proszę ponownie wgrać firmware",
+	"gui.modify.K210Firmware": "oprogramowanie układowe k210",
+	"gui.modify.isExit": "czy na pewno chcesz wyjść?",
+	"carMotorV2.setMotorSpeed": "ustaw prędkość silnika [ONE] na [TWO]",
+	"carMotorV2.startCar": "uruchom inteligentny samochód",
+	"gui.modify.uploadFirmware": "prześlij oprogramowanie"
 }

@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "너비",
 	"ROBOT_html_height": "높이",
 	"CATEGORY_ROBOTS_HTML": "웹 디자인",
-	"ROBOT_operator_astrict": "%1의 최대값을 %2로, 최소값을 %3로 제한"
+	"ROBOT_operator_astrict": "%1의 최대값을 %2로, 최소값을 %3로 제한",
+	"ROBOT_HUMIDIFIER_V2": "가습기 V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "자외선 센서 V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "초음파 거리 측정(cm) Trig 핀: %1 Echo 핀: %2 전송",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "초음파 거리 측정(cm) Trig 핀: %1 Echo 핀: %2 전파 시간"
 }

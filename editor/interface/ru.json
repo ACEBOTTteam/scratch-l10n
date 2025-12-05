@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Перо",
 	"gui.extension.pen.description": "Рисуй своими спрайтами.",
 	"gui.extension.videosensing.name": "Видео распознавание",
-	"gui.extension.videosensing.description": "Набор квадрупедного бионического паука — это четырехногие робот, имитирующий движения паука, обладающий гибкой подвижностью и разнообразными режимами ходьбы.",
+	"gui.extension.videosensing.description": "обнаруживать движение с помощью камеры.",
 	"gui.extension.text2speech.name": "Текст в речь",
 	"gui.extension.text2speech.description": "Оживи свои проекты речью!",
 	"gui.extension.translate.name": "Перевести",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Получение информации о погоде через Интернет, компьютер должен быть подключен к сети",
 	"gui.extension.gestureRecognition": "Распознавание жестов",
 	"gui.extension.gestureRecognition.description": "Распознавание жестов через веб-камеру",
-	"gui.modify.runPythonCode": "Запустить программу",
+	"gui.modify.runPythonCode": "загрузить программу",
 	"gui.extension.carMotor": "Умный автомобиль",
 	"gui.extension.fourLeggedBionicSpider": "Четырехногий бионический паук",
 	"gui.extension.arm": "роботизированная рука",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "показать график",
 	"gui.modify.chartNoData": "данные отсутствуют",
 	"gui.modify.connectDevice": "подключить устройство",
-	"gui.modify.anewUploadFrmware": "запустите распознавание, пожалуйста, повторно загрузите прошивку",
-	"gui.modify.K210Firmware": "прошивка k210"
+	"gui.modify.anewUploadFrmware": "операция не выполнена, пожалуйста, загрузите прошивку снова",
+	"gui.modify.K210Firmware": "прошивка k210",
+	"gui.modify.isExit": "вы уверены, что хотите выйти?",
+	"carMotorV2.setMotorSpeed": "установить скорость двигателя [ONE] на [TWO]",
+	"carMotorV2.startCar": "запустить умную машину",
+	"gui.modify.uploadFirmware": "загрузить прошивку"
 }

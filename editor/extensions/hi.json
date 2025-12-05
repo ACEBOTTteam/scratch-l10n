@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "ब्लूटूथ पेयरिंग कोड",
 	"battleCar.weapon_max": "हथियार की गति सीमा का अधिकतम मान",
 	"battleCar.weapon_min": "हथियार की गति सीमा का न्यूनतम मान",
-	"battleCar.weapon": "हथियार की गति सीमा"
+	"battleCar.weapon": "हथियार की गति सीमा",
+	"ROBOT_HUMIDIFIER_V2": "ह्यूमिडिफायर V2%1%2",
+	"carMotorV2.initCar": "स्मार्ट कार प्रारंभिकरण",
+	"carMotorV2.carWebInit": "कार वेब डिज़ाइन"
 }

@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Pen",
 	"gui.extension.pen.description": "Draw with your sprites.",
 	"gui.extension.videosensing.name": "Video Sensing",
-	"gui.extension.videosensing.description": "The quadruped bionic spider kit is a four-legged robot that mimics spider movements, featuring flexible mobility and diverse walking modes.",
+	"gui.extension.videosensing.description": "detect motion using the camera.",
 	"gui.extension.text2speech.name": "Text to Speech",
 	"gui.extension.text2speech.description": "Make your projects talk.",
 	"gui.extension.translate.name": "Translate",
@@ -564,7 +564,7 @@
 	"gui.extension.weather.description": "Retrieve weather information over the internet, computer needs to be online",
 	"gui.extension.gestureRecognition": "Gesture Recognition",
 	"gui.extension.gestureRecognition.description": "Recognize gestures through a webcam",
-	"gui.modify.runPythonCode": "Run Program",
+	"gui.modify.runPythonCode": "upload program",
 	"gui.extension.carMotor": "Smart Car",
 	"gui.extension.fourLeggedBionicSpider": "Quadruped Bionic Spider Robot",
 	"gui.extension.facial_recognition": "Facial Recognition",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "show chart",
 	"gui.modify.chartNoData": "no data available",
 	"gui.modify.connectDevice": "connect device",
-	"gui.modify.anewUploadFrmware": "run recognition, please re-upload firmware",
-	"gui.modify.K210Firmware": "k210 firmware"
+	"gui.modify.anewUploadFrmware": "operation failed, please reupload the firmware",
+	"gui.modify.K210Firmware": "k210 firmware",
+	"gui.modify.isExit": "are you sure you want to exit?",
+	"carMotorV2.setMotorSpeed": "set the speed of motor [ONE] to [TWO]",
+	"carMotorV2.startCar": "start the Smart Car",
+	"gui.modify.uploadFirmware": "upload firmware"
 }

@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "รหัสจับคู่ bluetooth",
 	"battleCar.weapon_max": "ค่ามากสุดของช่วงการเคลื่อนไหวของอาวุธ",
 	"battleCar.weapon_min": "ค่าน้อยสุดของช่วงการเคลื่อนไหวของอาวุธ",
-	"battleCar.weapon": "ช่วงการเคลื่อนไหวของอาวุธ"
+	"battleCar.weapon": "ช่วงการเคลื่อนไหวของอาวุธ",
+	"ROBOT_HUMIDIFIER_V2": "เครื่องเพิ่มความชื้น V2%1%2",
+	"carMotorV2.initCar": "การเริ่มต้นรถอัจฉริยะ",
+	"carMotorV2.carWebInit": "การออกแบบเว็บของรถ"
 }

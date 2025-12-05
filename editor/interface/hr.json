@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Olovka",
 	"gui.extension.pen.description": "Crtaj pomoću likova.",
 	"gui.extension.videosensing.name": "Video",
-	"gui.extension.videosensing.description": "Komplet četveronožnog bioničkog pauka je četveronožni robot koji oponaša pokrete pauka, s fleksibilnom pokretljivošću i različitim načinima hodanja.",
+	"gui.extension.videosensing.description": "otkriti pokret pomoću kamere.",
 	"gui.extension.text2speech.name": "Tekst u govor",
 	"gui.extension.text2speech.description": "Likovi u projektima govore.",
 	"gui.extension.translate.name": "Prevedi",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Dohvat meteoroloških informacija preko interneta, računalo mora biti online",
 	"gui.extension.gestureRecognition": "Prepoznavanje pokreta",
 	"gui.extension.gestureRecognition.description": "Prepoznavanje pokreta putem web kamere",
-	"gui.modify.runPythonCode": "Pokreni program",
+	"gui.modify.runPythonCode": "učitaj program",
 	"gui.extension.carMotor": "Pametni Auto",
 	"gui.extension.fourLeggedBionicSpider": "Četveronožni Bionički Pauk",
 	"gui.extension.arm": "robotska ruka",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "prikaži grafikon",
 	"gui.modify.chartNoData": "nema podataka",
 	"gui.modify.connectDevice": "poveži uređaj",
-	"gui.modify.anewUploadFrmware": "pokrenite prepoznavanje, ponovno učitajte firmware",
-	"gui.modify.K210Firmware": "firmver k210"
+	"gui.modify.anewUploadFrmware": "operacija nije uspjela, ponovno učitajte firmware",
+	"gui.modify.K210Firmware": "firmver k210",
+	"gui.modify.isExit": "jeste li sigurni da želite izaći?",
+	"carMotorV2.setMotorSpeed": "postaviti brzinu motora [ONE] na [TWO]",
+	"carMotorV2.startCar": "pokreni pametni automobil",
+	"gui.modify.uploadFirmware": "učitaj firmware"
 }

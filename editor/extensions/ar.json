@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "رمز اقتران bluetooth",
 	"battleCar.weapon_max": "القيمة القصوى لنطاق حركة السلاح",
 	"battleCar.weapon_min": "القيمة الدنيا لنطاق حركة السلاح",
-	"battleCar.weapon": "نطاق حركة السلاح"
+	"battleCar.weapon": "نطاق حركة السلاح",
+	"ROBOT_HUMIDIFIER_V2": "مرطب الهواء V2%1%2",
+	"carMotorV2.initCar": "تهيئة السيارة الذكية",
+	"carMotorV2.carWebInit": "تصميم صفحة الويب للسيارة"
 }

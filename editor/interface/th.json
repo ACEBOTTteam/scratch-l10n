@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "ปากกา",
 	"gui.extension.pen.description": "วาดด้วยสไปรต์ของคุณ",
 	"gui.extension.videosensing.name": "การตรวจจับวิดีโอ",
-	"gui.extension.videosensing.description": "ชุดแมงมุมชีวภาพสี่ขาเป็นหุ่นยนต์สี่ขาที่เลียนแบบการเคลื่อนไหวของแมงมุม มีความยืดหยุ่นในการเคลื่อนไหวและโหมดการเดินที่หลากหลาย",
+	"gui.extension.videosensing.description": "ตรวจจับการเคลื่อนไหวโดยใช้กล้อง",
 	"gui.extension.text2speech.name": "ข้อความเป็นเสียงพูด",
 	"gui.extension.text2speech.description": "ทำให้โครงงานของคุณพูดได้",
 	"gui.extension.translate.name": "แปลภาษา",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "เรียกรายละเอียดสภาพอากาศผ่านอินเทอร์เน็ต คอมพิวเตอร์ต้องเชื่อมต่อออนไลน์",
 	"gui.extension.gestureRecognition": "การระบุท่าทาง",
 	"gui.extension.gestureRecognition.description": "ระบุท່າทางผ่านเว็บแคม",
-	"gui.modify.runPythonCode": "รันโปรแกรม",
+	"gui.modify.runPythonCode": "อัปโหลดโปรแกรม",
 	"gui.extension.carMotor": "รถอัจฉริยะ",
 	"gui.extension.fourLeggedBionicSpider": "แมงมุมไบโอนิกสี่ขา",
 	"gui.extension.arm": "แขนหุ่นยนต์",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "แสดงแผนภูมิ",
 	"gui.modify.chartNoData": "ไม่มีข้อมูล",
 	"gui.modify.connectDevice": "เชื่อมต่ออุปกรณ์",
-	"gui.modify.anewUploadFrmware": "เรียกใช้การจดจำ โปรดอัปโหลดเฟิร์มแวร์ใหม่",
-	"gui.modify.K210Firmware": "เฟิร์มแวร์ k210"
+	"gui.modify.anewUploadFrmware": "การทำงานล้มเหลว โปรดอัปโหลดเฟิร์มแวร์อีกครั้ง",
+	"gui.modify.K210Firmware": "เฟิร์มแวร์ k210",
+	"gui.modify.isExit": "คุณแน่ใจหรือไม่ว่าต้องการออก?",
+	"carMotorV2.setMotorSpeed": "ตั้งค่าความเร็วของมอเตอร์ [ONE] เป็น [TWO]",
+	"carMotorV2.startCar": "เริ่มต้นรถอัจฉริยะ",
+	"gui.modify.uploadFirmware": "อัปโหลดเฟิร์มแวร์"
 }

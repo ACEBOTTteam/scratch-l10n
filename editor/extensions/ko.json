@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "블루투스 페어링 코드",
 	"battleCar.weapon_max": "무기 이동 범위 최대값",
 	"battleCar.weapon_min": "무기 이동 범위 최소값",
-	"battleCar.weapon": "무기 이동 범위"
+	"battleCar.weapon": "무기 이동 범위",
+	"ROBOT_HUMIDIFIER_V2": "가습기 V2%1%2",
+	"carMotorV2.initCar": "스마트 자동차 초기화",
+	"carMotorV2.carWebInit": "자동차 웹 디자인"
 }

@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "szerokość",
 	"ROBOT_html_height": "wysokość",
 	"CATEGORY_ROBOTS_HTML": "projektowanie stron",
-	"ROBOT_operator_astrict": "ogranicz maksymalną wartość %1 do %2 i minimalną wartość do %3"
+	"ROBOT_operator_astrict": "ogranicz maksymalną wartość %1 do %2 i minimalną wartość do %3",
+	"ROBOT_HUMIDIFIER_V2": "nawilżacz V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "czujnik ultrafioletu V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "pomiary odległości ultradźwiękowej (cm) pin Trig: %1 pin Echo: %2 wyślij",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "pomiary odległości ultradźwiękowej (cm) pin Trig: %1 pin Echo: %2 czas propagacji"
 }

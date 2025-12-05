@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Penna",
 	"gui.extension.pen.description": "Disegna usando gli sprite.",
 	"gui.extension.videosensing.name": "Movimento Webcam",
-	"gui.extension.videosensing.description": "Il kit ragno bionico quadrupede è un robot quadrupede che imita i movimenti del ragno, con mobilità flessibile e modalità di camminata diversificate.",
+	"gui.extension.videosensing.description": "rilevare il movimento tramite la fotocamera.",
 	"gui.extension.text2speech.name": "Da Testo a Voce",
 	"gui.extension.text2speech.description": "Fai parlare i tuoi progetti",
 	"gui.extension.translate.name": "Traduci",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Recupera informazioni meteorologiche su Internet, il computer deve essere connesso",
 	"gui.extension.gestureRecognition": "Riconoscimento dei gesti",
 	"gui.extension.gestureRecognition.description": "Riconoscere i gesti attraverso una webcam",
-	"gui.modify.runPythonCode": "Esegui programma",
+	"gui.modify.runPythonCode": "caricare il programma",
 	"gui.extension.carMotor": "Auto Intelligente",
 	"gui.extension.fourLeggedBionicSpider": "Ragno Bionico a Quattro Zampe",
 	"gui.extension.arm": "braccio robotico",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "mostra grafico",
 	"gui.modify.chartNoData": "nessun dato disponibile",
 	"gui.modify.connectDevice": "connetti dispositivo",
-	"gui.modify.anewUploadFrmware": "esegui il riconoscimento, carica di nuovo il firmware",
-	"gui.modify.K210Firmware": "firmware k210"
+	"gui.modify.anewUploadFrmware": "operazione non riuscita, ricaricare il firmware",
+	"gui.modify.K210Firmware": "firmware k210",
+	"gui.modify.isExit": "sei sicuro di voler uscire?",
+	"carMotorV2.setMotorSpeed": "impostare la velocità del motore [ONE] su [TWO]",
+	"carMotorV2.startCar": "avviare l'auto intelligente",
+	"gui.modify.uploadFirmware": "caricare il firmware"
 }

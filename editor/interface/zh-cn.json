@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "画笔",
 	"gui.extension.pen.description": "绘制角色。",
 	"gui.extension.videosensing.name": "视频侦测",
-	"gui.extension.videosensing.description": "四足仿生蜘蛛套件是一种模仿蜘蛛动作的四足机器人，具备灵活的运动能力和多样的行走模式。",
+	"gui.extension.videosensing.description": "使用摄像头侦测运动。",
 	"gui.extension.text2speech.name": "文字朗读",
 	"gui.extension.text2speech.description": "让你的作品开口说话",
 	"gui.extension.translate.name": "翻译",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "通过网络获取天气信息，电脑需要联网",
 	"gui.extension.gestureRecognition": "手势识别",
 	"gui.extension.gestureRecognition.description": "通过网络摄像头识别手势",
-	"gui.modify.runPythonCode": "运行程序",
+	"gui.modify.runPythonCode": "上传程序",
 	"gui.extension.carMotor": "智能车",
 	"gui.extension.fourLeggedBionicSpider": "四足仿生蜘蛛",
 	"gui.extension.arm": "机械臂",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "图表展示",
 	"gui.modify.chartNoData": "暂无数据",
 	"gui.modify.connectDevice": "连接设备",
-	"gui.modify.anewUploadFrmware": "运行识别，请重新上传固件",
-	"gui.modify.K210Firmware": "K210固件"
+	"gui.modify.anewUploadFrmware": "运行失败，请重新上传固件",
+	"gui.modify.K210Firmware": "K210固件",
+	"gui.modify.isExit": "是否确定退出?",
+	"carMotorV2.setMotorSpeed": "设置电机[ONE]的速度为[TWO]",
+	"carMotorV2.startCar": "启动智能小车",
+	"gui.modify.uploadFirmware": "上传固件"
 }

@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Bút vẽ",
 	"gui.extension.pen.description": "Vẽ bằng các nhân vật của bạn.",
 	"gui.extension.videosensing.name": "Cảm biến Video",
-	"gui.extension.videosensing.description": "Nhận diện chuyển động với máy ảnh",
+	"gui.extension.videosensing.description": "phát hiện chuyển động bằng camera.",
 	"gui.extension.text2speech.name": "Text to Speech",
 	"gui.extension.text2speech.description": "Make your projects talk.",
 	"gui.extension.translate.name": "Dịch",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Lấy thông tin thời tiết qua mạng, máy tính cần kết nối Internet",
 	"gui.extension.gestureRecognition": "Nhận dạng cử chỉ",
 	"gui.extension.gestureRecognition.description": "Nhận dạng cử chỉ qua camera mạng",
-	"gui.modify.runPythonCode": "Chạy chương trình",
+	"gui.modify.runPythonCode": "tải lên chương trình",
 	"gui.extension.carMotor": "Xe thông minh",
 	"gui.extension.fourLeggedBionicSpider": "Nhện sinh học bốn chân",
 	"gui.extension.arm": "Cánh tay cơ khí",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "hiển thị biểu đồ",
 	"gui.modify.chartNoData": "không có dữ liệu",
 	"gui.modify.connectDevice": "kết nối thiết bị",
-	"gui.modify.anewUploadFrmware": "chạy nhận diện, vui lòng tải lại firmware",
-	"gui.modify.K210Firmware": "phần mềm k210"
+	"gui.modify.anewUploadFrmware": "thao tác thất bại, vui lòng tải lại firmware",
+	"gui.modify.K210Firmware": "phần mềm k210",
+	"gui.modify.isExit": "bạn có chắc chắn muốn thoát không?",
+	"carMotorV2.setMotorSpeed": "đặt tốc độ của động cơ [ONE] thành [TWO]",
+	"carMotorV2.startCar": "khởi động xe thông minh",
+	"gui.modify.uploadFirmware": "tải lên firmware"
 }

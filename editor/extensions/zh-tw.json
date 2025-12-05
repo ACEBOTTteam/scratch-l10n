@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "藍牙配對碼",
 	"battleCar.weapon_max": "武器運動範圍最大值",
 	"battleCar.weapon_min": "武器運動範圍最小值",
-	"battleCar.weapon": "武器運動範圍"
+	"battleCar.weapon": "武器運動範圍",
+	"ROBOT_HUMIDIFIER_V2": "加濕器V2%1%2",
+	"carMotorV2.initCar": "智慧小車初始化",
+	"carMotorV2.carWebInit": "小車網頁設計"
 }

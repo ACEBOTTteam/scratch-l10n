@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Stylo",
 	"gui.extension.pen.description": "Dessiner avec vos sprites.",
 	"gui.extension.videosensing.name": "Détection vidéo",
-	"gui.extension.videosensing.description": "Le kit araignée biomimétique quadrupède est un robot à quatre pattes qui imite les mouvements d'une araignée, offrant une mobilité flexible et divers modes de déplacement.",
+	"gui.extension.videosensing.description": "détecter les mouvements à l'aide de la caméra.",
 	"gui.extension.text2speech.name": "Synthèse vocale",
 	"gui.extension.text2speech.description": "Fais parler tes projets.",
 	"gui.extension.translate.name": "Traduire",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Obtenir des informations météorologiques via Internet, l'ordinateur doit être en ligne",
 	"gui.extension.gestureRecognition": "Reconnaissance de gestes",
 	"gui.extension.gestureRecognition.description": "Reconnaître les gestes par une webcam",
-	"gui.modify.runPythonCode": "Exécuter le programme",
+	"gui.modify.runPythonCode": "téléverser le programme",
 	"gui.extension.carMotor": "Voiture Intelligente",
 	"gui.extension.fourLeggedBionicSpider": "Araignée Bionique à Quatre Pattes",
 	"gui.extension.arm": "bras robotisé",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "afficher le graphique",
 	"gui.modify.chartNoData": "aucune donnée disponible",
 	"gui.modify.connectDevice": "connecter l'appareil",
-	"gui.modify.anewUploadFrmware": "exécuter la reconnaissance, veuillez re-télécharger le firmware",
-	"gui.modify.K210Firmware": "micrologiciel k210"
+	"gui.modify.anewUploadFrmware": "échec de l’opération, veuillez recharger le firmware",
+	"gui.modify.K210Firmware": "micrologiciel k210",
+	"gui.modify.isExit": "êtes-vous sûr de vouloir quitter ?",
+	"carMotorV2.setMotorSpeed": "définir la vitesse du moteur [ONE] sur [TWO]",
+	"carMotorV2.startCar": "démarrer la voiture intelligente",
+	"gui.modify.uploadFirmware": "téléverser le micrologiciel"
 }

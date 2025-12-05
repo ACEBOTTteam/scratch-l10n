@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "breedte",
 	"ROBOT_html_height": "hoogte",
 	"CATEGORY_ROBOTS_HTML": "webdesign",
-	"ROBOT_operator_astrict": "beperk de maximale waarde van %1 tot %2 en de minimale waarde tot %3"
+	"ROBOT_operator_astrict": "beperk de maximale waarde van %1 tot %2 en de minimale waarde tot %3",
+	"ROBOT_HUMIDIFIER_V2": "luchtbevochtiger V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "ultraviolet sensor V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrasone afstandsmeting (cm) Trig pin: %1 Echo pin: %2 verzenden",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrasone afstandsmeting (cm) Trig pin: %1 Echo pin: %2 propagatietijd"
 }

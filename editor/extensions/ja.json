@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "bluetoothペアリングコード",
 	"battleCar.weapon_max": "武器の動作範囲の最大値",
 	"battleCar.weapon_min": "武器の動作範囲の最小値",
-	"battleCar.weapon": "武器の動作範囲"
+	"battleCar.weapon": "武器の動作範囲",
+	"ROBOT_HUMIDIFIER_V2": "加湿器V2%1%2",
+	"carMotorV2.initCar": "スマートカーの初期化",
+	"carMotorV2.carWebInit": "カーウェブデザイン"
 }

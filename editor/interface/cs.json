@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Pero",
 	"gui.extension.pen.description": "Kreslení s tvými postavami.",
 	"gui.extension.videosensing.name": "Vnímání videa",
-	"gui.extension.videosensing.description": "Sada čtyřnohého biomimetického pavouka je čtyřnohý robot, který napodobuje pohyby pavouka, disponuje flexibilní pohyblivostí a různými způsoby chůze.",
+	"gui.extension.videosensing.description": "detekovat pohyb pomocí kamery.",
 	"gui.extension.text2speech.name": "Text na hlas",
 	"gui.extension.text2speech.description": "Nech svůj projekt mluvit.",
 	"gui.extension.translate.name": "Překlad",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Získat informace o počasí přes internet, počítač musí být připojen k síti",
 	"gui.extension.gestureRecognition": "Rozpoznávání gest",
 	"gui.extension.gestureRecognition.description": "Rozpoznávání gest pomocí webkamery",
-	"gui.modify.runPythonCode": "Spustit program",
+	"gui.modify.runPythonCode": "nahrát program",
 	"gui.extension.carMotor": "Chytré Auto",
 	"gui.extension.fourLeggedBionicSpider": "Čtyřnohý Bionický Pavouk",
 	"gui.extension.arm": "robotická ruka",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "zobrazit graf",
 	"gui.modify.chartNoData": "žádná data",
 	"gui.modify.connectDevice": "připojit zařízení",
-	"gui.modify.anewUploadFrmware": "spusťte rozpoznávání, prosím nahrajte firmware znovu",
-	"gui.modify.K210Firmware": "firmware k210"
+	"gui.modify.anewUploadFrmware": "operace se nezdařila, nahrajte prosím firmware znovu",
+	"gui.modify.K210Firmware": "firmware k210",
+	"gui.modify.isExit": "opravdu chcete ukončit?",
+	"carMotorV2.setMotorSpeed": "nastavit rychlost motoru [ONE] na [TWO]",
+	"carMotorV2.startCar": "spustit inteligentní auto",
+	"gui.modify.uploadFirmware": "nahrát firmware"
 }

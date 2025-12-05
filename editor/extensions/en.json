@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "bluetooth pairing code",
 	"battleCar.weapon_max": "weapon movement range max value",
 	"battleCar.weapon_min": "weapon movement range min value",
-	"battleCar.weapon": "weapon movement range"
+	"battleCar.weapon": "weapon movement range",
+	"ROBOT_HUMIDIFIER_V2": "humidifier V2%1%2",
+	"carMotorV2.initCar": "smart car initialization",
+	"carMotorV2.carWebInit": "car web design"
 }

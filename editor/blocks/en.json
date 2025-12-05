@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "width",
 	"ROBOT_html_height": "height",
 	"CATEGORY_ROBOTS_HTML": "web design",
-	"ROBOT_operator_astrict": "limit the maximum value of %1 to %2 and the minimum value to %3"
+	"ROBOT_operator_astrict": "limit the maximum value of %1 to %2 and the minimum value to %3",
+	"ROBOT_HUMIDIFIER_V2": "humidifier V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "ultraviolet sensor V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrasonic distance measurement (cm) Trig pin: %1 Echo pin: %2 send",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrasonic distance measurement (cm) Trig pin: %1 Echo pin: %2 propagation time"
 }

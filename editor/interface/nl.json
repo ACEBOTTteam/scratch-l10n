@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Pen",
 	"gui.extension.pen.description": "Teken met je sprites.",
 	"gui.extension.videosensing.name": "Video",
-	"gui.extension.videosensing.description": "De quadrupede bionische spin kit is een viervoetige robot die de bewegingen van een spin nabootst, met flexibele mobiliteit en verschillende loopmodi.",
+	"gui.extension.videosensing.description": "beweging detecteren met de camera.",
 	"gui.extension.text2speech.name": "Tekst naar spraak",
 	"gui.extension.text2speech.description": "Laat je projecten praten",
 	"gui.extension.translate.name": "Vertaal",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Haal weerinformatie op via internet, computer moet online zijn",
 	"gui.extension.gestureRecognition": "Gesteherkenning",
 	"gui.extension.gestureRecognition.description": "Gesten herkennen via een webcam",
-	"gui.modify.runPythonCode": "Program uitvoeren",
+	"gui.modify.runPythonCode": "programma uploaden",
 	"gui.extension.carMotor": "Slimme Auto",
 	"gui.extension.fourLeggedBionicSpider": "Vierbenige Bionische Spin",
 	"gui.extension.arm": "robotarm",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "grafiek tonen",
 	"gui.modify.chartNoData": "geen gegevens beschikbaar",
 	"gui.modify.connectDevice": "apparaat verbinden",
-	"gui.modify.anewUploadFrmware": "herkenning uitvoeren, upload de firmware opnieuw",
-	"gui.modify.K210Firmware": "k210 firmware"
+	"gui.modify.anewUploadFrmware": "bewerking mislukt, upload de firmware opnieuw",
+	"gui.modify.K210Firmware": "k210 firmware",
+	"gui.modify.isExit": "weet je zeker dat je wilt afsluiten?",
+	"carMotorV2.setMotorSpeed": "stel de snelheid van motor [ONE] in op [TWO]",
+	"carMotorV2.startCar": "start de slimme auto",
+	"gui.modify.uploadFirmware": "firmware uploaden"
 }

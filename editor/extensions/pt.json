@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "código de emparelhamento bluetooth",
 	"battleCar.weapon_max": "valor máximo do alcance de movimento da arma",
 	"battleCar.weapon_min": "valor mínimo do alcance de movimento da arma",
-	"battleCar.weapon": "alcance de movimento da arma"
+	"battleCar.weapon": "alcance de movimento da arma",
+	"ROBOT_HUMIDIFIER_V2": "umidificador V2%1%2",
+	"carMotorV2.initCar": "inicialização do carro inteligente",
+	"carMotorV2.carWebInit": "design da página web do carro"
 }

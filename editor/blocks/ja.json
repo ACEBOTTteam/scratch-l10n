@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "幅",
 	"ROBOT_html_height": "高さ",
 	"CATEGORY_ROBOTS_HTML": "ウェブデザイン",
-	"ROBOT_operator_astrict": "%1の最大値を%2、最小値を%3に制限"
+	"ROBOT_operator_astrict": "%1の最大値を%2、最小値を%3に制限",
+	"ROBOT_HUMIDIFIER_V2": "加湿器V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "紫外線センサーV2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "超音波測距(cm) Trigピン: %1 Echoピン: %2 送信",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "超音波測距(cm) Trigピン: %1 Echoピン: %2 伝播時間"
 }

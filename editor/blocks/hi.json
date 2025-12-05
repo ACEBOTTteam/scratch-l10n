@@ -560,5 +560,9 @@
 	"ROBOT_html_width": "चौड़ाई",
 	"ROBOT_html_height": "ऊंचाई",
 	"CATEGORY_ROBOTS_HTML": "वेब डिज़ाइन",
-	"ROBOT_operator_astrict": "%1 का अधिकतम मान %2 और न्यूनतम मान %3 तक सीमित करें"
+	"ROBOT_operator_astrict": "%1 का अधिकतम मान %2 और न्यूनतम मान %3 तक सीमित करें",
+	"ROBOT_HUMIDIFIER_V2": "ह्यूमिडिफायर V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "पराबैंगनी सेंसर V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "अल्ट्रासोनिक दूरी मापन (सेमी) Trig पिन: %1 Echo पिन: %2 भेजें",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "अल्ट्रासोनिक दूरी मापन (सेमी) Trig पिन: %1 Echo पिन: %2 प्रसार समय"
 }

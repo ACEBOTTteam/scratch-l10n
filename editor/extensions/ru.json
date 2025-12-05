@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "код сопряжения bluetooth",
 	"battleCar.weapon_max": "максимальное значение диапазона движения оружия",
 	"battleCar.weapon_min": "минимальное значение диапазона движения оружия",
-	"battleCar.weapon": "диапазон движения оружия"
+	"battleCar.weapon": "диапазон движения оружия",
+	"ROBOT_HUMIDIFIER_V2": "увлажнитель V2%1%2",
+	"carMotorV2.initCar": "инициализация умного автомобиля",
+	"carMotorV2.carWebInit": "веб-дизайн автомобиля"
 }

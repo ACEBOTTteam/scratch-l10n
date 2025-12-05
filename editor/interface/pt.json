@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Caneta",
 	"gui.extension.pen.description": "Desenhe com os seus actores.",
 	"gui.extension.videosensing.name": "Vídeo Sensorial",
-	"gui.extension.videosensing.description": "O kit de aranha biônica quadrúpede é um robô quadrúpede que imita os movimentos de uma aranha, com mobilidade flexível e vários modos de caminhada.",
+	"gui.extension.videosensing.description": "detectar movimento usando a câmera.",
 	"gui.extension.text2speech.name": "Texto para Fala",
 	"gui.extension.text2speech.description": "Faça os seus projectos falar.",
 	"gui.extension.translate.name": "Traduzir",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Obter informações meteorológicas pela internet, o computador precisa estar online",
 	"gui.extension.gestureRecognition": "Reconhecimento de Gestos",
 	"gui.extension.gestureRecognition.description": "Reconhecer gestos através de uma webcam",
-	"gui.modify.runPythonCode": "Executar Programa",
+	"gui.modify.runPythonCode": "carregar programa",
 	"gui.extension.carMotor": "Carro Inteligente",
 	"gui.extension.fourLeggedBionicSpider": "Aranha Biônica de Quatro Pernas",
 	"gui.extension.arm": "braço robótico",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "mostrar gráfico",
 	"gui.modify.chartNoData": "nenhum dado disponível",
 	"gui.modify.connectDevice": "conectar dispositivo",
-	"gui.modify.anewUploadFrmware": "executar reconhecimento, por favor reenvie o firmware",
-	"gui.modify.K210Firmware": "firmware k210"
+	"gui.modify.anewUploadFrmware": "falha na operação, por favor envie novamente o firmware",
+	"gui.modify.K210Firmware": "firmware k210",
+	"gui.modify.isExit": "tem certeza de que deseja sair?",
+	"carMotorV2.setMotorSpeed": "definir a velocidade do motor [ONE] para [TWO]",
+	"carMotorV2.startCar": "iniciar o carro inteligente",
+	"gui.modify.uploadFirmware": "carregar firmware"
 }

@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "largeur",
 	"ROBOT_html_height": "hauteur",
 	"CATEGORY_ROBOTS_HTML": "conception de site web",
-	"ROBOT_operator_astrict": "limiter la valeur maximale de %1 à %2 et la valeur minimale à %3"
+	"ROBOT_operator_astrict": "limiter la valeur maximale de %1 à %2 et la valeur minimale à %3",
+	"ROBOT_HUMIDIFIER_V2": "humidificateur V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "capteur ultraviolet V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "mesure de distance ultrasonique (cm) broche Trig: %1 broche Echo: %2 envoyer",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "mesure de distance ultrasonique (cm) broche Trig: %1 broche Echo: %2 temps de propagation"
 }

@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "širina",
 	"ROBOT_html_height": "visina",
 	"CATEGORY_ROBOTS_HTML": "web dizajn",
-	"ROBOT_operator_astrict": "ograniči maksimalnu vrijednost %1 na %2 i minimalnu vrijednost na %3"
+	"ROBOT_operator_astrict": "ograniči maksimalnu vrijednost %1 na %2 i minimalnu vrijednost na %3",
+	"ROBOT_HUMIDIFIER_V2": "ovlaživač V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "ultraljubičasti senzor V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrazvučno mjerenje udaljenosti (cm) Trig pin: %1 Echo pin: %2 pošalji",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrazvučno mjerenje udaljenosti (cm) Trig pin: %1 Echo pin: %2 vrijeme širenja"
 }

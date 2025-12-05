@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "पेन",
 	"gui.extension.pen.description": "अपने स्प्राइट्स के साथ ड्रा करें।",
 	"gui.extension.videosensing.name": "वीडियो संवेदन",
-	"gui.extension.videosensing.description": "चार पैर वाला बायोनिक मकड़ी किट एक ऐसा चार-पैर वाला रोबोट है जो मकड़ी की हरकतों की नकल करता है, जिसमें लचीली गतिशीलता और विभिन्न चलने के तरीके होते हैं।",
+	"gui.extension.videosensing.description": "कैमरे का उपयोग करके गति का पता लगाएँ।",
 	"gui.extension.text2speech.name": "लिखित से बोली में बदलना",
 	"gui.extension.text2speech.description": "अपने प्रोजेक्ट्स से बुलवाइए ",
 	"gui.extension.translate.name": "भाषांतर",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "इंटरनेट के माध्यम से मौसम की जानकारी प्राप्त करें, कंप्यूटर को इंटरनेट से कनेक्ट होना चाहिए",
 	"gui.extension.gestureRecognition": "हाव-भाव पहचान",
 	"gui.extension.gestureRecognition.description": "वेबकैम के माध्यम से हाव-भाव पहचानें",
-	"gui.modify.runPythonCode": "प्रोग्राम चलाएं",
+	"gui.modify.runPythonCode": "प्रोग्राम अपलोड करें",
 	"gui.extension.carMotor": "स्मार्ट कार",
 	"gui.extension.fourLeggedBionicSpider": "चार पैरों वाला बायोनिक मकड़ा",
 	"gui.extension.arm": "रोबोटिक आर्म",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "चार्ट दिखाएं",
 	"gui.modify.chartNoData": "कोई डेटा उपलब्ध नहीं है",
 	"gui.modify.connectDevice": "डिवाइस कनेक्ट करें",
-	"gui.modify.anewUploadFrmware": "पहचान चलाएँ, कृपया फर्मवेयर फिर से अपलोड करें",
-	"gui.modify.K210Firmware": "k210 फर्मवेयर"
+	"gui.modify.anewUploadFrmware": "संचालन विफल, कृपया फ़र्मवेयर दोबारा अपलोड करें",
+	"gui.modify.K210Firmware": "k210 फर्मवेयर",
+	"gui.modify.isExit": "क्या आप वाकई बाहर निकलना चाहते हैं?",
+	"carMotorV2.setMotorSpeed": "मोटर [ONE] की गति [TWO] पर सेट करें",
+	"carMotorV2.startCar": "स्मार्ट कार शुरू करें",
+	"gui.modify.uploadFirmware": "फर्मवेयर अपलोड करें"
 }

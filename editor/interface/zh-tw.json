@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "畫筆",
 	"gui.extension.pen.description": "使用你的角色來畫圖。",
 	"gui.extension.videosensing.name": "視訊偵測",
-	"gui.extension.videosensing.description": "四足仿生蜘蛛套件是一種模仿蜘蛛動作的四足機器人，具備靈活的運動能力和多樣的行走模式。",
+	"gui.extension.videosensing.description": "使用攝影機偵測運動。",
 	"gui.extension.text2speech.name": "文字轉語音",
 	"gui.extension.text2speech.description": "讓你的專案能夠說話",
 	"gui.extension.translate.name": "翻譯",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "通過網絡獲取天氣信息，電腦需要連網",
 	"gui.extension.gestureRecognition": "手勢識別",
 	"gui.extension.gestureRecognition.description": "透過網路攝像頭識別手勢",
-	"gui.modify.runPythonCode": "運行程式",
+	"gui.modify.runPythonCode": "上傳程序",
 	"gui.extension.carMotor": "智能車",
 	"gui.extension.fourLeggedBionicSpider": "四足仿生蜘蛛",
 	"gui.extension.arm": "機械臂",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "圖表展示",
 	"gui.modify.chartNoData": "暫無資料",
 	"gui.modify.connectDevice": "連接設備",
-	"gui.modify.anewUploadFrmware": "運行識別，請重新上傳韌體",
-	"gui.modify.K210Firmware": "k210韌體"
+	"gui.modify.anewUploadFrmware": "運行失敗，請重新上傳固件",
+	"gui.modify.K210Firmware": "k210韌體",
+	"gui.modify.isExit": "是否確定退出?",
+	"carMotorV2.setMotorSpeed": "設置電機[ONE]的速度為[TWO]",
+	"carMotorV2.startCar": "啟動智能小車",
+	"gui.modify.uploadFirmware": "上傳固件"
 }

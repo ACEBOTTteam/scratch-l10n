@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "kod parowania bluetooth",
 	"battleCar.weapon_max": "maksymalna wartość zakresu ruchu broni",
 	"battleCar.weapon_min": "minimalna wartość zakresu ruchu broni",
-	"battleCar.weapon": "zakres ruchu broni"
+	"battleCar.weapon": "zakres ruchu broni",
+	"ROBOT_HUMIDIFIER_V2": "nawilżacz V2%1%2",
+	"carMotorV2.initCar": "inicjalizacja inteligentnego samochodu",
+	"carMotorV2.carWebInit": "projekt strony internetowej samochodu"
 }

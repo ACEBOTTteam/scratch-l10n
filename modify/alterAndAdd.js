@@ -23,73 +23,94 @@ const fs = require('fs')
 
 const block = {}
 
-const extensions = {
+const extensions = {}
+const interfaceData = {
   "zh-cn": {
-  "battleCar.weapon": "武器运动范围"
-},
-"zh-tw": {
-  "battleCar.weapon": "武器運動範圍"
-},
-"en": {
-  "battleCar.weapon": "weapon movement range"
-},
-"fr": {
-  "battleCar.weapon": "plage de mouvement de l'arme"
-},
-"ja": {
-  "battleCar.weapon": "武器の動作範囲"
-},
-"de": {
-  "battleCar.weapon": "bewegungsbereich der waffe"
-},
-"es": {
-  "battleCar.weapon": "rango de movimiento del arma"
-},
-"ru": {
-  "battleCar.weapon": "диапазон движения оружия"
-},
-"cs": {
-  "battleCar.weapon": "rozsah pohybu zbraně"
-},
-"it": {
-  "battleCar.weapon": "intervallo di movimento dell'arma"
-},
-"pl": {
-  "battleCar.weapon": "zakres ruchu broni"
-},
-"tr": {
-  "battleCar.weapon": "silah hareket aralığı"
-},
-"pt": {
-  "battleCar.weapon": "alcance de movimento da arma"
-},
-"hr": {
-  "battleCar.weapon": "raspon kretanja oružja"
-},
-"hi": {
-  "battleCar.weapon": "हथियार की गति सीमा"
-},
-"ko": {
-  "battleCar.weapon": "무기 이동 범위"
-},
-"th": {
-  "battleCar.weapon": "ช่วงการเคลื่อนไหวของอาวุธ"
-},
-"nl": {
-  "battleCar.weapon": "bewegingsbereik van het wapen"
-},
-"ar": {
-  "battleCar.weapon": "نطاق حركة السلاح"
-},
-"vi": {
-  "battleCar.weapon": "phạm vi chuyển động vũ khí"
-},
-"he": {
-  "battleCar.weapon": "טווח תנועת הנשק"
-}
+    "gui.modify.runPythonCode": "上传程序",
+    "gui.modify.uploadFirmware": "上传固件",
+  },
+  "zh-tw": {
+    "gui.modify.runPythonCode": "上傳程序",
+    "gui.modify.uploadFirmware": "上傳固件"
+  },
+  "en": {
+    "gui.modify.runPythonCode": "upload program",
+    "gui.modify.uploadFirmware": "upload firmware"
+  },
+  "fr": {
+    "gui.modify.runPythonCode": "téléverser le programme",
+    "gui.modify.uploadFirmware": "téléverser le micrologiciel"
+  },
+  "ja": {
+    "gui.modify.runPythonCode": "プログラムをアップロード",
+    "gui.modify.uploadFirmware": "ファームウェアをアップロード"
+  },
+  "de": {
+    "gui.modify.runPythonCode": "programm hochladen",
+    "gui.modify.uploadFirmware": "firmware hochladen"
+  },
+  "es": {
+    "gui.modify.runPythonCode": "subir programa",
+    "gui.modify.uploadFirmware": "subir firmware"
+  },
+  "ru": {
+    "gui.modify.runPythonCode": "загрузить программу",
+    "gui.modify.uploadFirmware": "загрузить прошивку"
+  },
+  "cs": {
+    "gui.modify.runPythonCode": "nahrát program",
+    "gui.modify.uploadFirmware": "nahrát firmware"
+  },
+  "it": {
+    "gui.modify.runPythonCode": "caricare il programma",
+    "gui.modify.uploadFirmware": "caricare il firmware"
+  },
+  "pl": {
+    "gui.modify.runPythonCode": "prześlij program",
+    "gui.modify.uploadFirmware": "prześlij oprogramowanie"
+  },
+  "tr": {
+    "gui.modify.runPythonCode": "program yükle",
+    "gui.modify.uploadFirmware": "ürün yazılımı yükle"
+  },
+  "pt": {
+    "gui.modify.runPythonCode": "carregar programa",
+    "gui.modify.uploadFirmware": "carregar firmware"
+  },
+  "hr": {
+    "gui.modify.runPythonCode": "učitaj program",
+    "gui.modify.uploadFirmware": "učitaj firmware"
+  },
+  "hi": {
+    "gui.modify.runPythonCode": "प्रोग्राम अपलोड करें",
+    "gui.modify.uploadFirmware": "फर्मवेयर अपलोड करें"
+  },
+  "ko": {
+    "gui.modify.runPythonCode": "프로그램 업로드",
+    "gui.modify.uploadFirmware": "펌웨어 업로드"
+  },
+  "th": {
+    "gui.modify.runPythonCode": "อัปโหลดโปรแกรม",
+    "gui.modify.uploadFirmware": "อัปโหลดเฟิร์มแวร์"
+  },
+  "nl": {
+    "gui.modify.runPythonCode": "programma uploaden",
+    "gui.modify.uploadFirmware": "firmware uploaden"
+  },
+  "ar": {
+    "gui.modify.runPythonCode": "رفع البرنامج",
+    "gui.modify.uploadFirmware": "رفع البرنامج الثابت"
+  },
+  "vi": {
+    "gui.modify.runPythonCode": "tải lên chương trình",
+    "gui.modify.uploadFirmware": "tải lên firmware"
+  },
+  "he": {
+    "gui.modify.runPythonCode": "העלאת תוכנית",
+    "gui.modify.uploadFirmware": "העלאת קושחה"
+  }
 
 }
-const interfaceData = {}
 
 
 const alterAndAdd = (jsonData, path) => {

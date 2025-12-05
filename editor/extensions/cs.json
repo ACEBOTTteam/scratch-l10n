@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "párovací kód bluetooth",
 	"battleCar.weapon_max": "maximální hodnota rozsahu pohybu zbraně",
 	"battleCar.weapon_min": "minimální hodnota rozsahu pohybu zbraně",
-	"battleCar.weapon": "rozsah pohybu zbraně"
+	"battleCar.weapon": "rozsah pohybu zbraně",
+	"ROBOT_HUMIDIFIER_V2": "zvlhčovač V2%1%2",
+	"carMotorV2.initCar": "inicializace chytrého auta",
+	"carMotorV2.carWebInit": "webový návrh auta"
 }

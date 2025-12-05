@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "ширина",
 	"ROBOT_html_height": "высота",
 	"CATEGORY_ROBOTS_HTML": "веб-дизайн",
-	"ROBOT_operator_astrict": "ограничить максимальное значение %1 до %2 и минимальное значение до %3"
+	"ROBOT_operator_astrict": "ограничить максимальное значение %1 до %2 и минимальное значение до %3",
+	"ROBOT_HUMIDIFIER_V2": "увлажнитель V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "датчик ультрафиолета V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "ультразвуковое измерение расстояния (см) пин Trig: %1 пин Echo: %2 отправить",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ультразвуковое измерение расстояния (см) пин Trig: %1 пин Echo: %2 время распространения"
 }

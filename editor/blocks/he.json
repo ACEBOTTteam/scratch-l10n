@@ -560,5 +560,9 @@
 	"ROBOT_html_width": "רוחב",
 	"ROBOT_html_height": "גובה",
 	"CATEGORY_ROBOTS_HTML": "עיצוב אתרים",
-	"ROBOT_operator_astrict": "הגבל את הערך המרבי של %1 ל-%2 ואת הערך המזערי ל-%3"
+	"ROBOT_operator_astrict": "הגבל את הערך המרבי של %1 ל-%2 ואת הערך המזערי ל-%3",
+	"ROBOT_HUMIDIFIER_V2": "מכשיר אדים V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "חיישן קרינה אולטרה סגול V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "מדידת מרחק אולטרסוניקי (ס\"מ) פין Trig: %1 פין Echo: %2 שלח",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "מדידת מרחק אולטרסוניקי (ס\"מ) פין Trig: %1 פין Echo: %2 זמן הפצה"
 }

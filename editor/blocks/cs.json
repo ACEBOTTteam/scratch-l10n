@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "šířka",
 	"ROBOT_html_height": "výška",
 	"CATEGORY_ROBOTS_HTML": "webový design",
-	"ROBOT_operator_astrict": "omezit maximální hodnotu %1 na %2 a minimální hodnotu na %3"
+	"ROBOT_operator_astrict": "omezit maximální hodnotu %1 na %2 a minimální hodnotu na %3",
+	"ROBOT_HUMIDIFIER_V2": "zvlhčovač V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "ultrafialový senzor V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrazvukové měření vzdálenosti (cm) pin Trig: %1 pin Echo: %2 odeslat",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrazvukové měření vzdálenosti (cm) pin Trig: %1 pin Echo: %2 doba šíření"
 }

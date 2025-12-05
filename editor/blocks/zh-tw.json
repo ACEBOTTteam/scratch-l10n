@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "寬",
 	"ROBOT_html_height": "高",
 	"CATEGORY_ROBOTS_HTML": "網頁設計",
-	"ROBOT_operator_astrict": "限制%1的最大值為%2,最小值為%3"
+	"ROBOT_operator_astrict": "限制%1的最大值為%2,最小值為%3",
+	"ROBOT_HUMIDIFIER_V2": "加濕器V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "紫外線感測器V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "超聲波發射測距(cm)Trig腳位: %1 Echo腳位: %2 發射",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "超聲波發射測距(cm)Trig腳位: %1 Echo腳位: %2 傳播時間"
 }

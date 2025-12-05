@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "ความกว้าง",
 	"ROBOT_html_height": "ความสูง",
 	"CATEGORY_ROBOTS_HTML": "การออกแบบเว็บ",
-	"ROBOT_operator_astrict": "จำกัดค่ามากสุดของ %1 เป็น %2 และค่าน้อยสุดเป็น %3"
+	"ROBOT_operator_astrict": "จำกัดค่ามากสุดของ %1 เป็น %2 และค่าน้อยสุดเป็น %3",
+	"ROBOT_HUMIDIFIER_V2": "เครื่องเพิ่มความชื้น V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "เซ็นเซอร์รังสีอัลตราไวโอเลต V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "วัดระยะด้วยอัลตราโซนิก (ซม.) Trig ขา: %1 Echo ขา: %2 ส่ง",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "วัดระยะด้วยอัลตราโซนิก (ซม.) Trig ขา: %1 Echo ขา: %2 เวลาแพร่กระจาย"
 }

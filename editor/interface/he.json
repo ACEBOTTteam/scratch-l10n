@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "עט",
 	"gui.extension.pen.description": "ציירו עם הדמות שלכם",
 	"gui.extension.videosensing.name": "חיישן מצלמה",
-	"gui.extension.videosensing.description": "זיהוי תנועה באמצעות המצלמה",
+	"gui.extension.videosensing.description": "לגלות תנועה באמצעות המצלמה.",
 	"gui.extension.text2speech.name": "טקסט לדיבור",
 	"gui.extension.text2speech.description": "גרמו לפרויקט שלכם לדבר",
 	"gui.extension.translate.name": "תרגום",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "קבלת מידע על מזג אוויר דרך האינטרנט, המחשב חייב להיות מחובר לרשת",
 	"gui.extension.gestureRecognition": "זיהוי מחוות",
 	"gui.extension.gestureRecognition.description": "זיהוי מחוות דרך מצלמת רשת",
-	"gui.modify.runPythonCode": "הפעל תוכנית",
+	"gui.modify.runPythonCode": "העלאת תוכנית",
 	"gui.extension.carMotor": "רובוט חכם",
 	"gui.extension.fourLeggedBionicSpider": "עכביש ביוני ארבע רגליים",
 	"gui.extension.arm": "זרוע רובוטית",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "הצג תרשים",
 	"gui.modify.chartNoData": "אין נתונים",
 	"gui.modify.connectDevice": "חבר מכשיר",
-	"gui.modify.anewUploadFrmware": "הפעל זיהוי, אנא העלה מחדש את הקושחה",
-	"gui.modify.K210Firmware": "קושחת k210"
+	"gui.modify.anewUploadFrmware": "הפעולה נכשלה, אנא העלה מחדש את הקושחה",
+	"gui.modify.K210Firmware": "קושחת k210",
+	"gui.modify.isExit": "האם אתה בטוח שברצונך לצאת?",
+	"carMotorV2.setMotorSpeed": "הגדר את מהירות המנוע [ONE] ל-[TWO]",
+	"carMotorV2.startCar": "הפעל את הרכב החכם",
+	"gui.modify.uploadFirmware": "העלאת קושחה"
 }

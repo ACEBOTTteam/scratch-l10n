@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "ペン",
 	"gui.extension.pen.description": "スプライトで絵を描く。",
 	"gui.extension.videosensing.name": "ビデオモーションセンサー",
-	"gui.extension.videosensing.description": "四足バイオニックスパイダーキットは、クモの動きを模倣した四足ロボットで、柔軟な運動能力と多様な歩行モードを備えています。",
+	"gui.extension.videosensing.description": "カメラを使用して動きを検出します。",
 	"gui.extension.text2speech.name": "音声合成",
 	"gui.extension.text2speech.description": "言葉をしゃべるプロジェクトを作ろう。",
 	"gui.extension.translate.name": "翻訳",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "インターネット経由で天気情報を取得します。コンピュータはオンラインである必要があります",
 	"gui.extension.gestureRecognition": "ジェスチャー認識",
 	"gui.extension.gestureRecognition.description": "ウェブカメラを通じてジェスチャーを認識",
-	"gui.modify.runPythonCode": "プログラムを実行",
+	"gui.modify.runPythonCode": "プログラムをアップロード",
 	"gui.extension.carMotor": "スマートカー",
 	"gui.extension.fourLeggedBionicSpider": "四脚バイオニクスパイダー",
 	"gui.extension.arm": "ロボットアーム",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "グラフを表示",
 	"gui.modify.chartNoData": "データがありません",
 	"gui.modify.connectDevice": "デバイスを接続",
-	"gui.modify.anewUploadFrmware": "認識を実行してください、ファームウェアを再アップロードしてください",
-	"gui.modify.K210Firmware": "k210ファームウェア"
+	"gui.modify.anewUploadFrmware": "実行に失敗しました、ファームウェアを再アップロードしてください",
+	"gui.modify.K210Firmware": "k210ファームウェア",
+	"gui.modify.isExit": "終了してもよろしいですか？",
+	"carMotorV2.setMotorSpeed": "モーター[ONE]の速度を[TWO]に設定する",
+	"carMotorV2.startCar": "スマートカーを起動する",
+	"gui.modify.uploadFirmware": "ファームウェアをアップロード"
 }

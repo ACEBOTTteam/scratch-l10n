@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "קוד התאמת bluetooth",
 	"battleCar.weapon_max": "ערך מקסימלי של טווח תנועת הנשק",
 	"battleCar.weapon_min": "ערך מינימלי של טווח תנועת הנשק",
-	"battleCar.weapon": "טווח תנועת הנשק"
+	"battleCar.weapon": "טווח תנועת הנשק",
+	"ROBOT_HUMIDIFIER_V2": "מכשיר אדים V2%1%2",
+	"carMotorV2.initCar": "אתחול רכב חכם",
+	"carMotorV2.carWebInit": "עיצוב דף הרכב"
 }

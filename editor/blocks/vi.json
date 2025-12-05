@@ -560,5 +560,9 @@
 	"ROBOT_html_width": "chiều rộng",
 	"ROBOT_html_height": "chiều cao",
 	"CATEGORY_ROBOTS_HTML": "thiết kế web",
-	"ROBOT_operator_astrict": "giới hạn giá trị tối đa của %1 là %2 và giá trị tối thiểu là %3"
+	"ROBOT_operator_astrict": "giới hạn giá trị tối đa của %1 là %2 và giá trị tối thiểu là %3",
+	"ROBOT_HUMIDIFIER_V2": "máy tạo ẩm V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "cảm biến tia cực tím V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "đo khoảng cách siêu âm (cm) chân Trig: %1 chân Echo: %2 gửi",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "đo khoảng cách siêu âm (cm) chân Trig: %1 chân Echo: %2 thời gian truyền"
 }

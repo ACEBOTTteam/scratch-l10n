@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "genişlik",
 	"ROBOT_html_height": "yükseklik",
 	"CATEGORY_ROBOTS_HTML": "web tasarımı",
-	"ROBOT_operator_astrict": "%1'in maksimum değerini %2, minimum değerini %3 ile sınırla"
+	"ROBOT_operator_astrict": "%1'in maksimum değerini %2, minimum değerini %3 ile sınırla",
+	"ROBOT_HUMIDIFIER_V2": "nemlendirici V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "ultraviyole sensörü V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrasonik mesafe ölçümü (cm) Trig pini: %1 Echo pini: %2 gönder",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrasonik mesafe ölçümü (cm) Trig pini: %1 Echo pini: %2 yayılma süresi"
 }

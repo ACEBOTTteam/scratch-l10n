@@ -560,5 +560,9 @@
 	"ROBOT_html_width": "宽",
 	"ROBOT_html_height": "高",
 	"CATEGORY_ROBOTS_HTML": "网页设计",
-	"ROBOT_operator_astrict": "限制%1的最大值为%2,最小值为%3"
+	"ROBOT_operator_astrict": "限制%1的最大值为%2,最小值为%3",
+	"ROBOT_HUMIDIFIER_V2": "加湿器V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "紫外线传感器V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "超声波发射测距(cm)Trig管脚: %1 Echo管脚: %2 发射",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "超声波发射测距(cm)Trig管脚: %1 Echo管脚: %2 传播时间"
 }

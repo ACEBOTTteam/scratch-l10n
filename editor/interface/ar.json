@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "القلم",
 	"gui.extension.pen.description": "للرسم بواسطة كائناتك.",
 	"gui.extension.videosensing.name": "استشعار الفيديو",
-	"gui.extension.videosensing.description": "مجموعة العنكبوت البيوني رباعية الأرجل هي روبوت رباعي الأرجل يحاكي حركة العنكبوت، يتميز بحركة مرنة وأنماط مشي متعددة.",
+	"gui.extension.videosensing.description": "اكتشاف الحركة باستخدام الكاميرا.",
 	"gui.extension.text2speech.name": "نص إلى كلام",
 	"gui.extension.text2speech.description": "لجعل مشاريعك تتحدث.",
 	"gui.extension.translate.name": "الترجمة",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "استرداد معلومات الطقس عبر الإنترنت، يجب أن يكون الكمبيوتر متصلاً بالإنترنت",
 	"gui.extension.gestureRecognition": "تعرف على الإيماءات",
 	"gui.extension.gestureRecognition.description": "تعرف على الإيماءات باستخدام كاميرا الويب",
-	"gui.modify.runPythonCode": "تشغيل البرنامج",
+	"gui.modify.runPythonCode": "رفع البرنامج",
 	"gui.extension.carMotor": "سيارة ذكية",
 	"gui.extension.fourLeggedBionicSpider": "عنكبوت بايوني ذو أربعة أرجل",
 	"gui.extension.arm": "ذراع الروبوت",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "عرض المخطط",
 	"gui.modify.chartNoData": "لا توجد بيانات",
 	"gui.modify.connectDevice": "توصيل الجهاز",
-	"gui.modify.anewUploadFrmware": "تشغيل التعرف، يرجى إعادة تحميل البرنامج الثابت",
-	"gui.modify.K210Firmware": "البرنامج الثابت k210"
+	"gui.modify.anewUploadFrmware": "فشل التشغيل، يرجى إعادة تحميل البرنامج الثابت",
+	"gui.modify.K210Firmware": "البرنامج الثابت k210",
+	"gui.modify.isExit": "هل أنت متأكد أنك تريد الخروج؟",
+	"carMotorV2.setMotorSpeed": "ضبط سرعة المحرك [ONE] إلى [TWO]",
+	"carMotorV2.startCar": "تشغيل السيارة الذكية",
+	"gui.modify.uploadFirmware": "رفع البرنامج الثابت"
 }

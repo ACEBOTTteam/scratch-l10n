@@ -661,5 +661,8 @@
 	"battleCar.bluetoothCode": "bluetooth-koppelcode",
 	"battleCar.weapon_max": "maximale waarde van het bewegingsbereik van het wapen",
 	"battleCar.weapon_min": "minimale waarde van het bewegingsbereik van het wapen",
-	"battleCar.weapon": "bewegingsbereik van het wapen"
+	"battleCar.weapon": "bewegingsbereik van het wapen",
+	"ROBOT_HUMIDIFIER_V2": "luchtbevochtiger V2%1%2",
+	"carMotorV2.initCar": "initialisatie van de slimme auto",
+	"carMotorV2.carWebInit": "webontwerp van de auto"
 }

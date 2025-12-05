@@ -451,7 +451,7 @@
 	"gui.extension.pen.name": "Malstift",
 	"gui.extension.pen.description": "Zeichne mit deinen Figuren.",
 	"gui.extension.videosensing.name": "Video-Erfassung",
-	"gui.extension.videosensing.description": "Das vierbeinige bionische Spinnen-Kit ist ein vierbeiniges Robotersystem, das Spinnenbewegungen nachahmt und über flexible Beweglichkeit und vielfältige Gangarten verfügt.",
+	"gui.extension.videosensing.description": "bewegung mit der kamera erkennen.",
 	"gui.extension.text2speech.name": "Text zu Sprache",
 	"gui.extension.text2speech.description": "Bring deinen Projekten das Sprechen bei.",
 	"gui.extension.translate.name": "Übersetzen",
@@ -565,7 +565,7 @@
 	"gui.extension.weather.description": "Wetterinformationen über das Internet abrufen, Computer muss online sein",
 	"gui.extension.gestureRecognition": "Gestenerkennung",
 	"gui.extension.gestureRecognition.description": "Erkenne Gesten über eine Webcam",
-	"gui.modify.runPythonCode": "Programm ausführen",
+	"gui.modify.runPythonCode": "programm hochladen",
 	"gui.extension.carMotor": "Intelligentes Auto",
 	"gui.extension.fourLeggedBionicSpider": "Vierbeinige Bionische Spinne",
 	"gui.extension.arm": "roboterarm",
@@ -625,6 +625,10 @@
 	"gui.modify.showChart": "diagramm anzeigen",
 	"gui.modify.chartNoData": "keine daten verfügbar",
 	"gui.modify.connectDevice": "gerät verbinden",
-	"gui.modify.anewUploadFrmware": "erkennung ausführen, bitte firmware erneut hochladen",
-	"gui.modify.K210Firmware": "k210-firmware"
+	"gui.modify.anewUploadFrmware": "vorgang fehlgeschlagen, bitte die firmware erneut hochladen",
+	"gui.modify.K210Firmware": "k210-firmware",
+	"gui.modify.isExit": "möchten sie wirklich beenden?",
+	"carMotorV2.setMotorSpeed": "geschwindigkeit des motors [ONE] auf [TWO] einstellen",
+	"carMotorV2.startCar": "intelligentes fahrzeug starten",
+	"gui.modify.uploadFirmware": "firmware hochladen"
 }

@@ -562,5 +562,9 @@
 	"ROBOT_html_width": "عرض",
 	"ROBOT_html_height": "ارتفاع",
 	"CATEGORY_ROBOTS_HTML": "تصميم المواقع",
-	"ROBOT_operator_astrict": "تقييد القيمة القصوى لـ %1 إلى %2 والحد الأدنى إلى %3"
+	"ROBOT_operator_astrict": "تقييد القيمة القصوى لـ %1 إلى %2 والحد الأدنى إلى %3",
+	"ROBOT_HUMIDIFIER_V2": "مرطب الهواء V2%1%2",
+	"ROBOT_ULTRAVIOLET_RAY_V2": "مستشعر الأشعة فوق البنفسجية V2%1%2",
+	"ROBOT_ULTRASONIC_SENSOR_SEND": "قياس المسافة بالموجات فوق الصوتية (سم) دبوس Trig: %1 دبوس Echo: %2 إرسال",
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "قياس المسافة بالموجات فوق الصوتية (سم) دبوس Trig: %1 دبوس Echo: %2 وقت الانتشار"
 }

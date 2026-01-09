@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "加濕器V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "紫外線感測器V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "超聲波發射測距(cm)Trig腳位: %1 Echo腳位: %2 發射",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "超聲波發射測距(cm)Trig腳位: %1 Echo腳位: %2 傳播時間"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "超聲波發射測距(cm)Trig腳位: %1 Echo腳位: %2 傳播時間",
+	"operator_take_inverse": "將%1值取反",
+	"joystick_i2c": "搖桿%1值",
+	"tilt_sensor": "傾斜感測器%1",
+	"hall_magnetic_sensor": "霍爾感測器%1",
+	"ds1307_clock_module_init": "時鐘初始化時間",
+	"ds1307_clock_module_setTime": "時鐘設定時間 年%1 月%2 日%3 時%4 分%5 秒%6",
+	"ds1307_clock_module_getTime": "時鐘取得%1",
+	"SELECT_TIME": "時間",
+	"SELECT_DATA_TIME": "日期",
+	"operator_boolean": "布林值%1",
+	"operator_map": "將數值%1從%2-%3映射到%4-%5",
+	"ds1307_clock_module_isRun": "時鐘模組是否運行",
+	"ds1307_clock_module_isConnect": "時鐘模組是否連接",
+	"html_setFontColor": "設定 %1 字體顏色為 %2",
+	"P_Buzzer_frequency_time": "蜂鳴器 %1 頻率 %2 持續時間 %3 s"
 }

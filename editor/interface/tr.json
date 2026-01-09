@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "çıkmak istediğinizden emin misiniz?",
 	"carMotorV2.setMotorSpeed": "motor [ONE] hızını [TWO] olarak ayarla",
 	"carMotorV2.startCar": "akıllı arabayı başlat",
-	"gui.modify.uploadFirmware": "ürün yazılımı yükle"
+	"gui.modify.uploadFirmware": "ürün yazılımı yükle",
+	"operator_take_inverse": "%1 değerini tersine çevir",
+	"joystick_i2c": "joystick %1 değeri",
+	"tilt_sensor": "eğim sensörü %1",
+	"hall_magnetic_sensor": "hall sensörü %1",
+	"ds1307_clock_module_init": "saat zamanını başlat",
+	"ds1307_clock_module_setTime": "saat ayarla yıl %1 ay %2 gün %3 saat %4 dakika %5 saniye %6",
+	"ds1307_clock_module_getTime": "saat al %1",
+	"SELECT_TIME": "zaman",
+	"SELECT_DATA_TIME": "tarih",
+	"upload_set": "yükleme ayarları",
+	"data_clear": "veri temizleme",
+	"uploadBaudRate": "yükleme baud hızı",
+	"compilationCache": "derleme önbelleği",
+	"clear_select_data": "seçilen öğeleri temizle",
+	"gui.modify.clear_success": "temizleme tamamlandı"
 }

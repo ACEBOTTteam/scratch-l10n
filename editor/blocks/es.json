@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "humidificador V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "sensor ultravioleta V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "medición de distancia ultrasónica (cm) pin Trig: %1 pin Echo: %2 enviar",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "medición de distancia ultrasónica (cm) pin Trig: %1 pin Echo: %2 tiempo de propagación"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "medición de distancia ultrasónica (cm) pin Trig: %1 pin Echo: %2 tiempo de propagación",
+	"operator_take_inverse": "invertir el valor de %1",
+	"joystick_i2c": "valor del joystick %1",
+	"tilt_sensor": "sensor de inclinación %1",
+	"hall_magnetic_sensor": "sensor hall %1",
+	"ds1307_clock_module_init": "inicializar hora del reloj",
+	"ds1307_clock_module_setTime": "configurar hora año %1 mes %2 día %3 hora %4 minuto %5 segundo %6",
+	"ds1307_clock_module_getTime": "obtener reloj %1",
+	"SELECT_TIME": "hora",
+	"SELECT_DATA_TIME": "fecha",
+	"operator_boolean": "valor booleano %1",
+	"operator_map": "mapear el valor %1 de %2-%3 a %4-%5",
+	"ds1307_clock_module_isRun": "el módulo de reloj está en funcionamiento",
+	"ds1307_clock_module_isConnect": "el módulo de reloj está conectado",
+	"html_setFontColor": "establecer el color de fuente de %1 en %2",
+	"P_Buzzer_frequency_time": "zumbador %1 frecuencia %2 duración %3 s"
 }

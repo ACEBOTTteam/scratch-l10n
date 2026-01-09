@@ -664,5 +664,9 @@
 	"battleCar.weapon": "טווח תנועת הנשק",
 	"ROBOT_HUMIDIFIER_V2": "מכשיר אדים V2%1%2",
 	"carMotorV2.initCar": "אתחול רכב חכם",
-	"carMotorV2.carWebInit": "עיצוב דף הרכב"
+	"carMotorV2.carWebInit": "עיצוב דף הרכב",
+	"carMotor.leftUp": "שמאל עליון",
+	"carMotor.leftDown": "שמאל תחתון",
+	"carMotor.rightUp": "ימין עליון",
+	"carMotor.rightDown": "ימין תחתון"
 }

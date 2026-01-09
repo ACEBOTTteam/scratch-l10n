@@ -664,5 +664,9 @@
 	"battleCar.weapon": "диапазон движения оружия",
 	"ROBOT_HUMIDIFIER_V2": "увлажнитель V2%1%2",
 	"carMotorV2.initCar": "инициализация умного автомобиля",
-	"carMotorV2.carWebInit": "веб-дизайн автомобиля"
+	"carMotorV2.carWebInit": "веб-дизайн автомобиля",
+	"carMotor.leftUp": "слева сверху",
+	"carMotor.leftDown": "слева снизу",
+	"carMotor.rightUp": "справа сверху",
+	"carMotor.rightDown": "справа снизу"
 }

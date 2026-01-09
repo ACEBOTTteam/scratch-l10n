@@ -664,5 +664,9 @@
 	"battleCar.weapon": "rozsah pohybu zbraně",
 	"ROBOT_HUMIDIFIER_V2": "zvlhčovač V2%1%2",
 	"carMotorV2.initCar": "inicializace chytrého auta",
-	"carMotorV2.carWebInit": "webový návrh auta"
+	"carMotorV2.carWebInit": "webový návrh auta",
+	"carMotor.leftUp": "vlevo nahoře",
+	"carMotor.leftDown": "vlevo dole",
+	"carMotor.rightUp": "vpravo nahoře",
+	"carMotor.rightDown": "vpravo dole"
 }

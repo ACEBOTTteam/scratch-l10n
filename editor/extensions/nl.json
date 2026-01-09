@@ -664,5 +664,9 @@
 	"battleCar.weapon": "bewegingsbereik van het wapen",
 	"ROBOT_HUMIDIFIER_V2": "luchtbevochtiger V2%1%2",
 	"carMotorV2.initCar": "initialisatie van de slimme auto",
-	"carMotorV2.carWebInit": "webontwerp van de auto"
+	"carMotorV2.carWebInit": "webontwerp van de auto",
+	"carMotor.leftUp": "links boven",
+	"carMotor.leftDown": "links onder",
+	"carMotor.rightUp": "rechts boven",
+	"carMotor.rightDown": "rechts onder"
 }

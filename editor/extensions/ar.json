@@ -664,5 +664,9 @@
 	"battleCar.weapon": "نطاق حركة السلاح",
 	"ROBOT_HUMIDIFIER_V2": "مرطب الهواء V2%1%2",
 	"carMotorV2.initCar": "تهيئة السيارة الذكية",
-	"carMotorV2.carWebInit": "تصميم صفحة الويب للسيارة"
+	"carMotorV2.carWebInit": "تصميم صفحة الويب للسيارة",
+	"carMotor.leftUp": "أعلى اليسار",
+	"carMotor.leftDown": "أسفل اليسار",
+	"carMotor.rightUp": "أعلى اليمين",
+	"carMotor.rightDown": "أسفل اليمين"
 }

@@ -564,5 +564,20 @@
 	"ROBOT_HUMIDIFIER_V2": "ह्यूमिडिफायर V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "पराबैंगनी सेंसर V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "अल्ट्रासोनिक दूरी मापन (सेमी) Trig पिन: %1 Echo पिन: %2 भेजें",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "अल्ट्रासोनिक दूरी मापन (सेमी) Trig पिन: %1 Echo पिन: %2 प्रसार समय"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "अल्ट्रासोनिक दूरी मापन (सेमी) Trig पिन: %1 Echo पिन: %2 प्रसार समय",
+	"operator_take_inverse": "%1 मान को उल्टा करें",
+	"joystick_i2c": "जॉयस्टिक %1 मान",
+	"tilt_sensor": "झुकाव सेंसर %1",
+	"hall_magnetic_sensor": "हॉल सेंसर %1",
+	"ds1307_clock_module_init": "घड़ी समय प्रारंभ करें",
+	"ds1307_clock_module_setTime": "समय सेट करें वर्ष %1 माह %2 दिन %3 घंटा %4 मिनट %5 सेकंड %6",
+	"ds1307_clock_module_getTime": "घड़ी प्राप्त करें %1",
+	"SELECT_TIME": "समय",
+	"SELECT_DATA_TIME": "तिथि",
+	"operator_boolean": "बूलियन मान %1",
+	"operator_map": "%1 मान को %2-%3 से %4-%5 में मैप करें",
+	"ds1307_clock_module_isRun": "क्या घड़ी मॉड्यूल चल रहा है",
+	"ds1307_clock_module_isConnect": "क्या घड़ी मॉड्यूल जुड़ा है",
+	"html_setFontColor": "%1 फ़ॉन्ट रंग को %2 पर सेट करें",
+	"P_Buzzer_frequency_time": "बज़र %1 आवृत्ति %2 अवधि %3 s"
 }

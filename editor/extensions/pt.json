@@ -664,5 +664,9 @@
 	"battleCar.weapon": "alcance de movimento da arma",
 	"ROBOT_HUMIDIFIER_V2": "umidificador V2%1%2",
 	"carMotorV2.initCar": "inicialização do carro inteligente",
-	"carMotorV2.carWebInit": "design da página web do carro"
+	"carMotorV2.carWebInit": "design da página web do carro",
+	"carMotor.leftUp": "superior esquerdo",
+	"carMotor.leftDown": "inferior esquerdo",
+	"carMotor.rightUp": "superior direito",
+	"carMotor.rightDown": "inferior direito"
 }

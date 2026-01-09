@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "เครื่องเพิ่มความชื้น V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "เซ็นเซอร์รังสีอัลตราไวโอเลต V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "วัดระยะด้วยอัลตราโซนิก (ซม.) Trig ขา: %1 Echo ขา: %2 ส่ง",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "วัดระยะด้วยอัลตราโซนิก (ซม.) Trig ขา: %1 Echo ขา: %2 เวลาแพร่กระจาย"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "วัดระยะด้วยอัลตราโซนิก (ซม.) Trig ขา: %1 Echo ขา: %2 เวลาแพร่กระจาย",
+	"operator_take_inverse": "กลับค่าของ %1",
+	"joystick_i2c": "ค่าจอยสติ๊ก %1",
+	"tilt_sensor": "เซ็นเซอร์เอียง %1",
+	"hall_magnetic_sensor": "เซ็นเซอร์ฮอลล์ %1",
+	"ds1307_clock_module_init": "เริ่มต้นเวลา นาฬิกา",
+	"ds1307_clock_module_setTime": "ตั้งเวลา ปี %1 เดือน %2 วัน %3 ชั่วโมง %4 นาที %5 วินาที %6",
+	"ds1307_clock_module_getTime": "อ่านนาฬิกา %1",
+	"SELECT_TIME": "เวลา",
+	"SELECT_DATA_TIME": "วันที่",
+	"operator_boolean": "ค่าบูลีน %1",
+	"operator_map": "แมปค่า %1 จาก %2-%3 ไปยัง %4-%5",
+	"ds1307_clock_module_isRun": "โมดูลนาฬิกากำลังทำงานหรือไม่",
+	"ds1307_clock_module_isConnect": "โมดูลนาฬิกาเชื่อมต่อหรือไม่",
+	"html_setFontColor": "ตั้งค่าสีตัวอักษรของ %1 เป็น %2",
+	"P_Buzzer_frequency_time": "บัซเซอร์ %1 ความถี่ %2 ระยะเวลา %3 s"
 }

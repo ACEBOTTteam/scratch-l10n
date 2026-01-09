@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "是否确定退出?",
 	"carMotorV2.setMotorSpeed": "设置电机[ONE]的速度为[TWO]",
 	"carMotorV2.startCar": "启动智能小车",
-	"gui.modify.uploadFirmware": "上传固件"
+	"gui.modify.uploadFirmware": "上传固件",
+	"operator_take_inverse": "将%1值取反",
+	"joystick_i2c": "摇杆%1值",
+	"tilt_sensor": "倾斜传感器%1",
+	"hall_magnetic_sensor": "霍尔传感器%1",
+	"ds1307_clock_module_init": "时钟初始化时间",
+	"ds1307_clock_module_setTime": "时钟设置时间 年%1 月%2 日%3 时%4 分%5 秒%6",
+	"ds1307_clock_module_getTime": "时钟获取%1",
+	"SELECT_TIME": "时间",
+	"SELECT_DATA_TIME": "日期",
+	"upload_set": "上传设置",
+	"data_clear": "数据清理",
+	"uploadBaudRate": " 上传波特率",
+	"compilationCache": " 编译缓存",
+	"clear_select_data": "清理选中项",
+	"gui.modify.clear_success": "清除完成"
 }

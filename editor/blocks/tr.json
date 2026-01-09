@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "nemlendirici V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "ultraviyole sensörü V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrasonik mesafe ölçümü (cm) Trig pini: %1 Echo pini: %2 gönder",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrasonik mesafe ölçümü (cm) Trig pini: %1 Echo pini: %2 yayılma süresi"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrasonik mesafe ölçümü (cm) Trig pini: %1 Echo pini: %2 yayılma süresi",
+	"operator_take_inverse": "%1 değerini tersine çevir",
+	"joystick_i2c": "joystick %1 değeri",
+	"tilt_sensor": "eğim sensörü %1",
+	"hall_magnetic_sensor": "hall sensörü %1",
+	"ds1307_clock_module_init": "saat zamanını başlat",
+	"ds1307_clock_module_setTime": "saat ayarla yıl %1 ay %2 gün %3 saat %4 dakika %5 saniye %6",
+	"ds1307_clock_module_getTime": "saat al %1",
+	"SELECT_TIME": "zaman",
+	"SELECT_DATA_TIME": "tarih",
+	"operator_boolean": "boole değeri %1",
+	"operator_map": "%1 değerini %2-%3 aralığından %4-%5 aralığına eşle",
+	"ds1307_clock_module_isRun": "saat modülü çalışıyor mu",
+	"ds1307_clock_module_isConnect": "saat modülü bağlı mı",
+	"html_setFontColor": "%1 yazı tipi rengini %2 olarak ayarla",
+	"P_Buzzer_frequency_time": "buzzer %1 frekans %2 süre %3 s"
 }

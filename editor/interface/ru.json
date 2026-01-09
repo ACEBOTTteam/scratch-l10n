@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "вы уверены, что хотите выйти?",
 	"carMotorV2.setMotorSpeed": "установить скорость двигателя [ONE] на [TWO]",
 	"carMotorV2.startCar": "запустить умную машину",
-	"gui.modify.uploadFirmware": "загрузить прошивку"
+	"gui.modify.uploadFirmware": "загрузить прошивку",
+	"operator_take_inverse": "инвертировать значение %1",
+	"joystick_i2c": "значение джойстика %1",
+	"tilt_sensor": "датчик наклона %1",
+	"hall_magnetic_sensor": "датчик холла %1",
+	"ds1307_clock_module_init": "инициализация времени часов",
+	"ds1307_clock_module_setTime": "установить время год %1 месяц %2 день %3 час %4 минута %5 секунда %6",
+	"ds1307_clock_module_getTime": "получить часы %1",
+	"SELECT_TIME": "время",
+	"SELECT_DATA_TIME": "дата",
+	"upload_set": "настройки загрузки",
+	"data_clear": "очистка данных",
+	"uploadBaudRate": "скорость передачи загрузки",
+	"compilationCache": "кэш компиляции",
+	"clear_select_data": "очистить выбранные элементы",
+	"gui.modify.clear_success": "очистка завершена"
 }

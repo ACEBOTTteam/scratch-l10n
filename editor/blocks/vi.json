@@ -564,5 +564,20 @@
 	"ROBOT_HUMIDIFIER_V2": "máy tạo ẩm V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "cảm biến tia cực tím V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "đo khoảng cách siêu âm (cm) chân Trig: %1 chân Echo: %2 gửi",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "đo khoảng cách siêu âm (cm) chân Trig: %1 chân Echo: %2 thời gian truyền"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "đo khoảng cách siêu âm (cm) chân Trig: %1 chân Echo: %2 thời gian truyền",
+	"operator_take_inverse": "đảo giá trị %1",
+	"joystick_i2c": "giá trị joystick %1",
+	"tilt_sensor": "cảm biến nghiêng %1",
+	"hall_magnetic_sensor": "cảm biến hall %1",
+	"ds1307_clock_module_init": "khởi tạo thời gian đồng hồ",
+	"ds1307_clock_module_setTime": "đặt thời gian năm %1 tháng %2 ngày %3 giờ %4 phút %5 giây %6",
+	"ds1307_clock_module_getTime": "lấy đồng hồ %1",
+	"SELECT_TIME": "thời gian",
+	"SELECT_DATA_TIME": "ngày",
+	"operator_boolean": "giá trị boolean %1",
+	"operator_map": "ánh xạ giá trị %1 từ %2-%3 sang %4-%5",
+	"ds1307_clock_module_isRun": "mô-đun đồng hồ có đang chạy không",
+	"ds1307_clock_module_isConnect": "mô-đun đồng hồ có được kết nối không",
+	"html_setFontColor": "đặt màu phông chữ của %1 thành %2",
+	"P_Buzzer_frequency_time": "còi %1 tần số %2 thời gian %3 s"
 }

@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "humidifier V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "ultraviolet sensor V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrasonic distance measurement (cm) Trig pin: %1 Echo pin: %2 send",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrasonic distance measurement (cm) Trig pin: %1 Echo pin: %2 propagation time"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrasonic distance measurement (cm) Trig pin: %1 Echo pin: %2 propagation time",
+	"operator_take_inverse": "invert the value of %1",
+	"joystick_i2c": "joystick %1 value",
+	"tilt_sensor": "tilt sensor %1",
+	"hall_magnetic_sensor": "hall sensor %1",
+	"ds1307_clock_module_init": "initialize clock time",
+	"ds1307_clock_module_setTime": "set clock time year %1 month %2 day %3 hour %4 minute %5 second %6",
+	"ds1307_clock_module_getTime": "get clock %1",
+	"SELECT_TIME": "time",
+	"SELECT_DATA_TIME": "date",
+	"operator_boolean": "boolean value %1",
+	"operator_map": "map value %1 from %2-%3 to %4-%5",
+	"ds1307_clock_module_isRun": "is the clock module running",
+	"ds1307_clock_module_isConnect": "is the clock module connected",
+	"html_setFontColor": "set %1 font color to %2",
+	"P_Buzzer_frequency_time": "buzzer %1 frequency %2 duration %3 s"
 }

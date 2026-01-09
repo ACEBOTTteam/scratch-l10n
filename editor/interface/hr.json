@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "jeste li sigurni da želite izaći?",
 	"carMotorV2.setMotorSpeed": "postaviti brzinu motora [ONE] na [TWO]",
 	"carMotorV2.startCar": "pokreni pametni automobil",
-	"gui.modify.uploadFirmware": "učitaj firmware"
+	"gui.modify.uploadFirmware": "učitaj firmware",
+	"operator_take_inverse": "invertiraj vrijednost %1",
+	"joystick_i2c": "vrijednost joysticka %1",
+	"tilt_sensor": "senzor nagiba %1",
+	"hall_magnetic_sensor": "hall senzor %1",
+	"ds1307_clock_module_init": "inicijalizacija vremena sata",
+	"ds1307_clock_module_setTime": "postavi vrijeme godina %1 mjesec %2 dan %3 sat %4 minuta %5 sekunda %6",
+	"ds1307_clock_module_getTime": "dohvati sat %1",
+	"SELECT_TIME": "vrijeme",
+	"SELECT_DATA_TIME": "datum",
+	"upload_set": "postavke prijenosa",
+	"data_clear": "čišćenje podataka",
+	"uploadBaudRate": "baud brzina prijenosa",
+	"compilationCache": "predmemorija kompilacije",
+	"clear_select_data": "očisti odabrane stavke",
+	"gui.modify.clear_success": "brisanje dovršeno"
 }

@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "bạn có chắc chắn muốn thoát không?",
 	"carMotorV2.setMotorSpeed": "đặt tốc độ của động cơ [ONE] thành [TWO]",
 	"carMotorV2.startCar": "khởi động xe thông minh",
-	"gui.modify.uploadFirmware": "tải lên firmware"
+	"gui.modify.uploadFirmware": "tải lên firmware",
+	"operator_take_inverse": "đảo giá trị %1",
+	"joystick_i2c": "giá trị joystick %1",
+	"tilt_sensor": "cảm biến nghiêng %1",
+	"hall_magnetic_sensor": "cảm biến hall %1",
+	"ds1307_clock_module_init": "khởi tạo thời gian đồng hồ",
+	"ds1307_clock_module_setTime": "đặt thời gian năm %1 tháng %2 ngày %3 giờ %4 phút %5 giây %6",
+	"ds1307_clock_module_getTime": "lấy đồng hồ %1",
+	"SELECT_TIME": "thời gian",
+	"SELECT_DATA_TIME": "ngày",
+	"upload_set": "cài đặt tải lên",
+	"data_clear": "dọn dẹp dữ liệu",
+	"uploadBaudRate": "tốc độ baud tải lên",
+	"compilationCache": "bộ nhớ đệm biên dịch",
+	"clear_select_data": "xóa mục đã chọn",
+	"gui.modify.clear_success": "xóa hoàn tất"
 }

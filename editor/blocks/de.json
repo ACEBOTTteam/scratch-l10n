@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "luftbefeuchter V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "ultraviolettsensor V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultraschall abstandsmessung (cm) Trig-pin: %1 Echo-pin: %2 senden",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultraschall abstandsmessung (cm) Trig-pin: %1 Echo-pin: %2 ausbreitungszeit"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultraschall abstandsmessung (cm) Trig-pin: %1 Echo-pin: %2 ausbreitungszeit",
+	"operator_take_inverse": "wert von %1 invertieren",
+	"joystick_i2c": "joystick-wert %1",
+	"tilt_sensor": "neigungssensor %1",
+	"hall_magnetic_sensor": "hall-sensor %1",
+	"ds1307_clock_module_init": "uhrzeit initialisieren",
+	"ds1307_clock_module_setTime": "uhrzeit einstellen jahr %1 monat %2 tag %3 stunde %4 minute %5 sekunde %6",
+	"ds1307_clock_module_getTime": "uhr abrufen %1",
+	"SELECT_TIME": "zeit",
+	"SELECT_DATA_TIME": "datum",
+	"operator_boolean": "boolescher wert %1",
+	"operator_map": "wert %1 von %2-%3 auf %4-%5 abbilden",
+	"ds1307_clock_module_isRun": "läuft das uhrenmodul",
+	"ds1307_clock_module_isConnect": "ist das uhrenmodul verbunden",
+	"html_setFontColor": "schriftfarbe von %1 auf %2 setzen",
+	"P_Buzzer_frequency_time": "summer %1 frequenz %2 dauer %3 s"
 }

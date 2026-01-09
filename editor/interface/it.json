@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "sei sicuro di voler uscire?",
 	"carMotorV2.setMotorSpeed": "impostare la velocità del motore [ONE] su [TWO]",
 	"carMotorV2.startCar": "avviare l'auto intelligente",
-	"gui.modify.uploadFirmware": "caricare il firmware"
+	"gui.modify.uploadFirmware": "caricare il firmware",
+	"operator_take_inverse": "invertire il valore di %1",
+	"joystick_i2c": "valore joystick %1",
+	"tilt_sensor": "sensore di inclinazione %1",
+	"hall_magnetic_sensor": "sensore hall %1",
+	"ds1307_clock_module_init": "inizializzare l'orario",
+	"ds1307_clock_module_setTime": "impostare l'orario anno %1 mese %2 giorno %3 ora %4 minuto %5 secondo %6",
+	"ds1307_clock_module_getTime": "ottenere orologio %1",
+	"SELECT_TIME": "ora",
+	"SELECT_DATA_TIME": "data",
+	"upload_set": "impostazioni di caricamento",
+	"data_clear": "pulizia dati",
+	"uploadBaudRate": "baud rate di caricamento",
+	"compilationCache": "cache di compilazione",
+	"clear_select_data": "cancella elementi selezionati",
+	"gui.modify.clear_success": "cancellazione completata"
 }

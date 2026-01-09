@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "luchtbevochtiger V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "ultraviolet sensor V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrasone afstandsmeting (cm) Trig pin: %1 Echo pin: %2 verzenden",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrasone afstandsmeting (cm) Trig pin: %1 Echo pin: %2 propagatietijd"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrasone afstandsmeting (cm) Trig pin: %1 Echo pin: %2 propagatietijd",
+	"operator_take_inverse": "waarde van %1 omkeren",
+	"joystick_i2c": "joystickwaarde %1",
+	"tilt_sensor": "kantelsensor %1",
+	"hall_magnetic_sensor": "hall-sensor %1",
+	"ds1307_clock_module_init": "kloktijd initialiseren",
+	"ds1307_clock_module_setTime": "tijd instellen jaar %1 maand %2 dag %3 uur %4 minuut %5 seconde %6",
+	"ds1307_clock_module_getTime": "klok ophalen %1",
+	"SELECT_TIME": "tijd",
+	"SELECT_DATA_TIME": "datum",
+	"operator_boolean": "booleaanse waarde %1",
+	"operator_map": "waarde %1 van %2-%3 naar %4-%5 toewijzen",
+	"ds1307_clock_module_isRun": "is de klokmodule actief",
+	"ds1307_clock_module_isConnect": "is de klokmodule verbonden",
+	"html_setFontColor": "stel de letterkleur van %1 in op %2",
+	"P_Buzzer_frequency_time": "zoemer %1 frequentie %2 duur %3 s"
 }

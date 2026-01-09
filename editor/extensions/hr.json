@@ -664,5 +664,9 @@
 	"battleCar.weapon": "raspon kretanja oružja",
 	"ROBOT_HUMIDIFIER_V2": "ovlaživač V2%1%2",
 	"carMotorV2.initCar": "inicijalizacija pametnog automobila",
-	"carMotorV2.carWebInit": "web dizajn automobila"
+	"carMotorV2.carWebInit": "web dizajn automobila",
+	"carMotor.leftUp": "gore lijevo",
+	"carMotor.leftDown": "dolje lijevo",
+	"carMotor.rightUp": "gore desno",
+	"carMotor.rightDown": "dolje desno"
 }

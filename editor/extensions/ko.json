@@ -664,5 +664,9 @@
 	"battleCar.weapon": "무기 이동 범위",
 	"ROBOT_HUMIDIFIER_V2": "가습기 V2%1%2",
 	"carMotorV2.initCar": "스마트 자동차 초기화",
-	"carMotorV2.carWebInit": "자동차 웹 디자인"
+	"carMotorV2.carWebInit": "자동차 웹 디자인",
+	"carMotor.leftUp": "왼쪽 위",
+	"carMotor.leftDown": "왼쪽 아래",
+	"carMotor.rightUp": "오른쪽 위",
+	"carMotor.rightDown": "오른쪽 아래"
 }

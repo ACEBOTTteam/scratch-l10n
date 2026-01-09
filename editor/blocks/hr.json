@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "ovlaživač V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "ultraljubičasti senzor V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrazvučno mjerenje udaljenosti (cm) Trig pin: %1 Echo pin: %2 pošalji",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrazvučno mjerenje udaljenosti (cm) Trig pin: %1 Echo pin: %2 vrijeme širenja"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrazvučno mjerenje udaljenosti (cm) Trig pin: %1 Echo pin: %2 vrijeme širenja",
+	"operator_take_inverse": "invertiraj vrijednost %1",
+	"joystick_i2c": "vrijednost joysticka %1",
+	"tilt_sensor": "senzor nagiba %1",
+	"hall_magnetic_sensor": "hall senzor %1",
+	"ds1307_clock_module_init": "inicijalizacija vremena sata",
+	"ds1307_clock_module_setTime": "postavi vrijeme godina %1 mjesec %2 dan %3 sat %4 minuta %5 sekunda %6",
+	"ds1307_clock_module_getTime": "dohvati sat %1",
+	"SELECT_TIME": "vrijeme",
+	"SELECT_DATA_TIME": "datum",
+	"operator_boolean": "logička vrijednost %1",
+	"operator_map": "mapiraj vrijednost %1 iz %2-%3 u %4-%5",
+	"ds1307_clock_module_isRun": "radi li modul sata",
+	"ds1307_clock_module_isConnect": "je li modul sata spojen",
+	"html_setFontColor": "postavi boju fonta %1 na %2",
+	"P_Buzzer_frequency_time": "zujalica %1 frekvencija %2 trajanje %3 s"
 }

@@ -664,5 +664,9 @@
 	"battleCar.weapon": "हथियार की गति सीमा",
 	"ROBOT_HUMIDIFIER_V2": "ह्यूमिडिफायर V2%1%2",
 	"carMotorV2.initCar": "स्मार्ट कार प्रारंभिकरण",
-	"carMotorV2.carWebInit": "कार वेब डिज़ाइन"
+	"carMotorV2.carWebInit": "कार वेब डिज़ाइन",
+	"carMotor.leftUp": "ऊपर बाएं",
+	"carMotor.leftDown": "नीचे बाएं",
+	"carMotor.rightUp": "ऊपर दाएं",
+	"carMotor.rightDown": "नीचे दाएं"
 }

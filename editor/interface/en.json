@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "are you sure you want to exit?",
 	"carMotorV2.setMotorSpeed": "set the speed of motor [ONE] to [TWO]",
 	"carMotorV2.startCar": "start the Smart Car",
-	"gui.modify.uploadFirmware": "upload firmware"
+	"gui.modify.uploadFirmware": "upload firmware",
+	"operator_take_inverse": "invert the value of %1",
+	"joystick_i2c": "joystick %1 value",
+	"tilt_sensor": "tilt sensor %1",
+	"hall_magnetic_sensor": "hall sensor %1",
+	"ds1307_clock_module_init": "initialize clock time",
+	"ds1307_clock_module_setTime": "set clock time year %1 month %2 day %3 hour %4 minute %5 second %6",
+	"ds1307_clock_module_getTime": "get clock %1",
+	"SELECT_TIME": "time",
+	"SELECT_DATA_TIME": "date",
+	"upload_set": "upload settings",
+	"data_clear": "data clear",
+	"uploadBaudRate": "upload baud rate",
+	"compilationCache": "compilation cache",
+	"clear_select_data": "clear selected items",
+	"gui.modify.clear_success": "clear completed"
 }

@@ -664,5 +664,9 @@
 	"battleCar.weapon": "phạm vi chuyển động vũ khí",
 	"ROBOT_HUMIDIFIER_V2": "máy tạo ẩm V2%1%2",
 	"carMotorV2.initCar": "khởi tạo xe thông minh",
-	"carMotorV2.carWebInit": "thiết kế trang web xe"
+	"carMotorV2.carWebInit": "thiết kế trang web xe",
+	"carMotor.leftUp": "trên trái",
+	"carMotor.leftDown": "dưới trái",
+	"carMotor.rightUp": "trên phải",
+	"carMotor.rightDown": "dưới phải"
 }

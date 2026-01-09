@@ -564,5 +564,20 @@
 	"ROBOT_HUMIDIFIER_V2": "加湿器V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "紫外线传感器V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "超声波发射测距(cm)Trig管脚: %1 Echo管脚: %2 发射",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "超声波发射测距(cm)Trig管脚: %1 Echo管脚: %2 传播时间"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "超声波发射测距(cm)Trig管脚: %1 Echo管脚: %2 传播时间",
+	"operator_take_inverse": "将%1值取反",
+	"joystick_i2c": "摇杆%1值",
+	"tilt_sensor": "倾斜传感器%1",
+	"hall_magnetic_sensor": "霍尔传感器%1",
+	"ds1307_clock_module_init": "时钟初始化时间",
+	"ds1307_clock_module_setTime": "时钟设置时间 年%1 月%2 日%3 时%4 分%5 秒%6",
+	"ds1307_clock_module_getTime": "时钟获取%1",
+	"SELECT_TIME": "时间",
+	"SELECT_DATA_TIME": "日期",
+	"operator_boolean": "布尔值%1",
+	"operator_map": "将数值%1从%2-%3映射到%4-%5",
+	"ds1307_clock_module_isRun": "时钟模块是否运行",
+	"ds1307_clock_module_isConnect": "时钟模块是否连接",
+	"html_setFontColor": "设置 %1 字体颜色为 %2",
+	"P_Buzzer_frequency_time": "蜂鸣器 %1 频率 %2 持续时间 %3 s"
 }

@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "هل أنت متأكد أنك تريد الخروج؟",
 	"carMotorV2.setMotorSpeed": "ضبط سرعة المحرك [ONE] إلى [TWO]",
 	"carMotorV2.startCar": "تشغيل السيارة الذكية",
-	"gui.modify.uploadFirmware": "رفع البرنامج الثابت"
+	"gui.modify.uploadFirmware": "رفع البرنامج الثابت",
+	"operator_take_inverse": "عكس قيمة %1",
+	"joystick_i2c": "قيمة عصا التحكم %1",
+	"tilt_sensor": "مستشعر الميل %1",
+	"hall_magnetic_sensor": "مستشعر هول %1",
+	"ds1307_clock_module_init": "تهيئة وقت الساعة",
+	"ds1307_clock_module_setTime": "ضبط الوقت سنة %1 شهر %2 يوم %3 ساعة %4 دقيقة %5 ثانية %6",
+	"ds1307_clock_module_getTime": "الحصول على الساعة %1",
+	"SELECT_TIME": "الوقت",
+	"SELECT_DATA_TIME": "التاريخ",
+	"upload_set": "إعدادات الرفع",
+	"data_clear": "تنظيف البيانات",
+	"uploadBaudRate": "معدل البود للرفع",
+	"compilationCache": "ذاكرة التخزين المؤقت للترجمة",
+	"clear_select_data": "مسح العناصر المحددة",
+	"gui.modify.clear_success": "اكتمل المسح"
 }

@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "가습기 V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "자외선 센서 V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "초음파 거리 측정(cm) Trig 핀: %1 Echo 핀: %2 전송",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "초음파 거리 측정(cm) Trig 핀: %1 Echo 핀: %2 전파 시간"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "초음파 거리 측정(cm) Trig 핀: %1 Echo 핀: %2 전파 시간",
+	"operator_take_inverse": "%1 값을 반전",
+	"joystick_i2c": "조이스틱 %1 값",
+	"tilt_sensor": "기울기 센서 %1",
+	"hall_magnetic_sensor": "홀 센서 %1",
+	"ds1307_clock_module_init": "시계 시간 초기화",
+	"ds1307_clock_module_setTime": "시간 설정 년 %1 월 %2 일 %3 시 %4 분 %5 초 %6",
+	"ds1307_clock_module_getTime": "시계 가져오기 %1",
+	"SELECT_TIME": "시간",
+	"SELECT_DATA_TIME": "날짜",
+	"operator_boolean": "불리언 값 %1",
+	"operator_map": "값 %1을 %2-%3에서 %4-%5로 매핑",
+	"ds1307_clock_module_isRun": "시계 모듈이 실행 중인가",
+	"ds1307_clock_module_isConnect": "시계 모듈이 연결되었는가",
+	"html_setFontColor": "%1 글꼴 색상을 %2로 설정",
+	"P_Buzzer_frequency_time": "부저 %1 주파수 %2 지속 시간 %3 s"
 }

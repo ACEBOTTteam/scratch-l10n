@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "加湿器V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "紫外線センサーV2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "超音波測距(cm) Trigピン: %1 Echoピン: %2 送信",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "超音波測距(cm) Trigピン: %1 Echoピン: %2 伝播時間"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "超音波測距(cm) Trigピン: %1 Echoピン: %2 伝播時間",
+	"operator_take_inverse": "%1の値を反転する",
+	"joystick_i2c": "ジョイスティック%1の値",
+	"tilt_sensor": "傾斜センサー%1",
+	"hall_magnetic_sensor": "ホールセンサー%1",
+	"ds1307_clock_module_init": "時計の初期化時間",
+	"ds1307_clock_module_setTime": "時計の設定 年%1 月%2 日%3 時%4 分%5 秒%6",
+	"ds1307_clock_module_getTime": "時計の取得%1",
+	"SELECT_TIME": "時間",
+	"SELECT_DATA_TIME": "日付",
+	"operator_boolean": "ブール値%1",
+	"operator_map": "値%1を%2-%3から%4-%5にマッピングする",
+	"ds1307_clock_module_isRun": "時計モジュールは動作していますか",
+	"ds1307_clock_module_isConnect": "時計モジュールは接続されていますか",
+	"html_setFontColor": "%1 のフォント色を %2 に設定する",
+	"P_Buzzer_frequency_time": "ブザー %1 周波数 %2 持続時間 %3 s"
 }

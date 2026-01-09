@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "czy na pewno chcesz wyjść?",
 	"carMotorV2.setMotorSpeed": "ustaw prędkość silnika [ONE] na [TWO]",
 	"carMotorV2.startCar": "uruchom inteligentny samochód",
-	"gui.modify.uploadFirmware": "prześlij oprogramowanie"
+	"gui.modify.uploadFirmware": "prześlij oprogramowanie",
+	"operator_take_inverse": "odwróć wartość %1",
+	"joystick_i2c": "wartość joysticka %1",
+	"tilt_sensor": "czujnik nachylenia %1",
+	"hall_magnetic_sensor": "czujnik halla %1",
+	"ds1307_clock_module_init": "inicjalizacja czasu zegara",
+	"ds1307_clock_module_setTime": "ustaw czas rok %1 miesiąc %2 dzień %3 godzina %4 minuta %5 sekunda %6",
+	"ds1307_clock_module_getTime": "pobierz zegar %1",
+	"SELECT_TIME": "czas",
+	"SELECT_DATA_TIME": "data",
+	"upload_set": "ustawienia przesyłania",
+	"data_clear": "czyszczenie danych",
+	"uploadBaudRate": "prędkość transmisji przesyłania",
+	"compilationCache": "pamięć podręczna kompilacji",
+	"clear_select_data": "wyczyść zaznaczone elementy",
+	"gui.modify.clear_success": "czyszczenie zakończone"
 }

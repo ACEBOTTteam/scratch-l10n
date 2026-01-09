@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "مرطب الهواء V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "مستشعر الأشعة فوق البنفسجية V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "قياس المسافة بالموجات فوق الصوتية (سم) دبوس Trig: %1 دبوس Echo: %2 إرسال",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "قياس المسافة بالموجات فوق الصوتية (سم) دبوس Trig: %1 دبوس Echo: %2 وقت الانتشار"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "قياس المسافة بالموجات فوق الصوتية (سم) دبوس Trig: %1 دبوس Echo: %2 وقت الانتشار",
+	"operator_take_inverse": "عكس قيمة %1",
+	"joystick_i2c": "قيمة عصا التحكم %1",
+	"tilt_sensor": "مستشعر الميل %1",
+	"hall_magnetic_sensor": "مستشعر هول %1",
+	"ds1307_clock_module_init": "تهيئة وقت الساعة",
+	"ds1307_clock_module_setTime": "ضبط الوقت سنة %1 شهر %2 يوم %3 ساعة %4 دقيقة %5 ثانية %6",
+	"ds1307_clock_module_getTime": "الحصول على الساعة %1",
+	"SELECT_TIME": "الوقت",
+	"SELECT_DATA_TIME": "التاريخ",
+	"operator_boolean": "قيمة منطقية %1",
+	"operator_map": "تعيين القيمة %1 من %2-%3 إلى %4-%5",
+	"ds1307_clock_module_isRun": "هل وحدة الساعة تعمل",
+	"ds1307_clock_module_isConnect": "هل وحدة الساعة متصلة",
+	"html_setFontColor": "تعيين لون خط %1 إلى %2",
+	"P_Buzzer_frequency_time": "الجرس %1 التردد %2 المدة %3 s"
 }

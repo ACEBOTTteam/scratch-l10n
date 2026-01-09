@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "opravdu chcete ukončit?",
 	"carMotorV2.setMotorSpeed": "nastavit rychlost motoru [ONE] na [TWO]",
 	"carMotorV2.startCar": "spustit inteligentní auto",
-	"gui.modify.uploadFirmware": "nahrát firmware"
+	"gui.modify.uploadFirmware": "nahrát firmware",
+	"operator_take_inverse": "invertovat hodnotu %1",
+	"joystick_i2c": "hodnota joysticku %1",
+	"tilt_sensor": "snímač náklonu %1",
+	"hall_magnetic_sensor": "hallův snímač %1",
+	"ds1307_clock_module_init": "inicializace času hodin",
+	"ds1307_clock_module_setTime": "nastavit čas rok %1 měsíc %2 den %3 hodina %4 minuta %5 sekunda %6",
+	"ds1307_clock_module_getTime": "získat čas %1",
+	"SELECT_TIME": "čas",
+	"SELECT_DATA_TIME": "datum",
+	"upload_set": "nastavení nahrávání",
+	"data_clear": "čištění dat",
+	"uploadBaudRate": "přenosová rychlost nahrávání",
+	"compilationCache": "kompilační mezipaměť",
+	"clear_select_data": "vymazat vybrané položky",
+	"gui.modify.clear_success": "vyčištění dokončeno"
 }

@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "終了してもよろしいですか？",
 	"carMotorV2.setMotorSpeed": "モーター[ONE]の速度を[TWO]に設定する",
 	"carMotorV2.startCar": "スマートカーを起動する",
-	"gui.modify.uploadFirmware": "ファームウェアをアップロード"
+	"gui.modify.uploadFirmware": "ファームウェアをアップロード",
+	"operator_take_inverse": "%1の値を反転する",
+	"joystick_i2c": "ジョイスティック%1の値",
+	"tilt_sensor": "傾斜センサー%1",
+	"hall_magnetic_sensor": "ホールセンサー%1",
+	"ds1307_clock_module_init": "時計の初期化時間",
+	"ds1307_clock_module_setTime": "時計の設定 年%1 月%2 日%3 時%4 分%5 秒%6",
+	"ds1307_clock_module_getTime": "時計の取得%1",
+	"SELECT_TIME": "時間",
+	"SELECT_DATA_TIME": "日付",
+	"upload_set": "アップロード設定",
+	"data_clear": "データクリア",
+	"uploadBaudRate": "アップロードボーレート",
+	"compilationCache": "コンパイルキャッシュ",
+	"clear_select_data": "選択項目をクリア",
+	"gui.modify.clear_success": "クリア完了"
 }

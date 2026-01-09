@@ -664,5 +664,9 @@
 	"battleCar.weapon": "ช่วงการเคลื่อนไหวของอาวุธ",
 	"ROBOT_HUMIDIFIER_V2": "เครื่องเพิ่มความชื้น V2%1%2",
 	"carMotorV2.initCar": "การเริ่มต้นรถอัจฉริยะ",
-	"carMotorV2.carWebInit": "การออกแบบเว็บของรถ"
+	"carMotorV2.carWebInit": "การออกแบบเว็บของรถ",
+	"carMotor.leftUp": "ซ้ายบน",
+	"carMotor.leftDown": "ซ้ายล่าง",
+	"carMotor.rightUp": "ขวาบน",
+	"carMotor.rightDown": "ขวาล่าง"
 }

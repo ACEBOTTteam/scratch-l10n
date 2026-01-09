@@ -664,5 +664,9 @@
 	"battleCar.weapon": "weapon movement range",
 	"ROBOT_HUMIDIFIER_V2": "humidifier V2%1%2",
 	"carMotorV2.initCar": "smart car initialization",
-	"carMotorV2.carWebInit": "car web design"
+	"carMotorV2.carWebInit": "car web design",
+	"carMotor.leftUp": "left up",
+	"carMotor.leftDown": "left down",
+	"carMotor.rightUp": "right up",
+	"carMotor.rightDown": "right down"
 }

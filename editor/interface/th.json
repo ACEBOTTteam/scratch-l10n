@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "คุณแน่ใจหรือไม่ว่าต้องการออก?",
 	"carMotorV2.setMotorSpeed": "ตั้งค่าความเร็วของมอเตอร์ [ONE] เป็น [TWO]",
 	"carMotorV2.startCar": "เริ่มต้นรถอัจฉริยะ",
-	"gui.modify.uploadFirmware": "อัปโหลดเฟิร์มแวร์"
+	"gui.modify.uploadFirmware": "อัปโหลดเฟิร์มแวร์",
+	"operator_take_inverse": "กลับค่าของ %1",
+	"joystick_i2c": "ค่าจอยสติ๊ก %1",
+	"tilt_sensor": "เซ็นเซอร์เอียง %1",
+	"hall_magnetic_sensor": "เซ็นเซอร์ฮอลล์ %1",
+	"ds1307_clock_module_init": "เริ่มต้นเวลา นาฬิกา",
+	"ds1307_clock_module_setTime": "ตั้งเวลา ปี %1 เดือน %2 วัน %3 ชั่วโมง %4 นาที %5 วินาที %6",
+	"ds1307_clock_module_getTime": "อ่านนาฬิกา %1",
+	"SELECT_TIME": "เวลา",
+	"SELECT_DATA_TIME": "วันที่",
+	"upload_set": "การตั้งค่าอัปโหลด",
+	"data_clear": "ล้างข้อมูล",
+	"uploadBaudRate": "อัตรา baud อัปโหลด",
+	"compilationCache": "แคชการคอมไพล์",
+	"clear_select_data": "ล้างรายการที่เลือก",
+	"gui.modify.clear_success": "ล้างเสร็จสิ้น"
 }

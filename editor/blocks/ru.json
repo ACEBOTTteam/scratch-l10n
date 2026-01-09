@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "увлажнитель V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "датчик ультрафиолета V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "ультразвуковое измерение расстояния (см) пин Trig: %1 пин Echo: %2 отправить",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "ультразвуковое измерение расстояния (см) пин Trig: %1 пин Echo: %2 время распространения"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ультразвуковое измерение расстояния (см) пин Trig: %1 пин Echo: %2 время распространения",
+	"operator_take_inverse": "инвертировать значение %1",
+	"joystick_i2c": "значение джойстика %1",
+	"tilt_sensor": "датчик наклона %1",
+	"hall_magnetic_sensor": "датчик холла %1",
+	"ds1307_clock_module_init": "инициализация времени часов",
+	"ds1307_clock_module_setTime": "установить время год %1 месяц %2 день %3 час %4 минута %5 секунда %6",
+	"ds1307_clock_module_getTime": "получить часы %1",
+	"SELECT_TIME": "время",
+	"SELECT_DATA_TIME": "дата",
+	"operator_boolean": "логическое значение %1",
+	"operator_map": "отобразить значение %1 из %2-%3 в %4-%5",
+	"ds1307_clock_module_isRun": "работает ли модуль часов",
+	"ds1307_clock_module_isConnect": "подключен ли модуль часов",
+	"html_setFontColor": "установить цвет шрифта %1 на %2",
+	"P_Buzzer_frequency_time": "зуммер %1 частота %2 длительность %3 s"
 }

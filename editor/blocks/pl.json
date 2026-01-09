@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "nawilżacz V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "czujnik ultrafioletu V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "pomiary odległości ultradźwiękowej (cm) pin Trig: %1 pin Echo: %2 wyślij",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "pomiary odległości ultradźwiękowej (cm) pin Trig: %1 pin Echo: %2 czas propagacji"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "pomiary odległości ultradźwiękowej (cm) pin Trig: %1 pin Echo: %2 czas propagacji",
+	"operator_take_inverse": "odwróć wartość %1",
+	"joystick_i2c": "wartość joysticka %1",
+	"tilt_sensor": "czujnik nachylenia %1",
+	"hall_magnetic_sensor": "czujnik halla %1",
+	"ds1307_clock_module_init": "inicjalizacja czasu zegara",
+	"ds1307_clock_module_setTime": "ustaw czas rok %1 miesiąc %2 dzień %3 godzina %4 minuta %5 sekunda %6",
+	"ds1307_clock_module_getTime": "pobierz zegar %1",
+	"SELECT_TIME": "czas",
+	"SELECT_DATA_TIME": "data",
+	"operator_boolean": "wartość logiczna %1",
+	"operator_map": "mapuj wartość %1 z %2-%3 do %4-%5",
+	"ds1307_clock_module_isRun": "czy moduł zegara działa",
+	"ds1307_clock_module_isConnect": "czy moduł zegara jest podłączony",
+	"html_setFontColor": "ustaw kolor czcionki %1 na %2",
+	"P_Buzzer_frequency_time": "brzęczyk %1 częstotliwość %2 czas trwania %3 s"
 }

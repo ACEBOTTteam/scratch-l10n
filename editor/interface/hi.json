@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "क्या आप वाकई बाहर निकलना चाहते हैं?",
 	"carMotorV2.setMotorSpeed": "मोटर [ONE] की गति [TWO] पर सेट करें",
 	"carMotorV2.startCar": "स्मार्ट कार शुरू करें",
-	"gui.modify.uploadFirmware": "फर्मवेयर अपलोड करें"
+	"gui.modify.uploadFirmware": "फर्मवेयर अपलोड करें",
+	"operator_take_inverse": "%1 मान को उल्टा करें",
+	"joystick_i2c": "जॉयस्टिक %1 मान",
+	"tilt_sensor": "झुकाव सेंसर %1",
+	"hall_magnetic_sensor": "हॉल सेंसर %1",
+	"ds1307_clock_module_init": "घड़ी समय प्रारंभ करें",
+	"ds1307_clock_module_setTime": "समय सेट करें वर्ष %1 माह %2 दिन %3 घंटा %4 मिनट %5 सेकंड %6",
+	"ds1307_clock_module_getTime": "घड़ी प्राप्त करें %1",
+	"SELECT_TIME": "समय",
+	"SELECT_DATA_TIME": "तिथि",
+	"upload_set": "अपलोड सेटिंग्स",
+	"data_clear": "डेटा साफ़ करें",
+	"uploadBaudRate": "अपलोड बॉड दर",
+	"compilationCache": "कंपाइल कैश",
+	"clear_select_data": "चयनित आइटम साफ़ करें",
+	"gui.modify.clear_success": "साफ़ करना पूर्ण हुआ"
 }

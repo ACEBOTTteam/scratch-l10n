@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "weet je zeker dat je wilt afsluiten?",
 	"carMotorV2.setMotorSpeed": "stel de snelheid van motor [ONE] in op [TWO]",
 	"carMotorV2.startCar": "start de slimme auto",
-	"gui.modify.uploadFirmware": "firmware uploaden"
+	"gui.modify.uploadFirmware": "firmware uploaden",
+	"operator_take_inverse": "waarde van %1 omkeren",
+	"joystick_i2c": "joystickwaarde %1",
+	"tilt_sensor": "kantelsensor %1",
+	"hall_magnetic_sensor": "hall-sensor %1",
+	"ds1307_clock_module_init": "kloktijd initialiseren",
+	"ds1307_clock_module_setTime": "tijd instellen jaar %1 maand %2 dag %3 uur %4 minuut %5 seconde %6",
+	"ds1307_clock_module_getTime": "klok ophalen %1",
+	"SELECT_TIME": "tijd",
+	"SELECT_DATA_TIME": "datum",
+	"upload_set": "uploadinstellingen",
+	"data_clear": "gegevens opschonen",
+	"uploadBaudRate": "upload baudrate",
+	"compilationCache": "compilatiecache",
+	"clear_select_data": "geselecteerde items wissen",
+	"gui.modify.clear_success": "wissen voltooid"
 }

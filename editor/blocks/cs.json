@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "zvlhčovač V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "ultrafialový senzor V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "ultrazvukové měření vzdálenosti (cm) pin Trig: %1 pin Echo: %2 odeslat",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrazvukové měření vzdálenosti (cm) pin Trig: %1 pin Echo: %2 doba šíření"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "ultrazvukové měření vzdálenosti (cm) pin Trig: %1 pin Echo: %2 doba šíření",
+	"operator_take_inverse": "invertovat hodnotu %1",
+	"joystick_i2c": "hodnota joysticku %1",
+	"tilt_sensor": "snímač náklonu %1",
+	"hall_magnetic_sensor": "hallův snímač %1",
+	"ds1307_clock_module_init": "inicializace času hodin",
+	"ds1307_clock_module_setTime": "nastavit čas rok %1 měsíc %2 den %3 hodina %4 minuta %5 sekunda %6",
+	"ds1307_clock_module_getTime": "získat čas %1",
+	"SELECT_TIME": "čas",
+	"SELECT_DATA_TIME": "datum",
+	"operator_boolean": "logická hodnota %1",
+	"operator_map": "mapovat hodnotu %1 z %2-%3 na %4-%5",
+	"ds1307_clock_module_isRun": "běží hodinový modul",
+	"ds1307_clock_module_isConnect": "je hodinový modul připojen",
+	"html_setFontColor": "nastavit barvu písma %1 na %2",
+	"P_Buzzer_frequency_time": "bzučák %1 frekvence %2 doba %3 s"
 }

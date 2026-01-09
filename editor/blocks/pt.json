@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "umidificador V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "sensor ultravioleta V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "medição de distância ultrassônica (cm) pino Trig: %1 pino Echo: %2 enviar",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "medição de distância ultrassônica (cm) pino Trig: %1 pino Echo: %2 tempo de propagação"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "medição de distância ultrassônica (cm) pino Trig: %1 pino Echo: %2 tempo de propagação",
+	"operator_take_inverse": "inverter o valor de %1",
+	"joystick_i2c": "valor do joystick %1",
+	"tilt_sensor": "sensor de inclinação %1",
+	"hall_magnetic_sensor": "sensor hall %1",
+	"ds1307_clock_module_init": "inicializar hora do relógio",
+	"ds1307_clock_module_setTime": "definir hora ano %1 mês %2 dia %3 hora %4 minuto %5 segundo %6",
+	"ds1307_clock_module_getTime": "obter relógio %1",
+	"SELECT_TIME": "hora",
+	"SELECT_DATA_TIME": "data",
+	"operator_boolean": "valor booleano %1",
+	"operator_map": "mapear o valor %1 de %2-%3 para %4-%5",
+	"ds1307_clock_module_isRun": "o módulo do relógio está em execução",
+	"ds1307_clock_module_isConnect": "o módulo do relógio está conectado",
+	"html_setFontColor": "definir a cor da fonte de %1 para %2",
+	"P_Buzzer_frequency_time": "buzzer %1 frequência %2 duração %3 s"
 }

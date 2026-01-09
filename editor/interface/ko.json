@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "종료하시겠습니까?",
 	"carMotorV2.setMotorSpeed": "모터 [ONE]의 속도를 [TWO]로 설정",
 	"carMotorV2.startCar": "스마트 자동차를 시작",
-	"gui.modify.uploadFirmware": "펌웨어 업로드"
+	"gui.modify.uploadFirmware": "펌웨어 업로드",
+	"operator_take_inverse": "%1 값을 반전",
+	"joystick_i2c": "조이스틱 %1 값",
+	"tilt_sensor": "기울기 센서 %1",
+	"hall_magnetic_sensor": "홀 센서 %1",
+	"ds1307_clock_module_init": "시계 시간 초기화",
+	"ds1307_clock_module_setTime": "시간 설정 년 %1 월 %2 일 %3 시 %4 분 %5 초 %6",
+	"ds1307_clock_module_getTime": "시계 가져오기 %1",
+	"SELECT_TIME": "시간",
+	"SELECT_DATA_TIME": "날짜",
+	"upload_set": "업로드 설정",
+	"data_clear": "데이터 정리",
+	"uploadBaudRate": "업로드 보드레이트",
+	"compilationCache": "컴파일 캐시",
+	"clear_select_data": "선택 항목 지우기",
+	"gui.modify.clear_success": "삭제 완료"
 }

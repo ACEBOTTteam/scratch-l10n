@@ -24,92 +24,71 @@ const fs = require('fs')
 const block = {}
 
 const extensions = {}
+
 const interfaceData = {
   "zh-cn": {
-    "gui.modify.runPythonCode": "上传程序",
-    "gui.modify.uploadFirmware": "上传固件",
+    "gui.modify.clear_success": "清除完成"
   },
   "zh-tw": {
-    "gui.modify.runPythonCode": "上傳程序",
-    "gui.modify.uploadFirmware": "上傳固件"
+    "gui.modify.clear_success": "清除完成"
   },
   "en": {
-    "gui.modify.runPythonCode": "upload program",
-    "gui.modify.uploadFirmware": "upload firmware"
+    "gui.modify.clear_success": "clear completed"
   },
   "fr": {
-    "gui.modify.runPythonCode": "téléverser le programme",
-    "gui.modify.uploadFirmware": "téléverser le micrologiciel"
+    "gui.modify.clear_success": "effacement terminé"
   },
   "ja": {
-    "gui.modify.runPythonCode": "プログラムをアップロード",
-    "gui.modify.uploadFirmware": "ファームウェアをアップロード"
+    "gui.modify.clear_success": "クリア完了"
   },
   "de": {
-    "gui.modify.runPythonCode": "programm hochladen",
-    "gui.modify.uploadFirmware": "firmware hochladen"
+    "gui.modify.clear_success": "löschung abgeschlossen"
   },
   "es": {
-    "gui.modify.runPythonCode": "subir programa",
-    "gui.modify.uploadFirmware": "subir firmware"
+    "gui.modify.clear_success": "borrado completado"
   },
   "ru": {
-    "gui.modify.runPythonCode": "загрузить программу",
-    "gui.modify.uploadFirmware": "загрузить прошивку"
+    "gui.modify.clear_success": "очистка завершена"
   },
   "cs": {
-    "gui.modify.runPythonCode": "nahrát program",
-    "gui.modify.uploadFirmware": "nahrát firmware"
+    "gui.modify.clear_success": "vyčištění dokončeno"
   },
   "it": {
-    "gui.modify.runPythonCode": "caricare il programma",
-    "gui.modify.uploadFirmware": "caricare il firmware"
+    "gui.modify.clear_success": "cancellazione completata"
   },
   "pl": {
-    "gui.modify.runPythonCode": "prześlij program",
-    "gui.modify.uploadFirmware": "prześlij oprogramowanie"
+    "gui.modify.clear_success": "czyszczenie zakończone"
   },
   "tr": {
-    "gui.modify.runPythonCode": "program yükle",
-    "gui.modify.uploadFirmware": "ürün yazılımı yükle"
+    "gui.modify.clear_success": "temizleme tamamlandı"
   },
   "pt": {
-    "gui.modify.runPythonCode": "carregar programa",
-    "gui.modify.uploadFirmware": "carregar firmware"
+    "gui.modify.clear_success": "limpeza concluída"
   },
   "hr": {
-    "gui.modify.runPythonCode": "učitaj program",
-    "gui.modify.uploadFirmware": "učitaj firmware"
+    "gui.modify.clear_success": "brisanje dovršeno"
   },
   "hi": {
-    "gui.modify.runPythonCode": "प्रोग्राम अपलोड करें",
-    "gui.modify.uploadFirmware": "फर्मवेयर अपलोड करें"
+    "gui.modify.clear_success": "साफ़ करना पूर्ण हुआ"
   },
   "ko": {
-    "gui.modify.runPythonCode": "프로그램 업로드",
-    "gui.modify.uploadFirmware": "펌웨어 업로드"
+    "gui.modify.clear_success": "삭제 완료"
   },
   "th": {
-    "gui.modify.runPythonCode": "อัปโหลดโปรแกรม",
-    "gui.modify.uploadFirmware": "อัปโหลดเฟิร์มแวร์"
+    "gui.modify.clear_success": "ล้างเสร็จสิ้น"
   },
   "nl": {
-    "gui.modify.runPythonCode": "programma uploaden",
-    "gui.modify.uploadFirmware": "firmware uploaden"
+    "gui.modify.clear_success": "wissen voltooid"
   },
   "ar": {
-    "gui.modify.runPythonCode": "رفع البرنامج",
-    "gui.modify.uploadFirmware": "رفع البرنامج الثابت"
+    "gui.modify.clear_success": "اكتمل المسح"
   },
   "vi": {
-    "gui.modify.runPythonCode": "tải lên chương trình",
-    "gui.modify.uploadFirmware": "tải lên firmware"
+    "gui.modify.clear_success": "xóa hoàn tất"
   },
   "he": {
-    "gui.modify.runPythonCode": "העלאת תוכנית",
-    "gui.modify.uploadFirmware": "העלאת קושחה"
+    "gui.modify.clear_success": "הניקוי הושלם"
   }
-
 }
 
 

@@ -664,5 +664,9 @@
 	"battleCar.weapon": "silah hareket aralığı",
 	"ROBOT_HUMIDIFIER_V2": "nemlendirici V2%1%2",
 	"carMotorV2.initCar": "akıllı araba başlatma",
-	"carMotorV2.carWebInit": "araba web tasarımı"
+	"carMotorV2.carWebInit": "araba web tasarımı",
+	"carMotor.leftUp": "sol üst",
+	"carMotor.leftDown": "sol alt",
+	"carMotor.rightUp": "sağ üst",
+	"carMotor.rightDown": "sağ alt"
 }

@@ -630,5 +630,20 @@
 	"gui.modify.isExit": "האם אתה בטוח שברצונך לצאת?",
 	"carMotorV2.setMotorSpeed": "הגדר את מהירות המנוע [ONE] ל-[TWO]",
 	"carMotorV2.startCar": "הפעל את הרכב החכם",
-	"gui.modify.uploadFirmware": "העלאת קושחה"
+	"gui.modify.uploadFirmware": "העלאת קושחה",
+	"operator_take_inverse": "הפוך את הערך של %1",
+	"joystick_i2c": "ערך ג'ויסטיק %1",
+	"tilt_sensor": "חיישן הטיה %1",
+	"hall_magnetic_sensor": "חיישן הול %1",
+	"ds1307_clock_module_init": "אתחול זמן שעון",
+	"ds1307_clock_module_setTime": "הגדרת זמן שנה %1 חודש %2 יום %3 שעה %4 דקה %5 שנייה %6",
+	"ds1307_clock_module_getTime": "קבלת שעון %1",
+	"SELECT_TIME": "זמן",
+	"SELECT_DATA_TIME": "תאריך",
+	"upload_set": "הגדרות העלאה",
+	"data_clear": "ניקוי נתונים",
+	"uploadBaudRate": "קצב baud להעלאה",
+	"compilationCache": "מטמון הידור",
+	"clear_select_data": "נקה פריטים נבחרים",
+	"gui.modify.clear_success": "הניקוי הושלם"
 }

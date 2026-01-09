@@ -566,5 +566,20 @@
 	"ROBOT_HUMIDIFIER_V2": "humidificateur V2%1%2",
 	"ROBOT_ULTRAVIOLET_RAY_V2": "capteur ultraviolet V2%1%2",
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "mesure de distance ultrasonique (cm) broche Trig: %1 broche Echo: %2 envoyer",
-	"ROBOT_ULTRASONIC_SENSOR_TIME": "mesure de distance ultrasonique (cm) broche Trig: %1 broche Echo: %2 temps de propagation"
+	"ROBOT_ULTRASONIC_SENSOR_TIME": "mesure de distance ultrasonique (cm) broche Trig: %1 broche Echo: %2 temps de propagation",
+	"operator_take_inverse": "inverser la valeur de %1",
+	"joystick_i2c": "valeur du joystick %1",
+	"tilt_sensor": "capteur d'inclinaison %1",
+	"hall_magnetic_sensor": "capteur à effet hall %1",
+	"ds1307_clock_module_init": "initialiser l'heure de l'horloge",
+	"ds1307_clock_module_setTime": "régler l'heure année %1 mois %2 jour %3 heure %4 minute %5 seconde %6",
+	"ds1307_clock_module_getTime": "obtenir l'horloge %1",
+	"SELECT_TIME": "heure",
+	"SELECT_DATA_TIME": "date",
+	"operator_boolean": "valeur booléenne %1",
+	"operator_map": "mapper la valeur %1 de %2-%3 à %4-%5",
+	"ds1307_clock_module_isRun": "le module d'horloge fonctionne-t-il",
+	"ds1307_clock_module_isConnect": "le module d'horloge est-il connecté",
+	"html_setFontColor": "définir la couleur de police de %1 sur %2",
+	"P_Buzzer_frequency_time": "buzzer %1 fréquence %2 durée %3 s"
 }

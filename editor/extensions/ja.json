@@ -664,5 +664,9 @@
 	"battleCar.weapon": "武器の動作範囲",
 	"ROBOT_HUMIDIFIER_V2": "加湿器V2%1%2",
 	"carMotorV2.initCar": "スマートカーの初期化",
-	"carMotorV2.carWebInit": "カーウェブデザイン"
+	"carMotorV2.carWebInit": "カーウェブデザイン",
+	"carMotor.leftUp": "左上",
+	"carMotor.leftDown": "左下",
+	"carMotor.rightUp": "右上",
+	"carMotor.rightDown": "右下"
 }

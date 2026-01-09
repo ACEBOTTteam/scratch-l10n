@@ -664,5 +664,9 @@
 	"battleCar.weapon": "武器運動範圍",
 	"ROBOT_HUMIDIFIER_V2": "加濕器V2%1%2",
 	"carMotorV2.initCar": "智慧小車初始化",
-	"carMotorV2.carWebInit": "小車網頁設計"
+	"carMotorV2.carWebInit": "小車網頁設計",
+	"carMotor.leftUp": "左上",
+	"carMotor.leftDown": "左下",
+	"carMotor.rightUp": "右上",
+	"carMotor.rightDown": "右下"
 }

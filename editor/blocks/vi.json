@@ -566,7 +566,7 @@
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "đo khoảng cách siêu âm (cm) chân Trig: %1 chân Echo: %2 gửi",
 	"ROBOT_ULTRASONIC_SENSOR_TIME": "đo khoảng cách siêu âm (cm) chân Trig: %1 chân Echo: %2 thời gian truyền",
 	"operator_take_inverse": "đảo giá trị %1",
-	"joystick_i2c": "giá trị joystick %1",
+	"joystick_i2c": "địa chỉ joystick I2C %1 lấy giá trị %2",
 	"tilt_sensor": "cảm biến nghiêng %1",
 	"hall_magnetic_sensor": "cảm biến hall %1",
 	"ds1307_clock_module_init": "khởi tạo thời gian đồng hồ",
@@ -579,5 +579,7 @@
 	"ds1307_clock_module_isRun": "mô-đun đồng hồ có đang chạy không",
 	"ds1307_clock_module_isConnect": "mô-đun đồng hồ có được kết nối không",
 	"html_setFontColor": "đặt màu phông chữ của %1 thành %2",
-	"P_Buzzer_frequency_time": "còi %1 tần số %2 thời gian %3 s"
+	"P_Buzzer_frequency_time": "còi %1 tần số %2 thời lượng %3 ms",
+	"Lattice_Screen_Show_Led": "hiển thị led%1",
+	"Lattice_Screen_show_img": "hiển thị hình ảnh %1"
 }

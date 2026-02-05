@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "left up",
 	"carMotor.leftDown": "left down",
 	"carMotor.rightUp": "right up",
-	"carMotor.rightDown": "right down"
+	"carMotor.rightDown": "right down",
+	"carMotor.latticeScreen.pixel": "dot matrix pixel",
+	"carMotor.latticeScreen.img": "dot matrix image",
+	"carMotor.mp3.play": "play",
+	"carMotor.mp3.suspend": "pause",
+	"carMotor.mp3.previous": "previous",
+	"carMotor.mp3.next": "next",
+	"carMotor.mp3.volume": "volume"
 }

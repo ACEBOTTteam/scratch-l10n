@@ -568,7 +568,7 @@
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "pomiary odległości ultradźwiękowej (cm) pin Trig: %1 pin Echo: %2 wyślij",
 	"ROBOT_ULTRASONIC_SENSOR_TIME": "pomiary odległości ultradźwiękowej (cm) pin Trig: %1 pin Echo: %2 czas propagacji",
 	"operator_take_inverse": "odwróć wartość %1",
-	"joystick_i2c": "wartość joysticka %1",
+	"joystick_i2c": "adres joysticka I2C %1 pobierz wartość %2",
 	"tilt_sensor": "czujnik nachylenia %1",
 	"hall_magnetic_sensor": "czujnik halla %1",
 	"ds1307_clock_module_init": "inicjalizacja czasu zegara",
@@ -581,5 +581,7 @@
 	"ds1307_clock_module_isRun": "czy moduł zegara działa",
 	"ds1307_clock_module_isConnect": "czy moduł zegara jest podłączony",
 	"html_setFontColor": "ustaw kolor czcionki %1 na %2",
-	"P_Buzzer_frequency_time": "brzęczyk %1 częstotliwość %2 czas trwania %3 s"
+	"P_Buzzer_frequency_time": "brzęczyk %1 częstotliwość %2 czas trwania %3 ms",
+	"Lattice_Screen_Show_Led": "wyświetl led%1",
+	"Lattice_Screen_show_img": "wyświetl obraz %1"
 }

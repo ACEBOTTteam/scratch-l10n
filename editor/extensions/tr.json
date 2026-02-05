@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "sol üst",
 	"carMotor.leftDown": "sol alt",
 	"carMotor.rightUp": "sağ üst",
-	"carMotor.rightDown": "sağ alt"
+	"carMotor.rightDown": "sağ alt",
+	"carMotor.latticeScreen.pixel": "nokta matris pikseli",
+	"carMotor.latticeScreen.img": "nokta matris görüntüsü",
+	"carMotor.mp3.play": "çal",
+	"carMotor.mp3.suspend": "duraklat",
+	"carMotor.mp3.previous": "önceki",
+	"carMotor.mp3.next": "sonraki",
+	"carMotor.mp3.volume": "ses seviyesi"
 }

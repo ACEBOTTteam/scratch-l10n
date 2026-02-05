@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "左上",
 	"carMotor.leftDown": "左下",
 	"carMotor.rightUp": "右上",
-	"carMotor.rightDown": "右下"
+	"carMotor.rightDown": "右下",
+	"carMotor.latticeScreen.pixel": "ドットマトリクス ピクセル",
+	"carMotor.latticeScreen.img": "ドットマトリクス 画像",
+	"carMotor.mp3.play": "再生",
+	"carMotor.mp3.suspend": "一時停止",
+	"carMotor.mp3.previous": "前の曲",
+	"carMotor.mp3.next": "次の曲",
+	"carMotor.mp3.volume": "音量"
 }

@@ -568,7 +568,7 @@
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "초음파 거리 측정(cm) Trig 핀: %1 Echo 핀: %2 전송",
 	"ROBOT_ULTRASONIC_SENSOR_TIME": "초음파 거리 측정(cm) Trig 핀: %1 Echo 핀: %2 전파 시간",
 	"operator_take_inverse": "%1 값을 반전",
-	"joystick_i2c": "조이스틱 %1 값",
+	"joystick_i2c": "I2C 조이스틱 주소 %1 %2 값 가져오기",
 	"tilt_sensor": "기울기 센서 %1",
 	"hall_magnetic_sensor": "홀 센서 %1",
 	"ds1307_clock_module_init": "시계 시간 초기화",
@@ -581,5 +581,7 @@
 	"ds1307_clock_module_isRun": "시계 모듈이 실행 중인가",
 	"ds1307_clock_module_isConnect": "시계 모듈이 연결되었는가",
 	"html_setFontColor": "%1 글꼴 색상을 %2로 설정",
-	"P_Buzzer_frequency_time": "부저 %1 주파수 %2 지속 시간 %3 s"
+	"P_Buzzer_frequency_time": "버저 %1 주파수 %2 지속 시간 %3 ms",
+	"Lattice_Screen_Show_Led": "led%1 표시",
+	"Lattice_Screen_show_img": "이미지 %1 표시"
 }

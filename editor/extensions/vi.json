@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "trên trái",
 	"carMotor.leftDown": "dưới trái",
 	"carMotor.rightUp": "trên phải",
-	"carMotor.rightDown": "dưới phải"
+	"carMotor.rightDown": "dưới phải",
+	"carMotor.latticeScreen.pixel": "pixel ma trận điểm",
+	"carMotor.latticeScreen.img": "hình ảnh ma trận điểm",
+	"carMotor.mp3.play": "phát",
+	"carMotor.mp3.suspend": "tạm dừng",
+	"carMotor.mp3.previous": "bài trước",
+	"carMotor.mp3.next": "bài tiếp theo",
+	"carMotor.mp3.volume": "âm lượng"
 }

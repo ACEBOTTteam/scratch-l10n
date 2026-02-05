@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "왼쪽 위",
 	"carMotor.leftDown": "왼쪽 아래",
 	"carMotor.rightUp": "오른쪽 위",
-	"carMotor.rightDown": "오른쪽 아래"
+	"carMotor.rightDown": "오른쪽 아래",
+	"carMotor.latticeScreen.pixel": "도트 매트릭스 픽셀",
+	"carMotor.latticeScreen.img": "도트 매트릭스 이미지",
+	"carMotor.mp3.play": "재생",
+	"carMotor.mp3.suspend": "일시 정지",
+	"carMotor.mp3.previous": "이전 곡",
+	"carMotor.mp3.next": "다음 곡",
+	"carMotor.mp3.volume": "볼륨"
 }

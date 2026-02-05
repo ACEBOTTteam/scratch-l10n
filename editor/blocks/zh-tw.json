@@ -568,7 +568,7 @@
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "超聲波發射測距(cm)Trig腳位: %1 Echo腳位: %2 發射",
 	"ROBOT_ULTRASONIC_SENSOR_TIME": "超聲波發射測距(cm)Trig腳位: %1 Echo腳位: %2 傳播時間",
 	"operator_take_inverse": "將%1值取反",
-	"joystick_i2c": "搖桿%1值",
+	"joystick_i2c": "I2C 搖桿位址 %1 獲取 %2 值",
 	"tilt_sensor": "傾斜感測器%1",
 	"hall_magnetic_sensor": "霍爾感測器%1",
 	"ds1307_clock_module_init": "時鐘初始化時間",
@@ -581,5 +581,7 @@
 	"ds1307_clock_module_isRun": "時鐘模組是否運行",
 	"ds1307_clock_module_isConnect": "時鐘模組是否連接",
 	"html_setFontColor": "設定 %1 字體顏色為 %2",
-	"P_Buzzer_frequency_time": "蜂鳴器 %1 頻率 %2 持續時間 %3 s"
+	"P_Buzzer_frequency_time": "蜂鳴器 %1 頻率 %2 持續時間 %3 ms",
+	"Lattice_Screen_Show_Led": "顯示 led%1",
+	"Lattice_Screen_show_img": "顯示圖片 %1"
 }

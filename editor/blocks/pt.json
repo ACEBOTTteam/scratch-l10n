@@ -568,7 +568,7 @@
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "medição de distância ultrassônica (cm) pino Trig: %1 pino Echo: %2 enviar",
 	"ROBOT_ULTRASONIC_SENSOR_TIME": "medição de distância ultrassônica (cm) pino Trig: %1 pino Echo: %2 tempo de propagação",
 	"operator_take_inverse": "inverter o valor de %1",
-	"joystick_i2c": "valor do joystick %1",
+	"joystick_i2c": "endereço do joystick I2C %1 obter valor %2",
 	"tilt_sensor": "sensor de inclinação %1",
 	"hall_magnetic_sensor": "sensor hall %1",
 	"ds1307_clock_module_init": "inicializar hora do relógio",
@@ -581,5 +581,7 @@
 	"ds1307_clock_module_isRun": "o módulo do relógio está em execução",
 	"ds1307_clock_module_isConnect": "o módulo do relógio está conectado",
 	"html_setFontColor": "definir a cor da fonte de %1 para %2",
-	"P_Buzzer_frequency_time": "buzzer %1 frequência %2 duração %3 s"
+	"P_Buzzer_frequency_time": "buzzer %1 frequência %2 duração %3 ms",
+	"Lattice_Screen_Show_Led": "mostrar led%1",
+	"Lattice_Screen_show_img": "mostrar imagem %1"
 }

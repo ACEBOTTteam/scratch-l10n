@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "ऊपर बाएं",
 	"carMotor.leftDown": "नीचे बाएं",
 	"carMotor.rightUp": "ऊपर दाएं",
-	"carMotor.rightDown": "नीचे दाएं"
+	"carMotor.rightDown": "नीचे दाएं",
+	"carMotor.latticeScreen.pixel": "डॉट मैट्रिक्स पिक्सेल",
+	"carMotor.latticeScreen.img": "डॉट मैट्रिक्स छवि",
+	"carMotor.mp3.play": "चलाएं",
+	"carMotor.mp3.suspend": "रोकें",
+	"carMotor.mp3.previous": "पिछला",
+	"carMotor.mp3.next": "अगला",
+	"carMotor.mp3.volume": "वॉल्यूम"
 }

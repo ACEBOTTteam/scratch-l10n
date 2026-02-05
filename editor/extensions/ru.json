@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "слева сверху",
 	"carMotor.leftDown": "слева снизу",
 	"carMotor.rightUp": "справа сверху",
-	"carMotor.rightDown": "справа снизу"
+	"carMotor.rightDown": "справа снизу",
+	"carMotor.latticeScreen.pixel": "пиксель точечной матрицы",
+	"carMotor.latticeScreen.img": "изображение точечной матрицы",
+	"carMotor.mp3.play": "воспроизвести",
+	"carMotor.mp3.suspend": "пауза",
+	"carMotor.mp3.previous": "предыдущий",
+	"carMotor.mp3.next": "следующий",
+	"carMotor.mp3.volume": "громкость"
 }

@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "vlevo nahoře",
 	"carMotor.leftDown": "vlevo dole",
 	"carMotor.rightUp": "vpravo nahoře",
-	"carMotor.rightDown": "vpravo dole"
+	"carMotor.rightDown": "vpravo dole",
+	"carMotor.latticeScreen.pixel": "pixel bodové matice",
+	"carMotor.latticeScreen.img": "obrázek bodové matice",
+	"carMotor.mp3.play": "přehrát",
+	"carMotor.mp3.suspend": "pozastavit",
+	"carMotor.mp3.previous": "předchozí",
+	"carMotor.mp3.next": "další",
+	"carMotor.mp3.volume": "hlasitost"
 }

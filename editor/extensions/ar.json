@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "أعلى اليسار",
 	"carMotor.leftDown": "أسفل اليسار",
 	"carMotor.rightUp": "أعلى اليمين",
-	"carMotor.rightDown": "أسفل اليمين"
+	"carMotor.rightDown": "أسفل اليمين",
+	"carMotor.latticeScreen.pixel": "بكسل شاشة نقطية",
+	"carMotor.latticeScreen.img": "صورة شاشة نقطية",
+	"carMotor.mp3.play": "تشغيل",
+	"carMotor.mp3.suspend": "إيقاف مؤقت",
+	"carMotor.mp3.previous": "السابق",
+	"carMotor.mp3.next": "التالي",
+	"carMotor.mp3.volume": "مستوى الصوت"
 }

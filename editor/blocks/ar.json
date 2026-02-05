@@ -568,7 +568,7 @@
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "قياس المسافة بالموجات فوق الصوتية (سم) دبوس Trig: %1 دبوس Echo: %2 إرسال",
 	"ROBOT_ULTRASONIC_SENSOR_TIME": "قياس المسافة بالموجات فوق الصوتية (سم) دبوس Trig: %1 دبوس Echo: %2 وقت الانتشار",
 	"operator_take_inverse": "عكس قيمة %1",
-	"joystick_i2c": "قيمة عصا التحكم %1",
+	"joystick_i2c": "عنوان عصا التحكم I2C %1 الحصول على القيمة %2",
 	"tilt_sensor": "مستشعر الميل %1",
 	"hall_magnetic_sensor": "مستشعر هول %1",
 	"ds1307_clock_module_init": "تهيئة وقت الساعة",
@@ -581,5 +581,7 @@
 	"ds1307_clock_module_isRun": "هل وحدة الساعة تعمل",
 	"ds1307_clock_module_isConnect": "هل وحدة الساعة متصلة",
 	"html_setFontColor": "تعيين لون خط %1 إلى %2",
-	"P_Buzzer_frequency_time": "الجرس %1 التردد %2 المدة %3 s"
+	"P_Buzzer_frequency_time": "الطنّان %1 التردد %2 المدة %3 ms",
+	"Lattice_Screen_Show_Led": "عرض led%1",
+	"Lattice_Screen_show_img": "عرض صورة %1"
 }

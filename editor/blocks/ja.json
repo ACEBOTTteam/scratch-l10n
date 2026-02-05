@@ -568,7 +568,7 @@
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "超音波測距(cm) Trigピン: %1 Echoピン: %2 送信",
 	"ROBOT_ULTRASONIC_SENSOR_TIME": "超音波測距(cm) Trigピン: %1 Echoピン: %2 伝播時間",
 	"operator_take_inverse": "%1の値を反転する",
-	"joystick_i2c": "ジョイスティック%1の値",
+	"joystick_i2c": "I2C ジョイスティックアドレス %1 の %2 値を取得",
 	"tilt_sensor": "傾斜センサー%1",
 	"hall_magnetic_sensor": "ホールセンサー%1",
 	"ds1307_clock_module_init": "時計の初期化時間",
@@ -581,5 +581,7 @@
 	"ds1307_clock_module_isRun": "時計モジュールは動作していますか",
 	"ds1307_clock_module_isConnect": "時計モジュールは接続されていますか",
 	"html_setFontColor": "%1 のフォント色を %2 に設定する",
-	"P_Buzzer_frequency_time": "ブザー %1 周波数 %2 持続時間 %3 s"
+	"P_Buzzer_frequency_time": "ブザー %1 周波数 %2 持続時間 %3 ms",
+	"Lattice_Screen_Show_Led": "led%1 を表示",
+	"Lattice_Screen_show_img": "画像 %1 を表示"
 }

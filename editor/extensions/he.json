@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "שמאל עליון",
 	"carMotor.leftDown": "שמאל תחתון",
 	"carMotor.rightUp": "ימין עליון",
-	"carMotor.rightDown": "ימין תחתון"
+	"carMotor.rightDown": "ימין תחתון",
+	"carMotor.latticeScreen.pixel": "פיקסל מטריצת נקודות",
+	"carMotor.latticeScreen.img": "תמונת מטריצת נקודות",
+	"carMotor.mp3.play": "נגן",
+	"carMotor.mp3.suspend": "השהה",
+	"carMotor.mp3.previous": "קודם",
+	"carMotor.mp3.next": "הבא",
+	"carMotor.mp3.volume": "עוצמת קול"
 }

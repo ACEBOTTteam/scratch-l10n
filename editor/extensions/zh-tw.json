@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "左上",
 	"carMotor.leftDown": "左下",
 	"carMotor.rightUp": "右上",
-	"carMotor.rightDown": "右下"
+	"carMotor.rightDown": "右下",
+	"carMotor.latticeScreen.pixel": "點陣屏像素",
+	"carMotor.latticeScreen.img": "點陣屏圖像",
+	"carMotor.mp3.play": "播放",
+	"carMotor.mp3.suspend": "暫停",
+	"carMotor.mp3.previous": "上一首",
+	"carMotor.mp3.next": "下一首",
+	"carMotor.mp3.volume": "音量"
 }

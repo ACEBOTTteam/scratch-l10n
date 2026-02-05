@@ -27,67 +27,88 @@ const extensions = {}
 
 const interfaceData = {
   "zh-cn": {
-    "gui.modify.clear_success": "清除完成"
+    "gui.modify.oneClickExport": "导出串口信息",
+    "gui.modify.noSerialData": "没有串口信息"
   },
   "zh-tw": {
-    "gui.modify.clear_success": "清除完成"
+    "gui.modify.oneClickExport": "匯出序列埠資訊",
+    "gui.modify.noSerialData": "沒有序列埠資訊"
   },
   "en": {
-    "gui.modify.clear_success": "clear completed"
+    "gui.modify.oneClickExport": "export serial port information",
+    "gui.modify.noSerialData": "no serial port information"
   },
   "fr": {
-    "gui.modify.clear_success": "effacement terminé"
+    "gui.modify.oneClickExport": "exporter les informations du port série",
+    "gui.modify.noSerialData": "aucune information de port série"
   },
   "ja": {
-    "gui.modify.clear_success": "クリア完了"
+    "gui.modify.oneClickExport": "シリアルポート情報をエクスポート",
+    "gui.modify.noSerialData": "シリアルポート情報がありません"
   },
   "de": {
-    "gui.modify.clear_success": "löschung abgeschlossen"
+    "gui.modify.oneClickExport": "serielle portinformationen exportieren",
+    "gui.modify.noSerialData": "keine seriellen portinformationen"
   },
   "es": {
-    "gui.modify.clear_success": "borrado completado"
+    "gui.modify.oneClickExport": "exportar información del puerto serie",
+    "gui.modify.noSerialData": "no hay información del puerto serie"
   },
   "ru": {
-    "gui.modify.clear_success": "очистка завершена"
+    "gui.modify.oneClickExport": "экспорт информации последовательного порта",
+    "gui.modify.noSerialData": "нет информации последовательного порта"
   },
   "cs": {
-    "gui.modify.clear_success": "vyčištění dokončeno"
+    "gui.modify.oneClickExport": "exportovat informace sériového portu",
+    "gui.modify.noSerialData": "žádné informace o sériovém portu"
   },
   "it": {
-    "gui.modify.clear_success": "cancellazione completata"
+    "gui.modify.oneClickExport": "esporta informazioni della porta seriale",
+    "gui.modify.noSerialData": "nessuna informazione sulla porta seriale"
   },
   "pl": {
-    "gui.modify.clear_success": "czyszczenie zakończone"
+    "gui.modify.oneClickExport": "eksportuj informacje portu szeregowego",
+    "gui.modify.noSerialData": "brak informacji o porcie szeregowym"
   },
   "tr": {
-    "gui.modify.clear_success": "temizleme tamamlandı"
+    "gui.modify.oneClickExport": "seri port bilgilerini dışa aktar",
+    "gui.modify.noSerialData": "seri port bilgisi yok"
   },
   "pt": {
-    "gui.modify.clear_success": "limpeza concluída"
+    "gui.modify.oneClickExport": "exportar informações da porta serial",
+    "gui.modify.noSerialData": "nenhuma informação da porta serial"
   },
   "hr": {
-    "gui.modify.clear_success": "brisanje dovršeno"
+    "gui.modify.oneClickExport": "izvezi informacije serijskog porta",
+    "gui.modify.noSerialData": "nema informacija o serijskom portu"
   },
   "hi": {
-    "gui.modify.clear_success": "साफ़ करना पूर्ण हुआ"
+    "gui.modify.oneClickExport": "सीरियल पोर्ट जानकारी निर्यात करें",
+    "gui.modify.noSerialData": "कोई सीरियल पोर्ट जानकारी नहीं"
   },
   "ko": {
-    "gui.modify.clear_success": "삭제 완료"
+    "gui.modify.oneClickExport": "시리얼 포트 정보 내보내기",
+    "gui.modify.noSerialData": "시리얼 포트 정보 없음"
   },
   "th": {
-    "gui.modify.clear_success": "ล้างเสร็จสิ้น"
+    "gui.modify.oneClickExport": "ส่งออกข้อมูลพอร์ตอนุกรม",
+    "gui.modify.noSerialData": "ไม่มีข้อมูลพอร์ตอนุกรม"
   },
   "nl": {
-    "gui.modify.clear_success": "wissen voltooid"
+    "gui.modify.oneClickExport": "seriële poortinformatie exporteren",
+    "gui.modify.noSerialData": "geen seriële poortinformatie"
   },
   "ar": {
-    "gui.modify.clear_success": "اكتمل المسح"
+    "gui.modify.oneClickExport": "تصدير معلومات المنفذ التسلسلي",
+    "gui.modify.noSerialData": "لا توجد معلومات عن المنفذ التسلسلي"
   },
   "vi": {
-    "gui.modify.clear_success": "xóa hoàn tất"
+    "gui.modify.oneClickExport": "xuất thông tin cổng nối tiếp",
+    "gui.modify.noSerialData": "không có thông tin cổng nối tiếp"
   },
   "he": {
-    "gui.modify.clear_success": "הניקוי הושלם"
+    "gui.modify.oneClickExport": "ייצוא מידע יציאה טורית",
+    "gui.modify.noSerialData": "אין מידע על יציאה טורית"
   }
 }
 

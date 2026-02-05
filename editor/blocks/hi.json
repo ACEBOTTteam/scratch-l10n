@@ -566,7 +566,7 @@
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "अल्ट्रासोनिक दूरी मापन (सेमी) Trig पिन: %1 Echo पिन: %2 भेजें",
 	"ROBOT_ULTRASONIC_SENSOR_TIME": "अल्ट्रासोनिक दूरी मापन (सेमी) Trig पिन: %1 Echo पिन: %2 प्रसार समय",
 	"operator_take_inverse": "%1 मान को उल्टा करें",
-	"joystick_i2c": "जॉयस्टिक %1 मान",
+	"joystick_i2c": "I2C जॉयस्टिक पता %1 %2 मान प्राप्त करें",
 	"tilt_sensor": "झुकाव सेंसर %1",
 	"hall_magnetic_sensor": "हॉल सेंसर %1",
 	"ds1307_clock_module_init": "घड़ी समय प्रारंभ करें",
@@ -579,5 +579,7 @@
 	"ds1307_clock_module_isRun": "क्या घड़ी मॉड्यूल चल रहा है",
 	"ds1307_clock_module_isConnect": "क्या घड़ी मॉड्यूल जुड़ा है",
 	"html_setFontColor": "%1 फ़ॉन्ट रंग को %2 पर सेट करें",
-	"P_Buzzer_frequency_time": "बज़र %1 आवृत्ति %2 अवधि %3 s"
+	"P_Buzzer_frequency_time": "बज़र %1 आवृत्ति %2 अवधि %3 ms",
+	"Lattice_Screen_Show_Led": "led%1 दिखाएं",
+	"Lattice_Screen_show_img": "छवि %1 दिखाएं"
 }

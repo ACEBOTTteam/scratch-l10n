@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "ซ้ายบน",
 	"carMotor.leftDown": "ซ้ายล่าง",
 	"carMotor.rightUp": "ขวาบน",
-	"carMotor.rightDown": "ขวาล่าง"
+	"carMotor.rightDown": "ขวาล่าง",
+	"carMotor.latticeScreen.pixel": "พิกเซลดอตเมทริกซ์",
+	"carMotor.latticeScreen.img": "ภาพดอตเมทริกซ์",
+	"carMotor.mp3.play": "เล่น",
+	"carMotor.mp3.suspend": "หยุดชั่วคราว",
+	"carMotor.mp3.previous": "ก่อนหน้า",
+	"carMotor.mp3.next": "ถัดไป",
+	"carMotor.mp3.volume": "ระดับเสียง"
 }

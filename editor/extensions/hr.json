@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "gore lijevo",
 	"carMotor.leftDown": "dolje lijevo",
 	"carMotor.rightUp": "gore desno",
-	"carMotor.rightDown": "dolje desno"
+	"carMotor.rightDown": "dolje desno",
+	"carMotor.latticeScreen.pixel": "piksel točkaste matrice",
+	"carMotor.latticeScreen.img": "slika točkaste matrice",
+	"carMotor.mp3.play": "reproduciraj",
+	"carMotor.mp3.suspend": "pauza",
+	"carMotor.mp3.previous": "prethodna",
+	"carMotor.mp3.next": "sljedeća",
+	"carMotor.mp3.volume": "glasnoća"
 }

@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "arriba a la izquierda",
 	"carMotor.leftDown": "abajo a la izquierda",
 	"carMotor.rightUp": "arriba a la derecha",
-	"carMotor.rightDown": "abajo a la derecha"
+	"carMotor.rightDown": "abajo a la derecha",
+	"carMotor.latticeScreen.pixel": "píxel de matriz de puntos",
+	"carMotor.latticeScreen.img": "imagen de matriz de puntos",
+	"carMotor.mp3.play": "reproducir",
+	"carMotor.mp3.suspend": "pausa",
+	"carMotor.mp3.previous": "anterior",
+	"carMotor.mp3.next": "siguiente",
+	"carMotor.mp3.volume": "volumen"
 }

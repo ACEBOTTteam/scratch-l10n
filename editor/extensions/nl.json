@@ -668,5 +668,12 @@
 	"carMotor.leftUp": "links boven",
 	"carMotor.leftDown": "links onder",
 	"carMotor.rightUp": "rechts boven",
-	"carMotor.rightDown": "rechts onder"
+	"carMotor.rightDown": "rechts onder",
+	"carMotor.latticeScreen.pixel": "puntmatrixpixel",
+	"carMotor.latticeScreen.img": "puntmatrixafbeelding",
+	"carMotor.mp3.play": "afspelen",
+	"carMotor.mp3.suspend": "pauze",
+	"carMotor.mp3.previous": "vorige",
+	"carMotor.mp3.next": "volgende",
+	"carMotor.mp3.volume": "volume"
 }

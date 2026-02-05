@@ -568,7 +568,7 @@
 	"ROBOT_ULTRASONIC_SENSOR_SEND": "วัดระยะด้วยอัลตราโซนิก (ซม.) Trig ขา: %1 Echo ขา: %2 ส่ง",
 	"ROBOT_ULTRASONIC_SENSOR_TIME": "วัดระยะด้วยอัลตราโซนิก (ซม.) Trig ขา: %1 Echo ขา: %2 เวลาแพร่กระจาย",
 	"operator_take_inverse": "กลับค่าของ %1",
-	"joystick_i2c": "ค่าจอยสติ๊ก %1",
+	"joystick_i2c": "ที่อยู่จอยสติ๊ก I2C %1 รับค่า %2",
 	"tilt_sensor": "เซ็นเซอร์เอียง %1",
 	"hall_magnetic_sensor": "เซ็นเซอร์ฮอลล์ %1",
 	"ds1307_clock_module_init": "เริ่มต้นเวลา นาฬิกา",
@@ -581,5 +581,7 @@
 	"ds1307_clock_module_isRun": "โมดูลนาฬิกากำลังทำงานหรือไม่",
 	"ds1307_clock_module_isConnect": "โมดูลนาฬิกาเชื่อมต่อหรือไม่",
 	"html_setFontColor": "ตั้งค่าสีตัวอักษรของ %1 เป็น %2",
-	"P_Buzzer_frequency_time": "บัซเซอร์ %1 ความถี่ %2 ระยะเวลา %3 s"
+	"P_Buzzer_frequency_time": "บัซเซอร์ %1 ความถี่ %2 ระยะเวลา %3 ms",
+	"Lattice_Screen_Show_Led": "แสดง led%1",
+	"Lattice_Screen_show_img": "แสดงรูปภาพ %1"
 }

@@ -583,5 +583,9 @@
 	"html_setFontColor": "%1 のフォント色を %2 に設定する",
 	"P_Buzzer_frequency_time": "ブザー %1 周波数 %2 持続時間 %3 ms",
 	"Lattice_Screen_Show_Led": "led%1 を表示",
-	"Lattice_Screen_show_img": "画像 %1 を表示"
+	"Lattice_Screen_show_img": "画像 %1 を表示",
+	"ESPNOW8266_INIT_MAC": "ESP NOW 初期化",
+	"ESPNOW8266_SEND": "ESP NOW がmacアドレス%1にデータ%2を送信",
+	"ESPNOW8266_IS_GETDATA": "ESP NOWはデータを受信しましたか",
+	"ESPNOW_SET_CHANNEL": "ESP NOW チャンネル%1を設定"
 }

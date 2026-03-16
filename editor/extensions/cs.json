@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "pozastavit",
 	"carMotor.mp3.previous": "předchozí",
 	"carMotor.mp3.next": "další",
-	"carMotor.mp3.volume": "hlasitost"
+	"carMotor.mp3.volume": "hlasitost",
+	"meteorologicalStation_weather_setWebTitle": "nastavit název webové stránky na [ONE]",
+	"meteorologicalStation_weather_setServoName": "nastavit název serva na webové stránce na [ONE]",
+	"meteorologicalStation_weather_setLanguage": "nastavit jazyk webové stránky na [ONE]",
+	"meteorologicalStation.english": "angličtina",
+	"meteorologicalStation.chinese": "čínština"
 }

@@ -583,5 +583,9 @@
 	"html_setFontColor": "ตั้งค่าสีตัวอักษรของ %1 เป็น %2",
 	"P_Buzzer_frequency_time": "บัซเซอร์ %1 ความถี่ %2 ระยะเวลา %3 ms",
 	"Lattice_Screen_Show_Led": "แสดง led%1",
-	"Lattice_Screen_show_img": "แสดงรูปภาพ %1"
+	"Lattice_Screen_show_img": "แสดงรูปภาพ %1",
+	"ESPNOW8266_INIT_MAC": "เริ่มต้น ESP NOW",
+	"ESPNOW8266_SEND": "ESP NOW ส่งข้อมูล %2 ไปยังที่อยู่ mac %1",
+	"ESPNOW8266_IS_GETDATA": "ESP NOW ได้รับข้อมูลหรือไม่",
+	"ESPNOW_SET_CHANNEL": "ESP NOW ตั้งค่าช่องสัญญาณ %1"
 }

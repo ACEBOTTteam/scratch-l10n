@@ -583,5 +583,9 @@
 	"html_setFontColor": "establecer el color de fuente de %1 en %2",
 	"P_Buzzer_frequency_time": "zumbador %1 frecuencia %2 duración %3 ms",
 	"Lattice_Screen_Show_Led": "mostrar led%1",
-	"Lattice_Screen_show_img": "mostrar imagen %1"
+	"Lattice_Screen_show_img": "mostrar imagen %1",
+	"ESPNOW8266_INIT_MAC": "inicialización ESP NOW",
+	"ESPNOW8266_SEND": "ESP NOW enviar datos %2 a la dirección mac %1",
+	"ESPNOW8266_IS_GETDATA": "ESP NOW ha recibido datos",
+	"ESPNOW_SET_CHANNEL": "ESP NOW establecer canal %1"
 }

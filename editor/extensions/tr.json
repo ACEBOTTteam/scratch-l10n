@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "duraklat",
 	"carMotor.mp3.previous": "önceki",
 	"carMotor.mp3.next": "sonraki",
-	"carMotor.mp3.volume": "ses seviyesi"
+	"carMotor.mp3.volume": "ses seviyesi",
+	"meteorologicalStation_weather_setWebTitle": "web sayfası başlığını [ONE] olarak ayarla",
+	"meteorologicalStation_weather_setServoName": "web sayfasındaki servo adını [ONE] olarak ayarla",
+	"meteorologicalStation_weather_setLanguage": "web sayfası dilini [ONE] olarak ayarla",
+	"meteorologicalStation.english": "ingilizce",
+	"meteorologicalStation.chinese": "çince"
 }

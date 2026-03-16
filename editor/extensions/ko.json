@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "일시 정지",
 	"carMotor.mp3.previous": "이전 곡",
 	"carMotor.mp3.next": "다음 곡",
-	"carMotor.mp3.volume": "볼륨"
+	"carMotor.mp3.volume": "볼륨",
+	"meteorologicalStation_weather_setWebTitle": "웹 페이지 제목을 [ONE]로 설정",
+	"meteorologicalStation_weather_setServoName": "웹 페이지에서 서보 이름을 [ONE]로 설정",
+	"meteorologicalStation_weather_setLanguage": "웹 페이지 언어를 [ONE]로 설정",
+	"meteorologicalStation.english": "영어",
+	"meteorologicalStation.chinese": "중국어"
 }

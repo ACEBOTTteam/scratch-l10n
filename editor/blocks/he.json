@@ -581,5 +581,9 @@
 	"html_setFontColor": "הגדר צבע גופן של %1 ל־%2",
 	"P_Buzzer_frequency_time": "באזר %1 תדר %2 משך %3 ms",
 	"Lattice_Screen_Show_Led": "הצג led%1",
-	"Lattice_Screen_show_img": "הצג תמונה %1"
+	"Lattice_Screen_show_img": "הצג תמונה %1",
+	"ESPNOW8266_INIT_MAC": "אתחול ESP NOW",
+	"ESPNOW8266_SEND": "ESP NOW שלח נתונים %2 לכתובת mac %1",
+	"ESPNOW8266_IS_GETDATA": "האם ESP NOW קיבל נתונים",
+	"ESPNOW_SET_CHANNEL": "ESP NOW הגדר ערוץ %1"
 }

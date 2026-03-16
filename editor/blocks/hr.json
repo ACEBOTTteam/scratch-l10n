@@ -583,5 +583,9 @@
 	"html_setFontColor": "postavi boju fonta %1 na %2",
 	"P_Buzzer_frequency_time": "zujalica %1 frekvencija %2 trajanje %3 ms",
 	"Lattice_Screen_Show_Led": "prikaži led%1",
-	"Lattice_Screen_show_img": "prikaži sliku %1"
+	"Lattice_Screen_show_img": "prikaži sliku %1",
+	"ESPNOW8266_INIT_MAC": "inicijalizacija ESP NOW",
+	"ESPNOW8266_SEND": "ESP NOW pošalji podatke %2 na mac adresu %1",
+	"ESPNOW8266_IS_GETDATA": "je li ESP NOW primio podatke",
+	"ESPNOW_SET_CHANNEL": "ESP NOW postavi kanal %1"
 }

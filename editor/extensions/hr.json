@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "pauza",
 	"carMotor.mp3.previous": "prethodna",
 	"carMotor.mp3.next": "sljedeća",
-	"carMotor.mp3.volume": "glasnoća"
+	"carMotor.mp3.volume": "glasnoća",
+	"meteorologicalStation_weather_setWebTitle": "postavi naslov web stranice na [ONE]",
+	"meteorologicalStation_weather_setServoName": "postavi naziv serva na web stranici na [ONE]",
+	"meteorologicalStation_weather_setLanguage": "postavi jezik web stranice na [ONE]",
+	"meteorologicalStation.english": "engleski",
+	"meteorologicalStation.chinese": "kineski"
 }

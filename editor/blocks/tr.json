@@ -583,5 +583,9 @@
 	"html_setFontColor": "%1 yazı tipi rengini %2 olarak ayarla",
 	"P_Buzzer_frequency_time": "buzzer %1 frekans %2 süre %3 ms",
 	"Lattice_Screen_Show_Led": "led%1 göster",
-	"Lattice_Screen_show_img": "görüntü %1 göster"
+	"Lattice_Screen_show_img": "görüntü %1 göster",
+	"ESPNOW8266_INIT_MAC": "ESP NOW başlatma",
+	"ESPNOW8266_SEND": "ESP NOW mac adresi %1'e veri %2 gönder",
+	"ESPNOW8266_IS_GETDATA": "ESP NOW veri aldı mı",
+	"ESPNOW_SET_CHANNEL": "ESP NOW kanal %1 ayarla"
 }

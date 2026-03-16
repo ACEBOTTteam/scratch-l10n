@@ -583,5 +583,9 @@
 	"html_setFontColor": "nastavit barvu písma %1 na %2",
 	"P_Buzzer_frequency_time": "bzučák %1 frekvence %2 doba %3 ms",
 	"Lattice_Screen_Show_Led": "zobrazit led%1",
-	"Lattice_Screen_show_img": "zobrazit obrázek %1"
+	"Lattice_Screen_show_img": "zobrazit obrázek %1",
+	"ESPNOW8266_INIT_MAC": "inicializace ESP NOW",
+	"ESPNOW8266_SEND": "ESP NOW odeslat data %2 na mac adresu %1",
+	"ESPNOW8266_IS_GETDATA": "obdržel ESP NOW data",
+	"ESPNOW_SET_CHANNEL": "ESP NOW nastavit kanál %1"
 }

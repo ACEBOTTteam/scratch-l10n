@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "रोकें",
 	"carMotor.mp3.previous": "पिछला",
 	"carMotor.mp3.next": "अगला",
-	"carMotor.mp3.volume": "वॉल्यूम"
+	"carMotor.mp3.volume": "वॉल्यूम",
+	"meteorologicalStation_weather_setWebTitle": "वेब पेज शीर्षक [ONE] पर सेट करें",
+	"meteorologicalStation_weather_setServoName": "वेब पेज में सर्वो का नाम [ONE] पर सेट करें",
+	"meteorologicalStation_weather_setLanguage": "वेब पेज की भाषा [ONE] पर सेट करें",
+	"meteorologicalStation.english": "अंग्रेज़ी",
+	"meteorologicalStation.chinese": "चीनी"
 }

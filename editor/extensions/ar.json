@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "إيقاف مؤقت",
 	"carMotor.mp3.previous": "السابق",
 	"carMotor.mp3.next": "التالي",
-	"carMotor.mp3.volume": "مستوى الصوت"
+	"carMotor.mp3.volume": "مستوى الصوت",
+	"meteorologicalStation_weather_setWebTitle": "تعيين عنوان صفحة الويب إلى [ONE]",
+	"meteorologicalStation_weather_setServoName": "تعيين اسم السيرفو في صفحة الويب إلى [ONE]",
+	"meteorologicalStation_weather_setLanguage": "تعيين لغة صفحة الويب إلى [ONE]",
+	"meteorologicalStation.english": "الإنجليزية",
+	"meteorologicalStation.chinese": "الصينية"
 }

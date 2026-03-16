@@ -21,96 +21,75 @@ const fs = require('fs')
  * 
  */
 
-const block = {}
+const block = {
+  "zh-cn": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW 设置信道%1",
+  },
+  "zh-tw": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW 設置信道%1"
+  },
+  "en": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW set channel %1"
+  },
+  "fr": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW définir le canal %1"
+  },
+  "ja": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW チャンネル%1を設定"
+  },
+  "de": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW kanal %1 festlegen"
+  },
+  "es": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW establecer canal %1"
+  },
+  "ru": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW установить канал %1"
+  },
+  "cs": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW nastavit kanál %1"
+  },
+  "it": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW imposta canale %1"
+  },
+  "pl": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW ustaw kanał %1"
+  },
+  "tr": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW kanal %1 ayarla"
+  },
+  "pt": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW definir canal %1"
+  },
+  "hr": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW postavi kanal %1"
+  },
+  "hi": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW चैनल %1 सेट करें"
+  },
+  "ko": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW 채널 %1 설정"
+  },
+  "th": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW ตั้งค่าช่องสัญญาณ %1"
+  },
+  "nl": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW kanaal %1 instellen"
+  },
+  "ar": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW تعيين القناة %1"
+  },
+  "vi": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW đặt kênh %1"
+  },
+  "he": {
+    "ESPNOW_SET_CHANNEL": "ESP NOW הגדר ערוץ %1"
+  }
+}
 
 const extensions = {}
 
-const interfaceData = {
-  "zh-cn": {
-    "gui.modify.oneClickExport": "导出串口信息",
-    "gui.modify.noSerialData": "没有串口信息"
-  },
-  "zh-tw": {
-    "gui.modify.oneClickExport": "匯出序列埠資訊",
-    "gui.modify.noSerialData": "沒有序列埠資訊"
-  },
-  "en": {
-    "gui.modify.oneClickExport": "export serial port information",
-    "gui.modify.noSerialData": "no serial port information"
-  },
-  "fr": {
-    "gui.modify.oneClickExport": "exporter les informations du port série",
-    "gui.modify.noSerialData": "aucune information de port série"
-  },
-  "ja": {
-    "gui.modify.oneClickExport": "シリアルポート情報をエクスポート",
-    "gui.modify.noSerialData": "シリアルポート情報がありません"
-  },
-  "de": {
-    "gui.modify.oneClickExport": "serielle portinformationen exportieren",
-    "gui.modify.noSerialData": "keine seriellen portinformationen"
-  },
-  "es": {
-    "gui.modify.oneClickExport": "exportar información del puerto serie",
-    "gui.modify.noSerialData": "no hay información del puerto serie"
-  },
-  "ru": {
-    "gui.modify.oneClickExport": "экспорт информации последовательного порта",
-    "gui.modify.noSerialData": "нет информации последовательного порта"
-  },
-  "cs": {
-    "gui.modify.oneClickExport": "exportovat informace sériového portu",
-    "gui.modify.noSerialData": "žádné informace o sériovém portu"
-  },
-  "it": {
-    "gui.modify.oneClickExport": "esporta informazioni della porta seriale",
-    "gui.modify.noSerialData": "nessuna informazione sulla porta seriale"
-  },
-  "pl": {
-    "gui.modify.oneClickExport": "eksportuj informacje portu szeregowego",
-    "gui.modify.noSerialData": "brak informacji o porcie szeregowym"
-  },
-  "tr": {
-    "gui.modify.oneClickExport": "seri port bilgilerini dışa aktar",
-    "gui.modify.noSerialData": "seri port bilgisi yok"
-  },
-  "pt": {
-    "gui.modify.oneClickExport": "exportar informações da porta serial",
-    "gui.modify.noSerialData": "nenhuma informação da porta serial"
-  },
-  "hr": {
-    "gui.modify.oneClickExport": "izvezi informacije serijskog porta",
-    "gui.modify.noSerialData": "nema informacija o serijskom portu"
-  },
-  "hi": {
-    "gui.modify.oneClickExport": "सीरियल पोर्ट जानकारी निर्यात करें",
-    "gui.modify.noSerialData": "कोई सीरियल पोर्ट जानकारी नहीं"
-  },
-  "ko": {
-    "gui.modify.oneClickExport": "시리얼 포트 정보 내보내기",
-    "gui.modify.noSerialData": "시리얼 포트 정보 없음"
-  },
-  "th": {
-    "gui.modify.oneClickExport": "ส่งออกข้อมูลพอร์ตอนุกรม",
-    "gui.modify.noSerialData": "ไม่มีข้อมูลพอร์ตอนุกรม"
-  },
-  "nl": {
-    "gui.modify.oneClickExport": "seriële poortinformatie exporteren",
-    "gui.modify.noSerialData": "geen seriële poortinformatie"
-  },
-  "ar": {
-    "gui.modify.oneClickExport": "تصدير معلومات المنفذ التسلسلي",
-    "gui.modify.noSerialData": "لا توجد معلومات عن المنفذ التسلسلي"
-  },
-  "vi": {
-    "gui.modify.oneClickExport": "xuất thông tin cổng nối tiếp",
-    "gui.modify.noSerialData": "không có thông tin cổng nối tiếp"
-  },
-  "he": {
-    "gui.modify.oneClickExport": "ייצוא מידע יציאה טורית",
-    "gui.modify.noSerialData": "אין מידע על יציאה טורית"
-  }
-}
+const interfaceData = {}
 
 
 const alterAndAdd = (jsonData, path) => {

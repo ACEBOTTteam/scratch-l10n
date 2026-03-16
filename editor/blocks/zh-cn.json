@@ -581,5 +581,9 @@
 	"html_setFontColor": "设置 %1 字体颜色为 %2",
 	"P_Buzzer_frequency_time": "蜂鸣器 %1 频率 %2 持续时间 %3 ms",
 	"Lattice_Screen_Show_Led": "显示 LED%1",
-	"Lattice_Screen_show_img": "显示图片 %1"
+	"Lattice_Screen_show_img": "显示图片 %1",
+	"ESPNOW8266_INIT_MAC": "ESP NOW 初始化",
+	"ESPNOW8266_SEND": "ESP NOW 向mac地址%1发送数据%2",
+	"ESPNOW8266_IS_GETDATA": "ESP NOW是否接收到数据",
+	"ESPNOW_SET_CHANNEL": "ESP NOW 设置信道%1"
 }

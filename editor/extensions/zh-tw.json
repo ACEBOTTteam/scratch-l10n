@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "暫停",
 	"carMotor.mp3.previous": "上一首",
 	"carMotor.mp3.next": "下一首",
-	"carMotor.mp3.volume": "音量"
+	"carMotor.mp3.volume": "音量",
+	"meteorologicalStation_weather_setWebTitle": "設置網頁標題為[ONE]",
+	"meteorologicalStation_weather_setServoName": "設置網頁中舵機名稱為[ONE]",
+	"meteorologicalStation_weather_setLanguage": "設置網頁語言為[ONE]",
+	"meteorologicalStation.english": "英文",
+	"meteorologicalStation.chinese": "中文"
 }

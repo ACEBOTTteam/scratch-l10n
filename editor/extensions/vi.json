@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "tạm dừng",
 	"carMotor.mp3.previous": "bài trước",
 	"carMotor.mp3.next": "bài tiếp theo",
-	"carMotor.mp3.volume": "âm lượng"
+	"carMotor.mp3.volume": "âm lượng",
+	"meteorologicalStation_weather_setWebTitle": "đặt tiêu đề trang web thành [ONE]",
+	"meteorologicalStation_weather_setServoName": "đặt tên servo trên trang web thành [ONE]",
+	"meteorologicalStation_weather_setLanguage": "đặt ngôn ngữ trang web thành [ONE]",
+	"meteorologicalStation.english": "tiếng anh",
+	"meteorologicalStation.chinese": "tiếng trung"
 }

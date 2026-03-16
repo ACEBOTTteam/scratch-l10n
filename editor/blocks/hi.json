@@ -581,5 +581,9 @@
 	"html_setFontColor": "%1 फ़ॉन्ट रंग को %2 पर सेट करें",
 	"P_Buzzer_frequency_time": "बज़र %1 आवृत्ति %2 अवधि %3 ms",
 	"Lattice_Screen_Show_Led": "led%1 दिखाएं",
-	"Lattice_Screen_show_img": "छवि %1 दिखाएं"
+	"Lattice_Screen_show_img": "छवि %1 दिखाएं",
+	"ESPNOW8266_INIT_MAC": "ESP NOW आरंभ",
+	"ESPNOW8266_SEND": "ESP NOW mac पता %1 पर डेटा %2 भेजें",
+	"ESPNOW8266_IS_GETDATA": "क्या ESP NOW ने डेटा प्राप्त किया",
+	"ESPNOW_SET_CHANNEL": "ESP NOW चैनल %1 सेट करें"
 }

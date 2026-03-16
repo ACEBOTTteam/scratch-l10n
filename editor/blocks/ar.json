@@ -583,5 +583,9 @@
 	"html_setFontColor": "تعيين لون خط %1 إلى %2",
 	"P_Buzzer_frequency_time": "الطنّان %1 التردد %2 المدة %3 ms",
 	"Lattice_Screen_Show_Led": "عرض led%1",
-	"Lattice_Screen_show_img": "عرض صورة %1"
+	"Lattice_Screen_show_img": "عرض صورة %1",
+	"ESPNOW8266_INIT_MAC": "تهيئة ESP NOW",
+	"ESPNOW8266_SEND": "ESP NOW إرسال البيانات %2 إلى عنوان mac %1",
+	"ESPNOW8266_IS_GETDATA": "هل استلم ESP NOW البيانات",
+	"ESPNOW_SET_CHANNEL": "ESP NOW تعيين القناة %1"
 }

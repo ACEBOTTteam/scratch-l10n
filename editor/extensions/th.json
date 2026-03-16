@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "หยุดชั่วคราว",
 	"carMotor.mp3.previous": "ก่อนหน้า",
 	"carMotor.mp3.next": "ถัดไป",
-	"carMotor.mp3.volume": "ระดับเสียง"
+	"carMotor.mp3.volume": "ระดับเสียง",
+	"meteorologicalStation_weather_setWebTitle": "ตั้งค่าชื่อหน้าเว็บเป็น [ONE]",
+	"meteorologicalStation_weather_setServoName": "ตั้งค่าชื่อเซอร์โวในหน้าเว็บเป็น [ONE]",
+	"meteorologicalStation_weather_setLanguage": "ตั้งค่าภาษาเว็บไซต์เป็น [ONE]",
+	"meteorologicalStation.english": "ภาษาอังกฤษ",
+	"meteorologicalStation.chinese": "ภาษาจีน"
 }

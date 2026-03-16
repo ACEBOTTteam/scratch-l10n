@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "השהה",
 	"carMotor.mp3.previous": "קודם",
 	"carMotor.mp3.next": "הבא",
-	"carMotor.mp3.volume": "עוצמת קול"
+	"carMotor.mp3.volume": "עוצמת קול",
+	"meteorologicalStation_weather_setWebTitle": "הגדר את כותרת דף האינטרנט ל-[ONE]",
+	"meteorologicalStation_weather_setServoName": "הגדר את שם הסרוו בדף האינטרנט ל-[ONE]",
+	"meteorologicalStation_weather_setLanguage": "הגדר את שפת דף האינטרנט ל-[ONE]",
+	"meteorologicalStation.english": "אנגלית",
+	"meteorologicalStation.chinese": "סינית"
 }

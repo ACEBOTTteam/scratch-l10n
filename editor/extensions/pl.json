@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "pauza",
 	"carMotor.mp3.previous": "poprzedni",
 	"carMotor.mp3.next": "następny",
-	"carMotor.mp3.volume": "głośność"
+	"carMotor.mp3.volume": "głośność",
+	"meteorologicalStation_weather_setWebTitle": "ustaw tytuł strony internetowej na [ONE]",
+	"meteorologicalStation_weather_setServoName": "ustaw nazwę serwa na stronie internetowej na [ONE]",
+	"meteorologicalStation_weather_setLanguage": "ustaw język strony internetowej na [ONE]",
+	"meteorologicalStation.english": "angielski",
+	"meteorologicalStation.chinese": "chiński"
 }

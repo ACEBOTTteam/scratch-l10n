@@ -581,5 +581,9 @@
 	"html_setFontColor": "đặt màu phông chữ của %1 thành %2",
 	"P_Buzzer_frequency_time": "còi %1 tần số %2 thời lượng %3 ms",
 	"Lattice_Screen_Show_Led": "hiển thị led%1",
-	"Lattice_Screen_show_img": "hiển thị hình ảnh %1"
+	"Lattice_Screen_show_img": "hiển thị hình ảnh %1",
+	"ESPNOW8266_INIT_MAC": "khởi tạo ESP NOW",
+	"ESPNOW8266_SEND": "ESP NOW gửi dữ liệu %2 đến địa chỉ mac %1",
+	"ESPNOW8266_IS_GETDATA": "ESP NOW đã nhận dữ liệu chưa",
+	"ESPNOW_SET_CHANNEL": "ESP NOW đặt kênh %1"
 }

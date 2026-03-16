@@ -675,5 +675,10 @@
 	"carMotor.mp3.suspend": "一時停止",
 	"carMotor.mp3.previous": "前の曲",
 	"carMotor.mp3.next": "次の曲",
-	"carMotor.mp3.volume": "音量"
+	"carMotor.mp3.volume": "音量",
+	"meteorologicalStation_weather_setWebTitle": "webページのタイトルを[ONE]に設定",
+	"meteorologicalStation_weather_setServoName": "webページ内のサーボ名を[ONE]に設定",
+	"meteorologicalStation_weather_setLanguage": "webページの言語を[ONE]に設定",
+	"meteorologicalStation.english": "英語",
+	"meteorologicalStation.chinese": "中国語"
 }

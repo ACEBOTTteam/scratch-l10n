@@ -21,73 +21,94 @@ const fs = require('fs')
  * 
  */
 
-const block = {
+const block = {}
+
+const extensions = {
   "zh-cn": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW 设置信道%1",
+    "nineInOne_delay": "等待[ONE]毫秒",
+    "nineInOne_init": "九合一模块初始化"
   },
   "zh-tw": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW 設置信道%1"
+    "nineInOne_delay": "等待[ONE]毫秒",
+    "nineInOne_init": "九合一模組初始化"
   },
   "en": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW set channel %1"
+    "nineInOne_delay": "wait [ONE] milliseconds",
+    "nineInOne_init": "9-in-1 module initialization"
   },
   "fr": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW définir le canal %1"
+    "nineInOne_delay": "attendre [ONE] millisecondes",
+    "nineInOne_init": "initialisation du module 9-en-1"
   },
   "ja": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW チャンネル%1を設定"
+    "nineInOne_delay": "[ONE]ミリ秒待機",
+    "nineInOne_init": "9-in-1モジュール初期化"
   },
   "de": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW kanal %1 festlegen"
+    "nineInOne_delay": "[ONE] millisekunden warten",
+    "nineInOne_init": "9-in-1-modul initialisierung"
   },
   "es": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW establecer canal %1"
+    "nineInOne_delay": "esperar [ONE] milisegundos",
+    "nineInOne_init": "inicialización del módulo 9 en 1"
   },
   "ru": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW установить канал %1"
+    "nineInOne_delay": "ожидать [ONE] миллисекунд",
+    "nineInOne_init": "инициализация модуля 9-в-1"
   },
   "cs": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW nastavit kanál %1"
+    "nineInOne_delay": "čekat [ONE] milisekund",
+    "nineInOne_init": "inicializace modulu 9 v 1"
   },
   "it": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW imposta canale %1"
+    "nineInOne_delay": "attendere [ONE] millisecondi",
+    "nineInOne_init": "inizializzazione modulo 9 in 1"
   },
   "pl": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW ustaw kanał %1"
+    "nineInOne_delay": "czekaj [ONE] milisekund",
+    "nineInOne_init": "inicjalizacja modułu 9 w 1"
   },
   "tr": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW kanal %1 ayarla"
+    "nineInOne_delay": "[ONE] milisaniye bekle",
+    "nineInOne_init": "9'u 1 arada modül başlatma"
   },
   "pt": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW definir canal %1"
+    "nineInOne_delay": "aguarde [ONE] milissegundos",
+    "nineInOne_init": "inicialização do módulo 9 em 1"
   },
   "hr": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW postavi kanal %1"
+    "nineInOne_delay": "čekaj [ONE] milisekundi",
+    "nineInOne_init": "inicijalizacija 9-u-1 modula"
   },
   "hi": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW चैनल %1 सेट करें"
+    "nineInOne_delay": "[ONE] मिलीसेकंड प्रतीक्षा करें",
+    "nineInOne_init": "9-इन-1 मॉड्यूल प्रारंभ करें"
   },
   "ko": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW 채널 %1 설정"
+    "nineInOne_delay": "[ONE]밀리초 대기",
+    "nineInOne_init": "9-in-1 모듈 초기화"
   },
   "th": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW ตั้งค่าช่องสัญญาณ %1"
+    "nineInOne_delay": "รอ [ONE] มิลลิวินาที",
+    "nineInOne_init": "เริ่มต้นโมดูล 9-in-1"
   },
   "nl": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW kanaal %1 instellen"
+    "nineInOne_delay": "wacht [ONE] milliseconden",
+    "nineInOne_init": "9-in-1 module initialisatie"
   },
   "ar": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW تعيين القناة %1"
+    "nineInOne_delay": "انتظر [ONE] مللي ثانية",
+    "nineInOne_init": "تهيئة وحدة 9 في 1"
   },
   "vi": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW đặt kênh %1"
+    "nineInOne_delay": "đợi [ONE] mili giây",
+    "nineInOne_init": "khởi tạo mô-đun 9 trong 1"
   },
   "he": {
-    "ESPNOW_SET_CHANNEL": "ESP NOW הגדר ערוץ %1"
+    "nineInOne_delay": "המתן [ONE] מילישניות",
+    "nineInOne_init": "אתחול מודול 9 ב-1"
   }
 }
-
-const extensions = {}
 
 const interfaceData = {}
 

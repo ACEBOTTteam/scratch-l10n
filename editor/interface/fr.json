@@ -606,7 +606,7 @@
 	"gui.modify.microPython": "micropython firmware",
 	"gui.modify.mobile": "firmware mobile",
 	"CATEGORY_ROBOTS_BLE": "bluetooth basse consommation",
-	"gui.extension.PAW.name": "gant détecteur de mouvement",
+	"gui.extension.PAW.name": "Gants à détection de mouvement",
 	"gui.modify.serialPortMappingInstrument": "instrument de cartographie du port série",
 	"gui.extension.carMotor.description": "La voiture intelligente est un robot mobile intégrant des capteurs et un système de contrôle, capable d’éviter automatiquement les obstacles, de suivre une ligne et d’être contrôlée à distance.",
 	"gui.extension.mechanicalArm.description": "Le kit bras mécanique comprend un bras robot programmable capable de saisir, déplacer et manipuler des objets.",

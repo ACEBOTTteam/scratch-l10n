@@ -6,7 +6,7 @@
 const locales = {
     // 'ab': {name: 'Аҧсшәа'},
     // 'af': {name: 'Afrikaans'},
-    'ar': {name: 'العربية'},
+    'ar': {name: 'العربية'}, //阿拉伯语
     // 'am': {name: 'አማርኛ'},
     // 'an': {name: 'Aragonés'},
     // 'ast': {name: 'Asturianu'},
@@ -16,34 +16,34 @@ const locales = {
     // 'be': {name: 'Беларуская'},
     // 'bg': {name: 'Български'},
     // 'ca': {name: 'Català'},
-    'cs': {name: 'Česky'},
+    'cs': {name: 'Česky'},  //捷克语
     // 'cy': {name: 'Cymraeg'},
     // 'da': {name: 'Dansk'},
-    'de': {name: 'Deutsch'},
+    'de': {name: 'Deutsch'}, //德语
     // 'et': {name: 'Eesti'},
     // 'el': {name: 'Ελληνικά'},
     'en': {name: 'English'},
-    'es': {name: 'Español (España)'},
+    'es': {name: 'Español (España)'}, //西班牙语
     // 'es-419': {name: 'Español Latinoamericano'},
     // 'eo': {name: 'Esperanto'},
     // 'eu': {name: 'Euskara'},
     // 'fa': {name: 'فارسی'},
     // 'fil': {name: 'Filipino'},
-    'fr': {name: 'Français'},
+    'fr': {name: 'Français'}, //法语
     // 'fy': {name: 'Frysk'},
     // 'ga': {name: 'Gaeilge'},
     // 'gd': {name: 'Gàidhlig'},
     // 'gl': {name: 'Galego'},
-    'ko': {name: '한국어'},
+    'ko': {name: '한국어'}, //韩语
     // 'ha': {name: 'Hausa'},
     // 'hy': {name: 'Հայերեն'},
-    'he': {name: 'עִבְרִית'},
-    'hi': {name: 'हिंदी'},
-    'hr': {name: 'Hrvatski'},
+    'he': {name: 'עִבְרִית'}, //希伯来语
+    'hi': {name: 'हिंदी'}, //印地语
+    'hr': {name: 'Hrvatski'}, //克罗地亚语
     // 'xh': {name: 'isiXhosa'},
     // 'zu': {name: 'isiZulu'},
     // 'is': {name: 'Íslenska'},
-    'it': {name: 'Italiano'},
+    'it': {name: 'Italiano'}, //意大利语
     // 'ka': {name: 'ქართული ენა'},
     // 'kk': {name: 'қазақша'},
     // 'qu': {name: 'Kichwa'},
@@ -56,7 +56,7 @@ const locales = {
     // 'hu': {name: 'Magyar'},
     // 'mi': {name: 'Māori'},
     // 'mn': {name: 'Монгол хэл'},
-    'nl': {name: 'Nederlands'},
+    'nl': {name: 'Nederlands'}, //荷兰语
     'ja': {name: '日本語'},
     // 'ja-Hira': {name: 'にほんご'},
     // 'nb': {name: 'Norsk Bokmål'},
@@ -64,14 +64,14 @@ const locales = {
     // 'oc': {name: 'Occitan'},
     // 'or': {name: 'ଓଡ଼ିଆ'},
     // 'uz': {name: 'Oʻzbekcha'},
-    'th': {name: 'ไทย'},
+    'th': {name: 'ไทย'}, //泰语
     // 'km': {name: 'ភាសាខ្មែរ'},
-    'pl': {name: 'Polski'},
-    'pt': {name: 'Português'},
+    'pl': {name: 'Polski'}, //波兰语
+    'pt': {name: 'Português'}, //葡萄牙语
     // 'pt-br': {name: 'Português Brasileiro'},
     // 'rap': {name: 'Rapa Nui'},
     // 'ro': {name: 'Română'},
-    'ru': {name: 'Русский'},
+    'ru': {name: 'Русский'}, //俄语
     // 'nso': {name: 'Sepedi'},
     // 'tn': {name: 'Setswana'},
     // 'sk': {name: 'Slovenčina'},
@@ -79,8 +79,8 @@ const locales = {
     // 'sr': {name: 'Српски'},
     // 'fi': {name: 'Suomi'},
     // 'sv': {name: 'Svenska'},
-    'vi': {name: 'Tiếng Việt'},
-    'tr': {name: 'Türkçe'},
+    'vi': {name: 'Tiếng Việt'}, //越南语
+    'tr': {name: 'Türkçe'}, //土耳其语
     // 'uk': {name: 'Українська'},
     'zh-cn': {name: '简体中文'},
     'zh-tw': {name: '繁體中文'}

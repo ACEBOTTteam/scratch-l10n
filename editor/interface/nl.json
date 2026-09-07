@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Druk om de opname te starten",
 	"gui.AIModel.train.period": "Een epoch betekent dat elk voorbeeld in de trainingsdataset minstens één keer aan het trainingsmodel is aangeboden. Als uw epoch bijvoorbeeld is ingesteld op 50, betekent dit dat het model dat u traint, de hele trainingsdataset 50 keer zal verwerken. Over het algemeen geldt: hoe groter deze waarde, hoe beter uw model leert om gegevens te voorspellen.",
 	"gui.AIModel.train.batch": "Een batch is een set voorbeelden die in één trainingsiteratie worden gebruikt. Stel bijvoorbeeld dat u 80 afbeeldingen heeft en de batchgrootte instelt op 16. Dit betekent dat de gegevens worden verdeeld in 80 / 16 = 5 batches. Nadat al deze 5 batches aan het model zijn aangeboden, is precies één epoch voltooid.",
-	"gui.AIModel.train.learningRate": "Pas deze waarde voorzichtig aan! Zelfs kleine verschillen kunnen een grote invloed hebben op de leereffectiviteit van uw model."
+	"gui.AIModel.train.learningRate": "Pas deze waarde voorzichtig aan! Zelfs kleine verschillen kunnen een grote invloed hebben op de leereffectiviteit van uw model.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "puntmatrixscherm",
+	"CATEGORY_ROBOTS_R4_Buzzer": "passieve zoemer",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segments display",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-cijferig 7-segments display",
+	"gui.AIModel.color.blue": "blauw"
 }

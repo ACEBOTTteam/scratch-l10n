@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "按下开始录制",
 	"gui.AIModel.train.period": "一个周期是指训练数据集中的每个样本都已至少向训练模型馈送一次。例如，如果您的周期设为 50，则表示您正在训练的模型会处理整个训练数据集 50 次。一般情况下，该数值越大，您的模型学习预测数据的效果越好。",
 	"gui.AIModel.train.batch": "批次是指在训练的一次迭代中使用的一组样本。例如，假设您有 80 张图片，并将批次大小设为 16。这意味着，数据将拆分为 80 / 16 = 5 个批次。所有这 5 个批次都已馈送到模型后，正好完成一个周期。",
-	"gui.AIModel.train.learningRate": "请谨慎微调此数值！即使较小的差异也可能会对模型学习效果产生很大的影响。"
+	"gui.AIModel.train.learningRate": "请谨慎微调此数值！即使较小的差异也可能会对模型学习效果产生很大的影响。",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "点阵屏",
+	"CATEGORY_ROBOTS_R4_Buzzer": "无源蜂鸣器",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7段数码管",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4位7段数码管",
+	"gui.AIModel.color.blue": "蓝色"
 }

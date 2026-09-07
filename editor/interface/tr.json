@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Kayda başlamak için basın",
 	"gui.AIModel.train.period": "Bir dönem, eğitim veri setindeki her örneğin eğitim modeline en az bir kez gönderildiği anlamına gelir. Örneğin, döneminiz 50 olarak ayarlandıysa, eğittiğiniz modelin tüm eğitim veri setini 50 kez işleyeceği anlamına gelir. Genel olarak, bu değer ne kadar büyük olursa, modeliniz verileri tahmin etmeyi o kadar iyi öğrenir.",
 	"gui.AIModel.train.batch": "Parti, eğitimin bir iterasyonunda kullanılan bir grup örnektir. Örneğin, 80 resminiz olduğunu ve parti boyutunu 16 olarak ayarladığınızı varsayalım. Bu, verilerin 80 / 16 = 5 partiye bölüneceği anlamına gelir. Bu 5 partinin tamamı modele gönderildikten sonra, tam olarak bir dönem tamamlanır.",
-	"gui.AIModel.train.learningRate": "Lütfen bu değeri dikkatlice ayarlayın! Küçük farklılıklar bile modelin öğrenme etkinliği üzerinde büyük bir etkiye sahip olabilir."
+	"gui.AIModel.train.learningRate": "Lütfen bu değeri dikkatlice ayarlayın! Küçük farklılıklar bile modelin öğrenme etkinliği üzerinde büyük bir etkiye sahip olabilir.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "nokta matris ekran",
+	"CATEGORY_ROBOTS_R4_Buzzer": "pasif buzzer",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7 segment dijital tüp",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4 haneli 7 segment dijital tüp",
+	"gui.AIModel.color.blue": "mavi"
 }

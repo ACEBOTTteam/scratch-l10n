@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "録音を開始するには押してください",
 	"gui.AIModel.train.period": "1エポックとは、トレーニングデータセット内の各サンプルがトレーニングモデルに少なくとも1回は送られたことを意味します。例えば、エポックを50に設定した場合、トレーニング中のモデルがトレーニングデータセット全体を50回処理することを意味します。一般的に、この値が大きいほど、モデルがデータを予測する学習効果が向上します。",
 	"gui.AIModel.train.batch": "バッチは、トレーニングの1回のイテレーションで使用されるサンプルのセットです。例えば、80枚の画像があり、バッチサイズを16に設定したとします。これは、データが80 / 16 = 5つのバッチに分割されることを意味します。これら5つのバッチすべてがモデルに送られると、ちょうど1エポックが完了します。",
-	"gui.AIModel.train.learningRate": "この値の調整には注意してください！小さな違いでも、モデルの学習効果に大きな影響を与える可能性があります。"
+	"gui.AIModel.train.learningRate": "この値の調整には注意してください！小さな違いでも、モデルの学習効果に大きな影響を与える可能性があります。",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "ドットマトリックス画面",
+	"CATEGORY_ROBOTS_R4_Buzzer": "パッシブブザー",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7セグメントデジタルチューブ",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4桁7セグメントデジタルチューブ",
+	"gui.AIModel.color.blue": "青"
 }

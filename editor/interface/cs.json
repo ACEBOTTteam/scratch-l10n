@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Stiskněte pro zahájení nahrávání",
 	"gui.AIModel.train.period": "Epocha znamená, že každý vzorek v trénovací datové sadě byl alespoň jednou předložen trénovanému modelu. Například pokud je vaše epocha nastavena na 50, znamená to, že model, který trénujete, zpracuje celou trénovací datovou sadu 50krát. Obecně platí, že čím větší je tato hodnota, tím lépe se váš model učí předpovídat data.",
 	"gui.AIModel.train.batch": "Dávka je sada vzorků použitých v jedné iteraci tréninku. Předpokládejme například, že máte 80 obrázků a nastavíte velikost dávky na 16. To znamená, že data budou rozdělena na 80 / 16 = 5 dávek. Poté, co jsou všechny tyto 5 dávek předloženy modelu, je dokončena přesně jedna epocha.",
-	"gui.AIModel.train.learningRate": "Tuto hodnotu upravujte opatrně! I malé rozdíly mohou mít velký vliv na efektivitu učení vašeho modelu."
+	"gui.AIModel.train.learningRate": "Tuto hodnotu upravujte opatrně! I malé rozdíly mohou mít velký vliv na efektivitu učení vašeho modelu.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "matricový displej",
+	"CATEGORY_ROBOTS_R4_Buzzer": "pasivní bzučák",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segmentový displej",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4místný 7-segmentový displej",
+	"gui.AIModel.color.blue": "modrá"
 }

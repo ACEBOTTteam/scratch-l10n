@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Pritisnite za početak snimanja",
 	"gui.AIModel.train.period": "Epoha znači da je svaki uzorak u skupu podataka za obuku barem jednom proslijeđen modelu koji se obučava. Na primjer, ako je vaša epoha postavljena na 50, to znači da će model koji trenirate obraditi cijeli skup podataka za obuku 50 puta. Općenito, što je veća ova vrijednost, vaš model bolje uči predviđati podatke.",
 	"gui.AIModel.train.batch": "Šarža je skup uzoraka koji se koriste u jednoj iteraciji obuke. Na primjer, pretpostavimo da imate 80 slika i postavite veličinu šarže na 16. To znači da će se podaci podijeliti u 80 / 16 = 5 šarži. Nakon što se svih tih 5 šarži proslijedi modelu, završava se točno jedna epoha.",
-	"gui.AIModel.train.learningRate": "Molimo pažljivo podesite ovu vrijednost! Čak i male razlike mogu imati veliki utjecaj na učinkovitost učenja vašeg modela."
+	"gui.AIModel.train.learningRate": "Molimo pažljivo podesite ovu vrijednost! Čak i male razlike mogu imati veliki utjecaj na učinkovitost učenja vašeg modela.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "matrični zaslon",
+	"CATEGORY_ROBOTS_R4_Buzzer": "pasivni zujalica",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segmentni digitalni zaslon",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-znamenkasti 7-segmentni digitalni zaslon",
+	"gui.AIModel.color.blue": "plava"
 }

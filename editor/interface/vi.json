@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Nhấn để bắt đầu ghi âm",
 	"gui.AIModel.train.period": "Một epoch có nghĩa là mỗi mẫu trong tập dữ liệu huấn luyện đã được đưa vào mô hình huấn luyện ít nhất một lần. Ví dụ: nếu epoch của bạn được đặt là 50, điều đó có nghĩa là mô hình bạn đang huấn luyện sẽ xử lý toàn bộ tập dữ liệu huấn luyện 50 lần. Nói chung, giá trị này càng lớn thì mô hình của bạn học cách dự đoán dữ liệu càng tốt.",
 	"gui.AIModel.train.batch": "Batch là một tập hợp các mẫu được sử dụng trong một lần lặp huấn luyện. Ví dụ: giả sử bạn có 80 hình ảnh và đặt kích thước batch là 16. Điều này có nghĩa là dữ liệu sẽ được chia thành 80 / 16 = 5 batch. Sau khi tất cả 5 batch này được đưa vào mô hình, một epoch sẽ hoàn thành.",
-	"gui.AIModel.train.learningRate": "Vui lòng điều chỉnh giá trị này một cách cẩn thận! Ngay cả những khác biệt nhỏ cũng có thể ảnh hưởng lớn đến hiệu quả học tập của mô hình của bạn."
+	"gui.AIModel.train.learningRate": "Vui lòng điều chỉnh giá trị này một cách cẩn thận! Ngay cả những khác biệt nhỏ cũng có thể ảnh hưởng lớn đến hiệu quả học tập của mô hình của bạn.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "màn hình ma trận điểm",
+	"CATEGORY_ROBOTS_R4_Buzzer": "còi báo động thụ động",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "màn hình 7 đoạn",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "màn hình 7 đoạn 4 chữ số",
+	"gui.AIModel.color.blue": "xanh dương"
 }

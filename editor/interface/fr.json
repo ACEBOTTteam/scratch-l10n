@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Appuyez pour démarrer l'enregistrement",
 	"gui.AIModel.train.period": "Une époque signifie que chaque échantillon de l'ensemble de données d'entraînement a été envoyé au moins une fois au modèle en cours d'entraînement. Par exemple, si votre époque est définie sur 50, cela signifie que le modèle que vous entraînez traitera l'ensemble du jeu de données d'entraînement 50 fois. En général, plus cette valeur est grande, mieux votre modèle apprend à prédire les données.",
 	"gui.AIModel.train.batch": "Un lot est un ensemble d'échantillons utilisé lors d'une itération d'entraînement. Par exemple, supposons que vous ayez 80 images et que vous définissiez la taille du lot sur 16. Cela signifie que les données seront divisées en 80 / 16 = 5 lots. Une fois que ces 5 lots ont été envoyés au modèle, une époque est terminée.",
-	"gui.AIModel.train.learningRate": "Veuillez ajuster cette valeur avec précaution ! Même de petites différences peuvent avoir un impact important sur l'efficacité de l'apprentissage de votre modèle."
+	"gui.AIModel.train.learningRate": "Veuillez ajuster cette valeur avec précaution ! Même de petites différences peuvent avoir un impact important sur l'efficacité de l'apprentissage de votre modèle.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "écran à matrice de points",
+	"CATEGORY_ROBOTS_R4_Buzzer": "buzzer passif",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "tube numérique 7 segments",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "tube numérique 7 segments 4 chiffres",
+	"gui.AIModel.color.blue": "bleu"
 }

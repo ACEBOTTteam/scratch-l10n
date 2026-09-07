@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Naciśnij, aby rozpocząć nagrywanie",
 	"gui.AIModel.train.period": "Epoka oznacza, że każda próbka w zbiorze danych treningowych została przesłana do modelu co najmniej raz. Na przykład, jeśli epoka jest ustawiona na 50, oznacza to, że model przetworzy cały zbiór danych treningowych 50 razy. Ogólnie rzecz biorąc, im większa ta wartość, tym lepiej model uczy się przewidywać dane.",
 	"gui.AIModel.train.batch": "Partia to zestaw próbek używanych w jednej iteracji treningu. Na przykład, załóżmy, że masz 80 obrazów i ustawiasz rozmiar partii na 16. Oznacza to, że dane zostaną podzielone na 80 / 16 = 5 partii. Po przesłaniu wszystkich 5 partii do modelu, kończy się dokładnie jedna epoka.",
-	"gui.AIModel.train.learningRate": "Dostosuj tę wartość ostrożnie! Nawet małe różnice mogą mieć duży wpływ na skuteczność uczenia się modelu."
+	"gui.AIModel.train.learningRate": "Dostosuj tę wartość ostrożnie! Nawet małe różnice mogą mieć duży wpływ na skuteczność uczenia się modelu.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "wyświetlacz matrycowy",
+	"CATEGORY_ROBOTS_R4_Buzzer": "brzęczyk pasywny",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "wyświetlacz 7-segmentowy",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-cyfrowy wyświetlacz 7-segmentowy",
+	"gui.AIModel.color.blue": "niebieski"
 }

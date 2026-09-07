@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Zum Starten der Aufnahme drücken",
 	"gui.AIModel.train.period": "Eine Epoche bedeutet, dass jedes Sample im Trainingsdatensatz mindestens einmal an das Trainingsmodell übergeben wurde. Wenn Ihre Epoche beispielsweise auf 50 gesetzt ist, bedeutet dies, dass das Modell, das Sie trainieren, den gesamten Trainingsdatensatz 50-mal verarbeitet. Im Allgemeinen gilt: Je größer dieser Wert, desto besser lernt Ihr Modell, die Daten vorherzusagen.",
 	"gui.AIModel.train.batch": "Ein Batch ist eine Gruppe von Samples, die in einer Trainingsiteration verwendet wird. Angenommen, Sie haben 80 Bilder und setzen die Batch-Größe auf 16. Das bedeutet, dass die Daten in 80 / 16 = 5 Batches aufgeteilt werden. Nachdem alle diese 5 Batches an das Modell übergeben wurden, ist genau eine Epoche abgeschlossen.",
-	"gui.AIModel.train.learningRate": "Bitte passen Sie diesen Wert vorsichtig an! Selbst kleine Unterschiede können einen großen Einfluss auf die Lernfähigkeit Ihres Modells haben."
+	"gui.AIModel.train.learningRate": "Bitte passen Sie diesen Wert vorsichtig an! Selbst kleine Unterschiede können einen großen Einfluss auf die Lernfähigkeit Ihres Modells haben.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "Punktmatrix-Bildschirm",
+	"CATEGORY_ROBOTS_R4_Buzzer": "passiver Summer",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-Segment-Digitalanzeige",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-stellige 7-Segment-Digitalanzeige",
+	"gui.AIModel.color.blue": "blau"
 }

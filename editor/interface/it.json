@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Premere per avviare la registrazione",
 	"gui.AIModel.train.period": "Un'epoca significa che ogni campione nel set di dati di addestramento è stato fornito al modello in addestramento almeno una volta. Ad esempio, se la tua epoca è impostata su 50, significa che il modello che stai addestrando elaborerà l'intero set di dati di addestramento 50 volte. In generale, maggiore è questo valore, meglio il tuo modello impara a prevedere i dati.",
 	"gui.AIModel.train.batch": "Un batch è un insieme di campioni utilizzati in una iterazione di addestramento. Ad esempio, supponiamo che tu abbia 80 immagini e imposti la dimensione del batch a 16. Ciò significa che i dati saranno suddivisi in 80 / 16 = 5 batch. Dopo che tutti questi 5 batch sono stati forniti al modello, viene completata esattamente un'epoca.",
-	"gui.AIModel.train.learningRate": "Si prega di regolare questo valore con cautela! Anche piccole differenze possono avere un grande impatto sull'efficacia dell'apprendimento del modello."
+	"gui.AIModel.train.learningRate": "Si prega di regolare questo valore con cautela! Anche piccole differenze possono avere un grande impatto sull'efficacia dell'apprendimento del modello.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "display a matrice di punti",
+	"CATEGORY_ROBOTS_R4_Buzzer": "cicalino passivo",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "display a 7 segmenti",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "display a 7 segmenti a 4 cifre",
+	"gui.AIModel.color.blue": "blu"
 }

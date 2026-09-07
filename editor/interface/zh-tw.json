@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "按下開始錄製",
 	"gui.AIModel.train.period": "一個週期是指訓練數據集中的每個樣本都已至少向訓練模型饋送一次。例如，如果您的週期設為 50，則表示您正在訓練的模型會處理整個訓練數據集 50 次。一般情況下，該數值越大，您的模型學習預測數據的效果越好。",
 	"gui.AIModel.train.batch": "批次是指在訓練的一次迭代中使用的一組樣本。例如，假設您有 80 張圖片，並將批次大小設為 16。這意味著，數據將拆分為 80 / 16 = 5 個批次。所有這 5 個批次都已饋送到模型後，正好完成一個週期。",
-	"gui.AIModel.train.learningRate": "請謹慎微調此數值！即使較小的差異也可能會對模型學習效果產生很大的影響。"
+	"gui.AIModel.train.learningRate": "請謹慎微調此數值！即使較小的差異也可能會對模型學習效果產生很大的影響。",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "點陣屏",
+	"CATEGORY_ROBOTS_R4_Buzzer": "無源蜂鳴器",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7段數碼管",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4位7段數碼管",
+	"gui.AIModel.color.blue": "藍色"
 }

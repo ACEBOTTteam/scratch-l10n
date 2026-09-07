@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "Presione para iniciar la grabación",
 	"gui.AIModel.train.period": "Una época significa que cada muestra del conjunto de datos de entrenamiento se ha alimentado al modelo de entrenamiento al menos una vez. Por ejemplo, si su época está configurada en 50, significa que el modelo que está entrenando procesará todo el conjunto de datos de entrenamiento 50 veces. En general, cuanto mayor sea este valor, mejor aprenderá su modelo a predecir los datos.",
 	"gui.AIModel.train.batch": "Un lote es un conjunto de muestras utilizado en una iteración de entrenamiento. Por ejemplo, supongamos que tiene 80 imágenes y establece el tamaño del lote en 16. Esto significa que los datos se dividirán en 80 / 16 = 5 lotes. Después de que todos estos 5 lotes se hayan alimentado al modelo, se completa exactamente una época.",
-	"gui.AIModel.train.learningRate": "¡Ajuste este valor con cuidado! Incluso pequeñas diferencias pueden tener un gran impacto en la efectividad del aprendizaje de su modelo."
+	"gui.AIModel.train.learningRate": "¡Ajuste este valor con cuidado! Incluso pequeñas diferencias pueden tener un gran impacto en la efectividad del aprendizaje de su modelo.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "pantalla de matriz de puntos",
+	"CATEGORY_ROBOTS_R4_Buzzer": "zumbador pasivo",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "tubo digital de 7 segmentos",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "tubo digital de 7 segmentos de 4 dígitos",
+	"gui.AIModel.color.blue": "azul"
 }

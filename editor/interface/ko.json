@@ -744,5 +744,10 @@
 	"gui.AIModel.audio.transcribe": "녹음을 시작하려면 누르세요",
 	"gui.AIModel.train.period": "에포크는 훈련 데이터세트의 각 샘플이 훈련 모델에 최소 한 번 이상 제공되었음을 의미합니다. 예를 들어, 에포크를 50으로 설정하면 훈련 중인 모델이 전체 훈련 데이터세트를 50회 처리한다는 의미입니다. 일반적으로 이 값이 클수록 모델이 데이터를 예측하는 학습 효과가 더 좋아집니다.",
 	"gui.AIModel.train.batch": "배치는 훈련의 한 번의 반복에서 사용되는 샘플 집합입니다. 예를 들어, 80개의 이미지가 있고 배치 크기를 16으로 설정했다고 가정합니다. 이는 데이터가 80 / 16 = 5개의 배치로 분할됨을 의미합니다. 이 5개의 배치가 모두 모델에 제공되면 정확히 하나의 에포크가 완료됩니다.",
-	"gui.AIModel.train.learningRate": "이 값을 신중하게 조정하십시오! 작은 차이라도 모델의 학습 효과에 큰 영향을 미칠 수 있습니다."
+	"gui.AIModel.train.learningRate": "이 값을 신중하게 조정하십시오! 작은 차이라도 모델의 학습 효과에 큰 영향을 미칠 수 있습니다.",
+	"CATEGORY_ROBOTS_R4_LatticeScreen": "도트 매트릭스 화면",
+	"CATEGORY_ROBOTS_R4_Buzzer": "수동 부저",
+	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7세그먼트 디지털 튜브",
+	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4자리 7세그먼트 디지털 튜브",
+	"gui.AIModel.color.blue": "파란색"
 }

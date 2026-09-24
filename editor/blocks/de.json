@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 Daten %1 senden",
 	"R4_BLE_DATA": "R4 empfangene Daten",
 	"R4_BLE_GET": "R4 Daten empfangen",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "Punktmatrix-Bildschirm",
-	"CATEGORY_ROBOTS_R4_Buzzer": "passiver Summer",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-Segment-Digitalanzeige",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-stellige 7-Segment-Digitalanzeige"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "Punktmatrix-Bildschirm",
+	"CATEGORY_ROBOTS_R4_BUZZER": "passiver Summer",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-Segment-Digitalanzeige",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-stellige 7-Segment-Digitalanzeige"
 }

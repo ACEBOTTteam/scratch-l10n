@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 invia dati %1",
 	"R4_BLE_DATA": "dati ricevuti da R4",
 	"R4_BLE_GET": "R4 ricevi dati",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "display a matrice di punti",
-	"CATEGORY_ROBOTS_R4_Buzzer": "cicalino passivo",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "display a 7 segmenti",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "display a 7 segmenti a 4 cifre"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "display a matrice di punti",
+	"CATEGORY_ROBOTS_R4_BUZZER": "cicalino passivo",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "display a 7 segmenti",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "display a 7 segmenti a 4 cifre"
 }

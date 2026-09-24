@@ -641,8 +641,8 @@
 	"R4_BLE_SEND": "R4 gửi dữ liệu %1",
 	"R4_BLE_DATA": "dữ liệu R4 nhận được",
 	"R4_BLE_GET": "R4 nhận dữ liệu",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "màn hình ma trận điểm",
-	"CATEGORY_ROBOTS_R4_Buzzer": "còi báo động thụ động",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "màn hình 7 đoạn",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "màn hình 7 đoạn 4 chữ số"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "màn hình ma trận điểm",
+	"CATEGORY_ROBOTS_R4_BUZZER": "còi báo động thụ động",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "màn hình 7 đoạn",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "màn hình 7 đoạn 4 chữ số"
 }

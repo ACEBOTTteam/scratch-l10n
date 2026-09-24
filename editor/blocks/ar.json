@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 إرسال البيانات %1",
 	"R4_BLE_DATA": "البيانات التي استلمها R4",
 	"R4_BLE_GET": "R4 استلام البيانات",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "شاشة المصفوفة النقطية",
-	"CATEGORY_ROBOTS_R4_Buzzer": "الجرس السلبي",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "شاشة 7 أجزاء رقمية",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "شاشة 7 أجزاء رقمية 4 أرقام"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "شاشة المصفوفة النقطية",
+	"CATEGORY_ROBOTS_R4_BUZZER": "الجرس السلبي",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "شاشة 7 أجزاء رقمية",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "شاشة 7 أجزاء رقمية 4 أرقام"
 }

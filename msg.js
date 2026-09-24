@@ -648,10 +648,10 @@ Blockly.ScratchMsgs.locales["ar"] ={
 "R4_BLE_SEND": "R4 إرسال البيانات %1",
 "R4_BLE_DATA": "البيانات التي استلمها R4",
 "R4_BLE_GET": "R4 استلام البيانات",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "شاشة المصفوفة النقطية",
-"CATEGORY_ROBOTS_R4_Buzzer": "الجرس السلبي",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "شاشة 7 أجزاء رقمية",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "شاشة 7 أجزاء رقمية 4 أرقام",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "شاشة المصفوفة النقطية",
+"CATEGORY_ROBOTS_R4_BUZZER": "الجرس السلبي",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "شاشة 7 أجزاء رقمية",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "شاشة 7 أجزاء رقمية 4 أرقام",
 }
 Blockly.ScratchMsgs.locales["cs"] ={
 "CONTROL_FOREVER": "opakuj stále",
@@ -1298,10 +1298,10 @@ Blockly.ScratchMsgs.locales["cs"] ={
 "R4_BLE_SEND": "R4 odeslat data %1",
 "R4_BLE_DATA": "data přijatá R4",
 "R4_BLE_GET": "R4 přijímat data",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "matricový displej",
-"CATEGORY_ROBOTS_R4_Buzzer": "pasivní bzučák",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segmentový displej",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4místný 7-segmentový displej",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "matricový displej",
+"CATEGORY_ROBOTS_R4_BUZZER": "pasivní bzučák",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-segmentový displej",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4místný 7-segmentový displej",
 }
 Blockly.ScratchMsgs.locales["de"] ={
 "CONTROL_FOREVER": "wiederhole fortlaufend",
@@ -1948,10 +1948,10 @@ Blockly.ScratchMsgs.locales["de"] ={
 "R4_BLE_SEND": "R4 Daten %1 senden",
 "R4_BLE_DATA": "R4 empfangene Daten",
 "R4_BLE_GET": "R4 Daten empfangen",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "Punktmatrix-Bildschirm",
-"CATEGORY_ROBOTS_R4_Buzzer": "passiver Summer",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-Segment-Digitalanzeige",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-stellige 7-Segment-Digitalanzeige",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "Punktmatrix-Bildschirm",
+"CATEGORY_ROBOTS_R4_BUZZER": "passiver Summer",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-Segment-Digitalanzeige",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-stellige 7-Segment-Digitalanzeige",
 }
 Blockly.ScratchMsgs.locales["en"] ={
 "CONTROL_FOREVER": "forever",
@@ -2598,10 +2598,10 @@ Blockly.ScratchMsgs.locales["en"] ={
 "R4_BLE_SEND": "R4 send data %1",
 "R4_BLE_DATA": "R4 received data",
 "R4_BLE_GET": "R4 receive data",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "dot matrix screen",
-"CATEGORY_ROBOTS_R4_Buzzer": "passive buzzer",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segment digital tube",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-digit 7-segment digital tube",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "dot matrix screen",
+"CATEGORY_ROBOTS_R4_BUZZER": "passive buzzer",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-segment digital tube",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-digit 7-segment digital tube",
 }
 Blockly.ScratchMsgs.locales["es"] ={
 "CONTROL_FOREVER": "por siempre",
@@ -3248,10 +3248,10 @@ Blockly.ScratchMsgs.locales["es"] ={
 "R4_BLE_SEND": "R4 enviar datos %1",
 "R4_BLE_DATA": "datos recibidos por R4",
 "R4_BLE_GET": "R4 recibir datos",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "pantalla de matriz de puntos",
-"CATEGORY_ROBOTS_R4_Buzzer": "zumbador pasivo",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "tubo digital de 7 segmentos",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "tubo digital de 7 segmentos de 4 dígitos",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "pantalla de matriz de puntos",
+"CATEGORY_ROBOTS_R4_BUZZER": "zumbador pasivo",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "tubo digital de 7 segmentos",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "tubo digital de 7 segmentos de 4 dígitos",
 }
 Blockly.ScratchMsgs.locales["fr"] ={
 "CONTROL_FOREVER": "répéter indéfiniment",
@@ -3898,10 +3898,10 @@ Blockly.ScratchMsgs.locales["fr"] ={
 "R4_BLE_SEND": "R4 envoyer les données %1",
 "R4_BLE_DATA": "données reçues par R4",
 "R4_BLE_GET": "R4 recevoir les données",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "écran à matrice de points",
-"CATEGORY_ROBOTS_R4_Buzzer": "buzzer passif",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "tube numérique 7 segments",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "tube numérique 7 segments 4 chiffres",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "écran à matrice de points",
+"CATEGORY_ROBOTS_R4_BUZZER": "buzzer passif",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "tube numérique 7 segments",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "tube numérique 7 segments 4 chiffres",
 }
 Blockly.ScratchMsgs.locales["ko"] ={
 "CONTROL_FOREVER": "무한 반복하기",
@@ -4548,10 +4548,10 @@ Blockly.ScratchMsgs.locales["ko"] ={
 "R4_BLE_SEND": "R4 데이터 %1 전송",
 "R4_BLE_DATA": "R4가 수신한 데이터",
 "R4_BLE_GET": "R4 데이터 수신",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "도트 매트릭스 화면",
-"CATEGORY_ROBOTS_R4_Buzzer": "수동 부저",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7세그먼트 디지털 튜브",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4자리 7세그먼트 디지털 튜브",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "도트 매트릭스 화면",
+"CATEGORY_ROBOTS_R4_BUZZER": "수동 부저",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7세그먼트 디지털 튜브",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4자리 7세그먼트 디지털 튜브",
 }
 Blockly.ScratchMsgs.locales["he"] ={
 "CONTROL_FOREVER": "לעולמים",
@@ -5196,10 +5196,10 @@ Blockly.ScratchMsgs.locales["he"] ={
 "R4_BLE_SEND": "R4 שלח נתונים %1",
 "R4_BLE_DATA": "נתונים שהתקבלו ב-R4",
 "R4_BLE_GET": "R4 קבל נתונים",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "מסך מטריצת נקודות",
-"CATEGORY_ROBOTS_R4_Buzzer": "זמזם פסיבי",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "תצוגת 7 מקטעים דיגיטלית",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "תצוגת 7 מקטעים דיגיטלית 4 ספרות",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "מסך מטריצת נקודות",
+"CATEGORY_ROBOTS_R4_BUZZER": "זמזם פסיבי",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "תצוגת 7 מקטעים דיגיטלית",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "תצוגת 7 מקטעים דיגיטלית 4 ספרות",
 }
 Blockly.ScratchMsgs.locales["hi"] ={
 "CONTROL_FOREVER": "सदैव",
@@ -5844,10 +5844,10 @@ Blockly.ScratchMsgs.locales["hi"] ={
 "R4_BLE_SEND": "R4 डेटा %1 भेजें",
 "R4_BLE_DATA": "R4 द्वारा प्राप्त डेटा",
 "R4_BLE_GET": "R4 डेटा प्राप्त करें",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "डॉट मैट्रिक्स स्क्रीन",
-"CATEGORY_ROBOTS_R4_Buzzer": "निष्क्रिय बज़र",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-सेगमेंट डिजिटल ट्यूब",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-अंकीय 7-सेगमेंट डिजिटल ट्यूब",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "डॉट मैट्रिक्स स्क्रीन",
+"CATEGORY_ROBOTS_R4_BUZZER": "निष्क्रिय बज़र",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-सेगमेंट डिजिटल ट्यूब",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-अंकीय 7-सेगमेंट डिजिटल ट्यूब",
 }
 Blockly.ScratchMsgs.locales["hr"] ={
 "CONTROL_FOREVER": "ponavljaj",
@@ -6494,10 +6494,10 @@ Blockly.ScratchMsgs.locales["hr"] ={
 "R4_BLE_SEND": "R4 pošalji podatke %1",
 "R4_BLE_DATA": "podaci koje je R4 primio",
 "R4_BLE_GET": "R4 primi podatke",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "matrični zaslon",
-"CATEGORY_ROBOTS_R4_Buzzer": "pasivni zujalica",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segmentni digitalni zaslon",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-znamenkasti 7-segmentni digitalni zaslon",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "matrični zaslon",
+"CATEGORY_ROBOTS_R4_BUZZER": "pasivni zujalica",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-segmentni digitalni zaslon",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-znamenkasti 7-segmentni digitalni zaslon",
 }
 Blockly.ScratchMsgs.locales["it"] ={
 "CONTROL_FOREVER": "per sempre",
@@ -7144,10 +7144,10 @@ Blockly.ScratchMsgs.locales["it"] ={
 "R4_BLE_SEND": "R4 invia dati %1",
 "R4_BLE_DATA": "dati ricevuti da R4",
 "R4_BLE_GET": "R4 ricevi dati",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "display a matrice di punti",
-"CATEGORY_ROBOTS_R4_Buzzer": "cicalino passivo",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "display a 7 segmenti",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "display a 7 segmenti a 4 cifre",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "display a matrice di punti",
+"CATEGORY_ROBOTS_R4_BUZZER": "cicalino passivo",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "display a 7 segmenti",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "display a 7 segmenti a 4 cifre",
 }
 Blockly.ScratchMsgs.locales["nl"] ={
 "CONTROL_FOREVER": "herhaal",
@@ -7794,10 +7794,10 @@ Blockly.ScratchMsgs.locales["nl"] ={
 "R4_BLE_SEND": "R4 gegevens %1 verzenden",
 "R4_BLE_DATA": "door R4 ontvangen gegevens",
 "R4_BLE_GET": "R4 gegevens ontvangen",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "puntmatrixscherm",
-"CATEGORY_ROBOTS_R4_Buzzer": "passieve zoemer",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segments display",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-cijferig 7-segments display",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "puntmatrixscherm",
+"CATEGORY_ROBOTS_R4_BUZZER": "passieve zoemer",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-segments display",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-cijferig 7-segments display",
 }
 Blockly.ScratchMsgs.locales["ja"] ={
 "CONTROL_FOREVER": "ずっと",
@@ -8444,10 +8444,10 @@ Blockly.ScratchMsgs.locales["ja"] ={
 "R4_BLE_SEND": "R4 データ%1を送信",
 "R4_BLE_DATA": "R4 受信データ",
 "R4_BLE_GET": "R4 データを受信",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "ドットマトリックス画面",
-"CATEGORY_ROBOTS_R4_Buzzer": "パッシブブザー",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7セグメントデジタルチューブ",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4桁7セグメントデジタルチューブ",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "ドットマトリックス画面",
+"CATEGORY_ROBOTS_R4_BUZZER": "パッシブブザー",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7セグメントデジタルチューブ",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4桁7セグメントデジタルチューブ",
 }
 Blockly.ScratchMsgs.locales["th"] ={
 "CONTROL_FOREVER": "วนซ้ำตลอด",
@@ -9094,10 +9094,10 @@ Blockly.ScratchMsgs.locales["th"] ={
 "R4_BLE_SEND": "R4 ส่งข้อมูล %1",
 "R4_BLE_DATA": "ข้อมูลที่ R4 ได้รับ",
 "R4_BLE_GET": "R4 รับข้อมูล",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "หน้าจอดอตแมทริกซ์",
-"CATEGORY_ROBOTS_R4_Buzzer": "บัซเซอร์แบบพาสซีฟ",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "หลอดดิจิทัล 7 ส่วน",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "หลอดดิจิทัล 7 ส่วน 4 หลัก",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "หน้าจอดอตแมทริกซ์",
+"CATEGORY_ROBOTS_R4_BUZZER": "บัซเซอร์แบบพาสซีฟ",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "หลอดดิจิทัล 7 ส่วน",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "หลอดดิจิทัล 7 ส่วน 4 หลัก",
 }
 Blockly.ScratchMsgs.locales["pl"] ={
 "CONTROL_FOREVER": "zawsze",
@@ -9744,10 +9744,10 @@ Blockly.ScratchMsgs.locales["pl"] ={
 "R4_BLE_SEND": "R4 wyślij dane %1",
 "R4_BLE_DATA": "dane odebrane przez R4",
 "R4_BLE_GET": "R4 odbierz dane",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "wyświetlacz matrycowy",
-"CATEGORY_ROBOTS_R4_Buzzer": "brzęczyk pasywny",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "wyświetlacz 7-segmentowy",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-cyfrowy wyświetlacz 7-segmentowy",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "wyświetlacz matrycowy",
+"CATEGORY_ROBOTS_R4_BUZZER": "brzęczyk pasywny",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "wyświetlacz 7-segmentowy",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-cyfrowy wyświetlacz 7-segmentowy",
 }
 Blockly.ScratchMsgs.locales["pt"] ={
 "CONTROL_FOREVER": "repete para sempre",
@@ -10394,10 +10394,10 @@ Blockly.ScratchMsgs.locales["pt"] ={
 "R4_BLE_SEND": "R4 enviar dados %1",
 "R4_BLE_DATA": "dados recebidos pelo R4",
 "R4_BLE_GET": "R4 receber dados",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "display de matriz de pontos",
-"CATEGORY_ROBOTS_R4_Buzzer": "buzzer passivo",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "tubo digital de 7 segmentos",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "tubo digital de 7 segmentos de 4 dígitos",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "display de matriz de pontos",
+"CATEGORY_ROBOTS_R4_BUZZER": "buzzer passivo",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "tubo digital de 7 segmentos",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "tubo digital de 7 segmentos de 4 dígitos",
 }
 Blockly.ScratchMsgs.locales["ru"] ={
 "CONTROL_FOREVER": "повторять всегда",
@@ -11044,10 +11044,10 @@ Blockly.ScratchMsgs.locales["ru"] ={
 "R4_BLE_SEND": "R4 отправить данные %1",
 "R4_BLE_DATA": "данные полученные R4",
 "R4_BLE_GET": "R4 получить данные",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "матричный экран",
-"CATEGORY_ROBOTS_R4_Buzzer": "пассивный зуммер",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-сегментный цифровой индикатор",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-разрядный 7-сегментный цифровой индикатор",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "матричный экран",
+"CATEGORY_ROBOTS_R4_BUZZER": "пассивный зуммер",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-сегментный цифровой индикатор",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-разрядный 7-сегментный цифровой индикатор",
 }
 Blockly.ScratchMsgs.locales["vi"] ={
 "CONTROL_FOREVER": "liên tục",
@@ -11692,10 +11692,10 @@ Blockly.ScratchMsgs.locales["vi"] ={
 "R4_BLE_SEND": "R4 gửi dữ liệu %1",
 "R4_BLE_DATA": "dữ liệu R4 nhận được",
 "R4_BLE_GET": "R4 nhận dữ liệu",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "màn hình ma trận điểm",
-"CATEGORY_ROBOTS_R4_Buzzer": "còi báo động thụ động",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "màn hình 7 đoạn",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "màn hình 7 đoạn 4 chữ số",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "màn hình ma trận điểm",
+"CATEGORY_ROBOTS_R4_BUZZER": "còi báo động thụ động",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "màn hình 7 đoạn",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "màn hình 7 đoạn 4 chữ số",
 }
 Blockly.ScratchMsgs.locales["tr"] ={
 "CONTROL_FOREVER": "sürekli tekrarla",
@@ -12342,10 +12342,10 @@ Blockly.ScratchMsgs.locales["tr"] ={
 "R4_BLE_SEND": "R4 %1 verisini gönder",
 "R4_BLE_DATA": "R4 tarafından alınan veri",
 "R4_BLE_GET": "R4 veri al",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "nokta matris ekran",
-"CATEGORY_ROBOTS_R4_Buzzer": "pasif buzzer",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7 segment dijital tüp",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4 haneli 7 segment dijital tüp",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "nokta matris ekran",
+"CATEGORY_ROBOTS_R4_BUZZER": "pasif buzzer",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7 segment dijital tüp",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4 haneli 7 segment dijital tüp",
 }
 Blockly.ScratchMsgs.locales["zh-cn"] ={
 "CONTROL_FOREVER": "重复执行",
@@ -12990,10 +12990,10 @@ Blockly.ScratchMsgs.locales["zh-cn"] ={
 "R4_BLE_SEND": "R4发送数据%1",
 "R4_BLE_DATA": "R4接收到的数据",
 "R4_BLE_GET": "R4接收数据",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "点阵屏",
-"CATEGORY_ROBOTS_R4_Buzzer": "无源蜂鸣器",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7段数码管",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4位7段数码管",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "点阵屏",
+"CATEGORY_ROBOTS_R4_BUZZER": "无源蜂鸣器",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7段数码管",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4位7段数码管",
 }
 Blockly.ScratchMsgs.locales["zh-tw"] ={
 "CONTROL_FOREVER": "重複無限次",
@@ -13640,8 +13640,8 @@ Blockly.ScratchMsgs.locales["zh-tw"] ={
 "R4_BLE_SEND": "R4發送數據%1",
 "R4_BLE_DATA": "R4接收到的數據",
 "R4_BLE_GET": "R4接收數據",
-"CATEGORY_ROBOTS_R4_LatticeScreen": "點陣屏",
-"CATEGORY_ROBOTS_R4_Buzzer": "無源蜂鳴器",
-"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7段數碼管",
-"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4位7段數碼管",
+"CATEGORY_ROBOTS_R4_LATTICESCREEN": "點陣屏",
+"CATEGORY_ROBOTS_R4_BUZZER": "無源蜂鳴器",
+"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7段數碼管",
+"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4位7段數碼管",
 }

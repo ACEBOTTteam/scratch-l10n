@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 envoyer les données %1",
 	"R4_BLE_DATA": "données reçues par R4",
 	"R4_BLE_GET": "R4 recevoir les données",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "écran à matrice de points",
-	"CATEGORY_ROBOTS_R4_Buzzer": "buzzer passif",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "tube numérique 7 segments",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "tube numérique 7 segments 4 chiffres"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "écran à matrice de points",
+	"CATEGORY_ROBOTS_R4_BUZZER": "buzzer passif",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "tube numérique 7 segments",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "tube numérique 7 segments 4 chiffres"
 }

@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4發送數據%1",
 	"R4_BLE_DATA": "R4接收到的數據",
 	"R4_BLE_GET": "R4接收數據",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "點陣屏",
-	"CATEGORY_ROBOTS_R4_Buzzer": "無源蜂鳴器",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7段數碼管",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4位7段數碼管"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "點陣屏",
+	"CATEGORY_ROBOTS_R4_BUZZER": "無源蜂鳴器",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7段數碼管",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4位7段數碼管"
 }

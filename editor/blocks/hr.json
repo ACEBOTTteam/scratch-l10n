@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 pošalji podatke %1",
 	"R4_BLE_DATA": "podaci koje je R4 primio",
 	"R4_BLE_GET": "R4 primi podatke",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "matrični zaslon",
-	"CATEGORY_ROBOTS_R4_Buzzer": "pasivni zujalica",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segmentni digitalni zaslon",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-znamenkasti 7-segmentni digitalni zaslon"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "matrični zaslon",
+	"CATEGORY_ROBOTS_R4_BUZZER": "pasivni zujalica",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-segmentni digitalni zaslon",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-znamenkasti 7-segmentni digitalni zaslon"
 }

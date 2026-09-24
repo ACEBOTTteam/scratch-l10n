@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 gegevens %1 verzenden",
 	"R4_BLE_DATA": "door R4 ontvangen gegevens",
 	"R4_BLE_GET": "R4 gegevens ontvangen",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "puntmatrixscherm",
-	"CATEGORY_ROBOTS_R4_Buzzer": "passieve zoemer",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segments display",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-cijferig 7-segments display"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "puntmatrixscherm",
+	"CATEGORY_ROBOTS_R4_BUZZER": "passieve zoemer",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-segments display",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-cijferig 7-segments display"
 }

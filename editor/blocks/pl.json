@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 wyślij dane %1",
 	"R4_BLE_DATA": "dane odebrane przez R4",
 	"R4_BLE_GET": "R4 odbierz dane",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "wyświetlacz matrycowy",
-	"CATEGORY_ROBOTS_R4_Buzzer": "brzęczyk pasywny",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "wyświetlacz 7-segmentowy",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-cyfrowy wyświetlacz 7-segmentowy"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "wyświetlacz matrycowy",
+	"CATEGORY_ROBOTS_R4_BUZZER": "brzęczyk pasywny",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "wyświetlacz 7-segmentowy",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-cyfrowy wyświetlacz 7-segmentowy"
 }

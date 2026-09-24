@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 %1 verisini gönder",
 	"R4_BLE_DATA": "R4 tarafından alınan veri",
 	"R4_BLE_GET": "R4 veri al",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "nokta matris ekran",
-	"CATEGORY_ROBOTS_R4_Buzzer": "pasif buzzer",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7 segment dijital tüp",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4 haneli 7 segment dijital tüp"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "nokta matris ekran",
+	"CATEGORY_ROBOTS_R4_BUZZER": "pasif buzzer",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7 segment dijital tüp",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4 haneli 7 segment dijital tüp"
 }

@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 enviar datos %1",
 	"R4_BLE_DATA": "datos recibidos por R4",
 	"R4_BLE_GET": "R4 recibir datos",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "pantalla de matriz de puntos",
-	"CATEGORY_ROBOTS_R4_Buzzer": "zumbador pasivo",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "tubo digital de 7 segmentos",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "tubo digital de 7 segmentos de 4 dígitos"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "pantalla de matriz de puntos",
+	"CATEGORY_ROBOTS_R4_BUZZER": "zumbador pasivo",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "tubo digital de 7 segmentos",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "tubo digital de 7 segmentos de 4 dígitos"
 }

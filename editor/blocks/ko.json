@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 데이터 %1 전송",
 	"R4_BLE_DATA": "R4가 수신한 데이터",
 	"R4_BLE_GET": "R4 데이터 수신",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "도트 매트릭스 화면",
-	"CATEGORY_ROBOTS_R4_Buzzer": "수동 부저",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7세그먼트 디지털 튜브",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4자리 7세그먼트 디지털 튜브"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "도트 매트릭스 화면",
+	"CATEGORY_ROBOTS_R4_BUZZER": "수동 부저",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7세그먼트 디지털 튜브",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4자리 7세그먼트 디지털 튜브"
 }

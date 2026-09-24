@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 データ%1を送信",
 	"R4_BLE_DATA": "R4 受信データ",
 	"R4_BLE_GET": "R4 データを受信",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "ドットマトリックス画面",
-	"CATEGORY_ROBOTS_R4_Buzzer": "パッシブブザー",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7セグメントデジタルチューブ",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4桁7セグメントデジタルチューブ"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "ドットマトリックス画面",
+	"CATEGORY_ROBOTS_R4_BUZZER": "パッシブブザー",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7セグメントデジタルチューブ",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4桁7セグメントデジタルチューブ"
 }

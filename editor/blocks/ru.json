@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 отправить данные %1",
 	"R4_BLE_DATA": "данные полученные R4",
 	"R4_BLE_GET": "R4 получить данные",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "матричный экран",
-	"CATEGORY_ROBOTS_R4_Buzzer": "пассивный зуммер",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-сегментный цифровой индикатор",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-разрядный 7-сегментный цифровой индикатор"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "матричный экран",
+	"CATEGORY_ROBOTS_R4_BUZZER": "пассивный зуммер",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-сегментный цифровой индикатор",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-разрядный 7-сегментный цифровой индикатор"
 }

@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 ส่งข้อมูล %1",
 	"R4_BLE_DATA": "ข้อมูลที่ R4 ได้รับ",
 	"R4_BLE_GET": "R4 รับข้อมูล",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "หน้าจอดอตแมทริกซ์",
-	"CATEGORY_ROBOTS_R4_Buzzer": "บัซเซอร์แบบพาสซีฟ",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "หลอดดิจิทัล 7 ส่วน",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "หลอดดิจิทัล 7 ส่วน 4 หลัก"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "หน้าจอดอตแมทริกซ์",
+	"CATEGORY_ROBOTS_R4_BUZZER": "บัซเซอร์แบบพาสซีฟ",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "หลอดดิจิทัล 7 ส่วน",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "หลอดดิจิทัล 7 ส่วน 4 หลัก"
 }

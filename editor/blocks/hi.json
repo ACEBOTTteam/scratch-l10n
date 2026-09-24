@@ -641,8 +641,8 @@
 	"R4_BLE_SEND": "R4 डेटा %1 भेजें",
 	"R4_BLE_DATA": "R4 द्वारा प्राप्त डेटा",
 	"R4_BLE_GET": "R4 डेटा प्राप्त करें",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "डॉट मैट्रिक्स स्क्रीन",
-	"CATEGORY_ROBOTS_R4_Buzzer": "निष्क्रिय बज़र",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-सेगमेंट डिजिटल ट्यूब",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4-अंकीय 7-सेगमेंट डिजिटल ट्यूब"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "डॉट मैट्रिक्स स्क्रीन",
+	"CATEGORY_ROBOTS_R4_BUZZER": "निष्क्रिय बज़र",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-सेगमेंट डिजिटल ट्यूब",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4-अंकीय 7-सेगमेंट डिजिटल ट्यूब"
 }

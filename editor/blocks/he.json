@@ -641,8 +641,8 @@
 	"R4_BLE_SEND": "R4 שלח נתונים %1",
 	"R4_BLE_DATA": "נתונים שהתקבלו ב-R4",
 	"R4_BLE_GET": "R4 קבל נתונים",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "מסך מטריצת נקודות",
-	"CATEGORY_ROBOTS_R4_Buzzer": "זמזם פסיבי",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "תצוגת 7 מקטעים דיגיטלית",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "תצוגת 7 מקטעים דיגיטלית 4 ספרות"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "מסך מטריצת נקודות",
+	"CATEGORY_ROBOTS_R4_BUZZER": "זמזם פסיבי",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "תצוגת 7 מקטעים דיגיטלית",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "תצוגת 7 מקטעים דיגיטלית 4 ספרות"
 }

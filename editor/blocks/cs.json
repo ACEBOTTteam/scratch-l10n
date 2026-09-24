@@ -643,8 +643,8 @@
 	"R4_BLE_SEND": "R4 odeslat data %1",
 	"R4_BLE_DATA": "data přijatá R4",
 	"R4_BLE_GET": "R4 přijímat data",
-	"CATEGORY_ROBOTS_R4_LatticeScreen": "matricový displej",
-	"CATEGORY_ROBOTS_R4_Buzzer": "pasivní bzučák",
-	"CATEGORY_ROBOTS_R4_7segmentDigitalTube": "7-segmentový displej",
-	"CATEGORY_ROBOTS_R4_4digit7SegmentDigitalTube": "4místný 7-segmentový displej"
+	"CATEGORY_ROBOTS_R4_LATTICESCREEN": "matricový displej",
+	"CATEGORY_ROBOTS_R4_BUZZER": "pasivní bzučák",
+	"CATEGORY_ROBOTS_R4_7SEGMENTDIGITALTUBE": "7-segmentový displej",
+	"CATEGORY_ROBOTS_R4_4DIGIT7SEGMENTDIGITALTUBE": "4místný 7-segmentový displej"
 }
